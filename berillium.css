@@ -63,6 +63,6 @@
 /* Transition Styles */
 
 .background-ease-in {
-    background-color: var(--pimary);
+    background-color: var(--primary);
     transition: background-color 0.3s ease-in;
 }
