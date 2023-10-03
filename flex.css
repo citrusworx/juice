@@ -1,0 +1,43 @@
+.flex {
+    display: flex;
+}
+
+.gr-1 {
+    flex-grow: 1;
+}
+
+.gr-2 {
+    flex-grow: 2;
+}
+
+.gr-3 {
+    flex-grow: 3;
+}
+
+.row {
+    flex-direction: row;
+}
+
+.row-rev {
+    flex-direction: row-reverse;
+}
+
+.col {
+    flex-direction: column;
+}
+
+.col-rev {
+    flex-direction: column-reverse;
+}
+
+.even {
+    justify-content: space-evenly;
+}
+
+.between {
+    justify-content: space-between;
+}
+
+.around {
+    justify-content: space-around;
+}

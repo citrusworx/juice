@@ -1,9 +1,13 @@
 :root {
+
+    /*       Branding Colors            */
+    /* Create a demo of branding colors from 100 through 900 (like below) */
     --primary: powderblue;
     --secondary: blue;
-    --info: yellow;
+    --tertiary: purple;
+    --warning: yellow;
     --danger: red;
-    --warning: turquoise;
+    --info: turquoise;
 
     /* Gereral Styling */
 
@@ -19,27 +23,64 @@
     --red-900: hsl(0, 100%, 55%);
 
     /* Blues */
-    --blue-100: hsl(210, 50%, 95%);
-    --blue-200: hsl(210, 50%, 90%);
-    --blue-300: hsl(210, 50%, 85%);
-    --blue-400: hsl(210, 50%, 80%);
-    --blue-500: hsl(210, 50%, 75%);
-    --blue-600: hsl(210, 50%, 70%);
-    --blue-700: hsl(210, 50%, 65%);
-    --blue-800: hsl(210, 50%, 60%);
-    --blue-900: hsl(210, 50%, 55%);
+    --blue-100: hsl(210, 80%, 95%);
+    --blue-200: hsl(210, 80%, 90%);
+    --blue-300: hsl(210, 80%, 85%);
+    --blue-400: hsl(210, 80%, 80%);
+    --blue-500: hsl(210, 80%, 75%);
+    --blue-600: hsl(210, 80%, 70%);
+    --blue-700: hsl(210, 80%, 65%);
+    --blue-800: hsl(210, 80%, 60%);
+    --blue-900: hsl(210, 80%, 55%);
 
 
     /* Greens */
-    --blue-100: hsl(140, 50%, 95%);
-    --blue-200: hsl(140, 50%, 90%);
-    --blue-300: hsl(140, 50%, 85%);
-    --blue-400: hsl(140, 50%, 80%);
-    --blue-500: hsl(140, 50%, 75%);
-    --blue-600: hsl(140, 50%, 70%);
-    --blue-700: hsl(140, 50%, 65%);
-    --blue-800: hsl(140, 50%, 60%);
-    --blue-900: hsl(140, 50%, 55%);
+    --green-100: hsl(140, 50%, 95%);
+    --green-200: hsl(140, 50%, 90%);
+    --green-300: hsl(140, 50%, 85%);
+    --green-400: hsl(140, 50%, 80%);
+    --green-500: hsl(140, 50%, 75%);
+    --green-600: hsl(140, 50%, 70%);
+    --green-700: hsl(140, 50%, 65%);
+    --green-800: hsl(140, 50%, 60%);
+    --green-900: hsl(140, 50%, 55%);
+
+
+    /* Yellows */
+    --yellow-100: hsl(60, 100%, 95%);
+    --yellow-200: hsl(60, 100%, 90%);
+    --yellow-300: hsl(60, 100%, 85%);
+    --yellow-400: hsl(60, 100%, 80%);
+    --yellow-500: hsl(60, 100%, 75%);
+    --yellow-600: hsl(60, 100%, 70%);
+    --yellow-700: hsl(60, 100%, 65%);
+    --yellow-800: hsl(60, 100%, 60%);
+    --yellow-900: hsl(60, 100%, 55%);
+
+    /*   Purples   */
+
+    --purple-100: hsl(255, 100%, 95%);
+    --purple-200: hsl(255, 100%, 90%);
+    --purple-300: hsl(255, 100%, 85%);
+    --purple-400: hsl(255, 100%, 80%);
+    --purple-500: hsl(255, 100%, 75%);
+    --purple-600: hsl(255, 100%, 70%);
+    --purple-700: hsl(255, 100%, 65%);
+    --purple-800: hsl(255, 100%, 60%);
+    --purple-900: hsl(255, 100%, 55%);
+
+    /*    Pinks   */
+
+    --pink-100: hsl(300, 100%, 95%);
+    --pink-200: hsl(300, 100%, 90%);
+    --pink-300: hsl(300, 100%, 85%);
+    --pink-400: hsl(300, 100%, 80%);
+    --pink-500: hsl(300, 100%, 75%);
+    --pink-600: hsl(300, 100%, 70%);
+    --pink-700: hsl(300, 100%, 65%);
+    --pink-800: hsl(300, 100%, 60%);
+    --pink-900: hsl(300, 100%, 55%);
+
 
     /* Grays */
     --gray-100: hsl(0, 0%, 95%);
