@@ -43,6 +43,10 @@
     width: 50%;
 }
 
+.w-25 {
+    width: 25%;
+}
+
 
 
 
@@ -54,4 +58,11 @@
 
 #alert:hover {
     background-color: var(--red-500);
+}
+
+/* Transition Styles */
+
+.background-ease-in {
+    background-color: var(--pimary);
+    transition: background-color 0.3s ease-in;
 }
