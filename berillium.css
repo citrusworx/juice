@@ -1,8 +1,19 @@
 @import url('config.css');
-@import url('animate.css');
-@import url('flex.css');
+
+
 
 /* Background Stylings */
+.bg-primary {
+    background-color: var(--primary);
+}
+
+.bg-primary-light {
+    background-color: var(--primary-light);
+}
+
+.bg-secondary {
+    background-color: var(--secondary);
+}
 
 /* Reds */
 
@@ -328,10 +339,15 @@
 
 .text-primary {
     color: var(--primary);
+    font-family: var(--primary-font);
 }
 
 .text-secondary {
     color: var(--secondary);
+}
+
+.text-light {
+    font-family: var(--light-font);
 }
 
 .text-white {
@@ -390,35 +406,35 @@
 /*                    */
 
 .h-5 {
-    height: 5%;
+    height: 5vh;
 }
 
 .h-10 {
-    height: 10%;
+    height: 10vh;
 }
 
 .h-15 {
-    height: 15%;
+    height: 15vh;
 }
 
 .h-20 {
-    height: 20%;
+    height: 20vh;
 }
 
 .h-25 {
-    height: 25%;
+    height: 25vh;
 }
 
 .h-half {
-    height: 50%;
+    height: 50vh;
 }
 
 .h-75 {
-    height: 75%;
+    height: 75vh;
 }
 
 .h-full {
-    height: 100%;
+    height: 100vh;
 }
 
 .w-5 {
@@ -478,6 +494,22 @@
 
 .m-1 {
     margin: 0.2rem;
+}
+
+.ml-1 {
+    margin-left: 0.2rem;
+}
+
+.mr-1 {
+    margin-right: 0.2rem;
+}
+
+.mt-1 {
+    margin-top: 0.2rem;
+}
+
+.mb-1 {
+    margin-bottom: 0.2rem;
 }
 
 .m-2 {

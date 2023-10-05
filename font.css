@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Korolev Rounded Medium', sans-serif;
+    src: url("https://use.typekit.net/rkc1dxu.css") format('ttf');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Korolev Rounded Thin', sans-serif;
+    src: url("https://use.typekit.net/rkc1dxu.css") format('ttf');
+    font-weight: 100;
+    font-style: normal;
+}

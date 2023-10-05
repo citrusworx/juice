@@ -1,11 +1,22 @@
+@import url('font.css'); /* Gets pulled into main file through config import*/
+@import url('animate.css');
+@import url('flex.css');
+
 :root {
 
+    /* Fonts */
+    --primary-font: 'Korolev Rounded Medium', sans-serif;
+    --light-font: 'Korolev Rounded Thin', sans-serif;
+
     /*       Branding Colors            */
-    /* Create a demo of branding colors from 100 through 900 (like below) */
-    --primary: powderblue;
-    --secondary: blue;
-    --tertiary: purple;
-    --warning: yellow;
+    
+    --primary: #00D28A;
+    --primary-light: #05EB9C;;
+    --secondary: #39507E;
+    --secondary-light: #556991;
+    --tertiary: #707070;
+    --tertiary-light: #9A9A9A;
+    --warning: hsl(60, 100%, 85%);
     --danger: red;
     --info: turquoise;
 
@@ -57,6 +68,7 @@
     --yellow-800: hsl(60, 100%, 60%);
     --yellow-900: hsl(60, 100%, 55%);
 
+
     /*   Purples   */
 
     --purple-100: hsl(255, 100%, 95%);
@@ -104,4 +116,10 @@
     --black-800: hsl(0, 0%, 15%);
     --black-900: hsl(0, 0%, 10%);
 
+
 }
+body{
+    padding: 0;
+    margin: 0;
+}
+
