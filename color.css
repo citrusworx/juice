@@ -1,0 +1,116 @@
+:root {
+
+    /* Fonts */
+    --primary-font: 'Korolev Rounded Medium', sans-serif;
+    --light-font: 'Korolev Rounded Thin', sans-serif;
+
+    /*       Branding Colors            */
+    
+    --primary: #00D28A;
+    --primary-light: #05EB9C;;
+    --secondary: #39507E;
+    --secondary-light: #556991;
+    --tertiary: #707070;
+    --tertiary-light: #9A9A9A;
+    --warning: hsl(60, 100%, 85%);
+    --danger: red;
+    --info: turquoise;
+
+    /* Gereral Styling */
+
+    /* Reds */
+    --red-100: hsl(0, 100%, 95%);
+    --red-200: hsl(0, 100%, 90%);
+    --red-300: hsl(0, 100%, 85%);
+    --red-400: hsl(0, 100%, 80%);
+    --red-500: hsl(0, 100%, 75%);
+    --red-600: hsl(0, 100%, 70%);
+    --red-700: hsl(0, 100%, 65%);
+    --red-800: hsl(0, 100%, 60%);
+    --red-900: hsl(0, 100%, 55%);
+
+    /* Blues */
+    --blue-100: hsl(210, 80%, 95%);
+    --blue-200: hsl(210, 80%, 90%);
+    --blue-300: hsl(210, 80%, 85%);
+    --blue-400: hsl(210, 80%, 80%);
+    --blue-500: hsl(210, 80%, 75%);
+    --blue-600: hsl(210, 80%, 70%);
+    --blue-700: hsl(210, 80%, 65%);
+    --blue-800: hsl(210, 80%, 60%);
+    --blue-900: hsl(210, 80%, 55%);
+
+
+    /* Greens */
+    --green-100: hsl(140, 50%, 95%);
+    --green-200: hsl(140, 50%, 90%);
+    --green-300: hsl(140, 50%, 85%);
+    --green-400: hsl(140, 50%, 80%);
+    --green-500: hsl(140, 50%, 75%);
+    --green-600: hsl(140, 50%, 70%);
+    --green-700: hsl(140, 50%, 65%);
+    --green-800: hsl(140, 50%, 60%);
+    --green-900: hsl(140, 50%, 55%);
+
+
+    /* Yellows */
+    --yellow-100: hsl(60, 100%, 95%);
+    --yellow-200: hsl(60, 100%, 90%);
+    --yellow-300: hsl(60, 100%, 85%);
+    --yellow-400: hsl(60, 100%, 80%);
+    --yellow-500: hsl(60, 100%, 75%);
+    --yellow-600: hsl(60, 100%, 70%);
+    --yellow-700: hsl(60, 100%, 65%);
+    --yellow-800: hsl(60, 100%, 60%);
+    --yellow-900: hsl(60, 100%, 55%);
+
+
+    /*   Purples   */
+
+    --purple-100: hsl(255, 100%, 95%);
+    --purple-200: hsl(255, 100%, 90%);
+    --purple-300: hsl(255, 100%, 85%);
+    --purple-400: hsl(255, 100%, 80%);
+    --purple-500: hsl(255, 100%, 75%);
+    --purple-600: hsl(255, 100%, 70%);
+    --purple-700: hsl(255, 100%, 65%);
+    --purple-800: hsl(255, 100%, 60%);
+    --purple-900: hsl(255, 100%, 55%);
+
+    /*    Pinks   */
+
+    --pink-100: hsl(300, 100%, 95%);
+    --pink-200: hsl(300, 100%, 90%);
+    --pink-300: hsl(300, 100%, 85%);
+    --pink-400: hsl(300, 100%, 80%);
+    --pink-500: hsl(300, 100%, 75%);
+    --pink-600: hsl(300, 100%, 70%);
+    --pink-700: hsl(300, 100%, 65%);
+    --pink-800: hsl(300, 100%, 60%);
+    --pink-900: hsl(300, 100%, 55%);
+
+
+    /* Grays */
+    --gray-100: hsl(0, 0%, 95%);
+    --gray-200: hsl(0, 0%, 90%);
+    --gray-300: hsl(0, 0%, 85%);
+    --gray-400: hsl(0, 0%, 80%);
+    --gray-500: hsl(0, 0%, 75%);
+    --gray-600: hsl(0, 0%, 70%);
+    --gray-700: hsl(0, 0%, 65%);
+    --gray-800: hsl(0, 0%, 60%);
+    --gray-900: hsl(0, 0%, 55%);
+
+    /* Blacks */
+    --black-100: hsl(0, 0%, 50%);
+    --black-200: hsl(0, 0%, 45%);
+    --black-300: hsl(0, 0%, 40%);
+    --black-400: hsl(0, 0%, 35%);
+    --black-500: hsl(0, 0%, 30%);
+    --black-600: hsl(0, 0%, 25%);
+    --black-700: hsl(0, 0%, 20%);
+    --black-800: hsl(0, 0%, 15%);
+    --black-900: hsl(0, 0%, 10%);
+
+
+}
