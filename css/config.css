@@ -1,11 +1,31 @@
-@import url('font.css'); /* Gets pulled into main file through config import*/
-@import url('animate.css');
-@import url('flex.css');
-@import url('color.css');
+@import url('font.css'); /* Font Config File */
+@import url('color.css'); /* :root config file  */
+@import url('gradient.css'); /* :root config file  */
+@import url('swatch.css'); /* Root config file */
+@import url('animate.css'); /*  Class Stile File */
+@import url('flex.css');  /* Class Stile File  */
+@import url('grid.css'); /* Class Stile File */
+@import url('background.css');  /*  Class Stile File  */
+@import url('button.css'); /* Class Stile File */
+@import url('card.css');
+@import url('desktop.css'); /* Responsive Library 1 of 3 */
+
+/* Set base stylings here */
 
 body{
-    padding: 0;
     margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--primary-font);
+}
+
+p, a, li, label, span, code, blockquote, button {
+    font-family: var(--light-font);
+}
+
+
+
 

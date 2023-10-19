@@ -1,0 +1,47 @@
+.bn-flat {
+    padding: 0.4rem;
+    border: none;
+}
+
+.bn-flat:hover {
+    background: var(--skylight);
+}
+
+/* Brand Specific Styling */
+[class *= "btn:light"] {
+    background: var(--blue-500);
+    border: hsl(0, 0%, 40%) 1px solid;
+}
+
+[class *= "btn:light"]:hover {
+    background: var(--blue-200);
+    border: hsl(0, 0%, 60%) 1px solid;
+}
+
+[class *= "btn:dark"] {
+    background-color: var(--black-800);
+}
+
+[class *= "btn:dark"]:hover {
+    background-color: var(--black-500);
+}
+
+[class *= "btn:primary"] {
+    background-color: var(--primary);
+    border: var(--primary-light) 1px solid;
+}
+
+[class *= "btn:primary"]:hover {
+    background-color: var(--primary-light);
+    border: var(--primary) 1px solid;
+}
+
+[class *= "btn:meloncolly"] {
+    background-color: var(--meloncolly-citrus);
+    border: var(--meloncolly-berry) 1px solid;
+}
+
+[class *= "btn:meloncolly"]:hover {
+    background-color: var(--meloncolly-splash);
+    border: var(--meloncolly-berry) 1px solid;
+}

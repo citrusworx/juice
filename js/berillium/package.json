@@ -1,0 +1,25 @@
+{
+    "name": "berilliumcss",
+    "version": "1.0.0",
+    "description": "A versatile CSS library for building stylish user interfaces.",
+    "main": "index.css",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "build": "node build.js",
+      "start": ""
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/beryllabs/berilliumcss.git"
+    },
+    "keywords": ["css", "ui-library", "web-design", "frontend"],
+    "author": "Beryl Labs",
+    "license": "MIT",
+    "dependencies": {
+      "some-css-dependency": "^1.0.0",
+
+    },
+    "devDependencies": {
+
+    }
+  }

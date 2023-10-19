@@ -1,0 +1,13 @@
+[class *= "signup:name"]{
+    height: 5vh;
+    width: 25vw;
+    border: none;
+}
+
+[class *= "signup:name"]:valid{
+    border: green 1px solid;
+}
+
+[class *= "signup:name"]:invalid{
+    border: red 1px solid;
+}

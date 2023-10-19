@@ -1,0 +1,79 @@
+:root{
+
+/* GRADIENTS */
+
+    /* Styles */
+
+    --warm-to-cold: linear-gradient(90deg, hsl(0, 100%, 50%), hsl(240, 100%, 50%));
+    --sunset: linear-gradient(90deg, hsl(30, 100%, 50%), hsl(330, 100%, 50%));
+    --ocean: linear-gradient(90deg, hsl(200, 60%, 50%), hsl(200, 100%, 50%));
+    --fire: linear-gradient(90deg, hsl(20, 100%, 50%), hsl(40, 100%, 50%));
+    --forest: linear-gradient(90deg, hsl(120, 30%, 20%), hsl(120, 60%, 30%));
+    --golden-hour: linear-gradient(90deg, hsl(30, 60%, 70%), hsl(40, 80%, 50%));
+    --pastel-rainbow: linear-gradient(90deg,
+                hsl(0, 100%, 50%), 
+                hsl(60, 100%, 50%), 
+                hsl(120, 100%, 50%), 
+                hsl(180, 100%, 50%), 
+                hsl(240, 100%, 50%), 
+                hsl(300, 100%, 50%), 
+                hsl(360, 100%, 50%));
+    --muted-rainbow: linear-gradient(
+        90deg, 
+        hsla(0, 100%, 50%, 0.7), 
+        hsla(45, 100%, 50%, 0.7), 
+        hsla(90, 100%, 50%, 0.7), 
+        hsla(135, 100%, 50%, 0.7), 
+        hsla(180, 100%, 50%, 0.7), 
+        hsla(225, 100%, 50%, 0.7), 
+        hsla(270, 100%, 50%, 0.7)
+      );
+      --contrast-rainbow: linear-gradient(
+        90deg, 
+        hsl(0, 100%, 50%),       /* Red */
+        hsl(40, 100%, 50%),      /* Orange */
+        hsl(80, 100%, 50%),      /* Yellow */
+        hsl(120, 100%, 50%),     /* Green */
+        hsl(160, 100%, 50%),     /* Cyan */
+        hsl(200, 100%, 50%),     /* Blue */
+        hsl(240, 100%, 50%),     /* Purple */
+        hsl(280, 100%, 50%)      /* Magenta */
+      );
+
+
+    /* Color Gradient Sets */
+    --blue-green-100: linear-gradient(90deg, hsl(160, 100%, 97%), hsl(160, 100%, 65%));
+    --blue-green-200: linear-gradient(90deg, hsl(160, 100%, 90%), hsl(160, 100%, 50%));
+    --blue-green-300: linear-gradient(90deg, hsl(160, 100%, 80%), hsl(160, 100%, 45%));
+    --blue-green-400: linear-gradient(90deg, hsl(160, 100%, 70%), hsl(160, 100%, 40%));
+    --blue-green-500: linear-gradient(90deg, hsl(160, 100%, 60%), hsl(160, 100%, 35%));
+    --blue-green-600: linear-gradient(90deg, hsl(160, 100%, 50%), hsl(160, 100%, 30%));
+    --blue-green-700: linear-gradient(90deg, hsl(160, 100%, 40%), hsl(160, 100%, 25%));
+    --blue-green-800: linear-gradient(90deg, hsl(160, 100%, 30%), hsl(160, 100%, 20%));
+    --blue-green-900: linear-gradient(90deg, hsl(160, 100%, 20%), hsl(160, 100%, 15%));
+
+    --green-blue-100: linear-gradient(90deg,hsl(160, 100%, 65%), hsl(160, 100%, 97%));
+    --green-blue-200: linear-gradient(90deg, hsl(160, 100%, 50%), hsl(160, 100%, 90%));
+    --green-blue-300: linear-gradient(90deg, hsl(160, 100%, 45%), hsl(160, 100%, 80%));
+    --green-blue-400: linear-gradient(90deg, hsl(160, 100%, 40%), hsl(160, 100%, 70%));
+    --green-blue-500: linear-gradient(90deg, hsl(160, 100%, 35%), hsl(160, 100, 60%));
+    --green-blue-600: linear-gradient(90deg, hsl(160, 100%, 30%), hsl(160, 100, 50%));
+    --green-blue-700: linear-gradient(90deg, hsl(160, 100%, 25%), hsl(160, 100%, 40%));
+    --green-blue-800: linear-gradient(90deg, hsl(160, 100%, 20%), hsl(160, 100%, 30%));
+    --green-blue-900: linear-gradient(90deg, hsl(160, 100%, 15%), hsl(160, 100%, 20%));
+
+    --purple-pink-100: linear-gradient(90deg, hsl(280, 100%, 50%), hsl(340, 100%, 50%));
+    --purple-pink-200: linear-gradient(90deg, hsl(280, 80%, 50%), hsl(340, 80%, 50%));
+    --purple-pink-300: linear-gradient(90deg, hsl(280, 60%, 50%), hsl(340, 60%, 50%));
+    --purple-pink-400: linear-gradient(90deg, hsl(280, 40%, 50%), hsl(340, 40%, 50%));
+    --purple-pink-500: linear-gradient(90deg, hsl(280, 20%, 50%), hsl(340, 20%, 50%));
+    --purple-pink-600: linear-gradient(90deg, hsl(280, 10%, 50%), hsl(340, 10%, 50%));
+    --purple-pink-700: linear-gradient(90deg, hsl(280, 5%, 50%), hsl(340, 5%, 50%));
+    --purple-pink-800: linear-gradient(90deg, hsl(280, 2%, 50%), hsl(340, 2%, 50%));
+    --purple-pink-900: linear-gradient(90deg, hsl(280, 1%, 50%), hsl(340, 1%, 50%));
+
+    --skylight:  linear-gradient(90deg, hsl(210, 100%, 90%), hsl(210, 100%, 60%));
+    --seaside: linear-gradient(90deg, hsl(180, 100%, 50%), hsl(240, 100%, 20%));
+    --oceanspray: linear-gradient(90deg, hsl(200, 100%, 80%), hsl(240, 100%, 40%));
+
+}
