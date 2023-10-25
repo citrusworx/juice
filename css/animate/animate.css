@@ -13,12 +13,12 @@
     animation: blink 2.5s linear infinite;
 }
 
-[class *= "blink:fast"]{
+[class *= "blink:slow"]{
     opacity: 0;
     animation: blink 3.5s linear infinite;
 }
 
-[class *= "blink:slow"]{
+[class *= "blink:fast"]{
     opacity: 0;
     animation: blink 1.5s linear infinite;
 }
