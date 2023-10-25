@@ -28,4 +28,3 @@ Enhance your UX with our rich set of animations, and never find yourself lost in
 
 Ready for a game-changing development experience? Step into the Berillium universe and elevate your projects to new heights!
 
-Feel free to adjust this to better fit your project's unique features. Given your range of skills and interests, this README could also benefit from code snippets or quick-start guides to make it even more engaging and informative.
