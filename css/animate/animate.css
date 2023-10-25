@@ -10,12 +10,17 @@
 
 .blink {
     opacity: 0;
-    animation: blink 2s infinite;
+    animation: blink 2.5s linear infinite;
+}
+
+[class *= "blink:fast"]{
+    opacity: 0;
+    animation: blink 3.5s linear infinite;
 }
 
 [class *= "blink:slow"]{
     opacity: 0;
-    animation: blink 1s infinite;
+    animation: blink 1.5s linear infinite;
 }
 
 .bounce {
@@ -71,6 +76,8 @@
 
 @keyframes blink {
     0%   {opacity: 0;}
+    25% {opacity: 1;}
+    50% {opacity: 0;}
     100% {opacity: 1;}
 }
 

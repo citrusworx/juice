@@ -8,7 +8,9 @@
 @import url('background.css');  /*  Class Stile File  */
 @import url('button.css'); /* Class Stile File */
 @import url('card.css');
-@import url('desktop.css'); /* Responsive Library 1 of 3 */
+@import url('desktop/desktop.css'); /* Responsive Library 1 of 3 */
+@import url('mobile/mobile.css'); /* Responsive Library 2 of 3 */
+@import url('tablet/tablet.css'); /* Responsive Library 3 of 3 */
 
 /* Set base stylings here */
 
