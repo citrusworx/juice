@@ -1,15 +1,15 @@
 # Meloncolly
 ## Berry
-![Berry](meloncollyberry.png)
+![Berry](compound/meloncollyberry.png)
 
 ## Bubblegum
-![Bubblegum](meloncollybubblegum.png)
+![Bubblegum](compound/meloncollybubblegum.png)
 
 ## Citrus
-![Citrus](meloncollycitrus.png)
+![Citrus](compound/meloncollycitrus.png)
 
 ## Merlot
-![Merlot](meloncollymerlot.png)
+![Merlot](compound/meloncollymerlot.png)
 
 ## Splash
-![Splash](meloncollysplash.png)
+![Splash](compound/meloncollysplash.png)
