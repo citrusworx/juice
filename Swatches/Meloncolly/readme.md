@@ -1,4 +1,7 @@
 # Meloncolly
 
 ## Bubblegum
-![Bubblegum](bubblegum.png)
+![Bubblegum](meloncollybubblegum.png)
+
+## Citrus
+![Citrus](meloncollycitrus.png)
