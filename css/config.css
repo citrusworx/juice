@@ -2,7 +2,7 @@
 @import url('color.css'); /* :root config file  */
 @import url('gradient.css'); /* :root config file  */
 @import url('swatch.css'); /* Root config file */
-@import url('animate.css'); /*  Class Stile File */
+@import url('animate/animate.css'); /*  Class Stile File */
 @import url('flex.css');  /* Class Stile File  */
 @import url('grid.css'); /* Class Stile File */
 @import url('background.css');  /*  Class Stile File  */
