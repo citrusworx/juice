@@ -1,0 +1,55 @@
+:root {
+    /* Nautical Compound */
+    --nautical-ocean: hsl(217, 78%, 49%);
+    --nautical-sunrise: hsl(52, 78%, 49%);
+    --nautical-coast: hsl(185, 78%, 49%);
+    --nautical-shipwreck: hsl(40, 48%, 49%);
+    --nautical-midnight: hsl(217, 45%, 38%); 
+}
+
+/* 
+
+Text Classes 
+
+*/
+
+[class *= "nautical:primary"] {
+    color: var(--nautical-primary);
+}
+
+[class *= "nautical:secondary"] {
+    color: var(--nautical-secondary);
+}
+
+[class *= "nautical:tertiary"] {
+    color: var(--nautical-tertiary);
+}
+
+[class *= "nautical:util"] {
+    color: var(--nautical-util);
+}
+
+[class *= "nautical:dark"] {
+    color: var(--nautical-dark);
+}
+
+/* BG Classes */
+[class *= "bg-nautical:primary"] {
+    background-color: var(--nautical-primary);
+}
+
+[class *= "bg-nautical:secondary"] {
+    background-color: var(--nautical-secondary);
+}
+
+[class *= "bg-nautical:tertiary"] {
+    background-color: var(--nautical-tertiary);
+}
+
+[class *= "bg-nautical:util"] {
+    background-color: var(--nautical-util);
+}
+
+[class *= "bg-nautical:dark"] {
+    background-color: var(--nautical-dark);
+}

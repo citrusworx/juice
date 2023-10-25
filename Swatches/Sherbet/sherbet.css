@@ -1,0 +1,55 @@
+ :root {   /* Sherbet Swatch */
+
+    /* Compound */
+    --sherbet-lemon: hsl(55, 100%, 50%);
+    --sherbet-peach: hsl(43, 100%, 50%);
+    --sherbet-passion: hsl(289, 100%, 50%);
+    --sherbet-bluerazz: hsl(256, 100%, 50%);
+    --sherbet-pistachio: hsl(55, 67%, 34%);
+}
+    
+[class *= "sherbet:primary"] {
+    color: var(--sherbet-primary);
+}
+
+[class *= "sherbet:secondary"] {
+    color: var(--sherbet-secondary);
+}
+
+[class *= "sherbet:tertiary"] {
+    color: var(--sherbet-tertiary);
+}
+
+[class *= "sherbet:util"] {
+    color: var(--sherbet-util);
+}
+
+[class *= "sherbet:dark"] {
+    color: var(--sherbet-dark);
+}
+
+/* 
+
+Background Classes 
+
+*/
+
+[class *= "bg-sherbet:primary"] {
+    background-color: var(--sherbet-primary);
+}
+
+[class *= "bg-sherbet:secondary"] {
+    background-color: var(--sherbet-secondary);
+}
+
+[class *= "bg-sherbet:tertiary"] {
+    background-color: var(--sherbet-tertiary);
+}
+
+[class *= "bg-sherbet:util"] {
+    background-color: var(--sherbet-util);
+}
+
+[class *= "bg-sherbet:dark"] {
+    background-color: var(--sherbet-dark);
+}
