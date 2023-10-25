@@ -1,0 +1,7 @@
+:root {
+        /* Complimentary */
+        --meloncolly-plum: hsl(310, 75%, 38%);
+        --meloncolly-lime: hsl(106, 100%, 50%);
+        --meloncolly-cascade: hsl(106, 67%, 34%);
+        --meloncolly-compliment: hsl(310, 50%, 25%);
+}

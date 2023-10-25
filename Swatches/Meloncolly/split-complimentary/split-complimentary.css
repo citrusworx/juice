@@ -1,0 +1,7 @@
+:root {
+        /* Split Complimentary */
+        --meloncolly-honeydew: hsl(82, 100%, 50%);
+        --meloncolly-watermelon: hsl(129, 100%, 50%);
+        --meloncolly-grape: hsl(310, 50%, 25%);
+        --meloncolly-rind: hsl(129, 50%, 25%);
+}

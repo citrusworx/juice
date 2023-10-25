@@ -1,0 +1,54 @@
+:root {
+    /* Compound */
+    --meloncolly-bubblegum: hsl(310, 100%, 50%);
+    --meloncolly-berry: hsl(273, 100%, 50%);
+    --meloncolly-splash: hsl(143, 100%, 50%);
+    --meloncolly-citrus: hsl(106, 100%, 50%);
+    --meloncolly-merlot: hsl(310, 67%, 34%);
+}
+
+/* Text Classes */
+[class *= "meloncolly:bubblegum"] {
+    color: var(--meloncolly-bubblegum);
+}
+
+[class *= "meloncolly:berry"] {
+    color: var(--meloncolly-berry);
+}
+
+[class *= "meloncolly:splash"] {
+    color: var(--meloncolly-splash);
+}
+
+[class *= "meloncolly:citrus"] {
+    color: var(--meloncolly-citrus);
+}
+
+[class *= "meloncolly:merlot"] {
+    color: var(--meloncolly-merlot);
+}
+
+
+
+
+/* BG Classes */
+
+[class *= "bg-meloncolly:bubblegum"] {
+    background-color: var(--meloncolly-bubblegum);
+}
+
+[class *= "bg-meloncolly:berry"] {
+    background-color: var(--meloncolly-berry);
+}
+
+[class *= "bg-meloncolly:splash"] {
+    background-color: var(--meloncolly-splash);
+}
+
+[class *= "bg-meloncolly:citrus"] {
+    background-color: var(--meloncolly-citrus);
+}
+
+[class *= "bg-meloncolly:merlot"] {
+    background-color: var(--meloncolly-merlot);
+}

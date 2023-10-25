@@ -1,0 +1,7 @@
+:root {
+        /* Triad */
+        --meloncolly-banana: hsl(49, 100%, 50%);
+        --meloncolly-fresca: hsl(177, 100%, 50%);
+        --meloncolly-sangria: hsl(310, 67%, 34%);
+        --meloncolly-smoothie: hsl(177, 50%, 25%);
+}

@@ -1,0 +1,7 @@
+:root {
+        /* Square */
+        --meloncolly-citron: hsl(106, 100%, 50%);
+        --meloncolly-blueberry: hsl(208, 100%, 50%);
+        --meloncolly-tangerine: hsl(37, 100%, 50%);
+        --meloncolly-punch: hsl(310, 100%, 34%);
+}

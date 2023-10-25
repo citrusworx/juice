@@ -1,0 +1,7 @@
+:root {
+        /* Monochromatic */
+        --meloncolly-mono-secondary: hsl(310, 80%, 40%);
+        --meloncolly-mono-tertiary: hsl(310, 60%, 30%);
+        --meloncolly-mono-util: hsl(310, 40%, 20%);
+        --meloncolly-mono-dark: hsl(310, 20%, 15%);
+}
