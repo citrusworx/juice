@@ -1,6 +1,4 @@
 
-Absolutely, including a specialized JavaScript library like BerilliumJS certainly adds value to your framework. Here's an updated version of your README snippet to reflect that.
-
 # 🎨 BerilliumCSS & BerilliumJS: A Dynamic Duo for Web and Mobile Development
 ## Why Choose Berillium?
 Why settle for the ordinary when you can have exceptional? BerilliumCSS is the CSS framework that breaks the mold, combining the utility of frameworks like Bootstrap and Tailwind with creative and intuitive naming conventions. And if you're in the React Native ecosystem, meet BerilliumJS—a library that takes our iconic stylesheets and serves them as easily importable components. Here's why you should start using Berillium today!
@@ -28,4 +26,3 @@ Enhance your UX with our rich set of animations, and never find yourself lost in
 
 Ready for a game-changing development experience? Step into the Berillium universe and elevate your projects to new heights!
 
-Feel free to adjust this to better fit your project's unique features. Given your range of skills and interests, this README could also benefit from code snippets or quick-start guides to make it even more engaging and informative.
