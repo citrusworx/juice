@@ -1,0 +1,17 @@
+/* State Styles */
+
+.alert {
+    background-color: var(--danger);
+}
+
+.alert:hover {
+    background-color: var(--red-500);
+}
+
+.info {
+    background-color: var(--info);
+}
+
+.danger {
+    background-color: var(--danger);
+}
