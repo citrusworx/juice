@@ -1,0 +1,24 @@
+.relative {
+    position: relative;
+}
+
+.rel {
+    position: relative;
+}
+
+.sticky {
+    position: sticky;
+}
+
+.static {
+    position: static;
+}
+
+.absolute {
+    position: absolute;
+}
+
+.abs {
+    position: absolute;
+}
+

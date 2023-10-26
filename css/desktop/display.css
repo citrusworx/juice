@@ -1,0 +1,43 @@
+.inline {
+    display: inline;
+}
+
+[class *= "inline:block"]{
+    display: inline-block;
+}
+
+[class *= "il:block"]{
+    display: inline-block;
+}
+
+[class *= "inline:flex"]{
+    display: inline-flex;
+}
+
+[class *= "il:flex"]{
+    display: inline-flex;
+}
+
+[class *= "il:flex:box"]{
+    display: inline-flexbox;
+}
+
+.block {
+    display: block;
+}
+
+.bl {
+    display: block;
+}
+
+.table {
+    display: table;   
+}
+
+.tb {
+    display: table;
+}
+
+[class *= "dis:none"]{
+    display: none;
+}
