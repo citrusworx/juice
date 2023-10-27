@@ -1,38 +1,18 @@
-@import url('display.css');
-@import url('position.css');
-@import url('height.css');
-@import url('width.css');
-
+/* Up to 1080p */
 @media screen and (min-width: 768px){
     
-/* Container Styles */
-.rounded-sm {
-    border-radius: 5px;
+/* col */
+
+[class *= "col:md:border"]{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
 }
 
-.rounded-md {
-    border-radius: 10px;
+
 }
 
-.rounded-lg {
-    border-radius: 15px;
-}
-
-.ds-sm {
-    box-shadow: hsla(0,0%, 0%, 0.3) 1px 2px;
-}
-
-.ds-md {
-    box-shadow: hsla(0,0%, 0%, 0.3) 4px 4px;
-}
-
-.ds-lg {
-    box-shadow: hsla(0,0%, 0%, 0.3) 8px 8px;
-}
-
-.list-none {
-    list-style: none;
-    text-decoration: none;
-}
-
+/* 1440p */
+@media screen and (min-width: 1081px) and (max-width: 1440px){
+  
 }

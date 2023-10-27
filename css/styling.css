@@ -1,0 +1,28 @@
+/* Container Styles */
+.rounded-sm {
+    border-radius: 5px;
+}
+
+.rounded-md {
+    border-radius: 10px;
+}
+
+.rounded-lg {
+    border-radius: 15px;
+}
+
+[class *= "shadow:small"] {
+    box-shadow: hsla(0,0%, 0%, 0.3) 1px 2px;
+}
+
+[class *= "ds:sm"] {
+    box-shadow: hsla(0,0%, 0%, 0.3) 1px 2px;
+}
+
+.ds-md {
+    box-shadow: hsla(0,0%, 0%, 0.3) 4px 4px;
+}
+
+.ds-lg {
+    box-shadow: hsla(0,0%, 0%, 0.3) 8px 8px;
+}

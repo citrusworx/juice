@@ -1,4 +1,9 @@
 /* Base Text Styles */
+.list-none {
+    list-style: none;
+    text-decoration: none;
+}
+
 .text-center {
     text-align: center;
 }
