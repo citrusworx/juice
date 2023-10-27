@@ -1,7 +1,8 @@
-@import url('font.css'); /* Font Config File */
+@import url('fonts/font.css'); /* Font Config File */
 @import url('color.css'); /* :root config file  */
 @import url('gradient/gradient.css'); /* :root config file  */
 @import url('swatch.css'); /* Root config file */
+@import url('icons/icon.css'); /* Root config file */
 @import url('animate/animate.css'); /*  Class Stile File */
 @import url('flex.css');  /* Class Stile File  */
 @import url('text.css'); /* Class Stile File */
