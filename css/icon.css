@@ -1,0 +1,41 @@
+[class *= "icon:search"]{
+    background: url('/icons/material/search.svg');
+    height: 24px;
+    width: 24px;
+    display: inline-block;
+}
+
+[class *= "icon:sm:search"]{
+    background-image: url('./icons/material/search.svg');
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+[class *= "icon:lg:search"]{
+    background-image: url('/icons/material/search.svg');
+    display: inline-block;
+    width: 48px;
+    height: 48px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+[class*="icon:home"] {
+    background: url('/icons/material/home.svg');
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+
+[class *= "icon:blue"]{
+    fill: blue;
+}
+
+[class *= "icon:red"]{
+    fill: red;
+}
