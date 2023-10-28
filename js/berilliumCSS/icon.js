@@ -1,12 +1,44 @@
-async function homeIcon(){
-    const iconContainer = document.createElement('span');
-    iconContainer.classList.add('icon:blue');
-    const iconParent = document.getElementById('demo');
+document.addEventListener('DOMContentLoaded', async function() {
+    const svgUrl = '../../icons/material/material.svg';
 
-    const data = await fetch('../../icons/material/home.svg');
-    const svg = await data.text();
-    iconContainer.innerHTML = svg;
-    iconParent.appendChild(iconContainer);
+    try {
+        const data = await fetch(svgUrl);
+        const svg = await data.text();
+
+        const svgBox = document.createElement('span');
+        svgBox.innerHTML = svg;
+
+        const body = document.body;
+        body.insertBefore(svgBox.firstChild, body.firstChild);
+    }
+
+    catch(error){
+        console.error("Error in fetching SVG sprite sheet: ", error);
+    }
+})
+
+
+function createIcon(id){
+    const iconContainer = document.createElement('span');
+    iconContainer.innerHTML = `
+        <svg>
+            <use xlink:href="#${id}"></use>
+        </svg>
+        `;
+
+    
+    return iconContainer;
 };
 
-homeIcon();
+
+function useIcon(id){
+    const targetContainer = document.createElement('span');
+    const iconElement = createIcon(id);
+    targetContainer.appendChild(iconElement);
+    document.body.appendChild(targetContainer);
+}
+
+useIcon('home--solid', 'demo');
+useIcon('search--solid', 'demo');
+useIcon('menu--solid', 'demo');
+useIcon('close--solid', 'demo');
