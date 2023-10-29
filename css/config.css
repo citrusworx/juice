@@ -4,9 +4,15 @@
 @import url('swatch.css'); /* Root config file */
 @import url('icon.css'); /* Root config file */
 @import url('animate/animate.css'); /*  Class Stile File */
+@import url('state.css');
+@import url('height.css');
+@import url('width.css');
+@import url('styling.css');
 @import url('display.css');
 @import url('spacing.css');
 @import url('position.css');
+@import url('order.css');
+@import url('form.css');
 @import url('flex.css');  /* Class Stile File  */
 @import url('text.css'); /* Class Stile File */
 @import url('grid.css'); /* Class Stile File */

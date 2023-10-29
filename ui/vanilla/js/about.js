@@ -1,9 +1,13 @@
-include('../vanilla/js/nav/nav.js', 'Nav').then(()=> {
+include('../vanilla/js/components/nav/nav.js', 'Nav').then(()=> {
     const Nav = window.myModules.Nav.Nav;
     const nb = Nav;
+    nb.classList.add('h-10');
+    nb.classList.add('bg-blue-400');
+    nb.classList.add('text-white');
+
     document.getElementById('app').append(nb);
 });
-include('../vanilla/js/components/hero.js', 'Hero').then(()=>{
+include('../vanilla/js/components/hero/hero.js', 'Hero').then(()=>{
         const Hero = window.myModules.Hero.Hero;
         const hr = Hero;
         hr.classList.add('bg-red-400');
