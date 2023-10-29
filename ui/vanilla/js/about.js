@@ -1,3 +1,8 @@
+include('../vanilla/js/nav/nav.js', 'Nav').then(()=> {
+    const Nav = window.myModules.Nav.Nav;
+    const nb = Nav;
+    document.getElementById('app').append(nb);
+});
 include('../vanilla/js/components/hero.js', 'Hero').then(()=>{
         const Hero = window.myModules.Hero.Hero;
         const hr = Hero;
