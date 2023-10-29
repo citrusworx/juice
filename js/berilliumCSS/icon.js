@@ -1,15 +1,17 @@
 document.addEventListener('DOMContentLoaded', async function() {
-    const svgUrl = '../../icons/material/material.svg';
+    const svgs = ['../../icons/material/material.svg', '../..fontawesome/web/sprites/regular.svg'];
 
     try {
-        const data = await fetch(svgUrl);
-        const svg = await data.text();
-
-        const svgBox = document.createElement('span');
-        svgBox.innerHTML = svg;
-
-        const body = document.body;
-        body.insertBefore(svgBox.firstChild, body.firstChild);
+        for(let index = 0; index < svgs.length; index++){
+            const sheet = await fetch(svgs[index]);
+            const svg = await sheet.text();
+            
+            const svgBox = document.createElement('span');
+            svgBox.innerHTML = svg;
+            
+            const body = document.body;
+            body.insertBefore(svgBox.firstChild, body.firstChild);
+        }
     }
 
     catch(error){
