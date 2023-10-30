@@ -40,6 +40,26 @@
     padding-left: 1rem;
 }
 
+.pr-1 {
+    padding-right: 0.2rem;
+}
+
+.pr-2 {
+    padding-right: 0.4rem;
+}
+
+.pr-3 {
+    padding-right: 0.6rem;
+}
+
+.pr-4 {
+    padding-right: 0.8rem;
+}
+
+.pr-5 {
+    padding-right: 1rem;
+}
+
 .pt-1 {
     padding-top: 0.2rem;
 }

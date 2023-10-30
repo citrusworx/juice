@@ -39,6 +39,10 @@ p, a, li, label, span, code, blockquote, button {
     font-family: var(--light-font);
 }
 
+div > h2, p{
+    display: inline;
+}
+
 
 
 

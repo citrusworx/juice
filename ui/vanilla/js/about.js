@@ -11,6 +11,7 @@ include('../vanilla/js/components/hero/hero.js', 'Hero').then(()=>{
         const Hero = window.myModules.Hero.Hero;
         const hr = Hero;
         hr.classList.add('bg-red-400');
+        hr.classList.add('h-30');
         document.getElementById('app').append(hr);
     });
 include('../vanilla/js/components/textbox.js', 'TextBox').then(()=>{

@@ -114,3 +114,7 @@
 .around {
     justify-content: space-around;
 }
+
+.center {
+    justify-self: center;
+}
