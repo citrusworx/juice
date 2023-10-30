@@ -1,25 +1,53 @@
 /* Spacing Styles */
 
-.p-1 {
+.rp-1 {
     padding: 0.2rem;
 }
 
-.p-2 {
+[class *= "p:rel-1"]{
+    padding: 0.2rem;
+}
+
+
+.rp-2 {
     padding: 0.4rem;
 }
 
-.p-3 {
+[class *= "p:rel-2"]{
+    padding: 0.4rem;
+}
+
+.rp-3 {
     padding: 0.6rem;
 }
 
-.p-4 {
+.rp-4 {
     padding: 0.8rem;
 }
 
-.p-5 {
+.rp-5 {
     padding: 1rem;
 }
 
+.rp-6 {
+    padding: 1.2rem;
+}
+
+.rp-7 {
+    padding: 1.4rem;
+}
+
+.rp-8 {
+    padding: 1.6rem;
+}
+
+.rp-9 {
+    padding: 1.8rem;
+}
+
+.rp-10 {
+    padding: 2rem;
+}
 .pl-1 {
     padding-left: 0.2rem;
 }

@@ -10,6 +10,10 @@ Unlock your creative potential with our revolutionary Swatch Library. Instead of
 - Square
 - Monochromatic
 - Complimentary
+- Triad
+- Split Complimentary
+
+### Gradients Galore
  
 ### Featured Swatches:
 🍉 **Meloncolly**: Experience a palette of sentimental greens and lively reds.
@@ -18,11 +22,25 @@ Unlock your creative potential with our revolutionary Swatch Library. Instead of
 
 🍧 **Sherbet**: Make your projects pop with this playful array of pastel colors.
 
-## 🚀 BerilliumJS: React Native, Supercharged
-Berillium isn't just about CSS. With BerilliumJS, we've extended our framework into the React Native world. Enjoy the convenience of importing pre-styled components that adhere to our Swatch Library aesthetics, right into your React Native projects. Styling made simple and fun!
+## 🚀 BerilliumJS: Vanilla, React, TypeScript, React Native: Supercharged
+Berillium isn't just about CSS. With BerilliumJS, we've extended our framework into the JavaScript world. Enjoy the convenience of importing pre-styled components that adhere to our Swatch Library aesthetics, right into your all of your JavaScript projects. Styling made simple and fun!
 
-## 🎥 Animations & Documentation
+### Current Support (in development)
+- 🍦Vanilla JavaScript
+
+- 🐘PHP
+
+    - 🍦Vanilla
+    - 🎼Symfony
+
+- ⚛️React
+
+- TypeScript
+
+## 🎥 Animation Station
 Enhance your UX with our rich set of animations, and never find yourself lost in development hell, thanks to our comprehensive documentation.
 
 Ready for a game-changing development experience? Step into the Berillium universe and elevate your projects to new heights!
 
+
+## Documentation
