@@ -1,5 +1,5 @@
 /* Ordering Styles */
-.top {
+.front {
     z-index: 1;
 }
 
@@ -7,7 +7,7 @@
     z-index: 0;
 }
 
-.bot {
+.back {
     z-index: -1;
 }
 

@@ -1,8 +1,9 @@
+const links = ['Home', 'About', 'Pricing', 'Contact'];
 function Nav(){
     const container = document.createElement('div');
     const navbar = document.createElement('nav');
     const navlinks = document.createElement('ul');
-    const links = ['Home', 'About', 'Pricing', 'Contact'];
+    
     
     // Create nav links and applying styling
     for(let index = 0; index < links.length; index++){

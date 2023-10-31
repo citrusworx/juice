@@ -1,0 +1,31 @@
+:root {
+/* Base Color */ 
+    --neon-green-500: hsl(120, 100%, 50%);
+    --neon-yellow-500: hsl(70, 100%, 50%);
+    --neon-red-500: hsl(12, 100%, 50%);
+    --neon-blue-500: hsl(228, 100%, 50%);
+/* Monochromatic */
+
+/* Green */
+--neon-green-100: hsl(120, 80%, 40%);
+--neon-green-300: hsl(120, 60%, 30%);
+--neon-green-700: hsl(120, 40%, 20%);
+--neon-green-900: hsl(120, 20%, 20%);
+/* Blue */
+--neon-blue-100: hsl(228, 80%, 40%);
+--neon-blue-300: hsl(228, 60%, 30%);
+--neon-blue-500: hsl(228, 40%, 20%);
+--neon-blue-900: hsl(228, 20%, 10%);
+/* Red */
+--neon-red-100: hsl(12, 80%, 40%);
+--neon-red-300: hsl(12, 60%, 30%);
+--neon-red-700: hsl(12, 40%, 20%);
+--neon-red-900: hsl(12, 20%, 10%);
+/* Yellow */
+--neon-yellow-100: hsl(70, 80%, 40%);
+--neon-yellow-300: hsl(70, 60%, 30%);
+--neon-yellow-700: hsl(70, 40%, 20%);
+--neon-yellow-900: hsl(70, 20%, 10%);
+
+
+}

@@ -9,6 +9,13 @@ include('../components/nav/nav.js', 'Nav').then(()=> {
 
     document.getElementById('app').append(nb);
 });
+include('../components/nav/navdark.js', 'NavDark').then(()=> {
+    // Get Nav Module
+    const nav = window.myModules.NavDark.NavDark;
+    const nd = nav;
+
+    document.getElementById('app').append(nd);
+});
 include('../components/hero/hero.js', 'Hero').then(()=>{
         const Hero = window.myModules.Hero.Hero;
         const hr = Hero;
