@@ -42,8 +42,13 @@ function Footer(){
     row.classList.add('even');
     row.classList.add('text-white');
     //Footer (Container)
-    container.classList.add('bg-blue-800');
+    container.classList.add('bg-sunset');
     container.classList.add('h-45');
+    container.classList.add('w-full');
+    container.classList.add('back');
+    container.classList.add('anim:bg:alive');
+    
+    
     
     
     

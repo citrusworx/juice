@@ -27,11 +27,13 @@ This allows for endless color choice and opportunity. Feel free to paruse the sw
 
 🍧 **Sherbet**: Make your projects pop with this playful array of pastel colors.
 
-🌿 **Herbal**:
+🌿 **Herbal**: A collection of earthy colors
 
-🌕 **Midnight**:
+🌕 **Midnight**: A collection of dark blues
 
-🌊 **Aquaflux**:
+🌊 **Aquaflux**: A collection of sea fairing blends of color
+
+🚥 **Neon**: A collection of electric colors
 
 ## 🚀 BerilliumJS: Vanilla, React, TypeScript, React Native: Supercharged
 Berillium isn't just about CSS. With BerilliumJS, we've extended our framework into the JavaScript world. Enjoy the convenience of importing pre-styled components that adhere to our Swatch Library aesthetics, right into your all of your JavaScript projects. Styling made simple and fun!

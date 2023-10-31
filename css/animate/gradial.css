@@ -1,0 +1,16 @@
+/*
+Creating Gradient Animations
+*/
+
+[class *= "anim:bg:alive"]{
+    animation: alive 10s linear infinite;
+}
+
+@keyframes alive {
+    0% {
+        background-position: 0% 50%;
+    }
+    100% {
+        background-position: 100% 50%;
+    }
+}

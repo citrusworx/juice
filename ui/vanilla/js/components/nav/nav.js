@@ -20,6 +20,7 @@ function Nav(){
     
     //Add container stylings
     container.appendChild(navbar);
+    container.classList.add('sticky');
     //Add navbar stylings
     navbar.classList.add('flex');
     navbar.classList.add('center');

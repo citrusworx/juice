@@ -8,6 +8,7 @@
 
 .sticky {
     position: sticky;
+    top: 0;
 }
 
 .static {

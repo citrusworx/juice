@@ -1,4 +1,6 @@
-/* Transition Styles */
+
+@import url('gradial.css');/* Import Transition Styles */
+
 
 [class *= "fade:in"]{ 
     animation: fadeIn 1s linear forwards;
