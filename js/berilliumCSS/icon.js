@@ -27,20 +27,15 @@ function createIcon(id){
             <use xlink:href="#${id}"></use>
         </svg>
         `;
-
     
     return iconContainer;
 };
 
 
 function useIcon(id){
-    const targetContainer = document.createElement('span');
+    const targetContainer = document.createElement('div');
+    targetContainer.classList.add('inline');
     const iconElement = createIcon(id);
     targetContainer.appendChild(iconElement);
-    document.body.appendChild(targetContainer);
+    return targetContainer;
 }
-
-useIcon('home--solid', 'demo');
-useIcon('search--solid', 'demo');
-useIcon('menu--solid', 'demo');
-useIcon('close--solid', 'demo');

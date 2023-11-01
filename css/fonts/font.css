@@ -16,29 +16,49 @@
 }
 
 [class *= "roboto:light:italic"]{
-    font-family: 'Roboto', sans-serif;
+    font-family: var(--roboto);
     font-size: 18px;
     font-weight: 100;
     font-style: italic;
 }
 
 .montserrat {
-    font-family: 'Montserrat', sans-serif;
+    font-family: var(--montserrat);
     font-size: 18px;
     font-weight: 500;
     font-style: normal;
 }
 
 .lato {
-    font-family: 'Lato', sans-serif;
+    font-family: var(--lato);
     font-size: 18px;
     font-weight: 500;
     font-style: normal;
 }
 
 .raleway {
-    font-family: 'Raleway', sans-serif;
+    font-family: var(--raleway);
     font-size: 32px;
     font-weight: 500;
+    font-style: normal;
+}
+
+.acme {
+    font-family: var(--acme);
+    font-size: 32px;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.ubuntu {
+    font-family: var(--ubuntu);
+    font-size: 14px;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.homemade-apple {
+    font-family: var(--homemade-apple);
+    font-weight: 400;
     font-style: normal;
 }

@@ -20,8 +20,11 @@ function NavDark(...classes){
     container.appendChild(navbar);
 
     //Add Styles
+    container.classList.add('rel');
+    container.classList.add('back');
     container.classList.add('bg-black-700');
     container.classList.add('text-white');
+    container.classList.add('ubuntu');
 
     return container;
 }

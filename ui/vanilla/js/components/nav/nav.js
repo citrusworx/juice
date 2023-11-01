@@ -1,3 +1,4 @@
+// This mimics future site options that are stored in a DB (for Vanilla JS CMS)
 const links = ['Home', 'About', 'Pricing', 'Contact'];
 function Nav(){
     const container = document.createElement('div');
@@ -12,6 +13,7 @@ function Nav(){
         listItem.textContent = links[index];
         listItem.classList.add('ml-5');
         listItem.classList.add('center');
+        listItem.setAttribute('id', `link-${index + 1}`);
         //Append list items to list
         navlinks.append(listItem);
         //Append list to navbar

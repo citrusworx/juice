@@ -1,41 +1,39 @@
-[class *= "icon:search"]{
-    background: url('/icons/material/search.svg');
-    height: 24px;
-    width: 24px;
-    display: inline-block;
+/* 
+
+This changes to specific fill and other SVG related styling
+No more storing icons directly in CSS
+
+*/
+
+[class *= "icon:primary"]{
+    fill: var(--primary);
 }
 
-[class *= "icon:sm:search"]{
-    background-image: url('./icons/material/search.svg');
-    display: inline-block;
-    width: 12px;
-    height: 12px;
-    background-size: contain;
-    background-repeat: no-repeat;
-}
-
-[class *= "icon:lg:search"]{
-    background-image: url('/icons/material/search.svg');
-    display: inline-block;
-    width: 48px;
-    height: 48px;
-    background-size: contain;
-    background-repeat: no-repeat;
-}
-
-[class*="icon:home"] {
-    background: url('/icons/material/home.svg');
-    display: inline-block;
-    width: 24px;
-    height: 24px;
-    background-size: contain;
-    background-repeat: no-repeat;
-  }
-
-[class *= "icon:blue"]{
-    fill: blue;
+[class *= "icon:secondary"]{
+    fill: var(--secondary);
 }
 
 [class *= "icon:red"]{
     fill: red;
+}
+
+[class *= "icon:list:blue-green-700"]{
+    height: 24px;
+    width: 24px;
+    display: inline-block;
+    background: var(--blue-green-700);
+    background-size: contain;
+    -webkit-mask-image: url('../icons/material/home.svg');
+    mask-image: url('../icons/material/home.svg');
+}
+
+[class *= "icon:list:maroon-700"]{
+    height: 24px;
+    width: 24px;
+    display: inline-block;
+    background: var(--maroon-700);
+    background-size: cover;
+    background-repeat: no-repeat;
+    -webkit-mask-image: url('../icons/material/home.svg');
+    mask-image: url('../icons/material/home.svg');
 }

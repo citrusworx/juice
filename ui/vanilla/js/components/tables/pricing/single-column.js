@@ -1,0 +1,23 @@
+function SingleColumn(){
+    const container = document.createElement('div');
+    const table = document.createElement('table');
+    const demo_option_content = 'Demo option';
+    const demo_option_two_content = 'Demo option';
+    const demo_option_three_content = 'Demo option';
+    const benefits = [demo_option_content, demo_option_two_content, demo_option_three_content];
+
+    // Iterate Benefits
+    for(let index = 0; index < benefits.length; index++){
+        const trow = document.createElement('tr');
+        const tdata = document.createElement('td');
+        tdata.append(benefits[index]);
+        trow.appendChild(tdata);
+        table.appendChild(trow);
+
+    }
+    container.append(table);
+    return container;
+
+}
+
+exports.SingleColumn = SingleColumn();

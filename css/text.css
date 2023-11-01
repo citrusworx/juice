@@ -67,3 +67,17 @@
 .strike {
     text-decoration: line-through;
 }
+
+
+/* Sizing */
+[class *= "txt:sm"]{
+    font-size: 0.8rem;
+}
+
+[class *= "txt:md"]{
+    font-size: 1rem;
+}
+
+[class *= "text:lg"]{
+    font-size: 1.5rem;
+}
