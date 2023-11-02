@@ -1,3 +1,5 @@
+document.addEventListener('DOMContentLoaded', ()=>{ 
+
 include('../components/nav/nav.js', 'Nav').then(()=> {
     // Get Nav Module
     const Nav = window.myModules.Nav.Nav;
@@ -21,12 +23,13 @@ include('../components/hero/hero.js', 'Hero').then(()=>{
         const hr = Hero;
         hr.classList.add('bg-red-700');
         hr.classList.add('h-30');
+        hr.classList.add('rel');
         document.getElementById('app').append(hr);
     });
 include('../components/textbox.js', 'TextBox').then(()=>{
     const TextBox = window.myModules.TextBox.TextBox;
     const tb = TextBox;
-    tb.classList.add('rp-6')
+    tb.classList.add('rp-6');
     document.getElementById('app').append(tb);
 });
 include('../components/tables/pricing/single-column.js', 'SingleColumn').then(()=>{
@@ -40,7 +43,7 @@ include('../components/footer/footer.js', 'Footer').then(()=>{
     document.getElementById('app').appendChild(ft);
 });
 
-
+});
 
 
 

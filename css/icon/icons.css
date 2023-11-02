@@ -1,0 +1,119 @@
+@import url('color.css');
+@import url('size.css');
+
+[class *= "icon:home"]{
+    -webkit-mask-image: url('../../icons/material/home.svg');
+    -webkit-mask-size: cover;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../icons/material/home.svg');
+    mask-size: cover;
+    mask-repeat: no-repeat;
+}
+
+[class *= "icon:search"]{
+    -webkit-mask-image: url('../../icons/material/search.svg');
+    -webkit-mask-size: cover;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../icons/material/search.svg');
+    mask-size: cover;
+    mask-repeat: no-repeat;
+}
+
+[class *= "icon:menu"]{
+    -webkit-mask-image: url('../../icons/material/menu.svg');
+    -webkit-mask-size: cover;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../icons/material/menu.svg');
+    mask-size: cover;
+    mask-repeat: no-repeat;
+}
+
+[class *= "icon:delete"]{
+    -webkit-mask-image: url('../../icons/material/trash.svg');
+    -webkit-mask-size: cover;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../icons/material/trash.svg');
+    mask-size: cover;
+    mask-repeat: no-repeat;
+}
+
+[class *= "icon:add-circle"]{
+    -webkit-mask-image: url('../../icons/material/add_circle.svg');
+    -webkit-mask-size: cover;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../icons/material/add_circle.svg');
+    mask-size: cover;
+    mask-repeat: no-repeat;
+}
+
+[class *= "icon:apps"]{
+    -webkit-mask-image: url('../../icons/material/apps.svg');
+    -webkit-mask-size: cover;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../icons/material/apps.svg');
+    mask-size: cover;
+    mask-repeat: no-repeat;
+}
+
+[class *= "icon:arrow-back-ios"]{
+    -webkit-mask-image: url('../../icons/material/arrow_back_ios.svg');
+    -webkit-mask-size: cover;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../icons/material/arrow_back_ios.svg');
+    mask-size: cover;
+    mask-repeat: no-repeat;
+}
+
+[class *= "icon:arrow-back"]{
+    -webkit-mask-image: url('../../icons/material/arrow_back.svg');
+    -webkit-mask-size: cover;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../icons/material/arrow_back.svg');
+    mask-size: cover;
+    mask-repeat: no-repeat;
+}
+
+[class *= "icon:arrow-drop-down"]{
+    -webkit-mask-image: url('../../icons/material/arrow_drop_down.svg');
+    -webkit-mask-size: cover;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../icons/material/arrow_drop_down.svg');
+    mask-size: cover;
+    mask-repeat: no-repeat;
+}
+
+[class *= "icon:arrow-forward-ios"]{
+    -webkit-mask-image: url('../../icons/material/arrow_forward_ios.svg');
+    -webkit-mask-size: cover;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../icons/material/arrow_forward_ios.svg');
+    mask-size: cover;
+    mask-repeat: no-repeat;
+}
+
+[class *= "icon:arrow-circle"]{
+    -webkit-mask-image: url('../../icons/material/arrow_circle.svg');
+    -webkit-mask-size: cover;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../icons/material/arrow_circle.svg');
+    mask-size: cover;
+    mask-repeat: no-repeat;
+}
+
+[class *= "icon:arrow-upward"]{
+    -webkit-mask-image: url('../../icons/material/arrow_upward.svg');
+    -webkit-mask-size: cover;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../icons/material/arrow_upward.svg');
+    mask-size: cover;
+    mask-repeat: no-repeat;
+}
+
+[class *= "icon:bolt"]{
+    -webkit-mask-image: url('../../icons/material/bolt.svg');
+    -webkit-mask-size: cover;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../icons/material/bolt.svg');
+    mask-size: cover;
+    mask-repeat: no-repeat;
+}

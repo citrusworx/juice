@@ -1,8 +1,9 @@
 window.myModules = {};
 
 //create multiple global objects to separate concerns
-window.globalFunctions = {};
-window.globalVariables = {};
+window.functions = {};
+window.variables = {};
+window.icons = {};
 
 window.include = async function(url, module){
    try { 
@@ -25,10 +26,12 @@ window.require = function(globalName, name){
    return window[globalName][name] || null;
 };
 
-window.define = function(name, globalName, createFunction){
-   const module = {
-      exports: {}
-   } 
-   createFunction(module, module.exports);
-   window[globalName][name] = module.exports;
-};
+window.define = function(name, globalName, content){
+   if (!window[globalName]) {
+      window[globalName] = {};
+  }
+
+   //Attach the module to the global space
+   window[globalName][name] = {content};
+   console.log("After setting:", window[globalName][name]);
+}

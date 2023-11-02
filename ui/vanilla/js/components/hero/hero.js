@@ -12,6 +12,8 @@ function Hero(){
     //Append to parent/container
     const hero_content = [heading, linebreak, content];
     container.append(...hero_content);
+
+    container.classList.add('back');
     //Return main container
     return container;
 };

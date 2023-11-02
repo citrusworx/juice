@@ -20,11 +20,11 @@ document.addEventListener('DOMContentLoaded', async function() {
 })
 
 
-function createIcon(id){
+function createIcon(id, height, width){
     const iconContainer = document.createElement('span');
     iconContainer.innerHTML = `
         <svg>
-            <use xlink:href="#${id}"></use>
+            <use xlink:href="#${id}" height="${height}" width="${width}"></use>
         </svg>
         `;
     
@@ -32,10 +32,10 @@ function createIcon(id){
 };
 
 
-function useIcon(id){
-    const targetContainer = document.createElement('div');
-    targetContainer.classList.add('inline');
-    const iconElement = createIcon(id);
+function useIcon(id, height, width){
+    const targetContainer = document.createElement('span');
+    const iconElement = createIcon(id, height, width);
     targetContainer.appendChild(iconElement);
+
     return targetContainer;
 }

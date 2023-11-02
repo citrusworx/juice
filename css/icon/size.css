@@ -1,0 +1,16 @@
+
+/* SIZING */
+[class *= "::sm"] {
+    height: 12px;
+    width: 12px;
+}
+
+[class *= "::md"] {
+    height: 24px;
+    width: 24px;
+}
+
+[class *= "::lg"] {
+    height: 48px;
+    width: 48px;
+}
