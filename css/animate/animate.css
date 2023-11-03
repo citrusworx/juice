@@ -54,6 +54,19 @@
     animation: slideInOutRight 3s linear forwards;
 }
 
+.spin {
+    animation: spin 2s linear infinite;
+}
+
+.turn {
+    animation: spin 5s linear infinite;
+    animation-play-state: paused;
+}
+
+.turn:hover{
+    animation-play-state: running;
+}
+
 .wiggle {
     animation: wiggle 1s linear forwards;
 }
@@ -192,6 +205,22 @@
     }
     100% {
         transform: translateX(100vw);
+    }
+}
+
+@keyframes spin {
+    0% {
+        rotate: 0deg;
+    }
+
+    100% {
+        rotate: 360deg;
+    }
+}
+
+@keyframes turn {
+    100% {
+        transform: rotate(1turn);
     }
 }
 

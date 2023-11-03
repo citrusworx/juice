@@ -1,16 +1,31 @@
 
 /* SIZING */
-[class *= "::sm"] {
+[class *= "::xs"] {
     height: 12px;
     width: 12px;
 }
 
-[class *= "::md"] {
+[class *= "::sm"] {
     height: 24px;
     width: 24px;
+}
+
+[class *= "::md"] {
+    height: 36px;
+    width: 36px;
 }
 
 [class *= "::lg"] {
     height: 48px;
     width: 48px;
+}
+
+[class *= "::xl"] {
+    height: 60px;
+    width: 60px;
+}
+
+[class *= "::xxl"] {
+    height: 72px;
+    width: 72px;
 }

@@ -1,0 +1,39 @@
+:root {
+    /* Swatch */
+    --northern-lights-navy: hsl(208, 98%, 13%);
+    --northern-lights-teal: hsl(180, 98%, 18%);
+    --northern-lights-forest: hsl(146, 98%, 23%);
+    --northern-lights-nebula: hsl(141, 98%, 33%);
+    --northern-lights-green: hsl(135, 98%, 43%); 
+
+
+/*************** 
+    GRADIENTS
+****************/
+/* 
+    TWO-COLOR
+*/
+
+--northern-lights-duo: linear-gradient(var(--northern-lights-navy), var(--northern-lights-green));
+--northern-lights-duo-reverse: linear-gradient(var(--northern-lights-green), var(--northern-lights-navy));
+--northern-lights-radial: radial-gradient(circle at center, var(--northern-lights-navy), var(--northern-lights-green));
+
+/* 
+    TRI-COLOR
+*/
+--northern-lights-tri: linear-gradient(var(--northern-lights-green), var(--northern-lights-forest), var(--northern-lights-navy));
+
+/* 
+    FULL-SPECTRUM
+*/
+
+--northern-lights-grad: linear-gradient(
+    90deg,    
+    var(--northern-lights-green),
+    var(--northern-lights-nebula),
+    var(--northern-lights-forest),
+    var(--northern-lights-teal),
+    var(--northern-lights-navy)
+);
+
+}
