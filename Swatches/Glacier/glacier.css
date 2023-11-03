@@ -1,0 +1,7 @@
+:root {
+    --glacier-sapphire: hsl(200, 100%, 50%);
+    --glacier-cerulean: hsl(200, 54%, 68%);
+    --glacier-aqua: hsl(194, 57%, 75%);
+    --glacier-ice: hsl(190, 37%, 73%);
+    --glacier-frost: hsl(190, 33%, 90%);
+}

@@ -1,7 +1,7 @@
 @import url('material.css');
 @import url('fontawesome.css');
 @import url('beryl.css');
-@import url('color.css');
-@import url('size.css');
+@import url('color/color.css');
+@import url('size/size.css');
 
 /* Create any overarching icon stylings. */
