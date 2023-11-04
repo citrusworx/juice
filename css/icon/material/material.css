@@ -219,7 +219,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "|mat checkbox|"]{
+[class *= "mat checkbox"]{
     -webkit-mask-image: url('../../../icons/material/check_box.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -228,7 +228,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "|mat checkbox outline|"]{
+[class *= "mat checkbox outline"]{
     -webkit-mask-image: url('../../../icons/material/check_box_outline.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -237,7 +237,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "|mat check circle|"]{
+[class *= "mat check circle"]{
     -webkit-mask-image: url('../../../icons/material/check_circle.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;

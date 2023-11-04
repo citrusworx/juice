@@ -188,7 +188,7 @@ function check_circle(){
 // Call Icons (Functions)
 arrow_ios_back();
 arrow_ios_forward();
-//arrow_back();
+arrow_back();
 arrow_left_circle();
 arrow_up_circle();
 arrow_circle();
