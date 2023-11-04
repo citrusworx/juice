@@ -1,6 +1,6 @@
-@import url('material.css');
-@import url('fontawesome.css');
-@import url('beryl.css');
+@import url('material/material.css');
+@import url('fontawesome/fontawesome.css');
+@import url('beryl/beryl.css');
 @import url('color/color.css');
 @import url('size/size.css');
 

@@ -1,0 +1,20 @@
+    /* Grays */
+    --gray-100: hsl(0, 0%, 95%);
+    --gray-200: hsl(0, 0%, 90%);
+    --gray-300: hsl(0, 0%, 85%);
+    --gray-400: hsl(0, 0%, 80%);
+    --gray-500: hsl(0, 0%, 75%);
+    --gray-600: hsl(0, 0%, 70%);
+    --gray-700: hsl(0, 0%, 65%);
+    --gray-800: hsl(0, 0%, 60%);
+    --gray-900: hsl(0, 0%, 55%);
+
+    --concrete-100: hsl(0, 5%, 95%);
+    --concrete-200: hsl(0, 5%, 90%);
+    --concrete-300: hsl(0, 5%, 85%);
+    --concrete-400: hsl(0, 5%, 80%);
+    --concrete-500: hsl(0, 5%, 75%);
+    --concrete-600: hsl(0, 5%, 70%);
+    --concrete-700: hsl(0, 5%, 65%);
+    --concrete-800: hsl(0, 5%, 60%);
+    --concrete-900: hsl(0, 5%, 55%);

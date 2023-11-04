@@ -1,0 +1,30 @@
+    /* Blacks */
+    --black-100: hsl(0, 0%, 50%);
+    --black-200: hsl(0, 0%, 45%);
+    --black-300: hsl(0, 0%, 40%);
+    --black-400: hsl(0, 0%, 35%);
+    --black-500: hsl(0, 0%, 30%);
+    --black-600: hsl(0, 0%, 25%);
+    --black-700: hsl(0, 0%, 20%);
+    --black-800: hsl(0, 0%, 15%);
+    --black-900: hsl(0, 0%, 10%);
+
+    --onyx-100: hsl(0, 5%, 50%);
+    --onyx-200: hsl(0, 5%, 45%);
+    --onyx-300: hsl(0, 5%, 40%);
+    --onyx-400: hsl(0, 5%, 35%);
+    --onyx-500: hsl(0, 5%, 30%);
+    --onyx-600: hsl(0, 5%, 25%);
+    --onyx-700: hsl(0, 5%, 20%);
+    --onyx-800: hsl(0, 5%, 15%);
+    --onyx-900: hsl(0, 5%, 10%);
+
+    --obsidian-100: hsl(0, 3%, 50%);
+    --obsidian-200: hsl(0, 3%, 45%);
+    --obsidian-300: hsl(0, 3%, 40%);
+    --obsidian-400: hsl(0, 3%, 35%);
+    --obsidian-500: hsl(0, 3%, 30%);
+    --obsidian-600: hsl(0, 3%, 25%);
+    --obsidian-700: hsl(0, 3%, 20%);
+    --obsidian-800: hsl(0, 3%, 15%);
+    --obsidian-900: hsl(0, 3%, 10%);

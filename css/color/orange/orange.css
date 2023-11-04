@@ -1,0 +1,31 @@
+    /* Oranges */
+
+    --orange-100: hsl(20, 100%, 97%);
+    --orange-200: hsl(20, 100%, 90%);
+    --orange-300: hsl(20, 100%, 85%);
+    --orange-400: hsl(20, 100%, 75%);
+    --orange-500: hsl(20, 100%, 60%);
+    --orange-600: hsl(20, 100%, 50%);
+    --orange-700: hsl(20, 100%, 40%);
+    --orange-800: hsl(20, 100%, 35%);
+    --orange-900: hsl(20, 100%, 25%);
+
+    --peach-100: hsl(30, 100%, 97%);
+    --peach-200: hsl(30, 100%, 90%);
+    --peach-300: hsl(30, 100%, 85%);
+    --peach-400: hsl(30, 100%, 80%);
+    --peach-500: hsl(30, 100%, 75%);
+    --peach-600: hsl(30, 100%, 65%);
+    --peach-700: hsl(30, 100%, 60%);
+    --peach-800: hsl(30, 100%, 55%);
+    --peach-900: hsl(30, 100%, 50%);
+
+    --creamsicle-100: hsl(25, 80%, 97%);
+    --creamsicle-200: hsl(25, 80%, 90%);
+    --creamsicle-300: hsl(25, 80%, 85%);
+    --creamsicle-400: hsl(25, 80%, 80%);
+    --creamsicle-500: hsl(25, 80%, 75%);
+    --creamsicle-600: hsl(25, 80%, 65%);
+    --creamsicle-700: hsl(25, 80%, 60%);
+    --creamsicle-800: hsl(25, 80%, 55%);
+    --creamsicle-900: hsl(25, 80%, 50%);

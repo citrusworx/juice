@@ -1,0 +1,49 @@
+@import url('black/black.css'); /* Start Import of Color Libraries */
+@import url('blue/blue.css');
+@import url('brown/brown.css');
+@import url('gray/gray.css');
+@import url('green/green.css');
+@import url('orange/orange.css');
+@import url('pink/pink.css');
+@import url('purple/purple.css');
+@import url('red/red.css');
+@import url('white/white.css');
+@import url('yellow/yellow.css'); /* End of Import */
+
+:root {
+
+    /*       Branding Colors            */
+    --primary: hsl(160.75, 60.3%, 45.5%);
+    --primary-light: hsl(166.5, 95.5%, 51.8%);
+    --secondary: hsl(218.5, 46.5%, 34.4%);
+    --secondary-light: hsl(223.9, 41.4%, 43.8%);
+    --tertiary: hsl(0, 0%, 43.9%);
+    --tertiary-light: hsl(0, 0%, 53.6%);
+    --warning: hsl(60, 100%, 85%);
+    --danger: hsl(0, 95%, 50%);
+    --info: hsl(160, 95%, 60%);
+
+    /* HEX */
+    --primary-hex: #00D28A;
+    --primary-light-hex: #05EB9C;
+    --secondary-hex: #39507E;
+    --secondary-light-hex: #556991;
+    --tertiary-hex: #707070;
+    --tertiary-light-hex: #9A9A9A;
+    --warning-hex: #FFF200;;
+    --danger-hex: #FF0000;
+    --info-hex: #00EEFF;
+
+    /* RGB */
+    --primary-rgb: rgb(0, 210, 138);
+    --primary-light-rgb: rgb(5, 235, 156);
+    --secondary-rgb: rgb(57, 80, 126);
+    --secondary-light-rgb: rgb(85, 105, 145);
+    --tertiary-rgb: rgb(112, 112, 112);
+    --tertiary-light-rgb: rgb(112, 112, 100);
+    --warning-rgb: rgb(229, 255, 0);
+    --danger-rgb: rgb(255, 0, 0);
+    --info-rgb: rgb(64, 224, 208);
+    /* Gereral Styling */
+
+}

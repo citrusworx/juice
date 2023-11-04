@@ -1,0 +1,40 @@
+    /* Greens */
+    --green-100: hsl(140, 50%, 95%);
+    --green-200: hsl(140, 50%, 90%);
+    --green-300: hsl(140, 50%, 85%);
+    --green-400: hsl(140, 50%, 80%);
+    --green-500: hsl(140, 50%, 75%);
+    --green-600: hsl(140, 50%, 70%);
+    --green-700: hsl(140, 50%, 65%);
+    --green-800: hsl(140, 50%, 60%);
+    --green-900: hsl(140, 50%, 55%);
+
+    --wintergreen-100: hsl(152, 99%, 80%);
+    --wintergreen-200: hsl(152, 99%, 70%);
+    --wintergreen-300: hsl(152, 99%, 60%);
+    --wintergreen-400: hsl(152, 99%, 50%);
+    --wintergreen-500: hsl(152, 99%, 40%);
+    --wintergreen-600: hsl(152, 99%, 30%);
+    --wintergreen-700: hsl(152, 99%, 25%);
+    --wintergreen-800: hsl(152, 99%, 20%);
+    --wintergreen-900: hsl(152, 99%, 15%);
+
+    --fresh-green-100: hsl(121, 100%, 90%);
+    --fresh-green-200: hsl(121, 100%, 80%);
+    --fresh-green-300: hsl(121, 100%, 70%);
+    --fresh-green-400: hsl(121, 100%, 60%);
+    --fresh-green-500: hsl(121, 100%, 50%);
+    --fresh-green-600: hsl(121, 100%, 40%);
+    --fresh-green-700: hsl(121, 100%, 30%);
+    --fresh-green-800: hsl(121, 100%, 25%);
+    --fresh-green-900: hsl(121, 100%, 20%);
+
+    --lime-100: hsl(99, 70%, 90%);
+    --lime-200: hsl(99, 70%, 80%);
+    --lime-300: hsl(99, 70%, 70%);
+    --lime-400: hsl(99, 70%, 60%);
+    --lime-500: hsl(99, 70%, 50%);
+    --lime-600: hsl(99, 70%, 40%);
+    --lime-700: hsl(99, 70%, 30%);
+    --lime-800: hsl(99, 70%, 20%);
+    --lime-900: hsl(99, 70%, 15%);

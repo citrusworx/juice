@@ -5,4 +5,15 @@
     --naval-cream: hsl();
     --naval-white: hsl();
 
+    --naval-navy-hex: #0C356A;
+    --naval-blue-hex: #0174BE;
+    --naval-gold-hex: #FFC436;
+    --naval-cream-hex: #FFF0CE;
+    --naval-white-hex: #FAF9F7;
+
+    --naval-navy-rgb: rgb();
+    --naval-blue-rgb: rgb();
+    --naval-gold-rgb: rgb();
+    --naval-cream-rgb: rgb();
+    --naval-white-rgb: rgb();
 }
