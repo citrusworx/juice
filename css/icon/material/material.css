@@ -1,5 +1,5 @@
 [class *= "mat add box"]{
-    -webkit-mask-i1mage: url('../../../../icons/material/add_box.svg');
+    -webkit-mask-image: url('../../../../icons/material/add_box.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
     mask-image: url('../../../icons/material/add_box.svg');
