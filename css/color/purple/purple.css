@@ -1,3 +1,4 @@
+    :root {
     /*   Purples   */
 
     --purple-100: hsl(255, 100%, 95%);
@@ -10,3 +11,41 @@
     --purple-800: hsl(255, 100%, 60%);
     --purple-900: hsl(255, 100%, 55%);
 
+    }
+
+    
+/* Purples */
+.bg-purple-100 {
+    background-color: var(--purple-100);
+}
+
+.bg-purple-200 {
+    background-color: var(--purple-200);
+}
+
+.bg-purple-300 {
+    background-color: var(--purple-300);
+}
+.bg-purple-400 {
+    background-color: var(--purple-400);
+}
+
+.bg-purple-500 {
+    background-color: var(--purple-500);
+}
+
+.bg-purple-600 {
+    background-color: var(--purple-600);
+}
+
+.bg-purple-700 {
+    background-color: var(--purple-700);
+}
+
+.bg-purple-800 {
+    background-color: var(--purple-800);
+}
+
+.bg-purple-900 {
+    background-color: var(--purple-900);
+}

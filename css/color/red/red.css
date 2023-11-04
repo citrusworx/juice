@@ -1,4 +1,5 @@
-    /* Reds */
+   :root {
+   /* Reds */
     --red-100: hsl(0, 100%, 95%);
     --red-200: hsl(0, 100%, 90%);
     --red-300: hsl(0, 100%, 85%);
@@ -78,3 +79,79 @@
     --burgundy-700: hsl(345, 100%, 15%);
     --burgundy-800: hsl(345, 100%, 10%);
     --burgundy-900: hsl(345, 95%, 10%);
+
+   }
+
+   /* Reds */
+
+.bg-red-100 {
+   background-color: var(--red-100);
+}
+
+.bg-red-200 {
+   background-color: var(--red-200);
+}
+
+.bg-red-300 {
+   background-color: var(--red-300);
+}
+
+.bg-red-400 {
+   background-color: var(--red-400);
+}
+
+.bg-red-500 {
+   background-color: var(--red-500);
+}
+
+.bg-red-600 {
+   background-color: var(--red-600);
+}
+
+.bg-red-700 {
+   background-color: var(--red-700);
+}
+
+.bg-red-800 {
+   background-color: var(--red-800);
+}
+
+.bg-red-900 {
+   background-color: var(--red-900);
+}
+
+.bg-scarlett-100 {
+   background: var(--scarlett-100);
+}
+
+.bg-scarlett-200 {
+   background: var(--scarlett-200);
+}
+
+.bg-scarlett-300 {
+   background: var(--scarlett-300);
+}
+
+.bg-scarlett-400 {
+   background: var(--scarlett-400);
+}
+
+.bg-scarlett-500 {
+   background: var(--scarlett-500);
+}
+
+.bg-scarlett-600 {
+   background: var(--scarlett-600);
+}
+
+.bg-scarlett-700 {
+   background: var(--scarlett-700);
+}
+
+.bg-scarlett-800 {
+   background: var(--scarlett-800);
+}
+
+.bg-scarlett-900 {
+   background: var(--scarlett-900);
+}

@@ -1,4 +1,5 @@
-    /* Oranges */
+   :root {
+   /* Oranges */
 
     --orange-100: hsl(20, 100%, 97%);
     --orange-200: hsl(20, 100%, 90%);
@@ -29,3 +30,46 @@
     --creamsicle-700: hsl(25, 80%, 60%);
     --creamsicle-800: hsl(25, 80%, 55%);
     --creamsicle-900: hsl(25, 80%, 50%);
+
+   }
+
+   .bg-orange-100 {
+    background-color: var(--orange-100);
+}
+
+.bg-orange-200 {
+    background-color: var(--orange-200);
+}
+
+.bg-orange-300 {
+    background-color: var(--orange-300);
+}
+
+.bg-orange-400 {
+    background-color: var(--orange-400);
+}
+
+.bg-orange-500 {
+    background-color: var(--orange-500);
+}
+
+.bg-orange-600 {
+    background-color: var(--orange-600);
+}
+
+.bg-orange-700 {
+    background-color: var(--orange-700);
+}
+
+.bg-orange-800 {
+    background-color: var(--orange-800);
+}
+
+.bg-orange-900 {
+    background-color: var(--orange-900);
+}
+
+
+.bg-creamsicle-500 {
+    background-color: var(--creamsicle-500);
+}

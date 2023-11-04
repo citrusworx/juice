@@ -1,3 +1,4 @@
+    :root {
     /* Blacks */
     --black-100: hsl(0, 0%, 50%);
     --black-200: hsl(0, 0%, 45%);
@@ -28,3 +29,41 @@
     --obsidian-700: hsl(0, 3%, 20%);
     --obsidian-800: hsl(0, 3%, 15%);
     --obsidian-900: hsl(0, 3%, 10%);
+    }
+
+    
+/* Black */
+.bg-black-100 {
+    background-color: var(--black-100);
+}
+
+.bg-black-200 {
+    background-color: var(--black-200);
+}
+
+.bg-black-300 {
+    background-color: var(--black-300);
+}
+.bg-black-400 {
+    background-color: var(--black-400);
+}
+
+.bg-black-500 {
+    background-color: var(--black-500);
+}
+
+.bg-black-600 {
+    background-color: var(--black-600);
+}
+
+.bg-black-700 {
+    background-color: var(--black-700);
+}
+
+.bg-black-800 {
+    background-color: var(--black-800);
+}
+
+.bg-black-900 {
+    background-color: var(--black-900);
+}

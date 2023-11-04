@@ -1,3 +1,6 @@
+@import url('blue.css');
+@import url('green.css');
+
 :root{
 
 /* GRADIENTS */
@@ -42,25 +45,7 @@
 
 
     /* Color Gradient Sets */
-    --blue-green-100: linear-gradient(90deg, hsl(160, 100%, 97%), hsl(160, 100%, 65%));
-    --blue-green-200: linear-gradient(90deg, hsl(160, 100%, 90%), hsl(160, 100%, 50%));
-    --blue-green-300: linear-gradient(90deg, hsl(160, 100%, 80%), hsl(160, 100%, 45%));
-    --blue-green-400: linear-gradient(90deg, hsl(160, 100%, 70%), hsl(160, 100%, 40%));
-    --blue-green-500: linear-gradient(90deg, hsl(160, 100%, 60%), hsl(160, 100%, 35%));
-    --blue-green-600: linear-gradient(90deg, hsl(160, 100%, 50%), hsl(160, 100%, 30%));
-    --blue-green-700: linear-gradient(90deg, hsl(160, 100%, 40%), hsl(160, 100%, 25%));
-    --blue-green-800: linear-gradient(90deg, hsl(160, 100%, 30%), hsl(160, 100%, 20%));
-    --blue-green-900: linear-gradient(90deg, hsl(160, 100%, 20%), hsl(160, 100%, 15%));
 
-    --green-blue-100: linear-gradient(90deg,hsl(160, 100%, 65%), hsl(160, 100%, 97%));
-    --green-blue-200: linear-gradient(90deg, hsl(160, 100%, 50%), hsl(160, 100%, 90%));
-    --green-blue-300: linear-gradient(90deg, hsl(160, 100%, 45%), hsl(160, 100%, 80%));
-    --green-blue-400: linear-gradient(90deg, hsl(160, 100%, 40%), hsl(160, 100%, 70%));
-    --green-blue-500: linear-gradient(90deg, hsl(160, 100%, 35%), hsl(160, 100, 60%));
-    --green-blue-600: linear-gradient(90deg, hsl(160, 100%, 30%), hsl(160, 100, 50%));
-    --green-blue-700: linear-gradient(90deg, hsl(160, 100%, 25%), hsl(160, 100%, 40%));
-    --green-blue-800: linear-gradient(90deg, hsl(160, 100%, 20%), hsl(160, 100%, 30%));
-    --green-blue-900: linear-gradient(90deg, hsl(160, 100%, 15%), hsl(160, 100%, 20%));
 
     --purple-pink-100: linear-gradient(90deg, hsl(280, 100%, 50%), hsl(340, 100%, 50%));
     --purple-pink-200: linear-gradient(90deg, hsl(280, 80%, 50%), hsl(340, 80%, 50%));
@@ -76,4 +61,45 @@
     --seaside: linear-gradient(90deg, hsl(180, 100%, 50%), hsl(240, 100%, 20%));
     --oceanspray: linear-gradient(90deg, hsl(200, 100%, 80%), hsl(240, 100%, 40%));
 
+}
+
+/* Special Colors */
+.bg-pastel-rainbow {
+  background: var(--pastel-rainbow);
+}
+
+.bg-muted-rainbow {
+  background: var(--muted-rainbow);
+}
+
+.bg-contrast-rainbow {
+  background: var(--contrast-rainbow);
+}
+
+.bg-sunset {
+  background: var(--sunset);
+}
+
+.bg-ocean {
+  background: var(--ocean);
+}
+
+.bg-golden-hour {
+  background: var(--golden-hour);
+}
+
+.bg-forest {
+  background: var(--forest);
+}
+
+.bg-seaside {
+  background: var(--seaside);
+}
+
+.bg-skylight {
+  background: var(--skylight);
+}
+
+.bg-ocean-spray {
+  background: var(--oceanspray);
 }

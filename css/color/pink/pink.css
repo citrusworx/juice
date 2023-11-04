@@ -1,4 +1,5 @@
-    /*    Pinks   */
+   :root{
+   /*    Pinks   */
 
     --pink-100: hsl(300, 100%, 95%);
     --pink-200: hsl(300, 100%, 90%);
@@ -19,3 +20,44 @@
     --bubblegum-700: hsl(310, 100%, 30%);
     --bubblegum-800: hsl(310, 100%, 25%);
     --bubblegum-900: hsl(310, 100%, 20%);
+   }
+   /* Pink */
+.bg-pink-100 {
+    background-color: var(--pink-100);
+}
+
+.bg-pink-200 {
+    background-color: var(--pink-200);
+}
+
+.bg-pink-300 {
+    background-color: var(--pink-300);
+}
+.bg-pink-400 {
+    background-color: var(--pink-400);
+}
+
+.bg-pink-500 {
+    background-color: var(--pink-500);
+}
+
+.bg-pink-600 {
+    background-color: var(--pink-600);
+}
+
+.bg-pink-700 {
+    background-color: var(--pink-700);
+}
+
+.bg-pink-800 {
+    background-color: var(--pink-800);
+}
+
+.bg-pink-900 {
+    background-color: var(--pink-900);
+}
+
+/* Purple Pink */
+.bg-purple-pink-100 {
+    background: var(--purple-pink-100);
+}

@@ -1,3 +1,4 @@
+    :root {
     /* Yellows */
     --yellow-100: hsl(60, 100%, 95%);
     --yellow-200: hsl(60, 100%, 90%);
@@ -18,3 +19,41 @@
     --dandelion-700: hsl(55, 100%, 35%);
     --dandelion-800: hsl(55, 100%, 30%);
     --dandelion-900: hsl(55, 100%, 25%);
+
+    }
+
+    /* Yellow */
+.bg-yellow-100 {
+    background-color: var(--yellow-100);
+}
+
+.bg-yellow-200 {
+    background-color: var(--yellow-200);
+}
+
+.bg-yellow-300 {
+    background-color: var(--yellow-300);
+}
+.bg-yellow-400 {
+    background-color: var(--yellow-400);
+}
+
+.bg-yellow-500 {
+    background-color: var(--yellow-500);
+}
+
+.bg-yellow-600 {
+    background-color: var(--yellow-600);
+}
+
+.bg-yellow-700 {
+    background-color: var(--yellow-700);
+}
+
+.bg-yellow-800 {
+    background-color: var(--yellow-800);
+}
+
+.bg-yellow-900 {
+    background-color: var(--yellow-900);
+}
