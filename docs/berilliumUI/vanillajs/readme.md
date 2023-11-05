@@ -19,6 +19,8 @@ To get started with BerilliumCSS's Vanilla JS UI library, follow these steps:
 - [Installation Guide](#)
 - [Initialization](#)
 
+### berilliumCLI
+The best and most efficient way to inject any berillium module into a project is via the command line tool. With a few simple commands, you can pick, choose and add any berillium module with ease!
 ## Usage
 
 BerilliumCSS's Vanilla JS UI library provides a set of UI components and utilities that can be easily integrated into your web applications. Here are some examples:
