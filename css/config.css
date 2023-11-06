@@ -41,15 +41,14 @@ p, a, li, label, span, code, blockquote, button, td {
     font-family: var(--light-font);
 }
 
-div > h2, h3, h4, p {
+h1, h2, h3, h4, h5, h6, p, button {
     /* Reset Container Element Stylings */
     display: inline;
 }
 
-div {
-    h2 {
-        color: pink;
-     } ;
+
+div > h2, h3, p {
+    display: inline;
 }
 
 

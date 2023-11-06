@@ -18,10 +18,3 @@ function git(){
     } 
 
 // Call Icons
-// git_alt();
-// git();
-// gg();
-// gg_circle();
-// github_alt();
-// reddit();
-// reddit_alien();

@@ -1,7 +1,3 @@
-:root {
-    --icon-url: '../../../icons/fontawesome/web/svgs/brands/';
-}
-
 .fas-br[class *= "42-group"]{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/42-group.svg');
     -webkit-mask-size: contain;
@@ -470,7 +466,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br cc-amazonpay"]{
+.fas-br.cc-amazonpay{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/cc-amazon-pay.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -479,7 +475,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br cc-amex"]{
+.fas-br.cc-amex{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/cc-amex.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -488,7 +484,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br cc-applepay"]{
+.fas-br.cc-applepay{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/cc-apple-pay.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -497,7 +493,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br cc-dinersclub"]{
+.fas-br.cc-dinersclub{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/cc-diners-club.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -506,7 +502,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br cc-discover"]{
+.fas-br.cc-discover{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/cc-discover.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -515,7 +511,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br cc-jcb"]{
+.fas-br.cc-jcb{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/cc-jcb.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -524,7 +520,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br cc-mastercard"]{
+.fas-br.cc-mastercard{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/cc-mastercard.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -533,7 +529,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br cc-paypal"]{
+.fas-br.cc-paypal{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/cc-paypal.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -542,7 +538,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br cc-stripe"]{
+.fas-br.cc-stripe{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/cc-stripe.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -551,7 +547,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br cc-visa"]{
+.fas-br.cc-visa{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/cc-visa.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -560,7 +556,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br centercode"]{
+.fas-br.centercode{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/centercode.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -569,7 +565,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br centos"]{
+.fas-br.centos{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/centos.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -578,7 +574,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br chrome"]{
+.fas-br.chrome{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/chrome.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -587,7 +583,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br chromecast"]{
+.fas-br.chromecast{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/chromecast.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -596,16 +592,16 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br cloudfare"]{
-    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/cloudfare.svg');
+.fas-br.cloudflare{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/cloudflare.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
-    mask-image: url('../../../icons/fontawesome/web/svgs/brands/cloudfare.svg');
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/cloudflare.svg');
     mask-size: contain;
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br cloudscale"]{
+.fas-br.cloudscale{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/cloudscale.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -614,7 +610,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br cloudsmith"]{
+.fas-br.cloudsmith{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/cloudsmith.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -623,7 +619,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br cloudversify"]{
+.fas-br.cloudversify{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/cloudversify.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -632,7 +628,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br cmplid"]{
+.fas-br.cmplid{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/cmplid.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -641,7 +637,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br codepen"]{
+.fas-br.codepen{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/codepen.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -650,7 +646,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br codiepie"]{
+.fas-br.codiepie{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/codiepie.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -659,7 +655,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br confluence"]{
+.fas-br.confluence{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/confluence.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -668,7 +664,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br connectdevelop"]{
+.fas-br.connectdevelop{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/connectdevelop.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -677,7 +673,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br contao"]{
+.fas-br.contao{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/contao.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -686,7 +682,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br cottonbureau"]{
+.fas-br.cottonbureau{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/cotton-bureau.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -695,7 +691,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br cpanel"]{
+.fas-br.cpanel{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/cpanel.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -704,7 +700,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br creative-commons:by"]{
+.fas-br.creative-commons\:by{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/creative-commons-by.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -713,7 +709,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br creative-commons:eu-nc"]{
+.fas-br.creative-commons\:eu-nc{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/creative-commons-nc-eu.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -722,7 +718,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br creative-commons:jp-nc"]{
+.fas-br.creative-commons\:jp-nc{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/creative-commons-nc-jp.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -731,7 +727,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br creative-commons:nc"]{
+.fas-br.creative-commons\:nc{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/creative-commons-nc.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -740,7 +736,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br creative-commons:nd"]{
+.fas-br.creative-commons\:nd{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/creative-commons-nd.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -749,7 +745,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br creative-commons:alt-pd"]{
+.fas-br.creative-commons\:alt-pd{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/creative-commons-pd-alt.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -758,7 +754,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br creative-commons:pd"]{
+.fas-br.creative-commons\:pd{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/creative-commons-pd.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -767,7 +763,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br creative-commons:remix"]{
+.fas-br.creative-commons\:remix{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/creative-commons-remix.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -776,7 +772,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br creative-commons:sa"]{
+.fas-br.creative-commons\:sa{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/creative-commons-sa.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -785,7 +781,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br creative-commons:.sampling-plus]"]{
+.fas-br.creative-commons\:sampling-plus{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/creative-commons-sampling-plus.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -794,7 +790,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br creative-commons:sampling"]{
+.fas-br.creative-commons\:sampling{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/creative-commons-sampling.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -803,7 +799,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br creative-commons:share"]{
+.fas-br.creative-commons\:share{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/creative-commons-share.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -812,7 +808,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br creative-commons:zero"]{
+.fas-br.creative-commons-zero{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/creative-commons-zero.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -821,7 +817,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br creative-commons"]{
+.fas-br.creative-commons{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/creative-commons.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -830,7 +826,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br critical-role"]{
+.fas-br.critical-role{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/critical-role.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -839,7 +835,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br css3:alt"]{
+.fas-br.css3\:alt{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/css3-alt.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -848,7 +844,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br css3"]{
+.fas-br.css3{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/css3.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -857,7 +853,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br cuttlefish"]{
+.fas-br.cuttlefish{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/cuttlefish.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -866,7 +862,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br dnd-beyond"]{
+.fas-br.dnd-beyond{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/d-and-d-beyond.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -875,7 +871,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br dnd"]{
+.fas-br.dnd{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/d-and-d.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -884,7 +880,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br dailymotion"]{
+.fas-br.dailymotion{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/dailymotion.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -893,7 +889,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br dashcube"]{
+.fas-br.dashcube{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/dashcube.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -902,7 +898,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br debian"]{
+.fas-br.debian{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/debian.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -911,7 +907,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br deezer"]{
+.fas-br.deezer{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/deezer.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -920,7 +916,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br delicious"]{
+.fas-br.delicious{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/delicious.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -929,7 +925,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br deploydog"]{
+.fas-br.deploydog{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/deploydog.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -938,7 +934,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br deskpro"]{
+.fas-br.deskpro{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/deskpro.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -947,7 +943,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br dev"]{
+.fas-br.dev{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/dev.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -956,7 +952,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br deviantart"]{
+.fas-br.deviantart{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/deviantart.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -965,7 +961,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br dhl"]{
+.fas-br.dhl{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/dhl.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -974,7 +970,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br diaspora"]{
+.fas-br.diaspora{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/diaspora.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -983,7 +979,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br digg"]{
+.fas-br.digg{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/digg.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -992,7 +988,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br digitalocean"]{
+.fas-br.digitalocean{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/digital-ocean.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1001,7 +997,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br discord"]{
+.fas-br.discord{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/discord.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1010,7 +1006,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br discourse"]{
+.fas-br.discourse{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/discourse.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1019,7 +1015,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br dochub"]{
+.fas-br.dochub{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/dochub.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1028,7 +1024,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br docker"]{
+.fas-br.docker{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/docker.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1037,7 +1033,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br draft2digital"]{
+.fas-br.draft2digital{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/draft2digital.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1046,7 +1042,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br dribbble"]{
+.fas-br.dribbble{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/dribbble.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1055,7 +1051,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br dropbox"]{
+.fas-br.dropbox{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/dropbox.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1064,7 +1060,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br drupal"]{
+.fas-br.drupal{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/drupal.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1073,7 +1069,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br dyalog"]{
+.fas-br.dyalog{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/dyalog.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1082,7 +1078,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br earlybirds"]{
+.fas-br.earlybirds{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/earlybirds.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1091,7 +1087,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br ebay"]{
+.fas-br.ebay{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/ebay.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1100,7 +1096,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br edgelegacy"]{
+.fas-br.edgelegacy{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/edge-legacy.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1109,7 +1105,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br edge"]{
+.fas-br.edge{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/edge.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1118,7 +1114,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br elementor"]{
+.fas-br.elementor{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/elementor.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1127,7 +1123,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br ello"]{
+.fas-br.ello{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/ello.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1136,7 +1132,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br ember"]{
+.fas-br.ember{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/ember.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1145,7 +1141,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br empire"]{
+.fas-br.empire{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/empire.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1154,7 +1150,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br envira"]{
+.fas-br.envira{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/envira.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1163,7 +1159,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br erlang"]{
+.fas-br.erlang{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/erlang.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1172,7 +1168,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br ethereum"]{
+.fas-br.ethereum{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/ethereum.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1181,7 +1177,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br etsy"]{
+.fas-br.etsy{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/etsy.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1190,7 +1186,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br evernote"]{
+.fas-br.evernote{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/evernote.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1199,7 +1195,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br expeditedssl"]{
+.fas-br.expeditedssl{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/expeditedssl.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1208,7 +1204,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br facebookf"]{
+.fas-br.facebookf{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/facebook-f.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1217,7 +1213,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br facebook-messenger"]{
+.fas-br.facebook-messenger{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/facebook-messenger.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1226,7 +1222,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br facebook"]{
+.fas-br.facebook{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/facebook.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1235,7 +1231,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br fantasy-flight-games"]{
+.fas-br.fantasy-flight-games{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/fantasy-flight-games.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1244,7 +1240,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br fedex"]{
+.fas-br.fedex{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/fedex.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1253,7 +1249,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br fedora"]{
+.fas-br.fedora{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/fedora.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1262,7 +1258,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br figma"]{
+.fas-br.figma{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/figma.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1271,7 +1267,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br firefox:browser"]{
+.fas-br.firefox\:browser{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/firefox-browser.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1280,7 +1276,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br firefox"]{
+.fas-br.firefox{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/firefox.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1289,7 +1285,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br first-order:alt"]{
+.fas-br.first-order\:alt{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/first-order-alt.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1298,7 +1294,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *="fas-br first-order"]{
+.fas-br.first-order{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/first-order.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1307,7 +1303,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br firstdraft"]{
+.fas-br.firstdraft{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/firstdraft.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1316,7 +1312,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br flickr"]{
+.fas-br.flickr{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/flickr.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1325,7 +1321,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br flipboard"]{
+.fas-br.flipboard{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/flipboard.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1334,7 +1330,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br fly"]{
+.fas-br.fly{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/fly.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1343,7 +1339,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br font-awesome"]{
+.fas-br.font-awesome{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/font-awesome.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1352,7 +1348,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br fonticons"]{
+.fas-br.fonticons{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/fonticons.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1361,7 +1357,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br fonticons:fi"]{
+.fas-br.fonticons\:fi{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/fonticons-fi.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1370,7 +1366,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br fort-awesome"]{
+.fas-br.fort-awesome{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/fort-awesome.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1379,7 +1375,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br fort-awesome:alt"]{
+.fas-br.fort-awesome\:alt{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/fort-awesome-alt.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1388,7 +1384,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br forumbee"]{
+.fas-br.forumbee{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/forumbee.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1397,7 +1393,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br foursquare"]{
+.fas-br.foursquare{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/foursquare.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1406,7 +1402,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br freecodecamp"]{
+.fas-br.freecodecamp{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/free-code-camp.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1415,7 +1411,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br freebsd"]{
+.fas-br.freebsd{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/freebsd.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1424,7 +1420,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br fulcrum"]{
+.fas-br.fulcrum{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/fulcrum.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1433,7 +1429,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br galactic-republic"]{
+.fas-br.galactic-republic{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/galactic-republic.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1442,7 +1438,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br galactic-senate"]{
+.fas-br.galactic-senate{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/galactic-senate.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1451,7 +1447,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br get-pocket"]{
+.fas-br.get-pocket{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/get-pocket.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1460,7 +1456,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-brand gg circle"]{
+.fas-br.gg-circle{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/gg-circle.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1469,7 +1465,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-brand gg"]{
+.fas-br.gg{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/gg.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1496,7 +1492,7 @@
     mask-repeat: no-repeat;
 }
 
-.fas-br[class *= "github:alt"]{
+.fas-br.github\:alt{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/github-alt.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1505,7 +1501,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br github"]{
+.fas-br.github{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/github.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1514,7 +1510,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br gitkraken"]{
+.fas-br.gitkraken{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/gitkraken.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1523,7 +1519,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br gitlab"]{
+.fas-br.gitlab{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/gitlab.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1568,7 +1564,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br golang"]{
+.fas-br.golang{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/golang.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1577,7 +1573,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br goodreads g"]{
+.fas-br.goodreads-g{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/goodreads-g.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1586,7 +1582,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br goodreads"]{
+.fas-br.goodreads{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/goodreads.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1595,7 +1591,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br googledrive"]{
+.fas-br.googledrive{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/google-drive.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1604,7 +1600,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br googlepay"]{
+.fas-br.googlepay{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/google-pay.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1613,7 +1609,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br googleplay"]{
+.fas-br.googleplay{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/google-play.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1622,7 +1618,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br google plus:g"]{
+.fas-br.google-plus-g{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/google-plus-g.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1631,7 +1627,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br googleplus"]{
+.fas-br.googleplus{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/google-plus.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1640,7 +1636,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br google"]{
+.fas-br.google{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/google.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1649,7 +1645,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br googlewallet"]{
+.fas-br.googlewallet{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/google-wallet.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1658,7 +1654,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br gratipay"]{
+.fas-br.gratipay{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/gratipay.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1667,7 +1663,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br grav"]{
+.fas-br.grav{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/grav.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1676,7 +1672,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br gripfire"]{
+.fas-br.gripfire{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/gripfire.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1685,7 +1681,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br grunt"]{
+.fas-br.grunt{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/grunt.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1694,7 +1690,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br guilded"]{
+.fas-br.guilded{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/guilded.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1703,7 +1699,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br gulp"]{
+.fas-br.gulp{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/gulp.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1712,7 +1708,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br hackernews"]{
+.fas-br.hackernews{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/hacker-news.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1721,7 +1717,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br hackerrank"]{
+.fas-br.hackerrank{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/hackerrank.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1730,7 +1726,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br hashnode"]{
+.fas-br.hashnode{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/hashnode.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1739,7 +1735,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br hips"]{
+.fas-br.hips{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/hips.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1747,7 +1743,7 @@
     mask-size: contain;
     mask-repeat: no-repeat;
 }
-[class *= "fas-br hireahelper"]{
+.fas-br.hireahelper{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/hire-a-helper.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1756,7 +1752,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br hive"]{
+.fas-br.hive{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/hive.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1765,7 +1761,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br hooli"]{
+.fas-br.hooli{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/hooli.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1774,7 +1770,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br hornbill"]{
+.fas-br.hornbill{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/hornbill.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1783,7 +1779,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br hotjar"]{
+.fas-br.hotjar{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/hotjar.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1792,7 +1788,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br houzz"]{
+.fas-br.houzz{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/houzz.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1801,7 +1797,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br html5"]{
+.fas-br.html5{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/html5.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1810,7 +1806,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br hubspot"]{
+.fas-br.hubspot{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/hubspot.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1819,7 +1815,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br ideal"]{
+.fas-br.ideal{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/ideal.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1829,7 +1825,7 @@
 }
 
 
-[class *= "fas-br imdb"]{
+.fas-br.imdb{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/imdb.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1838,7 +1834,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br instagram"]{
+.fas-br.instagram{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/instagram.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1847,7 +1843,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br instalod"]{
+.fas-br.instalod{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/instalod.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1856,7 +1852,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br intercom"]{
+.fas-br.intercom{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/intercom.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1865,7 +1861,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br ie"]{
+.fas-br.ie{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/internet-explorer.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1874,7 +1870,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br invision"]{
+.fas-br.invision{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/invision.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1883,7 +1879,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br ioxhost"]{
+.fas-br.ioxhost{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/ioxhost.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1892,7 +1888,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br guilded"]{
+.fas-br.guilded{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/guilded.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1901,7 +1897,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br itchio"]{
+.fas-br.itchio{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/itch-io.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1910,7 +1906,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br itunes-note"]{
+.fas-br.itunes-note{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/itunes-note.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1919,7 +1915,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br itunes"]{
+.fas-br.itunes{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/itunes.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1928,7 +1924,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br java"]{
+.fas-br.java{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/java.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1937,7 +1933,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br jedi-order"]{
+.fas-br.jedi-order{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/jedi-order.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1946,7 +1942,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br jenkins"]{
+.fas-br.jenkins{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/jenkins.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1955,7 +1951,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br jira"]{
+.fas-br.jira{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/jira.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1964,7 +1960,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br joget"]{
+.fas-br.joget{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/joget.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1973,7 +1969,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br joomla"]{
+.fas-br.joomla{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/joomla.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1982,7 +1978,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br jsfiddle"]{
+.fas-br.jsfiddle{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/jsfiddle.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1991,7 +1987,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br js"]{
+.fas-br.js{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/js.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2000,7 +1996,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br kaggle"]{
+.fas-br.kaggle{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/kaggle.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2009,7 +2005,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br keycdn"]{
+.fas-br.keycdn{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/keycdn.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2018,7 +2014,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br kickstarter k"]{
+.fas-br.kickstarter-k{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/kickstarter-k.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2027,7 +2023,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br kickstarter"]{
+.fas-br.kickstarter{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/kickstarter.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2036,7 +2032,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br korvue"]{
+.fas-br.korvue{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/korvue.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2045,7 +2041,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br laravel"]{
+.fas-br.laravel{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/laravel.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2054,7 +2050,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br lastfm"]{
+.fas-br.lastfm{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/lastfm.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2063,7 +2059,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br leanpub"]{
+.fas-br.leanpub{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/leanpub.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2072,7 +2068,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br less"]{
+.fas-br.less{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/less.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2081,7 +2077,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br line"]{
+.fas-br.line{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/line.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2090,7 +2086,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br linkedin-in"]{
+.fas-br.linkedin-in{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/linkedin-in.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2099,7 +2095,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br linkedin"]{
+.fas-br.linkedin{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/linkedin.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2108,7 +2104,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br linode"]{
+.fas-br.linode{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/linode.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2117,7 +2113,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br linux"]{
+.fas-br.linux{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/linux.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2126,7 +2122,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br lyft"]{
+.fas-br.lyft{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/lyft.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2135,7 +2131,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br magento"]{
+.fas-br.magento{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/magento.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2144,7 +2140,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br mailchimp"]{
+.fas-br.mailchimp{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/mailchimp.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2153,7 +2149,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br mandalorian"]{
+.fas-br.mandalorian{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/mandalorian.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2162,7 +2158,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br markdown"]{
+.fas-br.markdown{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/markdown.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2171,7 +2167,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br mastodon"]{
+.fas-br.mastodon{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/mastodon.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2180,7 +2176,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br maxcdn"]{
+.fas-br.maxcdn{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/maxcdn.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2189,7 +2185,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br mdb"]{
+.fas-br.mdb{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/mdb.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2198,7 +2194,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br medapps"]{
+.fas-br.medapps{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/medapps.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2207,7 +2203,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br medium"]{
+.fas-br.medium{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/medium.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2216,7 +2212,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br medrt"]{
+.fas-br.medrt{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/medrt.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2225,7 +2221,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br meetup"]{
+.fas-br.meetup{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/meetup.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2234,7 +2230,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br megaport"]{
+.fas-br.megaport{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/megaport.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2243,7 +2239,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br mendeley"]{
+.fas-br.mendeley{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/mendeley.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2252,7 +2248,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br meta"]{
+.fas-br.meta{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/meta.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2261,7 +2257,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br microblog"]{
+.fas-br.microblog{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/microblog.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2270,7 +2266,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br microsoft"]{
+.fas-br.microsoft{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/microsoft.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2279,7 +2275,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br mixcloud"]{
+.fas-br.mixcloud{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/mixcloud.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2288,7 +2284,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br mixer"]{
+.fas-br.mixer{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/mixer.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2297,7 +2293,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br mix"]{
+.fas-br.mix{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/mix.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2306,7 +2302,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br mizuni"]{
+.fas-br.mizuni{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/mizuni.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2315,7 +2311,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br modx"]{
+.fas-br.modx{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/modx.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2324,7 +2320,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br monero"]{
+.fas-br.monero{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/mondero.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2333,7 +2329,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br napster"]{
+.fas-br.napster{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/napster.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2342,7 +2338,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br neos"]{
+.fas-br.neos{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/neos.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2351,7 +2347,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br nfc directional"]{
+.fas-br.nfc-directional{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/nfc-directional.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2360,7 +2356,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br nfc symbol"]{
+.fas-br.nfc-symbol{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/nfc-symbol.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2369,7 +2365,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br nimblr"]{
+.fas-br.nimblr{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/nimblr.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2378,7 +2374,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br nodejs"]{
+.fas-br.nodejs{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/node-js.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2387,7 +2383,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br node"]{
+.fas-br.node{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/node.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2396,7 +2392,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br npm"]{
+.fas-br.npm{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/npm.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2405,7 +2401,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br ns8"]{
+.fas-br.ns8{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/ns8.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2414,7 +2410,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br nutritionix"]{
+.fas-br.nutritionix{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/nutritionix.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2423,7 +2419,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br octopus-deploy"]{
+.fas-br.octopus-deploy{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/octopus-deploy.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2432,7 +2428,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br odnoklassniki"]{
+.fas-br.odnoklassniki{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/odnoklassniki.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2441,7 +2437,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br odysee"]{
+.fas-br.odysee{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/odysee.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2450,7 +2446,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br old-republic"]{
+.fas-br.old-republic{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/old-republic.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2459,7 +2455,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br opencart"]{
+.fas-br.opencart{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/opencart.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2468,7 +2464,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br openid"]{
+.fas-br.openid{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/openid.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2477,7 +2473,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br opera"]{
+.fas-br.opera{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/opera.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2486,7 +2482,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br optin-monster"]{
+.fas-br.optin-monster{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/optin-monster.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2495,7 +2491,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br orcid"]{
+.fas-br.orcid{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/orcid.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2504,7 +2500,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br osi"]{
+.fas-br.osi{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/osi.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2513,7 +2509,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br padlet"]{
+.fas-br.padlet{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/padlet.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2522,7 +2518,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br page4"]{
+.fas-br.page4{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/page4.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2531,7 +2527,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br pagelines"]{
+.fas-br.pagelines{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/pagelines.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2540,7 +2536,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br palfed"]{
+.fas-br.palfed{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/palfed.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2549,7 +2545,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br patreon"]{
+.fas-br.patreon{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/patreon.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2558,7 +2554,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br paypal"]{
+.fas-br.paypal{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/paypal.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2567,7 +2563,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br perbyte"]{
+.fas-br.perbyte{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/perbyte.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2576,7 +2572,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br periscope"]{
+.fas-br.periscope{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/periscope.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2585,7 +2581,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br phabricator"]{
+.fas-br.phabricator{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/phabricator.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2594,7 +2590,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br phoenix framework"]{
+.fas-br.phoenix-framework{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/phoenix-framework.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2603,7 +2599,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br phoenix squadron"]{
+.fas-br.phoenix-squadron{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/phoenix-squadron.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2612,7 +2608,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br php"]{
+.fas-br.php{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/php.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2621,7 +2617,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br piedpiper alt"]{
+.fas-br.piedpiper-alt{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/pied-piper-alt.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2630,7 +2626,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br piedpiper hat"]{
+.fas-br.piedpiper-hat{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/pied-piper-hat.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2639,7 +2635,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br piedpiper pp"]{
+.fas-br.piedpiper-pp{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/pied-piper-pp.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2648,7 +2644,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br piedpiper"]{
+.fas-br.piedpiper{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/pied-piper.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2657,7 +2653,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br pinterest-p"]{
+.fas-br.pinterest-p{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/pinterest-p.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2666,7 +2662,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br pinterest"]{
+.fas-br.pinterest{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/pinterest.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2675,7 +2671,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br pix"]{
+.fas-br.pix{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/pix.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2684,7 +2680,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br playstation"]{
+.fas-br.playstation{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/playstation.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2693,7 +2689,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br product-hunt"]{
+.fas-br.product-hunt{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/product-hunt.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2702,7 +2698,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br pushed"]{
+.fas-br.pushed{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/pushed.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2711,7 +2707,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br python"]{
+.fas-br.python{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/python.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2720,7 +2716,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br qq"]{
+.fas-br.qq{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/qq.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2729,7 +2725,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br quora"]{
+.fas-br.quora{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/quora.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2738,7 +2734,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br quinscape"]{
+.fas-br.quinscape{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/quinscape.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2747,7 +2743,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br rasp-pi"]{
+.fas-br.rasp-pi{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/raspberry-pi.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2756,7 +2752,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br ravelry"]{
+.fas-br.ravelry{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/ravelry.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2765,7 +2761,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br react-europe"]{
+.fas-br.react-europe{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/reacteurope.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2774,7 +2770,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br react"]{
+.fas-br.react{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/react.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2783,7 +2779,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br readme"]{
+.fas-br.readme{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/readme.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2792,7 +2788,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br rebel"]{
+.fas-br.rebel{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/rebel.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2801,7 +2797,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br reddit alien"]{
+.fas-br.reddit-alien{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/reddit-alien.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2810,7 +2806,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br reddit"]{
+.fas-br.reddit{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/reddit.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2819,7 +2815,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br redhat"]{
+.fas-br.redhat{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/redhat.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2828,7 +2824,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br red-river"]{
+.fas-br.red-river{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/red-river.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2837,7 +2833,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br renren"]{
+.fas-br.renren{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/renren.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2846,7 +2842,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br replyd"]{
+.fas-br.replyd{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/replyd.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2855,7 +2851,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br researchgate"]{
+.fas-br.researchgate{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/researchgate.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2864,7 +2860,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br resolving"]{
+.fas-br.resolving{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/resolving.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2873,7 +2869,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br rev"]{
+.fas-br.rev{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/rev.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2882,7 +2878,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br rocketchat"]{
+.fas-br.rocketchat{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/rocketchat.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2891,7 +2887,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br rockrms"]{
+.fas-br.rockrms{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/rockrms.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2900,7 +2896,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br r-project"]{
+.fas-br.r-project{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/r-project.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2909,7 +2905,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br rust"]{
+.fas-br.rust{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/rust.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2918,7 +2914,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br safari"]{
+.fas-br.safari{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/safari.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2927,7 +2923,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br salesforce"]{
+.fas-br.salesforce{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/salesforce.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2936,7 +2932,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br sass"]{
+.fas-br.sass{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/sass.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2945,7 +2941,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br schlix"]{
+.fas-br.schlix{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/schlix.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2954,7 +2950,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br screenpal"]{
+.fas-br.screenpal{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/screenpal.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2963,7 +2959,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br scribd"]{
+.fas-br.scribd{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/scribd.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2972,7 +2968,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br searchengin"]{
+.fas-br.searchengin{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/searchengin.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2981,7 +2977,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br sellcast"]{
+.fas-br.sellcast{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/sellcast.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2990,7 +2986,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br sellsy"]{
+.fas-br.sellsy{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/sellsy.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -2999,7 +2995,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br servicestack"]{
+.fas-br.servicestack{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/servicestack.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3008,7 +3004,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br shirtsinbulk"]{
+.fas-br.shirtsinbulk{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/shirtsinbulk.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3017,7 +3013,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br shopify"]{
+.fas-br.shopify{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/shopify.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3026,7 +3022,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br shopware"]{
+.fas-br.shopware{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/shopware.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3035,7 +3031,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br simplybuilt"]{
+.fas-br.simplybuilt{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/simplybuilt.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3044,7 +3040,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br sistrix"]{
+.fas-br.sistrix{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/sistrix.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3053,7 +3049,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br sith"]{
+.fas-br.sith{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/sith.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3062,7 +3058,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br sitrox"]{
+.fas-br.sitrox{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/sitrox.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3071,7 +3067,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br sketch"]{
+.fas-br.sketch{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/sketch.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3080,7 +3076,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br skyatlas"]{
+.fas-br.skyatlas{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/skyatlas.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3089,7 +3085,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br skype"]{
+.fas-br.skype{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/skype.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3098,7 +3094,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br slack"]{
+.fas-br.slack{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/slack.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3107,7 +3103,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br slideshare"]{
+.fas-br.slideshare{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/slideshare.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3116,7 +3112,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br snapchat"]{
+.fas-br.snapchat{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/snapchat.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3125,7 +3121,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br soundcloud"]{
+.fas-br.soundcloud{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/soundcloud.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3134,7 +3130,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br sourcetree"]{
+.fas-br.sourcetree{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/sourcetree.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3143,7 +3139,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br space-awesome"]{
+.fas-br.space-awesome{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/space-awesome.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3152,7 +3148,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br speakap"]{
+.fas-br.speakap{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/speakap.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3161,7 +3157,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br speaker-deck"]{
+.fas-br.speaker-deck{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/speaker-deck.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3170,7 +3166,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br spotify"]{
+.fas-br.spotify{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/spotify.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3179,7 +3175,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br square-behance"]{
+.fas-br.square-behance{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-behance.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3188,7 +3184,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br square-dribbble"]{
+.fas-br.square-dribbble{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-dribbble.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3197,7 +3193,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br square-facebook"]{
+.fas-br.square-facebook{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-facebook.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3206,7 +3202,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br square-fontawesome-stroke"]{
+.fas-br.square-fontawesome-stroke{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-font-awesome-stroke.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3215,7 +3211,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br square-fontawesome"]{
+.fas-br.square-fontawesome{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-font-awesome.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3224,7 +3220,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br square-github"]{
+.fas-br.square-github{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-github.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3233,7 +3229,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br square-gitlab"]{
+.fas-br.square-gitlab{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-gitlab.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3242,7 +3238,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br square-git"]{
+.fas-br.square-git{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-git.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3251,7 +3247,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br square-googleplus"]{
+.fas-br.square-googleplus{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-google-plus.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3260,7 +3256,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br square-hacker-news"]{
+.fas-br.square-hacker-news{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-hacker-news.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3269,7 +3265,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br square-instagram"]{
+.fas-br.square-instagram{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-instagram.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3278,7 +3274,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br square-js"]{
+.fas-br.square-js{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-js.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3287,7 +3283,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br square-lastfm"]{
+.fas-br.square-lastfm{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-lastfm.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3296,7 +3292,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br square-odnoklassniki"]{
+.fas-br.square-odnoklassniki{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-odnoklassniki.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3305,7 +3301,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br square-pied-piper"]{
+.fas-br.square-pied-piper{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/sith.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3314,7 +3310,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br square-pinterest"]{
+.fas-br.square-pinterest{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-pinterest.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3323,7 +3319,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br square-reddit"]{
+.fas-br.square-reddit{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-reddit.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3332,7 +3328,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br square-snapchat"]{
+.fas-br.square-snapchat{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-snapchat.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3341,7 +3337,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br squarespace"]{
+.fas-br.squarespace{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/squarespace.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3350,7 +3346,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br square-steam"]{
+.fas-br.square-steam{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-steam.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3359,7 +3355,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br square-threads"]{
+.fas-br.square-threads{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-threads.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3368,7 +3364,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br square-tumblr"]{
+.fas-br.square-tumblr{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-tumblr.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3377,7 +3373,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br square-twitter"]{
+.fas-br.square-twitter{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-twitter.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3386,7 +3382,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br square-viadeo"]{
+.fas-br.square-viadeo{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-viadeo.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3395,7 +3391,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br square-vimeo"]{
+.fas-br.square-vimeo{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-vimeo.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3404,7 +3400,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br square-whatsapp"]{
+.fas-br.square-whatsapp{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-whatsapp.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3413,7 +3409,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br square-xing"]{
+.fas-br.square-xing{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-xing.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3422,7 +3418,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br square-xtwitter"]{
+.fas-br.square-xtwitter{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-x-twitter.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3431,7 +3427,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br square-youtube"]{
+.fas-br.square-youtube{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-youtube.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3440,7 +3436,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br stackexchange"]{
+.fas-br.stackexchange{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/stack-exchange.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3449,7 +3445,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br stackoverflow"]{
+.fas-br.stackoverflow{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/stack-overflow.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3458,7 +3454,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br stackpath"]{
+.fas-br.stackpath{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/stackpath.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3467,7 +3463,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br staylinked"]{
+.fas-br.staylinked{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/staylinked.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3476,7 +3472,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br steam"]{
+.fas-br.steam{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/steam.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3485,7 +3481,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br steam-symbol"]{
+.fas-br.steam-symbol{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/steam-symbol.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3494,7 +3490,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br sticker-mule"]{
+.fas-br.sticker-mule{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/sticker-mule.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3503,7 +3499,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br strava"]{
+.fas-br.strava{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/strava.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3512,7 +3508,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br stripes"]{
+.fas-br.stripes{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/stripes.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3521,7 +3517,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br stripe"]{
+.fas-br.stripe{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/stripe.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3530,7 +3526,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br stubber"]{
+.fas-br.stubber{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/stubber.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3539,7 +3535,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br studiovinari"]{
+.fas-br.studiovinari{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/studiovinari.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3548,7 +3544,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br stumbleupon-circle"]{
+.fas-br.stumbleupon-circle{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/stumbleupon-circle.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3557,7 +3553,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br stumbleupon"]{
+.fas-br.stumbleupon{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/stumbleupon.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3566,7 +3562,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br superpowers"]{
+.fas-br.superpowers{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/superpowers.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3575,7 +3571,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br supple"]{
+.fas-br.supple{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/supple.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3584,7 +3580,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br suse"]{
+.fas-br.suse{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/suse.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3593,7 +3589,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br swift"]{
+.fas-br.swift{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/swift.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3602,7 +3598,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br symfony"]{
+.fas-br.symfony{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/symfony.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3611,7 +3607,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br teamspeak"]{
+.fas-br.teamspeak{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/teamspeak.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3620,7 +3616,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br telegram"]{
+.fas-br.telegram{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/telegram.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3629,7 +3625,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br tencent-weibo"]{
+.fas-br.tencent-weibo{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/tencent-weibo.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3638,7 +3634,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br themeco"]{
+.fas-br.themeco{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/themeco.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3647,7 +3643,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br themeisle"]{
+.fas-br.themeisle{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/themeisle.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3656,7 +3652,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br the-red-yeti"]{
+.fas-br.the-red-yeti{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/the-red-yeti.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3665,7 +3661,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br think-peaks"]{
+.fas-br.think-peaks{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/think-peaks.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3674,7 +3670,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br threads"]{
+.fas-br.threads{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/threads.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3683,7 +3679,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br tiktok"]{
+.fas-br.tiktok{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/tiktok.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3692,7 +3688,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br trade-federation"]{
+.fas-br.trade-federation{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/trade-federation.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3701,7 +3697,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br trello"]{
+.fas-br.trello{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/trello.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3710,7 +3706,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br tumblr"]{
+.fas-br.tumblr{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/tumblr.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3719,7 +3715,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br twitch"]{
+.fas-br.twitch{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/twitch.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3728,7 +3724,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br twitter"]{
+.fas-br.twitter{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/twitter.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3737,7 +3733,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br typo3"]{
+.fas-br.typo3{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/typo3.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3746,7 +3742,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br uber"]{
+.fas-br.uber{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/uber.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3755,7 +3751,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br ubuntu"]{
+.fas-br.ubuntu{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/ubuntu.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3764,7 +3760,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br uikit"]{
+.fas-br.uikit{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/uikit.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3773,7 +3769,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br umbraco"]{
+.fas-br.umbraco{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/umbraco.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3782,7 +3778,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br uncharted"]{
+.fas-br.uncharted{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/uncharted.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3791,7 +3787,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br uniregistry"]{
+.fas-br.uniregistry{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/uniregistry.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3800,7 +3796,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br unity"]{
+.fas-br.unity{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/unity.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3809,7 +3805,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br unsplash"]{
+.fas-br.unsplash{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/unsplash.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3818,7 +3814,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br untapped"]{
+.fas-br.untapped{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/untapped.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3827,7 +3823,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br ups"]{
+.fas-br.ups{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/ups.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3836,7 +3832,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br usps"]{
+.fas-br.usps{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/usps.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3845,7 +3841,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br ussunnah"]{
+.fas-br.ussunnah{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/ussunnah.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3854,7 +3850,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br vaadin"]{
+.fas-br.vaadin{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/vaadin.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3863,7 +3859,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br viacoin"]{
+.fas-br.viacoin{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/viacoin.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3872,7 +3868,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br viadeo"]{
+.fas-br.viadeo{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/viadeo.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3881,7 +3877,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br viber"]{
+.fas-br.viber{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/viber.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3890,7 +3886,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br vimeo"]{
+.fas-br.vimeo{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/vimeo.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3899,7 +3895,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br vimeo-v"]{
+.fas-br.vimeo-v{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/vimeo-v.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3908,7 +3904,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br vine"]{
+.fas-br.vine{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/vine.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3917,7 +3913,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br vk"]{
+.fas-br.vk{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/vk.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3926,7 +3922,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br vnv"]{
+.fas-br.vnv{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/vnv.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3935,7 +3931,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br vuejs"]{
+.fas-br.vuejs{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/vuejs.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3944,7 +3940,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br watchman-monitoring"]{
+.fas-br.watchman-monitoring{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/watchman-monitoring.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3953,7 +3949,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br waze"]{
+.fas-br.waze{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/waze.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3962,7 +3958,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br weebly"]{
+.fas-br.weebly{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/weebly.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3971,7 +3967,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br weibo"]{
+.fas-br.weibo{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/weibo.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3980,7 +3976,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br weixin"]{
+.fas-br.weixin{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/weixin.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3989,7 +3985,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br whatsapp"]{
+.fas-br.whatsapp{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/whatsapp.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -3998,7 +3994,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br whmcs"]{
+.fas-br.whmcs{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/whmcs.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -4007,7 +4003,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br wikipedia-w"]{
+.fas-br.wikipedia{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/wikipedia-w.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -4016,7 +4012,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br windows"]{
+.fas-br.windows{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/windows.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -4025,7 +4021,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br wirsinhandwerk"]{
+.fas-br.wirsinhandwerk{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/wirsindhandwerk.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -4034,7 +4030,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br wix"]{
+.fas-br.wix{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/wix.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -4043,7 +4039,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br wizardsofthecoast"]{
+.fas-br.wizardsofthecoast{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/wizards-of-the-coast.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -4052,7 +4048,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br wodu"]{
+.fas-br.wodu{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/wodu.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -4061,7 +4057,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br wolfpack-battalion"]{
+.fas-br.wolfpack-battalion{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/wolf-pack-battalion.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -4070,7 +4066,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br wordpress-simple"]{
+.fas-br.wordpress-simple{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/wordpress-simple.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -4079,7 +4075,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br wordpress"]{
+.fas-br.wordpress{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/wordpress.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -4088,7 +4084,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br wpbeginner"]{
+.fas-br.wpbeginner{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/wpbeginner.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -4097,7 +4093,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br wpexplorer"]{
+.fas-br.wpexplorer{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/wpexplorer.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -4106,7 +4102,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br wpforms"]{
+.fas-br.wpforms{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/wpforms.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -4115,16 +4111,16 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br wpresser"]{
-    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/wpresser.svg');
+.fas-br.wpressr{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/wpressr.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
-    mask-image: url('../../../icons/fontawesome/web/svgs/brands/wpresser.svg');
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/wpressr.svg');
     mask-size: contain;
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br xbox"]{
+.fas-br.xbox{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/xbox.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -4133,7 +4129,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br xing"]{
+.fas-br.xing{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/xing.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -4142,7 +4138,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br x-twitter"]{
+.fas-br.x-twitter{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/x-twitter.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -4151,7 +4147,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br yahoo"]{
+.fas-br.yahoo{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/yahoo.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -4160,7 +4156,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br yammer"]{
+.fas-br.yammer{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/yammer.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -4169,7 +4165,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br yandex-international"]{
+.fas-br.yandex-international{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/yandex-international.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -4178,7 +4174,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br yandex"]{
+.fas-br.yandex{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/yandex.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -4187,7 +4183,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br yarn"]{
+.fas-br.yarn{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/yarn.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -4196,7 +4192,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br y-combinator"]{
+.fas-br.y-combinator{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/y-combinator.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -4205,7 +4201,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br yelp"]{
+.fas-br.yelp{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/yelp.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -4214,7 +4210,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br yoast"]{
+.fas-br.yoast{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/yoast.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -4223,7 +4219,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br youtube"]{
+.fas-br.youtube{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/youtube.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -4232,7 +4228,7 @@
     mask-repeat: no-repeat;
 }
 
-[class *= "fas-br zhihu"]{
+.fas-br.zhihu{
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/zhihu.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;

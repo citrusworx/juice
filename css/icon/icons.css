@@ -1,5 +1,7 @@
 @import url('material/material.css');
-@import url('fontawesome/brands.css');
+@import url('fontawesome/brands.css'); /* Fas lib 1 of 3 */
+@import url('fontawesome/regular.css'); /* Fas lib 2 of 3 */
+@import url('fontawesome/solid.css'); /* Fas lib 3 of 3 */
 @import url('beryl/beryl.css');
 @import url('color/color.css');
 @import url('size/size.css');
