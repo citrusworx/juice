@@ -1432,3 +1432,2811 @@
     mask-size: contain;
     mask-repeat: no-repeat;
 }
+
+[class *= "fas-br galactic-republic"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/galactic-republic.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/galactic-republic.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas-br galactic-senate"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/galactic-senate.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/galactic-senate.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas-br get-pocket"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/get-pocket.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/get-pocket.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas brand gg circle"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/gg-circle.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/gg-circle.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas brand gg"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/gg.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/gg.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas brand git alt"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/git-alt.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/git-alt.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas brand git"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/git.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/git.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas-br github alt"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/github-alt.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/github-alt.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas-br github"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/github.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/github.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br gitkraken"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/gitkraken.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/gitkraken.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br gitlab"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/gitlab.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/gitlab.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br gitter"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/gitter.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/gitter.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br glide g"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/glide-g.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/glide-g.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br glide"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/glide.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/glide.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br gofore"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/gofore.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/gofore.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br golang"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/golang.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/golang.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br goodreads g"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/goodreads-g.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/goodreads-g.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br goodreads"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/goodreads.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/goodreads.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br googledrive"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/google-drive.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/google-drive.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br googlepay"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/google-pay.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/google-pay.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br googleplay"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/google-play.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/google-play.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br google plus:g"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/google-plus-g.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/google-plus-g.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br googleplus"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/google-plus.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/google-plus.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br google"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/google.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/google.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br googlewallet"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/google-wallet.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/google-wallet.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br gratipay"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/gratipay.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/gratipay.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br grav"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/grav.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/grav.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br gripfire"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/gripfire.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/gripfire.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br grunt"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/grunt.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/grunt.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br guilded"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/guilded.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/guilded.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br gulp"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/gulp.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/gulp.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br hackernews"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/hacker-news.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/hacker-news.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br hackerrank"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/hackerrank.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/hackerrank.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br hashnode"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/hashnode.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/hashnode.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br hips"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/hips.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/hips.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+[class *= "fas br hireahelper"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/hire-a-helper.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/hire-a-helper.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br hive"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/hive.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/hive.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br hooli"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/hooli.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/hooli.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br hornbill"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/hornbill.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/hornbill.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br hotjar"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/hotjar.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/hotjar0.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br houzz"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/houzz.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/houzz.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br html5"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/html5.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/html5.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br hubspot"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/hubspot.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/hubspot.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br ideal"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/ideal.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/ideal.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+
+[class *= "fas br imdb"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/imdb.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/imdb.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br instagram"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/instagram.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/instagram.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br instalod"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/instalod.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/instalod.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br intercom"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/intercom.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/intercom.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br ie"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/internet-explorer.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/internet-explorer.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br invision"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/invision.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/invision.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br ioxhost"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/ioxhost.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/ioxhost.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br guilded"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/guilded.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/guilded.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br itchio"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/itch-io.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/itch-io.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br itunes-note"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/itunes-note.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/itunes-note.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br itunes"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/itunes.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/itunes.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br java"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/java.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/java.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br jedi-order"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/jedi-order.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/jedi-order.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br jenkins"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/jenkins.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/jenkins.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br jira"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/jira.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/jira.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br joget"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/joget.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/joget.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br joomla"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/joomla.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/joomla.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br jsfiddle"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/jsfiddle.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/jsfiddle.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br js"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/js.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/js.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br kaggle"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/kaggle.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/kaggle.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br keycdn"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/keycdn.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/keycdn.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br kickstarter k"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/kickstarter-k.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/kickstarter-k.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br kickstarter"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/kickstarter.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/kickstarter.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br korvue"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/korvue.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/korvue.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br laravel"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/laravel.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/laravel.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br lastfm"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/lastfm.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/lastfm.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br leanpub"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/leanpub.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/leanpub.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br less"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/less.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/less.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br line"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/line.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/line.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br linkedin-in"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/linkedin-in.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/linkedin-in.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br linkedin"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/linkedin.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/linkedin.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br linode"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/linode.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/linode.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br linux"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/linux.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/linux.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br lyft"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/lyft.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/lyft.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br magento"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/magento.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/magento.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br mailchimp"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/mailchimp.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/mailchimp.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br mandalorian"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/mandalorian.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/mandalorian.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br markdown"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/markdown.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/markdown.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br mastodon"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/mastodon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/mastodon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br maxcdn"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/maxcdn.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/maxcdn.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br mdb"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/mdb.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/mdb.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br medapps"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/medapps.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/medapps.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br medium"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/medium.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/medium.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br medrt"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/medrt.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/medrt.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br meetup"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/meetup.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/meetup.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br megaport"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/megaport.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/megaport.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br mendeley"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/mendeley.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/mendeley.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br meta"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/meta.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/meta.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br microblog"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/microblog.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/microblog.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br microsoft"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/microsoft.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/microsoft.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br mixcloud"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/mixcloud.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/mixcloud.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br mixer"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/mixer.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/mixer.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br mix"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/mix.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/mix.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br mizuni"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/mizuni.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/mizuni.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br modx"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/modx.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/modx.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br monero"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/mondero.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/monero.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br napster"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/napster.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/napster.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br neos"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/neos.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/neos.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br nfc directional"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/nfc-directional.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/nfc-directional.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br nfc symbol"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/nfc-symbol.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/nfc-symbol.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br nimblr"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/nimblr.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/nimblr.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br nodejs"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/node-js.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/node-js.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br node"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/node.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/node.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br npm"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/npm.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/npm.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br ns8"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/ns8.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/ns8.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br nutritionix"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/nutritionix.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/nutritionix.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br octopus-deploy"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/octopus-deploy.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/octopus-deploy.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br odnoklassniki"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/odnoklassniki.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/odnoklassniki.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br odysee"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/odysee.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/odysee.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br old-republic"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/old-republic.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/old-republic.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br opencart"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/opencart.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/opencart.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br openid"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/openid.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/openid.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br opera"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/opera.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/opera.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br optin-monster"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/optin-monster.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/optin-monster.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br orcid"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/orcid.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/orcid.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br osi"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/osi.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/osi.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br padlet"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/padlet.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/padlet.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br page4"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/page4.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/page4.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br pagelines"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/pagelines.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/pagelines.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br palfed"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/palfed.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/palfed.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br patreon"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/patreon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/patreon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br paypal"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/paypal.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/paypal.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br perbyte"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/perbyte.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/perbyte.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br periscope"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/periscope.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/periscope.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br phabricator"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/phabricator.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/phabricator.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br phoenix framework"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/phoenix-framework.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/phoenix-framework.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br phoenix squadron"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/phoenix-squadron.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/phoenix-squadron.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br php"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/php.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/php.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br piedpiper alt"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/pied-piper-alt.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/pied-piper-alt.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br piedpiper hat"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/pied-piper-hat.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/pied-piper-hat.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br piedpiper pp"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/pied-piper-pp.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/pied-piper-pp.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br piedpiper"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/pied-piper.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/napster.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br pinterest-p"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/pinterest-p.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/pinterest-p.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br pinterest"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/pinterest.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/pinterest.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br pix"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/pix.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/pix.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br playstation"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/playstation.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/playstation.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br product-hunt"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/product-hunt.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/product-hunt.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br pushed"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/pushed.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/pushed.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br python"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/python.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/python.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br qq"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/qq.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/qq.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br quora"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/quora.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/quora.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br quinscape"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/quinscape.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/quinscape.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br rasp-pi"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/raspberry-pi.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/raspberry-pi.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br ravelry"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/ravelry.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/ravelry.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br react-europe"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/reacteurope.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/reacteurope.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br react"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/react.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/react.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br readme"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/readme.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/readme.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br rebel"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/rebel.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/rebel.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br reddit alien"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/reddit-alien.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/reddit-alien.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br reddit"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/reddit.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/reddit.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br redhat"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/redhat.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/redhat.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br red-river"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/red-river.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/red-river.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br renren"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/renren.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/renren.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br replyd"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/replyd.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/replyd.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br researchgate"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/researchgate.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/researchgate.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br resolving"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/resolving.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/resolving.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br rev"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/rev.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/rev.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br rocketchat"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/rocketchat.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/rocketchat.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br rockrms"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/rockrms.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/rockrms.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br r-project"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/r-project.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/r-project.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br rust"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/rust.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/rust.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br safari"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/safari.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/safari.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br salesforce"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/salesforce.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/salesforce.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br sass"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/sass.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/sass.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br schlix"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/schlix.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/schlix.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br screenpal"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/screenpal.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/screenpal.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br scribd"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/scribd.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/scribd.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br searchengin"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/searchengin.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/searchengin.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br sellcast"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/sellcast.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/sellcast.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br sellsy"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/sellsy.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/sellsy.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br servicestack"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/servicestack.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/servicestack.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br shirtsinbulk"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/shirtsinbulk.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/shirtsinbulk.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br shopify"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/shopify.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/shopify.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br shopware"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/shopware.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/shopware.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br simplybuilt"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/simplybuilt.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/simplybuilt.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br sistrix"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/sistrix.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/sistrix.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br sith"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/sith.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/sith.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br sitrox"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/sitrox.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/sitrox.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br sketch"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/sketch.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/sketch.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br skyatlas"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/skyatlas.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/skyatlas.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br skype"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/skype.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/skype.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br slack"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/slack.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/slack.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br slideshare"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/slideshare.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/slideshare.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br snapchat"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/snapchat.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/snapchat.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br soundcloud"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/soundcloud.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/soundcloud.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br sourcetree"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/sourcetree.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/sourcetree.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br space-awesome"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/space-awesome.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/space-awesome.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br speakap"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/speakap.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/speakap.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br speaker-deck"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/speaker-deck.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/speaker-deck.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br spotify"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/spotify.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/spotify.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br square-behance"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-behance.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-behance.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br square-dribbble"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-dribbble.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-dribbble.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br square-facebook"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-facebook.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-facebook.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br square-fontawesome-stroke"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-font-awesome-stroke.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-font-awesome-stroke.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br square-fontawesome"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-font-awesome.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-font-awesome.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br square-github"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-github.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-github.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br square-gitlab"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-gitlab.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-gitlab.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br square-git"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-git.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-git.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br square-googleplus"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-google-plus.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-google-plus.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br square-hacker-news"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-hacker-news.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-hacker-news.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br square-instagram"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-instagram.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-instagram.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br square-js"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-js.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-js.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br square-lastfm"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-lastfm.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-lastfm.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br square-odnoklassniki"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-odnoklassniki.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-odnoklassniki.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br square-pied-piper"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/sith.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/sith.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br square-pinterest"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-pinterest.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-pinterest.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br square-reddit"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-reddit.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-reddit.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br square-snapchat"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-snapchat.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-snapchat.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br squarespace"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/squarespace.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/squarespace.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br square-steam"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-steam.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-steam.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br square-threads"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-threads.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-threads.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br square-tumblr"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-tumblr.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-tumblr.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br square-twitter"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-twitter.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-twitter.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br square-viadeo"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-viadeo.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-viadeo.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br square-vimeo"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-vimeo.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-vimeo.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br square-whatsapp"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-whatsapp.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-whatsapp.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br square-xing"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-xing.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-xing.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br square-xtwitter"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-x-twitter.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-x-twitter.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br square-youtube"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-youtube.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/square-youtube.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br stackexchange"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/stack-exchange.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/stack-exchange.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br stackoverflow"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/stack-overflow.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/stack-overflow.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br stackpath"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/stackpath.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/stackpath.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br staylinked"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/staylinked.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/staylinked.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br steam"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/steam.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/steam.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br steam-symbol"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/steam-symbol.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/steam-symbol.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br sticker-mule"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/sticker-mule.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/sticker-mule.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br strava"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/strava.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/strava.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br stripes"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/stripes.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/stripes.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br stripe"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/stripe.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/stripe.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br stubber"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/stubber.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/stubber.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br studiovinari"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/studiovinari.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/studiovinari.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br stumbleupon-circle"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/stumbleupon-circle.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/stumbleupon-circle.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br stumbleupon"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/stumbleupon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/stumbleupon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br superpowers"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/superpowers.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/superpowers.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br supple"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/supple.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/supple.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br suse"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/suse.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/suse.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br swift"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/swift.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/swift.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br symfony"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/symfony.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/symfony.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br teamspeak"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/teamspeak.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/teamspeak.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br telegram"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/telegram.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/telegram.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br tencent-weibo"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/tencent-weibo.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/tencent-weibo.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br themeco"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/themeco.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/themeco.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br themeisle"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/themeisle.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/themeisle.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br the-red-yeti"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/the-red-yeti.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/the-red-yeti.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br think-peaks"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/think-peaks.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/think-peaks.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br threads"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/threads.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/threads.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br tiktok"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/tiktok.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/tiktok.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br trade-federation"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/trade-federation.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/trade-federation.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br trello"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/trello.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/trello.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br tumblr"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/tumblr.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/tumblr.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br twitch"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/twitch.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/twitch.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br twitter"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/twitter.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/twitter.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br typo3"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/typo3.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/typo3.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br uber"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/uber.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/uber.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br ubuntu"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/ubuntu.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/ubuntu.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br uikit"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/uikit.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/uikit.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br umbraco"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/umbraco.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/umbraco.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br uncharted"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/uncharted.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/uncharted.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br uniregistry"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/uniregistry.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/uniregistry.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br unity"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/unity.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/unity.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br unsplash"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/unsplash.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/unsplash.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br untapped"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/untapped.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/untappd.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br ups"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/ups.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/ups.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br usps"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/usps.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/usps.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br ussunnah"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/ussunnah.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/ussunnah.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br vaadin"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/vaadin.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/vaadin.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br viacoin"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/viacoin.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/viacoin.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br viadeo"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/viadeo.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/viadeo.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br viber"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/viber.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/viber.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br vimeo"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/vimeo.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/vimeo.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br vimeo-v"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/vimeo-v.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/vimeo-v.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br vine"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/vine.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/vine.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br vk"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/vk.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/vk.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br vnv"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/vnv.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/vnv.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br vuejs"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/vuejs.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/vuejs.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br watchman-monitoring"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/watchman-monitoring.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/watchman-monitoring.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br waze"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/waze.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/waze.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br weebly"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/weebly.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/weebly.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br weibo"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/weibo.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/weibo.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br weixin"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/weixin.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/weixin.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br whatsapp"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/whatsapp.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/whatsapp.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br whmcs"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/whmcs.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/whmcs.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br wikipedia-w"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/wikipedia-w.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/wikipedia-w.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br windows"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/windows.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/windows.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br wirsinhandwerk"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/wirsindhandwerk.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/wirsindhandwerk.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br wix"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/wix.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/wix.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br wizardsofthecoast"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/wizards-of-the-coast.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/wizards-of-the-coast.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br wodu"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/wodu.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/wodu.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br wolfpack-battalion"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/wolf-pack-battalion.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/wolf-pack-battalion.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br wordpress-simple"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/wordpress-simple.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/wordpress-simple.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br wordpress"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/wordpress.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/wordpress.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br wpbeginner"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/wpbeginner.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/wpbeginner.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br wpexplorer"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/wpexplorer.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/wpexplorer.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br wpforms"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/wpforms.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/wpforms.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br wpresser"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/wpresser.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/wpresser.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br xbox"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/xbox.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/xbox.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br xing"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/xing.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/xing.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br x-twitter"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/x-twitter.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/x-twitter.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br yahoo"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/yahoo.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/yahoo.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br yammer"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/yammer.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/yammer.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br yandex-international"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/yandex-international.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/yandex-international.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br yandex"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/yandex.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/yandex.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br yarn"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/yarn.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/yarn.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br y-combinator"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/y-combinator.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/y-combinator.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br yelp"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/yelp.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/yelp.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br yoast"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/yoast.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/yoast.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br youtube"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/youtube.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/youtube.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+[class *= "fas br zhihu"]{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/brands/zhihu.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/brands/zhihu.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
