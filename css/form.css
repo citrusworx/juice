@@ -1,13 +1,13 @@
-[class *= "signup:name"]{
+.signup\:name{
     height: 5vh;
     width: 25vw;
     border: none;
 }
 
-[class *= "signup:name"]:valid{
+.signup\:name:valid{
     border: green 1px solid;
 }
 
-[class *= "signup:name"]:invalid{
+.signup\:name:invalid{
     border: red 1px solid;
 }

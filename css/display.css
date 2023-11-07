@@ -2,27 +2,23 @@
     display: inline;
 }
 
-[class *= "inline:block"]{
+.inline\:block{
     display: inline-block;
 }
 
-[class *= "il:block"]{
+.il\:block{
     display: inline-block;
 }
 
-[class *= "inline:flex"]{
+.inline\:flex{
     display: inline-flex;
 }
 
-[class *= "il:flex"]{
+.il\:flex{
     display: inline-flex;
 }
 
-[class *= "il:flex:box"]{
-    display: inline-flexbox;
-}
-
-.block {
+.block{
     display: block;
 }
 
@@ -38,6 +34,6 @@
     display: table;
 }
 
-[class *= "dis:none"]{
+.dis\:none{
     display: none;
 }

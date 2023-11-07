@@ -11,15 +11,15 @@
     z-index: -1;
 }
 
-[class *= "z:inherit"] {
+.z\:inherit {
     z-index: inherit;
 }
 
 
-[class *= "z:initial"] {
+.z\:initial {
     z-index: initial;
 }
 
-[class *= "z:unset"] {
+.z\:unset {
     z-index: unset;
 }

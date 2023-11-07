@@ -70,22 +70,22 @@
 
 
 /* Sizing */
-[class *= "txt:sm"]{
+.txt\:sm{
     font-size: 0.8rem;
 }
 
-[class *= "txt:md"]{
+.txt\:md{
     font-size: 1rem;
 }
 
-[class *= "text:lg"]{
+.text\:lg{
     font-size: 1.2rem;
 }
 
-[class *= "text:xlg"]{
+.text\:xlg{
     font-size: 1.5rem;
 }
 
-[class *= "text:xxlg"]{
+.text\:xxlg{
     font-size: 1.75rem;
 }

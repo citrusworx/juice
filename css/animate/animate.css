@@ -2,11 +2,11 @@
 @import url('gradial.css');/* Import Transition Styles */
 
 
-[class *= "fade:in"]{ 
+.fade\:in{ 
     animation: fadeIn 1s linear forwards;
 }
 
-[class *= "fade:out"]{
+.fade\:out{
     animation: fadeOut 1s linear forwards;
 }
 
@@ -15,12 +15,12 @@
     animation: blink 2.5s linear infinite;
 }
 
-[class *= "blink:slow"]{
+.blink\:slow{
     opacity: 0;
     animation: blink 3.5s linear infinite;
 }
 
-[class *= "blink:fast"]{
+.blink\:fast{
     opacity: 0;
     animation: blink 1.5s linear infinite;
 }

@@ -4,7 +4,7 @@
     padding: 0.2rem;
 }
 
-[class *= "p:rel-1"]{
+.p\:rel-1{
     padding: 0.2rem;
 }
 
@@ -13,7 +13,7 @@
     padding: 0.4rem;
 }
 
-[class *= "p:rel-2"]{
+.p\:rel-2{
     padding: 0.4rem;
 }
 

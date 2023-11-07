@@ -4,7 +4,7 @@ class MatIcon extends HTMLElement {
     }
 
     static get observedAttributes(){
-        return 'class';
+        return ['lib', 'name', 'color', 'class'];
     }
 
     connectedCallback(){
@@ -17,13 +17,15 @@ class MatIcon extends HTMLElement {
         }
     }
     render(){
-        const iconName = this.getAttribute('class') || '';
+        const iconClass = this.getAttribute('class') || '';
+        const iconLib = this.getAttribute('lib') || '';
+        const iconName = this.getAttribute('name') || '';
+        const iconColor = this.getAttribute('color') || '';
 
         this.innerHTML = `
-                <i class="${iconName}"></i>
+                <i class="mat ${iconName} ${iconColor} ${iconClass}"></i>
         `;
         }
-    
 }
 
 class FlatIcon extends HTMLElement {
@@ -32,7 +34,7 @@ class FlatIcon extends HTMLElement {
     }
 
     static get observedAttributes(){
-        return 'class';
+        return ['lib', 'name', 'color', 'class'];
     }
 
     connectedCallback(){
@@ -45,10 +47,13 @@ class FlatIcon extends HTMLElement {
         }
     }
     render(){
-        const iconName = this.getAttribute('class') || '';
+        const iconClass = this.getAttribute('class') || '';
+        const iconLib = this.getAttribute('lib') || '';
+        const iconName = this.getAttribute('name') || '';
+        const iconColor = this.getAttribute('color') || '';
 
         this.innerHTML = `
-                <i class="${iconName}"></i>
+                <i class="flat ${iconLib} ${iconName} ${iconColor} ${iconClass}"></i>
         `;
         }
     
@@ -60,7 +65,7 @@ class FontAwesomeIcon extends HTMLElement {
     }
 
     static get observedAttributes(){
-        return 'class';
+        return ['lib', 'name', 'color', 'class'];
     }
 
     connectedCallback(){
@@ -73,10 +78,44 @@ class FontAwesomeIcon extends HTMLElement {
         }
     }
     render(){
-        const iconName = this.getAttribute('class') || '';
+        const iconClass = this.getAttribute('class') || '';
+        const iconLib = this.getAttribute('lib') || '';
+        const iconName = this.getAttribute('name') || '';
+        const iconColor = this.getAttribute('color') || '';
 
         this.innerHTML = `
-                <i class="${iconName}"></i>
+                <i class="fas-${iconLib} ${iconName} ${iconColor} ${iconClass}"></i>
+        `;
+        }
+    
+}
+
+class IconFinder extends HTMLElement {
+    constructor() {
+        super();
+    }
+
+    static get observedAttributes(){
+        return ['lib', 'name', 'color', 'class'];
+    }
+
+    connectedCallback(){
+        this.render();
+    }
+     
+    attributeChangeCallback(name, value){
+        if(name === 'class'){
+            this.render();
+        }
+    }
+    render(){
+        const iconClass = this.getAttribute('class') || '';
+        const iconLib = this.getAttribute('lib') || '';
+        const iconName = this.getAttribute('name') || '';
+        const iconColor = this.getAttribute('color') || '';
+
+        this.innerHTML = `
+                <i class="icon-${iconLib} ${iconName} ${iconColor} ${iconClass}"></i>
         `;
         }
     
@@ -85,3 +124,4 @@ class FontAwesomeIcon extends HTMLElement {
 customElements.define('mat-icon', MatIcon);
 customElements.define('flat-icon', FlatIcon);
 customElements.define('fas-icon', FontAwesomeIcon);
+customElements.define('icon-finder', IconFinder);
