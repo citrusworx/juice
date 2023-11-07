@@ -23,7 +23,7 @@
 @import url('mobile/mobile.css'); /* Responsive Library 2 of 3 */
 @import url('tablet/tablet.css'); /* Responsive Library 3 of 3 */
 
-/* Set base stylings here */
+/* NORMALIZE.CSS is below */
 /* Box sizing rules */
 *,
 *::before,
@@ -69,7 +69,7 @@ ol[class] {
   list-style: none;
 }
 
-/* A elements that don't have a class get default styles */
+/* Elements that don't have a class get default styles */
 a:not([class]) {
   text-decoration-skip-ink: auto;
 }

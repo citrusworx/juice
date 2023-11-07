@@ -7,10 +7,10 @@
 
     <title>Component Maker</title>
 </head>
-<body>
+<body class="bg-black-100"">
     <div class="w-full h-5 bg-blue-800 list-none flex">
         <nav class="text-white text-light flex gr-3 ai-center center even">
-           <ul class="flex gr-3 ai-center center even list-none">
+           <ul class="flex gr-3 items:center center even list-none">
                 <li class="ml-5">Link item</li>
                 <li class="ml-5">Link item</li>
                 <li class="ml-5">Link item</li>
@@ -18,16 +18,16 @@
                 <li class="ml-5">Link item</li>
             </ul>
         </nav>
-        <div class="flex center ac-center gr-2 even">
-            <p class="ml-2">Some Description</p><br />
-            <p class="ml-2">Some Description</p><br />
-            <p class="ml-2">Some Description</p><br />
+        <div class="flex center content:center gr-2 even">
+            <p class="ml:2">Some Description</p><br />
+            <p class="ml:2">Some Description</p><br />
+            <p class="ml:2">Some Description</p><br />
         </div>
     </div>
 
     <div class="col:md:border w-full h-half ai-center bg-blue-green-500 anim:bg:alive" id="jumbotron container">
-        <div class="as-center" id="jumbotron">
-            <fas-icon lib="br" name="react" color="icon:sunset" class="::md turn"></fas-icon>
+        <div class="as-center my:25" id="jumbotron">
+            <fas-icon lib="br" name="react" color="icon:sunset" class="::xxlg fade:in"></fas-icon>
             <div id="heading container">
                 <h2 class="text:xxlg text-white">Berillium</h2>
              </div>
@@ -35,43 +35,45 @@
                 <span>A sweet buffet of design libraries, components, and logic.</span>
             </div>
             <div id="button container">
-                <button class="btn:primary h-4 w-8 bounce rounded:md text-white m:rel:-1">Click Here Please</button>
+                <button class="btn:primary h-4 w-8 bounce rounded:md text-white">Click Here Please</button>
             </div>
         </div>  
     </div >
 
     </div>
     <!-- Start of a section -->
-    <div class="flex col w-full ai-center">
-        <h2 class="my:1">Welcome to Berillium</h2>
+    <section class="bg-gray-100 flex col">
+    <div class="flex col w-full ai-center my:10">
+        <h2 class="">Welcome to Berillium</h2>
         <p>The new, massive library that offers flexible, modular design patterns that fit into any project with ease!</p>
         <p>PreMade Libraries incorporating and highlighting various aspects of the Berillium ecosystem</p>
         <p>Create a full-stack application from design to deploy</p>
     </div>
 
-    <div class="flex around m-5">
-        <div class="w-20 abs">
+    <div class="flex around my:5 row">
+        <div class="w-20 col">
             <h2 class="font-primary text-center">berilliumCSS</h2><br />
-            <mat-icon name="select checkbox" color="icon:blue-green-300" class="::md"></mat-icon><p class="lato center il:block">Pick and choose your needs</p><br />
-            <mat-icon name="select checkbox" color="icon:blue-green-300" class="::md"></mat-icon><p class="lato center il:block">Comes with a minify.js script</p><br />
-            <mat-icon name="select checkbox" color="icon:blue-green-300" class="::md"></mat-icon><p class="lato center il:block">with the FREE CLI tool</p><br />
+            <mat-icon name="select checkbox" color="icon:blue-green-300" class="::md"></mat-icon><p class="lato center il:block">Vanilla-First Design</p><br />
+            <mat-icon name="select checkbox" color="icon:blue-green-300" class="::md"></mat-icon><p class="lato center il:block">Pick your needs via CLI</p><br />
+            <mat-icon name="select checkbox" color="icon:blue-green-300" class="::md"></mat-icon><p class="lato center il:block">comes packed with specialty classes!</p><br />
         </div>
 
-        <div class="w-20">
+        <div class="w-20 col">
             <h2 class="font-primary text-center">berilliumUI</h2><br />
-            <mat-icon name="select checkbox" color="icon:blue-green-500" class="::md"></mat-icon><p class="lato center il:block">Pick and choose your needs</p><br />
-            <mat-icon name="select checkbox" color="icon:blue-green-500" class="::md"></mat-icon><p class="lato center il:block">Comes with a minify.js script</p><br />
-            <mat-icon name="select checkbox" color="icon:blue-green-500" class="::md"></mat-icon><p class="lato center il:block">with the FREE CLI tool</p><br />
+            <mat-icon name="select checkbox" color="icon:blue-green-500" class="::md"></mat-icon><p class="lato center il:block">Build infinite UIs</p><br />
+            <mat-icon name="select checkbox" color="icon:blue-green-500" class="::md"></mat-icon><p class="lato center il:block">No logic version</p><br />
+            <mat-icon name="select checkbox" color="icon:blue-green-500" class="::md"></mat-icon><p class="lato center il:block">with Logic version</p><br />
         </div>
 
-        <div class="w-20">
-            <h2 class="font-primary text-center">berilliumCMP</h2><br />
+        <div class="w-20 col">
+            <h2 class="font-primary text-center">berilliumCMS</h2><br />
             <span class="as-center">The last content management system you'll ever need use!</span><br />
-            <mat-icon name="select checkbox" color="icon:blue-green-900" class="::md"></mat-icon><p class="lato text-center il:block items:baseline">Pick and choose your needs</p><br />
-            <mat-icon name="select checkbox" color="icon:blue-green-900" class="::md"></mat-icon><p class="lato text-center il:block items:baseline">Comes with a minify.js script</p><br />
-            <mat-icon name="select checkbox" color="icon:blue-green-900" class="::md"></mat-icon><p class="lato text-center il:block items:baseline">with the FREE CLI tool</p><br />
+            <mat-icon name="select checkbox" color="icon:blue-green-900" class="::md"></mat-icon><p class="lato text-center il:block items:baseline">Beryl Application Repo Store (BARS)</p><br />
+            <mat-icon name="select checkbox" color="icon:blue-green-900" class="::md"></mat-icon><p class="lato text-center il:block items:baseline">Build any application</p><br />
+            <mat-icon name="select checkbox" color="icon:blue-green-900" class="::md"></mat-icon><p class="lato text-center il:block items:baseline">Heavy documentation :D</p><br />
         </div>
     </div>
+</section>
     <script src="/ui/vanilla/js/global.js"></script>
     <script src="/ui/vanilla/js/index.js"></script>
     <script src="/ui/vanilla/js/elements/icon/icon-custom.js"></script>

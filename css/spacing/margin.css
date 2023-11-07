@@ -1,6 +1,10 @@
 /* 
+    HOW TO USE THESE STYLES IN YOUR DOCS
+    
+    ex - m:rel:1 or m:rel:-1
+
     style                     type            value
-    m (l,r,t,b,x,y)      :    rel          :   [1-15]
+    m (l,r,t,b,x,y)      :    rel          :   [1-25] {perhaps go up to 50?}
     m (l,r,t,b,x,y)      :    v(h/w)       :   [1-15]
     m (l,r,t,b,x,y)      :    px           :   [1-50]   
 */
@@ -9,59 +13,354 @@
     FULL MARGIN STYLES
 */
 
-/* Relative */
+/* 
+        Relative 
+*/
 
-.m\:1 {
+/* Add */
+
+.m\:rel\:1 {
     margin: 0.2rem;
 }
 
-.m\:rel\:\-1{
-    margin: -0.2rem;
-}
-
-.m\:2 {
+.m\:rel\:2 {
     margin: 0.4rem;
 }
 
-.m\:\-2 {
-    margin: -0.4rem;
-}
-
-.m-3 {
+.m\:rel\:3 {
     margin: 0.6rem;
 }
 
-.m-4 {
+.m\:rel\:4 {
     margin: 0.8rem;
 }
 
-.m-5 {
+.m\:rel\:5 {
     margin: 1rem;
+}
+
+.m\:rel\:6 {
+    margin: 1.2rem;
+}
+
+.m\:rel\:7 {
+    margin: 1.4rem;
+}
+
+.m\:rel\:8 {
+    margin: 1.6rem;
+}
+
+.m\:rel\:9 {
+    margin: 1.8rem;
+}
+
+.m\:rel\:10 {
+    margin: 2rem;
+}
+
+.m\:rel\:11 {
+    margin: 2.2rem;
+}
+
+.m\:rel\:12 {
+    margin: 2.4rem;
+}
+
+.m\:rel\:13 {
+    margin: 2.6rem;
+}
+
+.m\:rel\:14 {
+    margin: 2.8rem;
+}
+
+.m\:rel\:15 {
+    margin: 3rem;
+}
+
+.m\:rel\:16 {
+    margin: 3.2rem;
+}
+
+.m\:rel\:17 {
+    margin: 3.4rem;
+}
+
+.m\:rel\:18 {
+    margin: 3.6rem;
+}
+
+.m\:rel\:19 {
+    margin: 3.8rem;
+}
+
+.m\:rel\:20 {
+    margin: 4rem;
+}
+
+.m\:rel\:21 {
+    margin: 4.2rem;
+}
+
+.m\:rel\:22 {
+    margin: 4.4rem;
+}
+
+.m\:rel\:23 {
+    margin: 4.6rem;
+}
+
+.m\:rel\:24 {
+    margin: 4.8rem;
+}
+
+.m\:rel\:25 {
+    margin: 5rem;
+}
+
+/* Remove */
+.m\:rel\:\-1 {
+    margin: -0.2rem;
+}
+
+.m\:rel\:\-2 {
+    margin: -0.4rem;
+}
+
+.m\:rel\:\-3 {
+    margin: -0.6rem;
+}
+
+.m\:rel\:\-4 {
+    margin: -0.8rem;
+}
+
+.m\:rel\:\-5 {
+    margin: -1rem;
+}
+
+.m\:rel\:\-6 {
+    margin: -1.2rem;
+}
+
+.m\:rel\:\-7 {
+    margin: -1.4rem;
+}
+
+.m\:rel\:\-8 {
+    margin: -1.6rem;
+}
+
+.m\:rel\:\-9 {
+    margin: -1.8rem;
+}
+
+.m\:rel\:\-10 {
+    margin: -2rem;
+}
+
+.m\:rel\:\-11 {
+    margin: -2.2rem;
+}
+
+.m\:rel\:\-12 {
+    margin: -2.4rem;
+}
+
+.m\:rel\:\-13 {
+    margin: -2.6rem;
+}
+
+.m\:rel\:\-14 {
+    margin: -2.8rem;
+}
+
+.m\:rel\:\-15 {
+    margin: -3rem;
+}
+
+.m\:rel\:\-16 {
+    margin: -3.2rem;
+}
+
+.m\:rel\:\-17 {
+    margin: -3.4rem;
+}
+
+.m\:rel\:\-18 {
+    margin: -3.6rem;
+}
+
+.m\:rel\:\-19 {
+    margin: -3.8rem;
+}
+
+.m\:rel\:\-20 {
+    margin: -4rem;
+}
+
+.m\:rel\:\-21 {
+    margin: -4.2rem;
+}
+
+.m\:rel\:\-22 {
+    margin: -4.4rem;
+}
+
+.m\:rel\:\-23 {
+    margin: -4.6rem;
+}
+
+.m\:rel\:\-24 {
+    margin: -4.8rem;
+}
+
+.m\:rel\:\-25 {
+    margin: -5rem;
+}
+
+
+/* 
+        PIXEL
+ */
+
+.m\:px\:1 {
+    margin: 2px;
+}
+
+.m\:px\:\-1{
+    margin: -2px;
+}
+
+.m\:px\:2 {
+    margin: 4px;
+}
+
+.m\:px\:\-2 {
+    margin: -4px;
+}
+
+.m\:px\:3 {
+    margin: 6px;
+}
+
+.m\:px\:4 {
+    margin: 8px;
+}
+
+.m\:px\:5 {
+    margin: 10px;
 }
 
 /* 
     LEFT MARGIN STYLES
 */
 
-.ml-1 {
+/* Relative */
+
+.ml\:rel\:1 {
     margin-left: 0.2rem;
 }
 
-.ml-2 {
+.ml\:rel\:2 {
     margin-left: 0.4rem;
 }
 
-.ml-3 {
+.ml\:rel\:3 {
     margin-left: 0.6rem;
 }
 
-.ml-4 {
+.ml\:rel\:4 {
     margin-left: 0.8rem;
 }
 
-.ml-5 {
+.ml\:rel\:5 {
     margin-left: 1rem;
 }
+
+.ml\:rel\:6 {
+    margin-left: 1.2rem;
+}
+
+.ml\:rel\:7 {
+    margin-left: 1.4rem;
+}
+
+.ml\:rel\:8 {
+    margin-left: 1.6rem;
+}
+
+.ml\:rel\:9 {
+    margin-left: 1.8rem;
+}
+
+.ml\:rel\:10 {
+    margin-left: 2rem;
+}
+
+.ml\:rel\:11 {
+    margin-left: 2.2rem;
+}
+
+.ml\:rel\:12 {
+    margin-left: 2.4rem;
+}
+
+.ml\:rel\:13 {
+    margin-left: 2.6rem;
+}
+
+.ml\:rel\:14 {
+    margin-left: 2.8rem;
+}
+
+.ml\:rel\:15 {
+    margin-left: 3rem;
+}
+
+.ml\:rel\:16 {
+    margin-left: 3.2rem;
+}
+
+.ml\:rel\:17 {
+    margin-left: 3.4rem;
+}
+
+.ml\:rel\:18 {
+    margin-left: 3.6rem;
+}
+
+.ml\:rel\:19 {
+    margin-left: 3.8rem;
+}
+
+.ml\:rel\:20 {
+    margin-left: 4rem;
+}
+
+.ml\:rel\:21 {
+    margin-left: 4.2rem;
+}
+
+.ml\:rel\:22 {
+    margin-left: 4.4rem;
+}
+
+.ml\:rel\:23 {
+    margin-left: 4.6rem;
+}
+
+.ml\:rel\:24 {
+    margin-left: 4.8rem;
+}
+
+.ml\:rel\:25 {
+    margin-left: 5rem;
+}
+
+
+
 
 /* 
     RIGHT MARGIN STYLES
@@ -107,31 +406,412 @@
 /* 
     X MARGIN STYLES
 */
-
+/* Add */
 .mx\:1 {
     margin: 0 2px;
 }
 
-.mx\:\-1 {
-    margin: 0 -2px;
+.mx\:2 {
+    margin: 0 4px;
 }
 
-.mx\:2 {
-    margin: -4px;
+.mx\:3 {
+    margin: 0 6px;
+}
+
+.mx\:4 {
+    margin: 0 8px;
+}
+
+.mx\:5 {
+    margin: 0 10px;
+}
+
+.mx\:6 {
+    margin: 0 12px;
+}
+
+.mx\:7 {
+    margin: 0 14px;
+}
+
+.mx\:8 {
+    margin: 0 16px;
+}
+
+.mx\:9 {
+    margin: 0 18px;
+}
+
+.mx\:10 {
+    margin: 0 20px;
+}
+
+.mx\:11 {
+    margin: 0 22px;
+}
+
+.mx\:12 {
+    margin: 0 24px;
+}
+
+.mx\:13 {
+    margin: 0 26px;
+}
+
+.mx\:14 {
+    margin: 0 28px;
+}
+
+.mx\:15 {
+    margin: 0 30px;
+}
+
+.mx\:16 {
+    margin: 0 32px;
+}
+
+.mx\:17 {
+    margin: 0 34px;
+}
+
+.mx\:18 {
+    margin: 0 36px;
+}
+
+.mx\:19 {
+    margin: 0 38px;
+}
+
+.mx\:20 {
+    margin: 0 40px;
+}
+
+.mx\:21 {
+    margin: 0 42px;
+}
+
+.mx\:22 {
+    margin: 0 44px;
+}
+
+.mx\:23 {
+    margin: 0 46px;
+}
+
+.mx\:24 {
+    margin: 0 48px;
+}
+
+.mx\:25 {
+    margin: 0 50px;
+}
+
+/* Remove */
+
+.mx\:\-1 {
+    margin: 0 -2px;
 }
 
 .mx\:\-2 {
     margin: 0 -4px;
 }
 
+.mx\:\-3 {
+    margin: 0 -6px;
+}
+
+.mx\:\-4 {
+    margin: 0 -8px;
+}
+
+.mx\:\-5 {
+    margin: 0 -10px;
+}
+
+.mx\:\-6 {
+    margin: 0 -12px;
+}
+
+.mx\:\-7 {
+    margin: 0 -14px;
+}
+
+.mx\:\-8 {
+    margin: 0 -16px;
+}
+
+.mx\:\-9 {
+    margin: 0 -18px;
+}
+
+.mx\:\-10 {
+    margin: 0 -20px;
+}
+
+.mx\:\-11 {
+    margin: 0 -22px;
+}
+
+.mx\:\-12 {
+    margin: 0 -24px;
+}
+
+.mx\:\-13 {
+    margin: 0 -26px;
+}
+
+.mx\:\-14 {
+    margin: 0 -28px;
+}
+
+.mx\:\-15 {
+    margin: 0 -30px;
+}
+
+.mx\:\-16 {
+    margin: 0 -32px;
+}
+
+.mx\:\-17 {
+    margin: 0 -34px;
+}
+
+.mx\:\-18 {
+    margin: 0 -36px;
+}
+
+.mx\:\-19 {
+    margin: 0 -38px;
+}
+
+.mx\:\-20 {
+    margin: 0 -40px;
+}
+
+.mx\:\-21 {
+    margin: 0 -42px;
+}
+
+.mx\:\-22 {
+    margin: 0 -44px;
+}
+
+.mx\:\-23 {
+    margin: 0 -46px;
+}
+
+.mx\:\-24 {
+    margin: 0 -48px;
+}
+
+.mx\:\-25 {
+    margin: 0 -50px;
+}
+
+
 /* 
     Y MARGIN STYLES
 */
-
+/* Add */
 .my\:1 {
-    margin: 0.5rem 0;
+    margin: 0.2rem 0;
 }
 
+.my\:2 {
+    margin: 0.4rem 0;
+}
+
+.my\:3 {
+    margin: 0.6rem 0;
+}
+
+.my\:4 {
+    margin: 0.8rem 0;
+}
+
+.my\:5 {
+    margin: 1rem 0;
+}
+
+.my\:6 {
+    margin: 1.2rem 0;
+}
+
+.my\:7 {
+    margin: 1.4rem 0;
+}
+
+.my\:8 {
+    margin: 1.6rem 0;
+}
+
+.my\:9 {
+    margin: 1.8rem 0;
+}
+
+.my\:10 {
+    margin: 2rem 0;
+}
+
+.my\:11 {
+    margin: 2.2rem 0;
+}
+
+.my\:12 {
+    margin: 2.4rem 0;
+}
+
+.my\:13 {
+    margin: 2.6rem 0;
+}
+
+.my\:14 {
+    margin: 2.8rem 0;
+}
+
+.my\:15 {
+    margin: 3rem 0;
+}
+
+.my\:16 {
+    margin: 3.2rem 0;
+}
+
+.my\:17 {
+    margin: 3.4rem 0;
+}
+
+.my\:18 {
+    margin: 3.6rem 0;
+}
+
+.my\:19 {
+    margin: 3.8rem 0;
+}
+
+.my\:20 {
+    margin: 4rem 0;
+}
+
+.my\:21 {
+    margin: 4.2rem 0;
+}
+
+.my\:22 {
+    margin: 4.4rem 0;
+}
+
+.my\:23 {
+    margin: 4.6rem 0;
+}
+
+.my\:24 {
+    margin: 4.8rem 0;
+}
+
+.my\:25 {
+    margin: 5rem 0;
+}
+
+
+/* Remove */
 .my\:\-1 {
     margin: -0.5rem 0;
+}
+
+.my\:\-2 {
+    margin: -1rem 0;
+}
+
+.my\:\-3 {
+    margin: -1.5rem 0;
+}
+
+.my\:\-4 {
+    margin: -2rem 0;
+}
+
+.my\:\-5 {
+    margin: -2.5rem 0;
+}
+
+.my\:\-6 {
+    margin: -3rem 0;
+}
+
+.my\:\-7 {
+    margin: -3.5rem 0;
+}
+
+.my\:\-8 {
+    margin: -4rem 0;
+}
+
+.my\:\-9 {
+    margin: -4.5rem 0;
+}
+
+.my\:\-10 {
+    margin: -5rem 0;
+}
+
+.my\:\-11 {
+    margin: -5.5rem 0;
+}
+
+.my\:\-12 {
+    margin: -6rem 0;
+}
+
+.my\:\-13 {
+    margin: -6.5rem 0;
+}
+
+.my\:\-14 {
+    margin: -7rem 0;
+}
+
+.my\:\-15 {
+    margin: -7.5rem 0;
+}
+
+.my\:\-16 {
+    margin: -8rem 0;
+}
+
+.my\:\-17 {
+    margin: -8.5rem 0;
+}
+
+.my\:\-18 {
+    margin: -9rem 0;
+}
+
+.my\:\-19 {
+    margin: -9.5rem 0;
+}
+
+.my\:\-20 {
+    margin: -10rem 0;
+}
+
+.my\:\-21 {
+    margin: -10.5rem 0;
+}
+
+.my\:\-22 {
+    margin: -11rem 0;
+}
+
+.my\:\-23 {
+    margin: -11.5rem 0;
+}
+
+.my\:\-24 {
+    margin: -12rem 0;
+}
+
+.my\:\-25 {
+    margin: -12.5rem 0;
 }
