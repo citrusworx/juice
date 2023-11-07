@@ -7,6 +7,10 @@
     border-radius: 10px;
 }
 
+.rounded\:md {
+    border-radius: 10px;
+}
+
 .rounded-lg {
     border-radius: 15px;
 }

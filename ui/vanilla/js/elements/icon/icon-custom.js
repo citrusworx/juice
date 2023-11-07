@@ -121,7 +121,39 @@ class IconFinder extends HTMLElement {
     
 }
 
+class IcoNoir extends HTMLElement {
+    constructor() {
+        super();
+    }
+
+    static get observedAttributes(){
+        return ['lib', 'name', 'color', 'class'];
+    }
+
+    connectedCallback(){
+        this.render();
+    }
+     
+    attributeChangeCallback(name, value){
+        if(name === 'class'){
+            this.render();
+        }
+    }
+    render(){
+        const iconClass = this.getAttribute('class') || '';
+        const iconLib = this.getAttribute('lib') || '';
+        const iconName = this.getAttribute('name') || '';
+        const iconColor = this.getAttribute('color') || '';
+
+        this.innerHTML = `
+                <i class="icon-${iconLib} ${iconName} ${iconColor} ${iconClass}"></i>
+        `;
+        }
+    
+}
+
 customElements.define('mat-icon', MatIcon);
 customElements.define('flat-icon', FlatIcon);
 customElements.define('fas-icon', FontAwesomeIcon);
 customElements.define('icon-finder', IconFinder);
+customElements.define('ico-noir', IcoNoir);

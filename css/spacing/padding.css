@@ -1,0 +1,113 @@
+/* 
+    Style                   Type                Value
+    p(l,r,t,b,x,y)      :    rel          :    [1-15]
+    p(l,r,t,b,x,y)      :    v(h/w)       :    [1-15]      
+    p(l,r,t,b,x,y)      :    px           :    [1-50]
+*/
+.pd\:rel\:1{
+    padding: 0.2rem;
+}
+
+.pd\:rel\:2 {
+    padding: 0.4rem;
+}
+
+
+.p\:rel-2{
+    padding: 0.4rem;
+}
+
+.rp-3 {
+    padding: 0.6rem;
+}
+
+.rp-4 {
+    padding: 0.8rem;
+}
+
+.rp-5 {
+    padding: 1rem;
+}
+
+.rp-6 {
+    padding: 1.2rem;
+}
+
+.rp-7 {
+    padding: 1.4rem;
+}
+
+.rp-8 {
+    padding: 1.6rem;
+}
+
+.rp-9 {
+    padding: 1.8rem;
+}
+
+.rp-10 {
+    padding: 2rem;
+}
+.pl-1 {
+    padding-left: 0.2rem;
+}
+
+.pl-2 {
+    padding-left: 0.4rem;
+}
+
+.pl-3 {
+    padding-left: 0.6rem;
+}
+
+.pl-4 {
+    padding-left: 0.8rem;
+}
+
+.pl-5 {
+    padding-left: 1rem;
+}
+
+.pr-1 {
+    padding-right: 0.2rem;
+}
+
+.pr-2 {
+    padding-right: 0.4rem;
+}
+
+.pr-3 {
+    padding-right: 0.6rem;
+}
+
+.pr-4 {
+    padding-right: 0.8rem;
+}
+
+.pr-5 {
+    padding-right: 1rem;
+}
+
+.pt-1 {
+    padding-top: 0.2rem;
+}
+
+.pt-2 {
+    padding-top: 0.4rem;
+}
+
+.pt-3 {
+    padding-top: 0.6rem;
+}
+
+.pt-4 {
+    padding-top: 0.8rem;
+}
+
+.pt-5 {
+    padding-top: 1rem;
+}
+
+.pb-1 {
+    padding-bottom: 1rem;
+}
