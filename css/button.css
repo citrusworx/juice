@@ -20,6 +20,7 @@
 
 .btn\:dark {
     background-color: var(--black-800);
+    border:none;
 }
 
 .btn\:dark:hover {
