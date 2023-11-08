@@ -3,31 +3,34 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/berillium.css">
+    <link rel="stylesheet" async href="css/berillium.css">
 
     <title>Component Maker</title>
 </head>
 <body class="bg-black-100"">
     <div class="w-full h-5 bg-blue-800 list-none flex">
         <nav class="text-white text-light flex gr-3 ai-center center even">
-           <ul class="flex gr-3 items:center center even list-none">
-                <li class="ml:px:5"><fas-icon lib="br" name="css3" color="icon:sunset" class="::sm"></fas-icon>CSS</li>
-                <li class="ml:px:5"><fas-icon lib="reg" name="file-code" color="icon:sunset" class="::sm"></fas-icon>UI</li>
-                <li class="ml:px:5"><fas-icon lib="reg" name="star" color="icon:sunset" class="::sm"></fas-icon>Logic</li>
-                <li class="ml:px:5"><fas-icon lib="reg" name="bookmark" color="icon:sunset" class="::sm"></fas-icon>CMS</li>
-                <li class="ml:px:5"><fas-icon lib="reg" name="file-pdf" color="icon:sunset" class="::sm"></fas-icon>Docs</li>
+            <div>
+           <ul class="flex gr-3 items:center around list-none w-25">
+                <li><fas-icon lib="br" name="css3" color="icon:sunset" class="::sm"></fas-icon>Swatches</li>
+                <li><fas-icon lib="reg" name="file-code" color="icon:sunset" class="::sm"></fas-icon>Modules</li>
+                <li><fas-icon lib="reg" name="star" color="icon:sunset" class="::sm"></fas-icon>Themes</li>
+                <li><fas-icon lib="reg" name="bookmark" color="icon:sunset" class="::sm"></fas-icon>Systems</li>
+                <li><fas-icon lib="reg" name="file-pdf" color="icon:sunset" class="::sm"></fas-icon>Docs</li>
             </ul>
-        </nav>
-        <div class="flex center content:center gr-2 even rel">
-            <p class="ml:2">Some Description</p><br />
-            <p class="ml:2">Some Description</p><br />
-            <p class="ml:2">Some Description</p><br />
+            </div>
+            <div>
+            <ul class="flex gr-1 items:center center even list-none w-20">
+                <li class="ml:px:5"><fas-icon lib="reg" name="circle-question" color="icon:sunset" class="::sm"></fas-icon>FAQ</li>
+                <li class="ml:px:5"><fas-icon lib="reg" name="user" color="icon:sunset" class="::sm"></fas-icon>Login</li>
+            </ul>
         </div>
+        </nav>
     </div>
 
     <div class="col:md:border w-full h-half ai-center bg-blue-green-500" id="jumbotron container">
         <div class="as-center mt:25 pxy:rel:10 bg-gray-200 rounded:md ds:md" id="jumbotron">
-            <fas-icon lib="br" name="react" color="icon:sunset" class="::xxlg turn trans:xy:3"></fas-icon>
+            <fas-icon lib="br" name="react" color="icon:blue-green-600" class="::xxlg turn trans:xy:3"></fas-icon>
             <div class="trans:x:5" id="heading container">
                 <h2 class="text:xxlg text:color:primary">berillium<span class="text-black">css</span></h2>
              </div>
@@ -55,21 +58,19 @@
         </div>
     </div>
 
-    <div class="flex around my:5 row">
+    <div class="w-full flex around row pb:rel:10">
         <div class="w-20 col">
             <h2 class="font-primary text-center">berilliumCSS</h2><br />
             <mat-icon name="select checkbox" color="icon:sunset" class="::md"></mat-icon><p class="lato text:md center il:block trans:y:-1">Vanilla-First Design</p><br />
             <mat-icon name="select checkbox" color="icon:sunset" class="::md"></mat-icon><p class="lato text:md center il:block trans:y:-1">Pick your needs via CLI</p><br />
             <mat-icon name="select checkbox" color="icon:sunset" class="::md"></mat-icon><p class="lato text:md center il:block trans:y:-1">comes packed with specialty classes!</p><br />
         </div>
-`
-        <div class="w-20 col">`
-            <h2 class="font-primary text-center">berilliumUI</h2`><br />
+        <div class="w-20 col">
+            <h2 class="font-primary text-center">berilliumUI</h2><br />
             <mat-icon name="select checkbox" color="icon:red-500" class="::md"></mat-icon><p class="lato text:md center il:block trans:y:-1">Build any kind of UI</p><br />
             <mat-icon name="select checkbox" color="icon:red-500" class="::md"></mat-icon><p class="lato text:md center il:block trans:y:-1">No logic version</p><br />
             <mat-icon name="select checkbox" color="icon:red-500" class="::md"></mat-icon><p class="lato text:md center il:block trans:y:-1">with Logic version</p><br />
         </div>
-
         <div class="w-20 col">
             <h2 class="font-primary text-center">berilliumCMS</h2><br />
             <mat-icon name="select checkbox" color="icon:blue-green-900" class="::md"></mat-icon><p class="lato text:md text-center il:block items:baseline trans:y:-1">Beryl Application Repo Store (BARS)</p><br />
@@ -78,31 +79,46 @@
         </div>
     </div>
 </section>
-    <footer class="flex around">
-        <div class="col w-15">
-            <ul>
-                <li class="my:3 list-none">List Item</li>
-                <li class="my:3 list-none">list item</li>
-                <li class="my:3 list-none">list item</li>
+    <footer class="flex around bg-black-800 h-25 pt:rel:10">
+        <div class="w-15 mt:10" id="footer-logo">
+            <h2 class="text:xxlg text-white">berillium<span class="text:color:primary">css</span></h2>
+        </div>
+        <div class="col w-15 mt:5">
+            <div>
+                <h3 class="text:color:primary">More Resources</h3>
+            </div>
+            <ul class="text-white">
+                <li class="my:3 list-none">CLI</li>
+                <li class="my:3 list-none">Node</li>
+                <li class="my:3 list-none">PHP</li>
+                <li class="my:3 list-none">C#/Blazor</li>
             </ul>
         </div>
-        <div class="col w-15">
-            <ul>
-                <li class="my:3 list-none">List Item</li>
-                <li class="my:3 list-none">List item</li>
-                <li class="my:3 list-none">List item</li>
+        <div class="col w-15 mt:5">
+                <div>
+                    <h3 class="text:color:primary">Berillium</h3>
+                </div>
+            <ul class="text-white">
+                <li class="my:3 list-none">CSS</li>
+                <li class="my:3 list-none">UI</li>
+                <li class="my:3 list-none">CMS</li>
             </ul>
         </div>
-        <div class="col w-15">
-            <ul class="">
-                <li class="my:3 list-none">List Item</li>
-                <li class="my:3 list-none">List item</li>
-                <li class="my:3 list-none">List item</li>
+        <div class="col w-15 mt:5">
+            <div>
+                <h3 class="text:color:primary">Company</h3>
+            </div>
+            <ul class="text-white">
+                <li class="my:3 list-none">About</li>
+                <li class="my:3 list-none">Contact</li>
+                <li class="my:3 list-none">Careers</li>
             </ul>
-        </div>        
+        </div>  
+              
     </footer>
-    <script src="/ui/vanilla/js/global.js"></script>
-    <script src="/ui/vanilla/js/index.js"></script>
-    <script src="/ui/vanilla/js/elements/icon/icon-custom.js"></script>
+    <span class="items:center ml:rel:25">All Rights Reserved &copy;2024 Beryl Labs</span>
+    <script async src="/ui/vanilla/js/global.js"></script>
+    <script async src="/ui/vanilla/js/index.js"></script>
+    <script async src="/ui/vanilla/js/elements/icon/icon-custom.js"></script>
 </body>
 </html>

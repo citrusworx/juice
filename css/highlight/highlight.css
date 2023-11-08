@@ -3,7 +3,12 @@
 }
 
 .hl\:yellow:hover {
-    background-color: hsla(70, 100%, 50%, 0.8);
+    background-color: hsla(70, 100%, 50%, 0.8);    
+}
+
+.hl\:yellow\:highlight {
+    background-color: hsla(70, 100%, 50%, 0.5);
+    animation: highlightAction 1s linear forwards;
 }
 
 .hl\:blue {
@@ -12,4 +17,13 @@
 
 .hl\:blue:hover {
     background-color: hsla(220, 100%, 50%, 0.8);
+}
+
+@keyframes highlightAction{
+    0% {
+        background-size: 0 100%;
+    }
+    100% {
+        background-size: 100% 100%;
+    }
 }

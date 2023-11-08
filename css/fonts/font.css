@@ -15,7 +15,7 @@
     font-style: italic;
 }
 
-[class *= "roboto:light:italic"]{
+.roboto\:light\:italic{
     font-family: var(--roboto);
     font-size: 18px;
     font-weight: 100;
