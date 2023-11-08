@@ -521,3 +521,315 @@
 .pb\:rel\:25 {
     padding-bottom: 5.0rem;
 }
+
+/* 
+    HORIZONTAL STYLES
+*/
+
+.px\:rel\:1 {
+    padding: 0 0.2rem;
+}
+
+.px\:rel\:2 {
+    padding: 0 0.4rem;
+}
+
+.px\:rel\:3 {
+    padding: 0 0.6rem;
+}
+
+.px\:rel\:4 {
+    padding: 0 0.8rem;
+}
+
+.px\:rel\:5 {
+    padding: 0 1rem;
+}
+
+.px\:rel\:6 {
+    padding: 0 1.2rem;
+}
+
+.px\:rel\:7 {
+    padding: 0 1.4rem;
+}
+
+.px\:rel\:8 {
+    padding: 0 1.6rem;
+}
+
+.px\:rel\:9 {
+    padding: 0 1.8rem;
+}
+
+.px\:rel\:10 {
+    padding: 0 2rem;
+}
+
+.px\:rel\:11 {
+    padding: 0 2.2rem;
+}
+
+.px\:rel\:12 {
+    padding: 0 2.4rem;
+}
+
+.px\:rel\:13 {
+    padding: 0 2.6rem;
+}
+
+.px\:rel\:14 {
+    padding: 0 2.8rem;
+}
+
+.px\:rel\:15 {
+    padding: 0 3rem;
+}
+
+.px\:rel\:16 {
+    padding: 0 3.2rem;
+}
+
+.px\:rel\:17 {
+    padding: 0 3.4rem;
+}
+
+.px\:rel\:18 {
+    padding: 0 3.6rem;
+}
+
+.px\:rel\:19 {
+    padding: 0 3.8rem;
+}
+
+.px\:rel\:20 {
+    padding: 0 4rem;
+}
+
+.px\:rel\:21 {
+    padding: 0 4.2rem;
+}
+
+.px\:rel\:22 {
+    padding: 0 4.4rem;
+}
+
+.px\:rel\:23 {
+    padding: 0 4.6rem;
+}
+
+.px\:rel\:24 {
+    padding: 0 4.8rem;
+}
+
+.px\:rel\:25 {
+    padding: 0 5rem;
+}
+
+/* 
+      VERTICAL 
+*/
+
+.py\:rel\:1 {
+    padding: 0.2rem;
+}
+
+.py\:rel\:2 {
+    padding: 0.4rem 0;
+}
+
+.py\:rel\:3 {
+    padding: 0.6rem 0;
+}
+
+.py\:rel\:4 {
+    padding: 0.8rem 0;
+}
+
+.py\:rel\:5 {
+    padding: 1rem 0;
+}
+
+.py\:rel\:6 {
+    padding: 1.2rem 0;
+}
+
+.py\:rel\:7 {
+    padding: 1.4rem 0;
+}
+
+.py\:rel\:8 {
+    padding: 1.6rem 0;
+}
+
+.py\:rel\:9 {
+    padding: 1.8rem 0;
+}
+
+.py\:rel\:10 {
+    padding: 2rem 0;
+}
+
+.py\:rel\:11 {
+    padding: 2.2rem 0;
+}
+
+.py\:rel\:12 {
+    padding: 2.4rem 0;
+}
+
+.py\:rel\:13 {
+    padding: 2.6rem 0;
+}
+
+.py\:rel\:14 {
+    padding: 2.8rem 0;
+}
+
+.py\:rel\:15 {
+    padding: 3rem 0;
+}
+
+.py\:rel\:16 {
+    padding: 3.2rem 0;
+}
+
+.py\:rel\:17 {
+    padding: 3.4rem 0;
+}
+
+.py\:rel\:18 {
+    padding: 3.6rem 0;
+}
+
+.py\:rel\:19 {
+    padding: 3.8rem 0;
+}
+
+.py\:rel\:20 {
+    padding: 4rem 0;
+}
+
+.py\:rel\:21 {
+    padding: 4.2rem 0;
+}
+
+.py\:rel\:22 {
+    padding: 4.4rem 0;
+}
+
+.py\:rel\:23 {
+    padding: 4.6rem 0;
+}
+
+.py\:rel\:24 {
+    padding: 4.8rem 0;
+}
+
+.py\:rel\:25 {
+    padding: 5rem 0;
+}
+
+/* 
+        COMBO
+*/
+
+.pxy\:rel\:1 {
+    padding: 0.2rem 0.2rem;
+}
+
+.pxy\:rel\:2 {
+    padding: 0.4rem 0.4rem;
+}
+
+.pxy\:rel\:3 {
+    padding: 0.6rem 0.6rem;
+}
+
+.pxy\:rel\:4 {
+    padding: 0.8rem 0.8rem;
+}
+
+.pxy\:rel\:5 {
+    padding: 1rem 1rem;
+}
+
+.pxy\:rel\:6 {
+    padding: 1.2rem 1.2rem;
+}
+
+.pxy\:rel\:7 {
+    padding: 1.4rem 1.4rem;
+}
+
+.pxy\:rel\:8 {
+    padding: 1.6rem 1.6rem;
+}
+
+.pxy\:rel\:9 {
+    padding: 1.8rem 1.8rem;
+}
+
+.pxy\:rel\:10 {
+    padding: 2rem 2rem;
+}
+
+.pxy\:rel\:11 {
+    padding: 2.2rem 2.2rem;
+}
+
+.pxy\:rel\:12 {
+    padding: 2.4rem 2.4rem;
+}
+
+.pxy\:rel\:13 {
+    padding: 2.6rem 2.6rem;
+}
+
+.pxy\:rel\:14 {
+    padding: 2.8rem 2.8rem;
+}
+
+.pxy\:rel\:15 {
+    padding: 3rem 3rem;
+}
+
+.pxy\:rel\:16 {
+    padding: 3.2rem 3.2rem;
+}
+
+.pxy\:rel\:17 {
+    padding: 3.4rem 3.4rem;
+}
+
+.pxy\:rel\:18 {
+    padding: 3.6rem 3.6rem;
+}
+
+.pxy\:rel\:19 {
+    padding: 3.8rem 3.8rem;
+}
+
+.pxy\:rel\:20 {
+    padding: 4rem 4rem;
+}
+
+.pxy\:rel\:21 {
+    padding: 4.2rem 4.2rem;
+}
+
+.pxy\:rel\:22 {
+    padding: 4.4rem 4.4rem;
+}
+
+.pxy\:rel\:23 {
+    padding: 4.6rem 4.6rem;
+}
+
+.pxy\:rel\:24 {
+    padding: 4.8rem 4.8rem;
+}
+
+.pxy\:rel\:25 {
+    padding: 5rem 5rem;
+}

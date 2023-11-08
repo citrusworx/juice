@@ -185,3 +185,52 @@ v
 .trans\:z\:\-5 {
     transform: translateZ(-5rem);
 }
+
+/* 
+    COMBO TRANSFORM
+*/
+
+.trans\:xy\:1 {
+    transform: translate3D(1vh, 1vh, 0);
+}
+
+.trans\:xy\:2 {
+    transform: translate3D(2vh, 2vh, 0);
+}
+
+.trans\:xy\:3 {
+    transform: translate3D(3vh, 3vh, 0);
+}
+
+.trans\:xy\:4 {
+    transform: translate3D(4vh, 4vh, 0);
+}
+
+.trans\:xy\:5 {
+    transform: translate3D(5vh, 5vh, 0);
+}
+
+/* 
+^   
+|   upwards
+|
+*/
+.trans\:xy\:\-1 {
+    transform: translate3D(-1vh, -1vh, 0);
+}
+
+.trans\:xy\:\-2 {
+    transform: translate3D(-2vh, -2vh, 0);
+}
+
+.trans\:xy\:\-3 {
+    transform: translate3D(-3vh, -3vh, 0);
+}
+
+.trans\:xy\:\-4 {
+    transform: translate3D(-4vh, -4vh, 0);
+}
+
+.trans\:xy\:\-5 {
+    transform: translate3D(-5vh, -5vh, 0);
+}
