@@ -3,7 +3,6 @@ window.myModules = {};
 //create multiple global objects to separate concerns
 window.functions = {};
 window.variables = {};
-window.icons = {};
 
 window.include = async function(url, module){
    try { 
@@ -34,4 +33,19 @@ window.define = function(name, globalName, content){
    //Attach the module to the global space
    window[globalName][name] = {content};
    console.log("After setting:", window[globalName][name]);
+}
+
+window.callAPI = async function(url){
+   try {
+      const res = await fetch(url);
+      if(!res.ok){
+         throw new Error(`ERROR: ${res.status}`);
+      }
+      const json = await res.json();
+      return json;
+   }
+   
+   catch (error){
+      console.error(`Error fetching API data from ${url}: `, error);
+   }
 }

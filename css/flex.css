@@ -2,6 +2,10 @@
     display: flex;
 }
 
+.fl {
+    display: flex;
+}
+
 .ai-center {
     align-items: center;
 }

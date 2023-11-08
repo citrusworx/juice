@@ -62,3 +62,9 @@
     font-weight: 400;
     font-style: normal;
 }
+
+.source-code {
+    font-family: var(--source-code-pro);
+    font-weight: 400;
+    font-style: normal;
+}
