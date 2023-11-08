@@ -30,7 +30,7 @@ The imported CSS files in BerilliumCSS are organized into three distinct categor
 
 - **display.css**: This class style file offers styles for managing how elements are displayed, providing flexibility in layout design.
 
-- **spacing.css**: Within this component, you'll find predefined spacing utilities that help you create balanced designs.
+- **spacing/spacing.css**: Within this component, you'll find predefined spacing utilities that help you create balanced designs.
 
 - **position.css**: It contains styles for element positioning, allowing precise control over element placement.
 
@@ -74,4 +74,9 @@ By prepping the styles in `config.css` for minification, BerilliumCSS helps you 
 
 ---
 
-This revised documentation now explicitly mentions the order of imports according to the three specified categories: Root Files, Class Styles, and Responsive Styles.
+### Note
+**For Vanilla Devs**:
+There will be two links (`berillium.min.css` and `berillium.min.js`) required that will provide the fastest experience for both user and dev. 
+
+**For Node Devs**:
+A `gulp.js` script is provided that minifies your CSS for you after you add any custom classes that you need. 

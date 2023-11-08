@@ -48,6 +48,9 @@ ol[class] {
 
 /* Elements that don't have a class get default styles */
 a:not([class]) {
+  --moz-text-decoration-skip-link: auto;
+  --o-text-decoration-skip-link: auto;
+  --webkit-text-decoration-skip-link: auto;
   text-decoration-skip-ink: auto;
 }
 

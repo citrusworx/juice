@@ -1,6 +1,6 @@
 # BerilliumCSS - A Stylish CSS Library for Modern Web Development
 
-![BerilliumCSS Logo](https://example.com/berilliumcss-logo.png)
+![BerilliumCSS Logo]("/logo/Barry20.png")
 
 Welcome to BerilliumCSS, your go-to CSS library for crafting stunning, responsive, and feature-rich web designs. Whether you're a seasoned developer, a designer, or just getting started with web development, BerilliumCSS has you covered. This library has been carefully crafted with attention to detail, performance, and flexibility in mind.
 
