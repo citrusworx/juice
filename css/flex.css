@@ -103,12 +103,16 @@
     align-self: center;
 }
 
-.as-left {
-    align-self: left;
+.self\:center {
+    align-self: center;
 }
 
-.as-right {
-    align-self: right;
+.self\:start {
+    align-self: flex-start;
+}
+
+.self\:end {
+    align-self: flex-end;
 }
 
 
