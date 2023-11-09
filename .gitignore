@@ -1,0 +1,10 @@
+# obsidian vault files
+.obsidian/
+./trash
+*.vault
+
+*/.obsidian/
+
+#vscode
+.vscode/
+

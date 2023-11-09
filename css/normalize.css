@@ -6,6 +6,7 @@
 *::after {
   box-sizing: border-box;
   overflow-x: hidden;
+  overflow-y: visible;
 }
 
 /* Remove default padding */
@@ -38,6 +39,7 @@ body {
   scroll-behavior: smooth;
   text-rendering: optimizeSpeed;
   line-height: 1.5;
+  overflow-y: scroll;
 }
 
 /* Remove list styles on ul, ol elements with a class attribute */

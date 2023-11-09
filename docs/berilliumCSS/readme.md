@@ -18,6 +18,8 @@ Welcome to BerilliumCSS, your go-to CSS library for crafting stunning, responsiv
 
 ## Getting Started
 
+### Vanilla
+
 To start using BerilliumCSS in your project, follow these simple steps:
 
 1. **Download:** You can download BerilliumCSS from [our official website](https://berilliumcss.com) or via a package manager like npm or yarn.
@@ -29,10 +31,37 @@ To start using BerilliumCSS in your project, follow these simple steps:
    ```
 
 3. **Start Styling:** Begin using BerilliumCSS classes and components to style your web pages. Refer to our [documentation](https://berilliumcss.com/docs) for detailed guidance.
+### Node
+
+```bash
+npm install berilliumcss
+```
+
+### Composer
+
+For PHP projects that don't want to inject our stylesheets via `link` then you can import them via out Composer modules.
+
+```bash
+composer require berilliumcss
+```
+
+### berilliumCLI
+
+We have developed our very own CLI tool to make creating any type of applications a breeze!
+```bash
+berillium css -module flex.css -swatch AquaFlux
+```
 
 ## Documentation
 
 For comprehensive documentation and examples, visit our [official documentation](https://berilliumcss.com/docs). You'll find detailed information on how to use BerilliumCSS effectively.
+
+## Tools We Use
+- Gulp
+- Node
+- Composer/Symfony
+- Choco
+- Pip
 
 ## Contributing
 

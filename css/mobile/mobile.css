@@ -1,6 +1,24 @@
 /* Smart Phones */
 @media screen and (max-width: 600px) {
-
+    .text\:sm{
+        font-size: 0.5rem;
+    }
+    
+    .text\:md{
+        font-size: 0.75rem;
+    }
+    
+    .text\:lg{
+        font-size: 1.25rem;
+    }
+    
+    .text\:xlg{
+        font-size: 1.5rem;
+    }
+    
+    .text\:xxlg{
+        font-size: 2rem;
+    }
 
 
 }

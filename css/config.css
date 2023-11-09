@@ -25,3 +25,7 @@
 @import url('tablet/tablet.css'); /* Responsive Library 3 of 3 */
 
 
+footer {
+    overflow-y: visible;
+    overflow-x: visible;
+}
