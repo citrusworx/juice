@@ -37,6 +37,16 @@
     border: var(--primary) 1px solid;
 }
 
+.btn\:secondary {
+    background-color: var(--secondary);
+    border: var(--primary-light) 1px solid;
+}
+
+.btn\:secondary:hover {
+    background-color: var(--secondary-light);
+    border: var(--primary) 1px solid;
+}
+
 .btn\:meloncolly {
     background-color: var(--meloncolly-citrus);
     border: var(--meloncolly-berry) 1px solid;

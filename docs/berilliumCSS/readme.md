@@ -25,7 +25,7 @@ To start using BerilliumCSS in your project, follow these simple steps:
 2. **Include CSS:** Link the BerilliumCSS stylesheet in the `<head>` of your HTML document:
 
    ```html
-   <link rel="stylesheet" href="path/to/berillium.css">
+   <link rel="stylesheet" href="path/to/berillium.min.css">
    ```
 
 3. **Start Styling:** Begin using BerilliumCSS classes and components to style your web pages. Refer to our [documentation](https://berilliumcss.com/docs) for detailed guidance.
