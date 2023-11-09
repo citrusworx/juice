@@ -1,5 +1,10 @@
 /* Smart Phones */
 @media screen and (max-width: 600px) {
+    p {
+        margin-left: 10px;
+        margin-right: 25px;
+    }
+
     .text\:sm{
         font-size: 0.5rem;
     }

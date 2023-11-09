@@ -24,6 +24,9 @@
 @import url('mobile/mobile.css'); /* Responsive Library 2 of 3 */
 @import url('tablet/tablet.css'); /* Responsive Library 3 of 3 */
 
+button {
+    overflow-y: hidden;
+}
 
 footer {
     overflow-y: visible;
