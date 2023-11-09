@@ -29,6 +29,10 @@
     animation: bounce 1s linear forwards;
 }
 
+.flash\:red{
+    animation: flash-red 1s running infinite;
+}
+
 .flicker {
     opacity: 1;
     animation: flicker 2s infinite;
@@ -239,5 +243,14 @@
 
     100% {
         transform: translateX(-0.2px);
+    }
+}
+
+@keyframes flash-red {
+    0% {
+
+    }
+    100% {
+        color: red;
     }
 }
