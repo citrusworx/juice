@@ -9,6 +9,7 @@
 @import url('red/red.css');
 @import url('white/white.css');
 @import url('yellow/yellow.css'); /* End of Import */
+@import url('icon/color/color.css');
 
 :root {
 

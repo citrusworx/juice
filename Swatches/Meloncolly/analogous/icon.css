@@ -1,0 +1,28 @@
+/* Icon Stiles */
+.icon\:zinnia {
+    display: inline-block;
+    background: var(--meloncolly-zinnia);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.icon\:tertiary {
+    display: inline-block;
+    background: var(--meloncolly-tertiary);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.icon\:lavender {
+    display: inline-block;
+    background: var(--meloncolly-lavender);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.icon\:azalea {
+    display: inline-block;
+    background: var(--meloncolly-azalea);
+    background-size: contain;
+    background-repeat: no-repeat;
+}

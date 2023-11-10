@@ -682,13 +682,245 @@
     mask-repeat: no-repeat;
 }
 
+.mat.keyboard\:double-arrow-left{
+    -webkit-mask-image: url('../../../icons/material/keyboard_double_arrow_left.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/keyboard_double_arrow_left.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
 
+.mat.keyboard\:double-arrow-right{
+    -webkit-mask-image: url('../../../icons/material/keyboard_double_arrow_right.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/keyboard_double_arrow_right.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.keyboard\:double-arrow-up{
+    -webkit-mask-image: url('../../../icons/material/keyboard_double_arrow_up.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/keyboard_double_arrow_up.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.keyboard\:voice{
+    -webkit-mask-image: url('../../../icons/material/keyboard_voice.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/keyboard_voice.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.last-page{
+    -webkit-mask-image: url('../../../icons/material/last_page.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/last_page.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.library\:add{
+    -webkit-mask-image: url('../../../icons/material/library_add.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/library_add.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.login{
+    -webkit-mask-image: url('../../../icons/material/login.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/login.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.logout{
+    -webkit-mask-image: url('../../../icons/material/logout.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/logout.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.manage-search{
+    -webkit-mask-image: url('../../../icons/material/manage_search.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/manage_search.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.material{
+    -webkit-mask-image: url('../../../icons/material/material.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/material.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.menu\:open{
+    -webkit-mask-image: url('../../../icons/material/menu_open.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/menu_open.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
 
 .mat.menu{
     -webkit-mask-image: url('../../../icons/material/menu.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
     mask-image: url('../../icons/material/menu.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.minimize{
+    -webkit-mask-image: url('../../../icons/material/minimize.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/minimize.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.more\:horiz{
+    -webkit-mask-image: url('../../../icons/material/more_horiz.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/more_horiz.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.more\:vert{
+    -webkit-mask-image: url('../../../icons/material/more_vert.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/more_vert.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.open\:full{
+    -webkit-mask-image: url('../../../icons/material/open_in_full.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/open_in_full.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.open\:new{
+    -webkit-mask-image: url('../../../icons/material/open_in_new.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/open_in_new.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.open\:with{
+    -webkit-mask-image: url('../../../icons/material/open_with.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/open_with.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.plus{
+    -webkit-mask-image: url('../../../icons/material/plus.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/plus.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.publish{
+    -webkit-mask-image: url('../../../icons/material/publish.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/publish.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.radio-button\:checked{
+    -webkit-mask-image: url('../../../icons/material/radio_button_checked.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/radio_button_checked.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.radio-button\:unchecked{
+    -webkit-mask-image: url('../../../icons/material/radio_button_unchecked.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/radio_button_unchecked.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.redo{
+    -webkit-mask-image: url('../../../icons/material/redo.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/redo.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.refresh{
+    -webkit-mask-image: url('../../../icons/material/refresh.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/refresh.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.remove{
+    -webkit-mask-image: url('../../../icons/material/remove.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/remove.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.reply{
+    -webkit-mask-image: url('../../../icons/material/reply.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/reply.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.restart\:alt{
+    -webkit-mask-image: url('../../../icons/material/restart_alt.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/restart_alt.svg');
     mask-size: contain;
     mask-repeat: no-repeat;
 }
