@@ -19,19 +19,19 @@
 /* Text Stiles */
 
 .text.meloncolly\:zinnia{
-    background-color: var(--meloncolly-zinnia);
+    color: var(--meloncolly-zinnia);
 }
 
 .text.meloncolly\:tertiary{
-    background-color: var(--meloncolly-tertiary);
+    color: var(--meloncolly-tertiary);
 }
 
 .text.meloncolly\:lavender{
-    background-color: var(--meloncolly-lavender);
+    color: var(--meloncolly-lavender);
 }
 
 .text.meloncolly\:azalea{
-    background-color: var(--meloncolly-azalea);
+    color: var(--meloncolly-azalea);
 }
 
 /* Border Stiles */

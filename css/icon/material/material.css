@@ -943,3 +943,250 @@
     mask-repeat: no-repeat;
 }
 
+.mat.settings\:applications{
+    -webkit-mask-image: url('../../../icons/material/settings_applications.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/settings_applications.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.settings\:accessibility{
+    -webkit-mask-image: url('../../../icons/material/settings_accessibility.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/settings_accessibility.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.settings\:backup-restore{
+    -webkit-mask-image: url('../../../icons/material/settings_backup_restore.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/settings_backup_restore.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.settings{
+    -webkit-mask-image: url('../../../icons/material/settings.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/settings.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.shopping-cart\:checkout{
+    -webkit-mask-image: url('../../../icons/material/shopping_cart_checkout.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/shopping_cart_checkout.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.sort-by\:alpha{
+    -webkit-mask-image: url('../../../icons/material/sort_by_alpha.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/sort_by_alpha.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.sort{
+    -webkit-mask-image: url('../../../icons/material/sort.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/sort.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.star\:half{
+    -webkit-mask-image: url('../../../icons/material/star_half.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/star_half.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.star{
+    -webkit-mask-image: url('../../../icons/material/star.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/star.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.start{
+    -webkit-mask-image: url('../../../icons/material/start.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/start.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.subdirectory\:arrow-right{
+    -webkit-mask-image: url('../../../icons/material/subdirectory_arrow_right.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/subdirectory_arrow_right.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.swap\:horiz{
+    -webkit-mask-image: url('../../../icons/material/swap_horiz.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/swap_horiz.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.swap\:vert{
+    -webkit-mask-image: url('../../../icons/material/swap_vert.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/swap_vert.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.switch-access\:shortcut{
+    -webkit-mask-image: url('../../../icons/material/switch_access_shortcut.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/switch_access_shortcut.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.sync\:alt{
+    -webkit-mask-image: url('../../../icons/material/sync_alt.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/sync_alt.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.sync\:problem{
+    -webkit-mask-image: url('../../../icons/material/sync_problem.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/sync_problem.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.sync{
+    -webkit-mask-image: url('../../../icons/material/sync.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/sync.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.terminal{
+    -webkit-mask-image: url('../../../icons/material/terminal.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/terminal.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.toggle\:on{
+    -webkit-mask-image: url('../../../icons/material/toggle_on.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/toggle_on.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.toggle\:off{
+    -webkit-mask-image: url('../../../icons/material/toggle_off.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/toggle_off.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.token{
+    -webkit-mask-image: url('../../../icons/material/token.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/token.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.undo{
+    -webkit-mask-image: url('../../../icons/material/undo.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/undo.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.unfold\:more{
+    -webkit-mask-image: url('../../../icons/material/unfold_more.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/unfold_more.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.upload{
+    -webkit-mask-image: url('../../../icons/material/upload.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/upload.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.view\:timeline{
+    -webkit-mask-image: url('../../../icons/material/view_timeline.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/view_timeline.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.zoom\:in{
+    -webkit-mask-image: url('../../../icons/material/zoom_in.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/zoom_in.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mat.zoom\:out{
+    -webkit-mask-image: url('../../../icons/material/zoom_out.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/material/zoom_out.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+
+
+
+
