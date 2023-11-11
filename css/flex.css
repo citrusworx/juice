@@ -189,7 +189,7 @@
     flex-direction: column-reverse;
 }
 
-.even {
+.evenly {
     justify-content: space-evenly;
 }
 
@@ -202,5 +202,5 @@
 }
 
 .center {
-    justify-self: center;
+    justify-content: center;
 }
