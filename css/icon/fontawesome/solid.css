@@ -474,3 +474,426 @@
     mask-size: contain;
     mask-repeat: no-repeat;
 }
+
+.fas-solid.arrow-right\:arrow-left{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-right-arrow-left.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-right-arrow-left.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrow-right\:from-bracket{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-right-from-bracket.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-right-from-bracket.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrow-right\:long{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-right-long.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-right-long.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrow-right\:to-bracket{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-right-to-bracket.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-right-to-bracket.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrow-right\:to-city{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-right-to-city.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-right-to-city.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrow-right{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-right.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-right.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrow-rotate\:left{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-rotate-left.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-rotate-left.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrow-rotate\:right{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-rotate-right.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-rotate-right.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrow-trend\:down{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-trend-down.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-trend-down.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrow-trend\:up{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-trend-up.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-trend-up.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrow-turn\:down{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-turn-down.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-turn-down.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrow-turn\:up{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-turn-up.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-turn-up.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrow-up\:1to9{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-up-1-9.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-up-1-9.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrow-up\:9to1{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-up-9-1.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-up-9-1.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrow-up\:atoz{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-up-a-z.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-up-a-z.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrow-up\:from-bracket{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-up-from-bracket.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-up-from-bracket.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrow-up\:from-ground-water{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-up-from-ground-water.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-up-from-ground-water.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrow-up\:from-water-pump{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-up-from-water-pump.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-up-from-water-pump.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrow-up\:long{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-up-long.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-up-long.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrow-up\:right-dots{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-up-right-dots.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-up-right-dots.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrow-up\:right-from-square{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-up-right-from-square.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-up-right-from-square.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrow-up\:short-wide{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-up-short-wide.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-up-short-wide.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrow-up\:wide-short{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-up-wide-short.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-up-wide-short.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrow-up\:ztoa{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-up-z-a.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-up-z-a.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrow-up{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-up.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-up.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrow-down\:to-line{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrows-down-to-line.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrows-down-to-line.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrow-down\:to-people{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrows-down-to-people.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrows-down-to-people.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrow-left-right\:to-line{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrows-left-right-to-line.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrows-left-right-to-line.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrow-left-right{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrows-left-right.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrows-left-right.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrow-rotate{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrows-rotate.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrows-rotate.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrows-spin{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrows-spin.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrows-spin.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrow-split-up-left{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrows-split-up-and-left.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrows-split-up-and-left.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrows\:to-circle{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrows-to-circle.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrows-to-circle.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrows\:to-dot{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrows-to-dot.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrows-to-dot.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrows\:to-eye{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrows-to-eye.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrows-to-eye.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrows\:turn-right{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrows-turn-right.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrows-turn-right.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrows-turn\:to-dots{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrows-turn-to-dots.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrows-turn-to-dots.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrows-up\:down-left-right{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrows-up-down-left-right.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrows-up-down-left-right.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrows-up\:down{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrows-up-down.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrows-up-down.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrows-up\:to-line{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrows-up-to-line.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrows-up-to-line.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.arrows-split\:up-and-left{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-up.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/arrow-up.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.asterisk{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/asterisk.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/asterisk.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.at{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/at.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/at.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.atom{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/atom.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/atom.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.audio\:description{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/audio-description.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/audio-description.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.austral-sign{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/austral-sign.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/austral-sign.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.award{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/award.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/award.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}

@@ -8,23 +8,23 @@
     --sherbet-pistachio: hsl(55, 67%, 34%);
 }
     
-[class *= "sherbet:primary"] {
+.sherbet\:primary {
     color: var(--sherbet-primary);
 }
 
-[class *= "sherbet:secondary"] {
+.sherbet\:secondary {
     color: var(--sherbet-secondary);
 }
 
-[class *= "sherbet:tertiary"] {
+.sherbet\:tertiary {
     color: var(--sherbet-tertiary);
 }
 
-[class *= "sherbet:util"] {
+.sherbet\:util {
     color: var(--sherbet-util);
 }
 
-[class *= "sherbet:dark"] {
+.sherbet\:dark {
     color: var(--sherbet-dark);
 }
 
@@ -34,22 +34,22 @@ Background Classes
 
 */
 
-[class *= "bg-sherbet:primary"] {
+.bg-sherbet\:primary {
     background-color: var(--sherbet-primary);
 }
 
-[class *= "bg-sherbet:secondary"] {
+.bg-sherbet\:secondary {
     background-color: var(--sherbet-secondary);
 }
 
-[class *= "bg-sherbet:tertiary"] {
+.bg-sherbet\:tertiary {
     background-color: var(--sherbet-tertiary);
 }
 
-[class *= "bg-sherbet:util"] {
+.bg-sherbet\:util {
     background-color: var(--sherbet-util);
 }
 
-[class *= "bg-sherbet:dark"] {
+.bg-sherbet\:dark {
     background-color: var(--sherbet-dark);
 }

@@ -1,6 +1,64 @@
 @import url('adobe.css');
 @import url('google.css');
 
+.abril-fatface {
+    font-family: var(--acme);
+    font-weight: 400;
+    font-style: normal;
+}
+
+.acme {
+    font-family: var(--acme);
+    font-size: 32px;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.architects-daughter {
+    font-family: var(--architects-daughter);
+    font-weight: 500;
+    font-style: cursive;
+}
+
+.bebas-neue {
+    font-family: var(--bebas-neue);
+    font-weight: 700;
+    font-style: normal;
+}
+
+.caveat {
+    font-family: var(--caveat);
+    font-weight: 500;
+    font-style: cursive;
+}
+
+.homemade-apple {
+    font-family: var(--homemade-apple);
+    font-weight: 400;
+    font-style: cursive;
+}
+
+.lato {
+    font-family: var(--lato);
+    font-size: 18px;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.macando {
+    font-family: var(--macando);
+    font-weight: 500;
+    font-style: cursive;
+}
+
+.montserrat {
+    font-family: var(--montserrat);
+    font-size: 18px;
+    font-weight: 500;
+    font-style: normal;
+}
+
+
 .open-sans-bold {
     font-family: var(--open-sans);
     font-size: 34px;
@@ -15,30 +73,22 @@
     font-style: italic;
 }
 
-.roboto\:light\:italic{
-    font-family: var(--roboto);
-    font-size: 18px;
-    font-weight: 100;
-    font-style: italic;
-}
-
-.montserrat {
-    font-family: var(--montserrat);
-    font-size: 18px;
-    font-weight: 500;
-    font-style: normal;
-}
-
-.lato {
-    font-family: var(--lato);
-    font-size: 18px;
-    font-weight: 500;
-    font-style: normal;
+.pacifico {
+    font-family: var(--open-sans);
+    font-size: 34px;
+    font-weight: 700;
+    font-style: cursive;
 }
 
 .playfair\:display{
     font-family: var(--playfair-display);
     font-weight: 400;
+    font-style: normal;
+}
+
+.poppins {
+    font-family: var(--poppins);
+    font-weight: 500;
     font-style: normal;
 }
 
@@ -49,9 +99,21 @@
     font-style: normal;
 }
 
-.acme {
-    font-family: var(--acme);
-    font-size: 32px;
+.roboto\:light\:italic{
+    font-family: var(--roboto);
+    font-size: 18px;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.satisfy {
+    font-family: var(--satisfy);
+    font-weight: 500;
+    font-style: cursive;
+}
+
+.source-code {
+    font-family: var(--source-code-pro);
     font-weight: 400;
     font-style: normal;
 }
@@ -60,17 +122,5 @@
     font-family: var(--ubuntu);
     font-size: 14px;
     font-weight: 300;
-    font-style: normal;
-}
-
-.homemade-apple {
-    font-family: var(--homemade-apple);
-    font-weight: 400;
-    font-style: normal;
-}
-
-.source-code {
-    font-family: var(--source-code-pro);
-    font-weight: 400;
     font-style: normal;
 }
