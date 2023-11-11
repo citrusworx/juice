@@ -1,5 +1,6 @@
 @import url('adobe.css');
 @import url('google.css');
+@import url('fontspace.css');
 
 .abril-fatface {
     font-family: var(--acme);

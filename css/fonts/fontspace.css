@@ -1,0 +1,246 @@
+@font-face {
+    font-family: 'Bavex';
+    src: url('otf/Bavex.ttf');
+}
+
+@font-face {
+    font-family: 'Black North';
+    src: url('woff/Blacknorth.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Bootle';
+    src: url('otf/bootle-font/Bootle-4B9l.ttf');
+}
+
+@font-face {
+    font-family: 'Brooke Shappel';
+    src: url('otf/brookeshappell8-font/Brookeshappell8-eoKB.ttf');
+}
+
+@font-face {
+    font-family: 'Champagne and Limos';
+    src: url('otf/champagne-and-limousines-font/ChampagneAndLimousines-7KRB.ttf');
+}
+
+@font-face {
+    font-family: 'Champagne and Limos Italic';
+    src: url('otf/champagne-and-limousines-font/ChampagneAndLimousinesItalic-PlRZ.ttf');
+}
+
+@font-face {
+    font-family: 'Champagne and Limos Bold';
+    src: url('otf/champagne-and-limousines-font/ChampagneAndLimousinesBold-myr2.ttf');
+}
+
+@font-face {
+    font-family: 'Champagne and Limos Bold Italic';
+    src: url('otf/champagne-and-limousines-font/ChampagneAndLimousinesBoldItalic-dqex.ttf');
+}
+
+@font-face {
+    font-family: 'Diesel Power';
+    src: url('otf/dieselpower-font/DieselpowerPersonalUse-axaY5.ttf');
+}
+
+@font-face {
+    font-family: 'Digitalt';
+    src: url('otf/digitalt-font/Digitalt-04no.ttf');
+}
+
+@font-face {
+    font-family: 'Dubiel';
+    src: url('otf/dubiel-font/Dubielplain-1GrZ.ttf');
+}
+
+@font-face {
+    font-family: 'Dubiel Italic';
+    src: url('otf/dubiel-font/DubielItalic-nRoY.ttf');
+}
+
+@font-face {
+    font-family: 'Kate Blues';
+    src: url('otf/kate-blues-font/KateBlues-jEnA7.ttf');
+}
+
+@font-face {
+    font-family: 'Messenger';
+    src: url('otf/messenger-pigeons-font/MessengerPigeonsPersonalUse-d2n7.ttf');
+}
+
+@font-face {
+    font-family: 'Nugo Sans';
+    src: url('otf/nugo-sans-font/NugoSansLight-9YzoK.ttf');
+}
+
+@font-face {
+    font-family: 'Coffee Healing';
+    src: url('woff/CoffeeHealing.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Coffee Healing Italic';
+    src: url('woff/CoffeeHealing-Italic.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Creamy Sugar';
+    src: url('woff/CreamySugar.woff');
+}
+
+@font-face {
+    font-family: 'Disorder Italic';
+    src: url('otf/Disorder-Italic.ttf');
+}
+
+@font-face {
+    font-family: 'Founder';
+    src: url('otf/Founder.ttf');
+}
+
+@font-face {
+    font-family: 'Newspaper';
+    src: url('otf/Newspaper.ttf');
+}
+
+@font-face {
+    font-family: 'Posters';
+    src: url('otf/Posters-Italic.ttf');
+}
+
+@font-face {
+    font-family: 'Sellena Brush';
+    src: url('woff/SellenaBrush.woff');
+}
+
+@font-face {
+    font-family: 'Zombie Wolf';
+    src: url('otf/zombiewolf-font/ZombiewolfPersonalUseRegular-qZAEx.ttf');
+}
+
+.bavex {
+    font-family: 'Bavex', sans-serif;
+    font-style: normal;
+}
+
+.blacknorth {
+    font-family: 'Black North', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.bootle {
+    font-family: 'Bootle', sans-serif;
+    font-style: normal;
+}
+
+.brooke-shappel {
+    font-family: 'Brooke Shappel', sans-serif;
+    font-style: normal;
+}
+
+.champagne-limos {
+    font-family: 'Champagne and Limos', sans-serif;
+    font-style: normal;
+}
+
+.champagne-limos\:bold {
+    font-family: 'Champagne and Limos Bold', sans-serif;
+    font-style: normal;
+}
+
+.champagne-limos\:italic {
+    font-family: 'Champagne and Limos Italic', sans-serif;
+    font-style: normal;
+}
+
+.champagne-limos\:bold-italic {
+    font-family: 'Champagne and Limos Bold Italic', sans-serif;
+    font-style: normal;
+}
+
+.diesel-power {
+    font-family: 'Diesel Power', sans-serif;
+    font-style: normal;
+}
+
+.digitalt {
+    font-family: 'Digitalt', sans-serif;
+    font-style: normal;
+}
+
+.dubiel {
+    font-family: 'Dubiel', sans-serif;
+    font-style: normal;
+}
+
+.dubiel\:italic {
+    font-family: 'Dubiel Italic', sans-serif;
+    font-style: normal;
+}
+
+.champagne-limos {
+    font-family: 'Champagne and Limos', sans-serif;
+    font-style: normal;
+}
+
+.coffee-healing {
+    font-family: 'Coffee Healing', cursive;
+    font-style: normal;
+}
+
+.coffee-healing\:italic {
+    font-family: 'Coffee Healing', cursive;
+    font-style: italic;
+}
+
+.creamy-sugar {
+    font-family: 'Creamy Sugar', cursive;
+    font-style: normal;
+}
+
+.disorder\:italic {
+    font-family: 'Disorder Italic', sans-serif;
+    font-style: normal;
+}
+
+.founder {
+    font-family: 'Founder', sans-serif;
+    font-style: normal;
+}
+
+.kate-blues {
+    font-family: 'Kate Blues', sans-serif;
+    font-style: normal;
+}
+
+.messenger {
+    font-family: 'Messenger', sans-serif;
+    font-style: normal;
+}
+
+.newspaper {
+    font-family: 'Newspaper', sans-serif;
+    font-style: normal;
+}
+
+.nugo-sans {
+    font-family: 'Nugo Sans', sans-serif;
+    font-style: normal;
+}
+
+.posters {
+    font-family: 'Posters', sans-serif;
+    font-style: italic;
+}
+
+.sellena-brush {
+    font-family: 'Sellena Brush', cursive;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.zombie-wolf {
+    font-family: 'Zombie Wolf', sans-serif;
+    font-style: normal;
+}

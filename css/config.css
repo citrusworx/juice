@@ -32,3 +32,7 @@ footer {
     overflow-y: visible;
     overflow-x: visible;
 }
+
+p[class] {
+    overflow-y: hidden;
+}
