@@ -1,13 +1,3 @@
-/* Brand */
-.text\:font\:primary {
-    font-family: var(--primary-font);
-}
-
-.text\:font\:light {
-    font-family: var(--light-font);
-}
-
-
 /* Base Text Styles */
 .list-none {
     list-style: none;

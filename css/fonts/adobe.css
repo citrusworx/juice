@@ -1,46 +1,29 @@
-@font-face {
-    font-family: 'Korolev Rounded Thin', sans-serif;
-    src: url("https://use.typekit.net/rkc1dxu.css") format('woff');
-    font-weight: 100;
-    font-style: normal;
+:root {
+
+    /* Fonts */
+    --primary-font: 'Korolev Rounded Medium';
+    --light-font: 'Korolev Rounded Thin';
+    --thin-font:  'Korolev Rounded Light';
+    --bold-font: 'Korolev Rounded Bold';
+    --heavy-font: 'Korolev Rounded Heavy';
+
 }
 
-@font-face {
-    font-family: 'Korolev Rounded Light', sans-serif;
-    src: url("https://use.typekit.net/rkc1dxu.css") format('woff');
-    font-weight: 300;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Korolev Rounded Medium', sans-serif;
-    src: url("https://use.typekit.net/rkc1dxu.css") format('woff');
+/* Brand */
+.text\:font\:primary {
+    font-family: "korolev-rounded", sans-serif;
     font-weight: 500;
     font-style: normal;
 }
 
-@font-face {
-    font-family: 'Korolev Rounded Bold', sans-serif;
-    src: url("https://use.typekit.net/rkc1dxu.css") format('woff');
+.text\:font\:light {
+    font-family: "korolev", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.text\:font\:bold {
+    font-family: "korolev", sans-serif;
     font-weight: 700;
     font-style: normal;
-}
-
-@font-face {
-    font-family: 'Korolev Rounded Heavy', sans-serif;
-    src: url("https://use.typekit.net/rkc1dxu.css") format('woff');
-    font-weight: 900;
-    font-style: normal;
-}
-
-
-:root {
-
-    /* Fonts */
-    --primary-font: 'Korolev Rounded Medium', sans-serif;
-    --light-font: 'Korolev Rounded Light', sans-serif;
-    --thin-font:  'Korolev Rounded Thin', sans-serif;
-    --bold-font: 'Korolev Rounded Thin', sans-serif;
-    --heavy-font: 'Korolev Rounded Bold', sans-serif;
-
 }

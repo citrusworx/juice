@@ -29,6 +29,10 @@
     animation: bounce 1s linear forwards;
 }
 
+.bounce\:in {
+    animation: bounceIn 10s linear forwards;
+}
+
 .flash\:red{
     animation: flash-red 1s running infinite;
 }
@@ -68,6 +72,14 @@
 
 .spin {
     animation: spin 2s linear infinite;
+}
+
+.spin\:fast {
+    animation: spin 0.5s linear infinite;
+}
+
+.spin\:slow {
+    animation: spin 4s linear infinite;
 }
 
 .turn {
@@ -143,6 +155,27 @@
 
     100% {
         transform: translateY(-0.2px);
+    }
+}
+
+@keyframes bounceIn {
+    0%{
+        transform: translateY(1px);
+        transform: translateX(-100vw);
+    }
+
+    25% {
+        transform: translateY(-1px);
+        
+    }
+
+    50% {
+        transform: translateY(0.8px);
+    }
+
+    100% {
+        transform: translateY(-0.2px);
+        transform: translateX(0rem);
     }
 }
 
