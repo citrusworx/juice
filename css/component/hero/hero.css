@@ -1,0 +1,39 @@
+.hero\:primary {
+    display: flex;
+    align-items: center;
+    height: 50vh;
+    width: 100vw;
+    background: var(--blue-green-500);
+    margin: auto 0;
+    padding-bottom: 5rem;
+}
+
+.hero\:secondary {
+    display: flex;
+    align-items: center;
+    height: 50vh;
+    width: 100vw;
+    background: var(--secondary);
+    margin: auto 0;
+    padding-bottom: 5rem;
+}
+
+.hero\:dark {
+    display: flex;
+    align-items: center;
+    height: 50vh;
+    width: 100vw;
+    background: var(--black-700);
+    margin: auto 0;
+    padding-bottom: 5rem;
+}
+
+.hero\:light {
+    display: flex;
+    align-items: center;
+    height: 50vh;
+    width: 100vw;
+    background: var(--gray-200);
+    margin: auto 0;
+    padding-bottom: 5rem;
+}

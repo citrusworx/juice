@@ -18,8 +18,9 @@
 @import url('text.css'); 
 @import url('grid.css'); 
 @import url('background.css');
-@import url('highlight/highlight.css');  
-@import url('button.css'); /* End Class Stile File */
+@import url('highlight/highlight.css');  /* End Class Stile File */
+@import url('button.css'); /* Start Component File */
+@import url('component/hero/hero.css');
 @import url('desktop/desktop.css'); /* Responsive Library 1 of 3 */
 @import url('mobile/mobile.css'); /* Responsive Library 2 of 3 */
 @import url('tablet/tablet.css'); /* Responsive Library 3 of 3 */

@@ -8,3 +8,11 @@
 #vscode
 .vscode/
 
+
+#npm
+node_modules/
+
+#Repo related files
+gulpfile.js
+package-lock.json
+package.json
