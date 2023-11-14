@@ -2,7 +2,7 @@
     display: grid;
 }
 
-.gtr-3-1 {
+.gtc\:rep\:3-1 {
     grid-template-columns: repeat(3, 1fr);
 }
 

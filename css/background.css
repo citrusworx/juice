@@ -15,3 +15,7 @@
 .bg-secondary-light {
     background-color: var(--secondary-light);
 }
+
+.bg\:slate-blue-500 {
+    background: var(--slate-blue-500);
+}
