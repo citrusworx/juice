@@ -19,6 +19,8 @@
 }
 
 .btn\:dark {
+    height: 5vh;
+    width: 5vw;
     background-color: var(--black-800);
     border:none;
 }

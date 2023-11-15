@@ -1753,7 +1753,7 @@
     mask-repeat: no-repeat;
 }
 
-.fas-solid.building\:exclamation {
+.fas-solid.building\:circle-exclamation {
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/building-circle-exclamation.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -1914,3 +1914,4 @@
     mask-size: contain;
     mask-repeat: no-repeat;
 }
+

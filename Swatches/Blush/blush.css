@@ -5,17 +5,189 @@
     --blush-sky: hsl(203, 31%, 49%);
     --blush-midnight: hsl(207, 79%, 19%);
 }
+/* Text */
+.text\:blush\:raspberry {
+    color: var(--blush-raspberry);
+}
 
-/* TODO: Text Stiles */
+.text\:blush\:petal {
+    color: var(--blush-petal);
+}
 
-/* TODO: BG Stiles */
+.text\:blush\:ivory {
+    color: var(--blush-ivory);
+}
 
-/* TODO: Border Stiles */
+.text\:blush\:sky {
+    color: var(--blush-sky);
+}
 
-/* TODO: Shadow Stiles */
+.text\:blush\:midnight {
+    color: var(--blush-midnight);
+}
 
-/* TODO: Highlight Stiles */
+/* BG */
+.bg\:blush\:raspberry {
+    background-color: var(--blush-raspberry);
+}
 
-/* TODO: Icon Stiles */
+.bg\:blush\:petal {
+    background-color: var(--blush-petal);
+}
 
-/* TODO: Button Stiles */
+.bg\:blush\:ivory {
+    background-color: var(--blush-ivory);
+}
+
+.bg\:blush\:sky {
+    background-color: var(--blush-sky);
+}
+
+.bg\:blush\:midnight {
+    background-color: var(--blush-midnight);
+}
+/* Border Stiles */
+.border\:blush\:raspberry {
+    border: 5px solid var(--blush-raspberry);
+}
+
+.border\:blush\:petal {
+    border: 5px solid var(--blush-petal);
+}
+
+.border\:blush\:ivory {
+    border: 5px solid var(--blush-ivory);
+}
+
+.border\:blush\:sky {
+    border: 5px solid var(--blush-sky);
+}
+
+.border\:blush\:midnight {
+    border: 5px solid var(--blush-midnight);
+}
+
+/* Shadow Stiles */
+/* TODO: Add variations */
+.ds\:md.blush\:raspberry {
+    box-shadow: var(--blush-raspberry) 10px 10px;
+}
+
+.ds\:md.blush\:petal {
+    box-shadow: var(--blush-petal) 10px 10px;
+}
+
+.ds\:md.blush\:ivory {
+    box-shadow: var(--blush-ivory) 10px 10px;
+}
+
+.ds\:md.blush\:sky {
+    box-shadow: var(--blush-sky) 10px 10px;
+}
+
+.ds\:md.blush\:midnight {
+    box-shadow: var(--blush-midnight) 10px 10px;
+}
+
+/* Highlight Stiles */
+.hl\:blush\:rasp {
+    background-color:var(--blush-raspberry);
+}
+
+.hl\:blush\:raspberry:hover {
+    background-color: var(--blush-petal);    
+}
+
+.hl\:blush\:petal {
+    background-color:var(--blush-petal);
+}
+
+.hl\:blush\:raspberry:hover {
+    background-color: var(--blush-raspberry);    
+}
+
+/* Icon Stiles */
+.icon\:blush\:raspberry {
+    display: inline-block;
+    background: var(--blush-raspberry);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.icon\:blush\:petal {
+    display: inline-block;
+    background: var(--blush-petal);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.icon\:blush\:ivory {
+    display: inline-block;
+    background: var(--blush-ivory);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.icon\:blush\:sky {
+    display: inline-block;
+    background: var(--blush-sky);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.icon\:blush\:midnight {
+    display: inline-block;
+    background: var(--blush-midnight);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+/* Button Stiles */
+.btn\:blush\:raspberry {
+    height: 5vh;
+    width: 15vw;
+    background-color: var(--blush-raspberry);
+    border:none;
+}
+
+[class *= "btn:blush:raspberry"]:hover {
+    height: 5vh;
+    width: 15vw;
+    background-color: var(--blush-petal);
+    border:none;
+    color: var(--blush-midnight)
+}
+
+.btn\:blush\:petal {
+    height: 5vh;
+    width: 5vw;
+    background-color: var(--blush-petal);
+    border:none;
+}
+
+.btn\:blush\:petal:hover {
+    height: 5vh;
+    width: 5vw;
+    background-color: var(--blush-raspberry);
+    border:none;
+}
+
+.btn\:blush\:ivory {
+    height: 5vh;
+    width: 5vw;
+    background-color: var(--ivory);
+    border:none;
+}
+
+.btn\:blush\:sky {
+    height: 5vh;
+    width: 5vw;
+    background-color: var(--blush-sky);
+    border:none;
+}
+
+.btn\:blush\:midnight {
+    height: 5vh;
+    width: 5vw;
+    background-color: var(--blush-midnight);
+    border:none;
+}
