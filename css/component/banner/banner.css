@@ -1,0 +1,39 @@
+.banner\:full.primary\:md {
+    height: 8vh;
+    width: 100vw;
+    background-color: var(--primary);
+    display: flex;
+    flex: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.banner\:full.secondary\:md {
+    height: 8vh;
+    width: 100vw;
+    background-color: var(--secondary);
+    display: flex;
+    flex: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.banner\:full.light\:md {
+    height: 8vh;
+    width: 100vw;
+    background-color: var(--gray-200);
+    display: flex;
+    flex: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.banner\:full.dark\:md {
+    height: 8vh;
+    width: 100vw;
+    background-color: var(--black-500);
+    display: flex;
+    flex: row;
+    align-items: center;
+    justify-content: space-evenly;
+}

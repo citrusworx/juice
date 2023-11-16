@@ -1631,9 +1631,17 @@
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/bridge-lock.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
+    -moz-mask-image: url('../../../icons/fontawesome/web/svgs/solid/bridge-lock.svg');
+    -moz-mask-size: contain;
+    -moz-mask-repeat: no-repeat;
+    -o-mask-image: url('../../../icons/fontawesome/web/svgs/solid/bridge-lock.svg');
+    -o-mask-size: contain;
+    -o-mask-repeat: no-repeat;
     mask-image: url('../../../icons/fontawesome/web/svgs/solid/bridge-lock.svg');
     mask-size: contain;
     mask-repeat: no-repeat;
+    border:none;
+    outline: none;
 }
 
 .fas-solid.bridge\:water {

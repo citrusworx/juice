@@ -1,0 +1,29 @@
+.nav\:strip.primary\:md {
+    height: 8vh;
+    width: 100vw;
+    background-color: var(--primary);
+    display: flex;
+    flex: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.nav\:bar.primary\:md {
+    height: 10vh;
+    width: 100vw;
+    background-color: var(--primary);
+    display: flex;
+    flex: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.nav\:box.primary\:md {
+    height: 20vh;
+    width: 100vw;
+    background-color: var(--primary);
+    display: flex;
+    flex: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
