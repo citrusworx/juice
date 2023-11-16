@@ -93,6 +93,28 @@
     text-decoration: line-through;
 }
 
+/* Link STYLES */
+
+a {
+    color: var(--primary);
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--secondary);
+    text-decoration: none;
+}
+
+a:visited {
+    color: var(--secondary);
+    text-decoration: none;
+}
+
+.link\:light {
+    color: var(--gray-200);
+    text-decoration: none;
+}
+
 
 /* Sizing */
 /* TODO: more sizes?? */

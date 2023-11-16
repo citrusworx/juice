@@ -1,21 +1,29 @@
 
 /*Primary Background Stylings */
-.bg-primary {
+.bg\:primary {
     background-color: var(--primary);
 }
 
-.bg-primary-light {
+.bg\:primary-light {
     background-color: var(--primary-light);
 }
 
-.bg-secondary {
+.bg\:secondary {
     background-color: var(--secondary);
 }
 
-.bg-secondary-light {
+.bg\:secondary-light {
     background-color: var(--secondary-light);
 }
 
 .bg\:slate-blue-500 {
     background: var(--slate-blue-500);
+}
+
+.bg\:light {
+    background: var(--gray-200);
+}
+
+.bg\:dark {
+    background: var(--black-800);
 }
