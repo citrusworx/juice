@@ -42,6 +42,10 @@
     animation: flicker 2s infinite;
 }
 
+.grow {
+    animation: grow 2s linear forwards;
+}
+
 .pulse {
     animation: pulse .5s 3;
 }
@@ -209,6 +213,16 @@
     }
     100% {
         opacity: .4;
+    }
+}
+
+@keyframes grow {
+    0% {
+        
+    }
+
+    100% {
+        
     }
 }
 
