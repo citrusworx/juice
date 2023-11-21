@@ -6,15 +6,83 @@
     --glacier-frost: hsl(190, 33%, 90%);
 }
 /* TODO: Text Stiles */
+.text\:color\:sapphire {
+    color: var(--glacier-sapphire)
+}
 
+.text\:color\:cerulean {
+    color: var(--glacier-cerulean)
+}
+
+.text\:color\:aqua {
+    color: var(--glacier-aqua)
+}
+
+.text\:color\:ice {
+    color: var(--glacier-ice)
+}
+
+.text\:color\:frost {
+    color: var(--glacier-frost)
+}
 /* TODO: BG Stiles */
+.bg\:color\:sapphire {
+    color: var(--glacier-sapphire)
+}
+
+.bg\:color\:cerulean {
+    color: var(--glacier-cerulean)
+}
+
+.bg\:color\:aqua {
+    color: var(--glacier-aqua)
+}
+
+.bg\:color\:ice {
+    color: var(--glacier-ice)
+}
+
+.bg\:color\:frost {
+    color: var(--glacier-frost)
+}
 
 /* TODO: Border Stiles */
+.border\:color\:sapphire {
+    border: 1px solid var(--glacier-sapphire);
+}
 
+.border\:color\:cerulean {
+    color: var(--glacier-cerulean)
+}
+
+.border\:color\:aqua {
+    color: var(--glacier-aqua)
+}
+
+.border\:color\:ice {
+    color: var(--glacier-ice)
+}
+
+.border\:color\:frost {
+    color: var(--glacier-frost)
+}
 /* TODO: Shadow Stiles */
 
 /* TODO: Highlight Stiles */
+span.hl\:glacier\:sapphire {
+    background-color: var(--glacier-sapphire);
+}
 
 /* TODO: Icon Stiles */
-
+.icon\:glacier{
+    display: inline-block;
+    background-color: var(--glacier-sapphire);
+    background-image: linear-gradient(147deg, var(--glacier-cerulean) 0%, var(--glacier-sapphire) 74%);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 /* TODO: Button Stiles */
+.button\:md.glacier\:sapphire {
+    background-color: var(--glacier-sapphire);
+    border: 1px solid var(--glacier-frost);
+}

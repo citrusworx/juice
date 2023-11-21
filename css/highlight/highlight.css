@@ -1,21 +1,21 @@
-.hl\:yellow {
+span.hl\:yellow {
     background-color: hsla(70, 100%, 50%, 0.5);
 }
 
-.hl\:yellow:hover {
+span.hl\:yellow:hover {
     background-color: hsla(70, 100%, 50%, 0.8);    
 }
 
-.hl\:yellow\:highlight {
+span.hl\:yellow\:highlight {
     background-color: hsla(70, 100%, 50%, 0.5);
     animation: highlightAction 1s linear forwards;
 }
 
-.hl\:blue {
+span.hl\:blue {
     background-color: hsla(220, 100%, 50%, 0.5);
 }
 
-.hl\:blue:hover {
+span.hl\:blue:hover {
     background-color: hsla(220, 100%, 50%, 0.8);
 }
 

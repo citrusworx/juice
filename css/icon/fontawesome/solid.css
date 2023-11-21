@@ -3671,3 +3671,714 @@
     mask-size: contain;
     mask-repeat: no-repeat;
 }
+
+.fas-solid.display {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/display.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/display.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.distribute-spacing\:horizontal {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/distribute-spacing-horizontal.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/distribute-spacing-horizontal.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.distribute-spacing\:vertical {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/distribute-spacing-vertical.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/distribute-spacing-vertical.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.dna {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/dna.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/dna.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.dog {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/dog.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/dog.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.dollar-sign {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/dollar-sign.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/dollar-sign.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.dolly {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/dolly.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/dolly.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.dolly\:flatbed {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/dolly-flatbed.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/dolly-flatbed.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.donate {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/donate.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/donate.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.door\:closed {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/door-closed.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/door-closed.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.down-left-and-up-right-to-center {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/down-left-and-up-right-to-center.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/down-left-and-up-right-to-center.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.download {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/download.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/download.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.drafting-compass {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/drafting-compass.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/drafting-compass.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.dragon {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/dragon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/dragon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.draw-polygon {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/draw-polygon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/draw-polygon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.drum {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/drum.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/drum.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.drum\:steelpan {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/drum-steelpan.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/drum-steelpan.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.drumstick-bite {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/drumstick-bite.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/drumstick-bite.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.dumbbell {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/dumbbell.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/dumbbell.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.dumpster {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/dumpster.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/dumpster.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.dumpster\:fire {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/dumpster-fire.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/dumpster-fire.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.dungeon {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/dungeon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/dungeon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.ear\:deaf {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/ear-deaf.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/ear-deaf.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.ear\:listen {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/ear-listen.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/ear-listen.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.earth\:africa {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/earth-africa.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/earth-africa.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.earth\:americas {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/earth-americas.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/earth-americas.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.earth\:asia {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/earth-asia.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/earth-asia.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.earth\:europe {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/earth-europe.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/earth-europe.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.earth\:oceania {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/earth-oceania.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/earth-oceania.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.egg {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/egg.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/egg.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.eject {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/eject.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/eject.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.elevator {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/elevator.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/elevator.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.ellipsis\:h {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/ellipsis-h.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/ellipsis-h.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.ellipsis\:v {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/ellipsis-v.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/ellipsis-v.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.envelope {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/envelope.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/envelope.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.envelope\:open {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/envelope-open.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/envelope-open.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.envelopes\:bulk {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/envelopes-bulk.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/envelopes-bulk.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.equals {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/equals.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/equals.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.eraser {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/eraser.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/eraser.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.ethernet {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/ethernet.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/ethernet.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.euro-sign {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/euro-sign.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/euro-sign.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.exclamation {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/exclamation.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/exclamation.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.expand {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/expand.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/expand.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.explosion {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/explosion.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/explosion.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.eye-dropper {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/eye-dropper.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/eye-dropper.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.eyes {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/eyes.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/eyes.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.face\:angry {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-angry.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-angry.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.face\:dizzy {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-dizzy.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-dizzy.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.face\:flushed {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-flushed.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-flushed.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.eye\:low-vision {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/eye-low-vision.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/eye-low-vision.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.eye\:slash {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/eye-slash.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/eye-slash.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.eye {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/eye.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/eye.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.f {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/f.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/f.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.face\:angry {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-angry.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-angry.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.face\:dizzy {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-dizzy.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-dizzy.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.face\:flushed {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-flushed.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-flushed.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.face\:frown-open {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-frown-open.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-frown-open.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.face\:frown {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-frown.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-frown.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.face\:grimace {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-grimace.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-grimace.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.face\:grin\:beam-sweat {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-grin-beam-sweat.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-grin-beam-sweat.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.face\:grin\:beam {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-grin-beam.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-grin-beam.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.face\:grin\:hearts {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-grin-hearts.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-grin-hearts.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.face\:grin\:squint-tears {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-grin-squint-tears.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-grin-squint-tears.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.face\:grin\:squint {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-grin-squint.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-grin-squint.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.face\:grin\:stars {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-grin-stars.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-grin-stars.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.face\:grin\:tears {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-grin-tears.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-grin-tears.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.face\:grin\:tongue-squint {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-grin-tongue-squint.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-grin-tongue-squint.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.face\:grin\:tongue-wink {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-grin-tongue-wink.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-grin-tongue-wink.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.face\:grin\:tongue {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-grin-tongue.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-grin-tongue.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.face\:grin\:wide {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-grin-wide.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-grin-wide.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.face\:grin\:wink {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-grin-wink.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-grin-wink.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.face\:grin {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-grin.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-grin.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.face\:kiss\:beam {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-kiss-beam.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-kiss-beam.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.face\:kiss\:wink-heart {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-kiss-wink-heart.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-kiss-wink-heart.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.face\:kiss {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-kiss.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-kiss.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.face\:laugh\:beam {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-laugh-beam.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-laugh-beam.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.face\:laugh\:squint {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-laugh-squint.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-laugh-squint.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.face\:laugh\:wink {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-laugh-wink.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-laugh-wink.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.face\:laugh {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-laugh.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-laugh.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}

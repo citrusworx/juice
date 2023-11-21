@@ -1,5 +1,6 @@
 @import url('blue.css');
 @import url('green.css');
+@import url('orange.css');
 @import url('purple.css');
 
 :root{
@@ -62,6 +63,8 @@
     --seaside: linear-gradient(90deg, hsl(180, 100%, 50%), hsl(240, 100%, 20%));
     --oceanspray: linear-gradient(90deg, hsl(200, 100%, 80%), hsl(240, 100%, 40%));
 
+    
+
 }
 
 /* Special Colors */
@@ -103,4 +106,49 @@
 
 .bg-ocean-spray {
   background: var(--oceanspray);
+}
+
+.bg\:grad\:purp{
+  background-color: #4158D0;
+  background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+}
+
+.bg\:grad\:turq {
+  background-color: #0093E9;
+  background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+}
+
+.bg\:grad\:lav {
+  background-color: #8EC5FC;
+  background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+}
+
+.bg\:grad\:faded-cotton-candy {
+  background-color: #D9AFD9;
+  background-image: linear-gradient(0deg, #D9AFD9 0%, #97D9E1 100%);
+}
+
+.bg\:grad\:rocketsicle {
+  background-color: #FFFFFF;
+  background-image: linear-gradient(180deg, #FFFFFF 0%, #6284FF 50%, #FF0000 100%);
+}
+
+.bg\:grad\:peach {
+  background-color: #FBAB7E;
+  background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+}
+
+.bg\:grad\:limeade {
+  background-color: #85FFBD;
+  background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+}
+
+.bg\:grad\:periwinkle {
+  background-color: #8BC6EC;
+  background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+}
+
+.bg\:grad.soapy {
+  background-color: #FA8BFF;
+  background-image: linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #2BFF88 90%);
 }

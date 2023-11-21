@@ -24,39 +24,39 @@
 
 }
 
-.bg-blue-green-100 {
+.bg\:blue-green-100 {
     background: var(--blue-green-100);
 }
 
-.bg-blue-green-200 {
+.bg\:blue-green-200 {
     background: var(--blue-green-200);
 }
 
-.bg-blue-green-300 {
+.bg\:blue-green-300 {
     background: var(--blue-green-300);
 }
 
-.bg-blue-green-400 {
+.bg\:blue-green-400 {
     background: var(--blue-green-400);
 }
 
-.bg-blue-green-500 {
+.bg\:blue-green-500 {
     background: var(--blue-green-500);
 }
 
-.bg-blue-green-600 {
+.bg\:blue-green-600 {
     background: var(--blue-green-600);
 }
 
-.bg-blue-green-700 {
+.bg\:blue-green-700 {
     background: var(--blue-green-700);
 }
 
-.bg-blue-green-800 {
+.bg\:blue-green-800 {
     background: var(--blue-green-800);
 }
 
-.bg-blue-green-900 {
+.bg\:blue-green-900 {
     background: var(--blue-green-900);
 }
 
@@ -102,4 +102,14 @@
 
 .bg\:grad\:left.candy-apple {
     background: var(--grad-candy-apple);
+}
+
+.bg\:grad.turq-to-green {
+    background-color: #08AEEA;
+    background-image: linear-gradient(90deg, #08AEEA 0%, #2AF598 100%);
+}
+
+.bg\:grad.sad-watermelon {
+    background-color: #3EECAC;
+    background-image: linear-gradient(19deg, #3EECAC 0%, #EE74E1 100%);
 }
