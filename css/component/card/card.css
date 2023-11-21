@@ -1,3 +1,5 @@
+/* Create sizing classes for the card */
+
 .card\:light {
     background-color: var(--gray-200);
     width: 30vw;
@@ -8,8 +10,56 @@
     border-radius: 10px;
  }
  
+ .card\:dark {
+    background-color: var(--black-700);
+    width: 30vw;
+    max-width: 35vw;
+    margin: 0 auto;
+    margin-top: 5vh;
+    padding: 2rem 2rem;
+    border-radius: 10px;
+ }
+
+ .card\:primary {
+    background-color: var(--primary);
+    width: 30vw;
+    max-width: 35vw;
+    margin: 0 auto;
+    margin-top: 5vh;
+    padding: 2rem 2rem;
+    border-radius: 10px;
+ }
+
+ .card\:primary\:light {
+    background-color: var(--primary-light);
+    width: 30vw;
+    max-width: 35vw;
+    margin: 0 auto;
+    margin-top: 5vh;
+    padding: 2rem 2rem;
+    border-radius: 10px;
+ }
  
- 
+ .card\:secondary {
+    background-color: var(--secondary);
+    width: 30vw;
+    max-width: 35vw;
+    margin: 0 auto;
+    margin-top: 5vh;
+    padding: 2rem 2rem;
+    border-radius: 10px;
+ }
+
+ .card\:secondary\:light {
+    background-color: var(--secondary-light);
+    width: 30vw;
+    max-width: 35vw;
+    margin: 0 auto;
+    margin-top: 5vh;
+    padding: 2rem 2rem;
+    border-radius: 10px;
+ }
+
  #card {
     width: 50vw;
     height: 30vh;

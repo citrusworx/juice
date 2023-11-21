@@ -1,9 +1,9 @@
-.bn\:flat {
+.btn\:flat {
     padding: 0.4rem;
     border: none;
 }
 
-.bn\:flat:hover {
+.btn\:flat:hover {
     background: var(--skylight);
 }
 

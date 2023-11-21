@@ -86,6 +86,11 @@
     animation: spin 4s linear infinite;
 }
 
+.tilt {
+    animation: tilt 2s linear forwards;
+    transform-origin: bottom right;
+}
+
 .turn {
     animation: spin 5s linear infinite;
     animation-play-state: paused;
@@ -293,6 +298,15 @@
 
     100% {
         rotate: 360deg;
+    }
+}
+
+@keyframes tilt {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(-10deg);
     }
 }
 

@@ -137,3 +137,10 @@ a:visited {
 .text\:xxlg{
     font-size: 2.75rem;
 }
+
+/* Rotate Text Upwards */
+.r90 {
+   writing-mode: vertical-rl;
+   transform: rotate(180deg);
+   backface-visibility: visible;
+}
