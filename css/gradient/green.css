@@ -19,6 +19,9 @@
     --green-blue-800: linear-gradient(90deg, hsla(160, 100%, 20%), hsl(160, 100%, 30%));
     --green-blue-900: linear-gradient(90deg, hsla(160, 100%, 15%), hsl(160, 100%, 20%));
 
+    --grad-meadow: linear-gradient(90deg, #749433 0%, #88A847 25%, #9CBC5B 50%, #B0D06F 75%, #C4E483 100%);
+    --grad-candy-apple: linear-gradient(90deg, #429450 0%, #56A864 25%, #6ABC78 50%, #7ED08C 75%, #92E4A0 100%);
+
 }
 
 .bg-blue-green-100 {
@@ -57,38 +60,46 @@
     background: var(--blue-green-900);
 }
 
-.bg-green-blue-100 {
+.bg\:green-blue-100 {
     background: var(--green-blue-100);
 }
 
-.bg-green-blue-200 {
+.bg\:green-blue-200 {
     background: var(--green-blue-200);
 }
 
-.bg-green-blue-300 {
+.bg\:green-blue-300 {
     background: var(--green-blue-300);
 }
 
-.bg-green-blue-400 {
+.bg\:green-blue-400 {
     background: var(--green-blue-400);
 }
 
-.bg-green-blue-500 {
+.bg\:green-blue-500 {
     background: var(--green-blue-500);
 }
 
-.bg-green-blue-600 {
+.bg\:green-blue-600 {
     background: var(--green-blue-600);
 }
 
-.bg-green-blue-700 {
+.bg\:green-blue-700 {
     background: var(--green-blue-700);
 }
 
-.bg-green-blue-800 {
+.bg\:green-blue-800 {
     background: var(--green-blue-800);
 }
 
-.bg-green-blue-900 {
+.bg\:green-blue-900 {
     background: var(--green-blue-900);
+}
+
+.bg\:grad\:left.meadow {
+    background: var(--grad-meadow);
+}
+
+.bg\:grad\:left.candy-apple {
+    background: var(--grad-candy-apple);
 }

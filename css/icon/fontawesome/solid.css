@@ -3501,3 +3501,173 @@
     mask-size: contain;
     mask-repeat: no-repeat;
 }
+
+.fas-solid.democrat {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/democrat.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/democrat.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.desktop {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/desktop.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/desktop.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.dharmachakra {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/dharmachakra.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/dharmachakra.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.diagram\:next {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/diagram-next.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/diagram-next.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.diagram\:predecessor {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/diagram-predecessor.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/diagram-predecessor.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.diagram\:project {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/diagram-project.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/diagram-project.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+.fas-solid.diagram\:successor {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/diagram-successor.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/diagram-successor.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.diamond\:turn-right {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/diamond-turn-right.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/diamond-turn-right.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.diamond {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/diamond.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/diamond.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.dice\:d6 {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/dice-d6.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/dice-d6.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.dice\:d20 {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/dice-d20.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/dice-d20.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.dice\:\5 {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/dice-five.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/dice-five.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.dice\:\4 {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/dice-four.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/dice-four.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.dice\:\1 {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/dice-one.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/dice-one.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.dice\:\6{
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/dice-six.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/dice-six.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.dice\:\3 {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/dice-three.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/dice-three.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.dice\:\2 {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/dice-two.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/dice-two.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.dice {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/dice.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/dice.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.fas-solid.disease {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/disease.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/disease.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}

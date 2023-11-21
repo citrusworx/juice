@@ -1,0 +1,9 @@
+/* Base Template for Badges */
+
+.badge {
+    writing-mode: vertical-rl;
+    transform-origin: bottom left;
+    -webkit-rotate: 10deg;
+    -moz-rotate: 10deg;
+    rotate: 10deg;
+}
