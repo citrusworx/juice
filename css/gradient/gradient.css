@@ -48,17 +48,6 @@
 
     /* Color Gradient Sets */
 
-
-    --purple-pink-100: linear-gradient(90deg, hsl(280, 100%, 50%), hsl(340, 100%, 50%));
-    --purple-pink-200: linear-gradient(90deg, hsl(280, 80%, 50%), hsl(340, 80%, 50%));
-    --purple-pink-300: linear-gradient(90deg, hsl(280, 60%, 50%), hsl(340, 60%, 50%));
-    --purple-pink-400: linear-gradient(90deg, hsl(280, 40%, 50%), hsl(340, 40%, 50%));
-    --purple-pink-500: linear-gradient(90deg, hsl(280, 20%, 50%), hsl(340, 20%, 50%));
-    --purple-pink-600: linear-gradient(90deg, hsl(280, 10%, 50%), hsl(340, 10%, 50%));
-    --purple-pink-700: linear-gradient(90deg, hsl(280, 5%, 50%), hsl(340, 5%, 50%));
-    --purple-pink-800: linear-gradient(90deg, hsl(280, 2%, 50%), hsl(340, 2%, 50%));
-    --purple-pink-900: linear-gradient(90deg, hsl(280, 1%, 50%), hsl(340, 1%, 50%));
-
     --skylight:  linear-gradient(90deg, hsl(210, 100%, 90%), hsl(210, 100%, 60%));
     --seaside: linear-gradient(90deg, hsl(180, 100%, 50%), hsl(240, 100%, 20%));
     --oceanspray: linear-gradient(90deg, hsl(200, 100%, 80%), hsl(240, 100%, 40%));
@@ -151,4 +140,34 @@
 .bg\:grad.soapy {
   background-color: #FA8BFF;
   background-image: linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #2BFF88 90%);
+}
+
+.bg\:grad.blueberry-pie {
+  background-color: #21D4FD;
+  background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
+}
+
+.bg\:grad.peach-fizz {
+  background-color: #FF9A8B;
+  background-image: linear-gradient(90deg, #FF9A8B 0%, #FF6A88 55%, #FF99AC 100%);
+}
+
+.bg\:grad.orangello {
+  background-color: #FAD961;
+  background-image: linear-gradient(90deg, #FAD961 0%, #F76B1C 100%);
+}
+
+.bg\:grad.cool-cherry {
+  background-color: #FF3CAC;
+  background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
+}
+
+.bg\:grad.paleface {
+  background-color: #FAACA8;
+  background-image: linear-gradient(19deg, #FAACA8 0%, #DDD6F3 100%);   
+}
+
+.bg\grad.seafoam{
+  background-color: #74EBD5;
+  background-image: linear-gradient(90deg, #74EBD5 0%, #9FACE6 100%);
 }

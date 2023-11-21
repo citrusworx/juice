@@ -3,7 +3,7 @@ Creating Gradient Animations
 */
 
 .anim\:bg\:alive{
-    animation: alive 10s linear infinite;
+    animation: alive 10s running infinite;
 }
 
 @keyframes alive {

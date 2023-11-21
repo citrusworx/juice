@@ -1,4 +1,14 @@
 :root {
+    --purple-pink-100: linear-gradient(90deg, hsl(280, 100%, 50%), hsl(340, 100%, 50%));
+    --purple-pink-200: linear-gradient(90deg, hsl(280, 80%, 50%), hsl(340, 80%, 50%));
+    --purple-pink-300: linear-gradient(90deg, hsl(280, 60%, 50%), hsl(340, 60%, 50%));
+    --purple-pink-400: linear-gradient(90deg, hsl(280, 40%, 50%), hsl(340, 40%, 50%));
+    --purple-pink-500: linear-gradient(90deg, hsl(280, 20%, 50%), hsl(340, 20%, 50%));
+    --purple-pink-600: linear-gradient(90deg, hsl(280, 10%, 50%), hsl(340, 10%, 50%));
+    --purple-pink-700: linear-gradient(90deg, hsl(280, 5%, 50%), hsl(340, 5%, 50%));
+    --purple-pink-800: linear-gradient(90deg, hsl(280, 2%, 50%), hsl(340, 2%, 50%));
+    --purple-pink-900: linear-gradient(90deg, hsl(280, 1%, 50%), hsl(340, 1%, 50%));
+
     --grad-grape: linear-gradient(180deg, #462052 0%, #5A3466 25%, #6E487A 50%, #825C8E 75%, #9670A2 100%);
     --grad-pomegranite: linear-gradient(180deg, #851140 0%, #992554 25%, #AD3968 50%, #C14D7C 75%, #D56190 100%);
     --grad-candy-grape: linear-gradient(180deg, #410392 0%, #5517A6 25%, #692BBA 50%, #7D3FCE 75%, #9153E2 100%);

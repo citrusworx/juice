@@ -86,9 +86,10 @@
     animation: spin 4s linear infinite;
 }
 
-.tilt {
+.tilt:hover {
     animation: tilt 2s linear forwards;
-    transform-origin: bottom right;
+    transform-origin: bottom left;
+    z-index: 1;
 }
 
 .turn {
@@ -306,7 +307,7 @@
         transform: rotate(0deg);
     }
     100% {
-        transform: rotate(-10deg);
+        transform: rotate(-2deg);
     }
 }
 
