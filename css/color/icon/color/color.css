@@ -3,14 +3,14 @@
 @import url('blue.css');
 
 /* Branding Colors */
-[class *= "icon:primary"]{
+.icon\:primary{
     display: inline-block;
     background: var(--primary);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
-[class *= "icon:secondary"]{
+.icon\:secondary{
     display: inline-block;
     background: var(--secondary);
     background-size: cover;
@@ -26,63 +26,63 @@
 /* 
     SPECIALTY
 */
-[class *= "icon:ocean"]{
+.icon\:ocean{
     display: inline-block;
     background: var(--ocean);
     background-size: contain;
     background-repeat: no-repeat;
 }
 
-[class *= "icon:oceanspray"]{
+.icon\:oceanspray{
     display: inline-block;
     background: var(--oceanspray);
     background-size: contain;
     background-repeat: no-repeat;
 }
 
-[class *= "icon:seaside"]{
+.icon\:seaside{
     display: inline-block;
     background: var(--seaside);
     background-size: contain;
     background-repeat: no-repeat;
 }
 
-[class *= "icon:skylight"]{
+.icon\:skylight{
     display: inline-block;
     background: var(--skylight);
     background-size: contain;
     background-repeat: no-repeat;
 }
 
-[class *= "icon:sunset"]{
+.icon\:sunset{
     display: inline-block;
     background: var(--sunset);
     background-size: contain;
     background-repeat: no-repeat;
 }
 
-[class *= "icon:muted-rainbow"]{
+.icon\:muted-rainbow{
     display: inline-block;
     background: var(--muted-rainbow);
     background-size: contain;
     background-repeat: no-repeat;
 }
 
-[class *= "icon-northern-lights::duo"]{
+.icon-northern-lights\:\:duo{
     display: inline-block;
     background: var(--northern-lights-duo);
     background-size: contain;
     background-repeat: no-repeat;
 }
 
-[class *= "icon-northern-lights::duo-rev"]{
+.icon-northern-lights\:\:duo-rev{
     display: inline-block;
     background: var(--northern-lights-duo-reverse);
     background-size: contain;
     background-repeat: no-repeat;
 }
 
-[class *= "icon-northern-lights:radial"]{
+.icon-northern-lights\:radial{
     display: inline-block;
     background: var(--northern-lights-radial);
     background-size: contain;
@@ -96,14 +96,14 @@
     background-repeat: no-repeat;
 }
 
-[class *= "icon:pastel-rainbow"]{
+.icon\:pastel-rainbow{
     display: inline-block;
     background: var(--pastel-rainbow);
     background-size: contain;
     background-repeat: no-repeat;
 }
 
-[class *= "icon:contrast-rainbow"]{
+.icon\:contrast-rainbow{
     display: inline-block;
     background: var(--contrast-rainbow);
     background-size: contain;

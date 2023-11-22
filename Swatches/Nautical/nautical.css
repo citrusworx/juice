@@ -13,44 +13,44 @@ Text Classes
 
 */
 
-[class *= "nautical:primary"] {
+.nautical\:primary {
     color: var(--nautical-primary);
 }
 
-[class *= "nautical:secondary"] {
+.nautical\:secondary {
     color: var(--nautical-secondary);
 }
 
-[class *= "nautical:tertiary"] {
+.nautical\:tertiary {
     color: var(--nautical-tertiary);
 }
 
-[class *= "nautical:util"] {
+.nautical\:util {
     color: var(--nautical-util);
 }
 
-[class *= "nautical:dark"] {
+.nautical\:dark {
     color: var(--nautical-dark);
 }
 
 /* BG Classes */
-[class *= "bg-nautical:primary"] {
+.bg-nautical\:primary {
     background-color: var(--nautical-primary);
 }
 
-[class *= "bg-nautical:secondary"] {
+.bg-nautical\:secondary {
     background-color: var(--nautical-secondary);
 }
 
-[class *= "bg-nautical:tertiary"] {
+.bg-nautical\:tertiary {
     background-color: var(--nautical-tertiary);
 }
 
-[class *= "bg-nautical:util"] {
+.bg-nautical\:util {
     background-color: var(--nautical-util);
 }
 
-[class *= "bg-nautical:dark"] {
+.bg-nautical\:dark {
     background-color: var(--nautical-dark);
 }
 

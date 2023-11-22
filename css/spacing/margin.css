@@ -17,6 +17,10 @@
     margin: 0 auto;
 }
 
+.m\:auto\:y {
+    margin: auto 0;
+}
+
 /* 
         Relative 
 */

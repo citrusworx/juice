@@ -167,7 +167,22 @@
   background-image: linear-gradient(19deg, #FAACA8 0%, #DDD6F3 100%);   
 }
 
-.bg\grad.seafoam{
+.bg\:grad.seafoam{
   background-color: #74EBD5;
   background-image: linear-gradient(90deg, #74EBD5 0%, #9FACE6 100%);
+}
+
+.bg\:grad.cotton-candy {
+  background-color: #8EC5FC;
+  background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 50%, #97eef5 100%);
+}
+
+.bg\:grad.coppertone {
+  background-color: #ecac55;
+  background-image: linear-gradient(135deg, #ecac55 0%, #ea7b46 50%, #ff9f05 100%);
+}
+
+.bg\:grad.copper{
+  background-color: #ec6d55;
+  background-image: linear-gradient(135deg, #ec6d55 0%, #ea7b46 50%, #ff6205 100%);  
 }
