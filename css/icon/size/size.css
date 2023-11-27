@@ -1,31 +1,31 @@
 
 /* SIZING */
-[class *= "::xs"] {
+.icon\:xs {
     height: 12px;
     width: 12px;
 }
 
-[class *= "::sm"] {
+.icon\:sm {
     height: 24px;
     width: 24px;
 }
 
-[class *= "::md"] {
+.icon\:md {
     height: 36px;
     width: 36px;
 }
 
-[class *= "::lg"] {
+.icon\:lg {
     height: 48px;
     width: 48px;
 }
 
-[class *= "::xl"] {
+.icon\:xl {
     height: 60px;
     width: 60px;
 }
 
-[class *= "::xxl"] {
+.icon\:xxl {
     height: 72px;
     width: 72px;
 }
