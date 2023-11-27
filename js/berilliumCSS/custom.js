@@ -57,5 +57,47 @@ class H2 extends HeadingTwo {
     }
 }
 
+class H3 extends HeadingTwo {
+	constructor(){
+		super();
+	}
+
+	render() {
+	const hSize = this.getAttribute('size') || '';
+	const hColor = this.getAttribute('color') || '';
+	const hFont = this.getAttribute('font') || '';
+	const hClass = this.getAttribute('class') || '';
+
+	this.innerHTML = `
+		<h3 class="text:${hSize text:color:}${hColor}${hFont}${hClass}">
+			${this.textContent}
+			<span><slot></slot></span>
+		</h3>
+	`;
+	}
+}
+
+class H4 extends HeadingTwo {
+        constructor(){
+                super();
+        }
+
+        render() {
+        const hSize = this.getAttribute('size') || '';
+        const hColor = this.getAttribute('color') || '';
+        const hFont = this.getAttribute('font') || '';
+        const hClass = this.getAttribute('class') || '';
+
+        this.innerHTML = `
+                <h4 class="${hSize}${hColor}${hFont}${hClass}">
+                        ${this.textContent}
+                        <span><slot></slot></span>
+                </h4>
+        `;
+        }
+}
+
+
 window.customElements.define('heading-two', HeadingTwo);
 window.customElements.define('h-2', H2);
+window.customElements.define('h-3', H3);
