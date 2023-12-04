@@ -194,12 +194,8 @@
     height: 49vh;
 }
 
-<<<<<<< HEAD
-
 .h\:half {
-=======
-.h-half {
->>>>>>> 9507ca1d33dc30c13ea767485da9ea02cd62fe7c
+
     height: 50vh;
 }
 
@@ -788,3 +784,394 @@
     height: 500px;
 }
 
+/* Mobile */
+@media screen and (max-width: 600px){
+    .h\:1 {
+        height: 2vh;
+    }
+    
+    .h\:2 {
+        height: 4vh;
+    }
+    
+    .h\:3 {
+        height: 6vh;
+    }
+    
+    .h\:4 {
+        height: 8vh;
+    }
+    
+    .h\:5 {
+        height: 10vh;
+    }
+    
+    .h\:6 {
+        height: 12vh;
+    }
+    
+    .h\:7 {
+        height: 14vh;
+    }
+    
+    .h\:8 {
+        height: 8vh;
+    }
+    
+    .h\:9 {
+        height: 9vh;
+    }
+    
+    .h\:10 {
+        height: 10vh;
+    }
+    
+    .h\:11 {
+        height: 11vh;
+    }
+    
+    .h\:12 {
+        height: 12vh;
+    }
+    
+    .h\:13 {
+        height: 13vh;
+    }
+    
+    .h\:14 {
+        height: 14vh;
+    }
+    
+    .h\:15 {
+        height: 15vh;
+    }
+    
+    .h\:16 {
+        height: 16vh;
+    }
+    
+    .h\:17 {
+        height: 17vh;
+    }
+    
+    .h\:18 {
+        height: 18vh;
+    }
+    
+    .h\:19 {
+        height: 19vh;
+    }
+    
+    .h\:20 {
+        height: 20vh;
+    }
+    
+    .h\:21 {
+        height: 21vh;
+    }
+    
+    .h\:22 {
+        height: 22vh;
+    }
+    
+    .h\:23 {
+        height: 23vh;
+    }
+    
+    .h\:24 {
+        height: 24vh;
+    }
+    
+    .h\:25 {
+        height: 25vh;
+    }
+    
+    .h\:26 {
+        height: 26vh;
+    }
+    
+    .h\:27 {
+        height: 27vh;
+    }
+    
+    .h\:28 {
+        height: 28vh;
+    }
+    
+    .h\:29 {
+        height: 29vh;
+    }
+    
+    .h\:30 {
+        height: 30vh;
+    }
+    
+    .h\:31 {
+        height: 31vh;
+    }
+    
+    .h\:32 {
+        height: 32vh;
+    }
+    
+    .h\:33 {
+        height: 33vh;
+    }
+    
+    .h\:34 {
+        height: 34vh;
+    }
+    
+    .h\:35 {
+        height: 35vh;
+    }
+    
+    .h\:36 {
+        height: 36vh;
+    }
+    
+    .h\:37 {
+        height: 37vh;
+    }
+    
+    .h\:38 {
+        height: 38vh;
+    }
+    
+    .h\:39 {
+        height: 39vh;
+    }
+    
+    .h\:40 {
+        height: 40vh;
+    }
+    
+    .h\:41 {
+        height: 41vh;
+    }
+    
+    .h\:42 {
+        height: 42vh;
+    }
+    
+    .h\:43 {
+        height: 43vh;
+    }
+    
+    .h\:44 {
+        height: 44vh;
+    }
+    
+    .h\:45 {
+        height: 45vh;
+    }
+    
+    .h\:46 {
+        height: 46vh;
+    }
+    
+    .h\:47 {
+        height: 47vh;
+    }
+    
+    .h\:48 {
+        height: 48vh;
+    }
+    
+    .h\:49 {
+        height: 49vh;
+    }
+    
+    .h\:half {
+    
+        height: 50vh;
+    }
+    
+    .h\:55 {
+        height: 55vh;
+    }
+    
+    .h\:56 {
+        height: 56vh;
+    }
+    
+    .h\:57 {
+        height: 57vh;
+    }
+    
+    .h\:57 {
+        height: 57vh;
+    }
+    
+    .h\:58 {
+        height: 58vh;
+    }
+    
+    .h\:59 {
+        height: 59vh;
+    }
+    
+    .h\:60 {
+        height: 60vh;
+    }
+    
+    .h\:61 {
+        height: 61vh;
+    }
+    
+    .h\:62 {
+        height: 62vh;
+    }
+    
+    .h\:63 {
+        height: 63vh;
+    }
+    
+    .h\:64 {
+        height: 64vh;
+    }
+    
+    .h\:65 {
+        height: 65vh;
+    }
+    
+    .h\:66 {
+        height: 66vh;
+    }
+    
+    .h\:67 {
+        height: 67vh;
+    }
+    
+    .h\:68 {
+        height: 68vh;
+    }
+    
+    .h\:69 {
+        height: 69vh;
+    }
+    
+    .h\:70 {
+        height: 70vh;
+    }
+    
+    .h\:71 {
+        height: 71vh;
+    }
+    
+    .h\:72 {
+        height: 72vh;
+    }
+    
+    .h\:73 {
+        height: 73vh;
+    }
+    
+    .h\:74 {
+        height: 74vh;
+    }
+    
+    .h\:75 {
+        height: 75vh;
+    }
+    
+    .h\:76 {
+        height: 76vh;
+    }
+    
+    .h\:77 {
+        height: 77vh;
+    }
+    
+    .h\:78 {
+        height: 78vh;
+    }
+    
+    .h\:79 {
+        height: 79vh;
+    }
+    
+    .h\:80 {
+        height: 80vh;
+    }
+    
+    .h\:81 {
+        height: 81vh;
+    }
+    
+    .h\:82 {
+        height: 82vh;
+    }
+    
+    .h\:83 {
+        height: 83vh;
+    }
+    
+    .h\:84 {
+        height: 84vh;
+    }
+    
+    .h\:85 {
+        height: 85vh;
+    }
+    
+    .h\:86 {
+        height: 86vh;
+    }
+    
+    .h\:87 {
+        height: 87vh;
+    }
+    
+    .h\:88 {
+        height: 88vh;
+    }
+    
+    .h\:89 {
+        height: 89vh;
+    }
+    
+    .h\:90 {
+        height: 90vh;
+    }
+    
+    .h\:91 {
+        height: 91vh;
+    }
+    
+    .h\:92 {
+        height: 92vh;
+    }
+    
+    .h\:93 {
+        height: 93vh;
+    }
+    
+    .h\:94 {
+        height: 94vh;
+    }
+    
+    .h\:95 {
+        height: 95vh;
+    }
+    
+    .h\:96 {
+        height: 96vh;
+    }
+    
+    .h\:97 {
+        height: 97vh;
+    }
+    
+    .h\:98 {
+        height: 98vh;
+    }
+    
+    .h\:99 {
+        height: 99vh;
+    }
+    
+    .h\:full {
+        height: 100vh;
+    }
+}

@@ -2,6 +2,8 @@
 
 Welcome to BerilliumCSS, your go-to CSS library for crafting stunning, responsive, and feature-rich web designs. Whether you're a seasoned developer, a designer, or just getting started with web development, BerilliumCSS has you covered. This library has been carefully crafted with attention to detail, performance, and flexibility in mind.
 
+The name of the game is: options and simplicity. Having options for various color combinations is a bonus tool in any dev's toolkit. Simplicity is a must to keep projects easy to maintain and collaborate on. 
+
 ## Features
 
 - **Responsive Design:** BerilliumCSS comes with a responsive grid system that makes it easy to create layouts that adapt seamlessly to various screen sizes and devices.

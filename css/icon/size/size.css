@@ -29,3 +29,26 @@
     height: 72px;
     width: 72px;
 }
+
+/***************************************** 
+|                                        |   
+|           MOBILE CONFIG                |
+|                                        |   
+*****************************************/
+@media screen and (max-width: 600px) {
+
+.icon\:mobile {
+    height: 12px;
+    width: 12px;
+}
+
+}
+
+@media screen and (max-width: 768px) {
+
+    .icon\:mobile {
+        height: 24px;
+        width: 24px;
+    }
+    
+    }

@@ -31,3 +31,23 @@ This simple code is readable. Take a look at the background property. This is wh
 }
 
 ```
+and it would look like this:
+```html
+<div class="w:min:full">
+
+</div>
+```
+
+We are also testing combination class conventions like so. 
+```css
+.width.full {
+
+}
+```
+
+then we can use the class as such in our markup.
+```html
+<div class="width full">
+
+</div>
+```

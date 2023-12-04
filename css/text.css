@@ -144,3 +144,44 @@ a:visited {
    transform: rotate(180deg);
    backface-visibility: visible;
 }
+
+/***************************************** 
+|                                        |   
+|           MOBILE CONFIG                |
+|                                        |   
+*****************************************/
+@media screen and (max-width: 600px) {
+    .nav\:mobile {
+        font-size: .5rem;
+    }
+
+
+
+    p {
+        margin-left: 10px;
+        margin-right: 25px;
+    }
+
+    .text\:sm{
+        font-size: 0.5rem;
+    }
+    
+    .text\:md{
+        font-size: 0.75rem;
+    }
+    
+    .text\:lg{
+        font-size: 1.25rem;
+    }
+    
+    .text\:xlg{
+        font-size: 1.5rem;
+    }
+    
+    .text\:xxlg{
+        font-size: 2rem;
+    }
+
+    
+    
+    }
