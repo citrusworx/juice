@@ -5,7 +5,7 @@
     --glacier-ice: hsl(190, 37%, 73%);
     --glacier-frost: hsl(190, 33%, 90%);
 }
-/* TODO: Text Stiles */
+/*  Text Stiles */
 .text\:color\:sapphire {
     color: var(--glacier-sapphire)
 }
@@ -25,7 +25,7 @@
 .text\:color\:frost {
     color: var(--glacier-frost)
 }
-/* TODO: BG Stiles */
+/*  BG Stiles */
 .bg\:color\:sapphire {
     color: var(--glacier-sapphire)
 }
@@ -46,7 +46,7 @@
     color: var(--glacier-frost)
 }
 
-/* TODO: Border Stiles */
+/*  Border Stiles */
 .border\:color\:sapphire {
     border: 1px solid var(--glacier-sapphire);
 }

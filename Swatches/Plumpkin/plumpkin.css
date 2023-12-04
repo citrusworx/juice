@@ -13,11 +13,46 @@
 }
 
 /* BG Styles */
-/* TODO: Define for containers */
+.bg.plumpkin\:plum {
+    background-color: var(--plumpkin-plum);
+}
 
+.bg.plumpkin\:lavender {
+    background-color: var(--plumpkin-lavender);
+}
+
+.bg.plumpkin\:lilac {
+    background-color: var(--plumpkin-lilac);
+}
+
+.bg.plumpkin\:peach  {
+    background-color: var(--plumpkin-peach);
+}
+
+.bg.plumpkin\:seed {
+    background-color: var(--plumpkin-seed);
+}
 
 /* Text Styles */
-/* TODO: Define for font/text */
 
+.text\:plumpkin\:plum {
+    color: var(--plumpkin-plum);
+}
+
+.text\:plumpkin\:lavender {
+    color: var(--plumpkin-lavender);
+}
+
+.text\:plumpkin\:lilac {
+    color: var(--plumpkin-lilac);
+}
+
+.text\:plumpkin\:peach {
+    color: var(--plumpkin-peach);
+}
+
+.text\:plumpkin\:seed {
+    color: var(--plumpkin-seed);
+}
 /* Icon Styles */
 /* TODO: Define icon/gradients */

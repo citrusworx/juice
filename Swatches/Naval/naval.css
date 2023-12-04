@@ -17,3 +17,45 @@
     --naval-cream-rgb: rgb();
     --naval-white-rgb: rgb();
 }
+
+/* Background Styles */
+.bg.naval\:navy {
+    background-color: var(--naval-navy-hex);
+}
+
+.bg.naval\:blue {
+    background-color: var(--naval-blue-hex);
+}
+
+.bg.naval\:gold {
+    background-color: var(--naval-gold-hex);
+}
+
+.bg.naval\:cream {
+    background-color: var(--naval-cream-hex);
+}
+
+.bg.naval\:white {
+    background-color: var(--naval-white-hex);
+}
+
+/* Text Stiles */
+.text\:naval\:navy {
+    color: var(--naval-navy-hex);
+}
+
+.text\:naval\:blue {
+    color: var(--naval-blue-hex);
+}
+
+.text\:naval\:gold {
+    color: var(--naval-gold-hex);
+}
+
+.text\:naval\:cream {
+    color: var(--naval-cream-hex);
+}
+
+.text\:naval\:white {
+    color: var(--naval-white-hex);
+}

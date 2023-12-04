@@ -13,12 +13,14 @@
 --neon-green-900: hsl(120, 20%, 20%);
 /* Blue */
 --neon-blue-100: hsl(228, 80%, 40%);
---neon-blue-300: hsl(228, 60%, 30%);
---neon-blue-500: hsl(228, 40%, 20%);
+--neon-blue-300: hsl(228, 70%, 35%);
+--neon-blue-500: hsl(228, 60%, 30%);
+--neon-blue-700: hsl(228, 40%, 20%);
 --neon-blue-900: hsl(228, 20%, 10%);
 /* Red */
 --neon-red-100: hsl(12, 80%, 40%);
 --neon-red-300: hsl(12, 60%, 30%);
+--neon-red-500: hsl(12, 50%, 25%);
 --neon-red-700: hsl(12, 40%, 20%);
 --neon-red-900: hsl(12, 20%, 10%);
 /* Yellow */
@@ -28,4 +30,49 @@
 --neon-yellow-900: hsl(70, 20%, 10%);
 
 
+}
+
+/* Background Styles */
+
+/* Text Styles */
+/* Blue */
+.text\:neon\:blue-100 {
+    color: var(--neon-blue-100);
+}
+
+.text\:neon\:blue-300 {
+    color: var(--neon-blue-300);
+}
+
+.text\:neon\:blue-500 {
+    color: var(--neon-blue-500);
+}
+
+.text\:neon\:blue-700 {
+    color: var(--neon-blue-700);
+}
+
+.text\:neon\:blue-900 {
+    color: var(--neon-blue-900);
+}
+
+/* Red */
+.text\:neon\:red-100 {
+    color: var(--neon-red-700);
+}
+
+.text\:neon\:red-300 {
+    color: var(--neon-red-300);
+}
+
+.text\:neon\:red-500 {
+    color: var(--neon-red-500);
+}
+
+.text\:neon\:red-700 {
+    color: var(--neon-red-700);
+}
+
+.text\:neon\:red-900 {
+    color: var(--neon-red-900);
 }

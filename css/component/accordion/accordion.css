@@ -1,0 +1,21 @@
+.accordion.button {
+    height: 5vh;
+    width: 90%;
+}
+
+.accordion\:item.open {
+    visibility: visible;
+    display: block;
+
+}
+
+.accordion\:item.closed {
+    visibility: hidden;
+}
+
+
+.accordion\:container {
+    height: 50vh;
+    width: 80vw;
+    border: 1px solid red;
+}

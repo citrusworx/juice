@@ -69,7 +69,7 @@ class H3 extends HeadingTwo {
 	const hClass = this.getAttribute('class') || '';
 
 	this.innerHTML = `
-		<h3 class="text:${hSize text:color:}${hColor}${hFont}${hClass}">
+		<h3 class="text:${hSize} text:color:${hColor}${hFont}${hClass}">
 			${this.textContent}
 			<span><slot></slot></span>
 		</h3>
@@ -101,3 +101,4 @@ class H4 extends HeadingTwo {
 window.customElements.define('heading-two', HeadingTwo);
 window.customElements.define('h-2', H2);
 window.customElements.define('h-3', H3);
+window.customElements.define('h-4', H4);
