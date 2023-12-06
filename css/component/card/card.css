@@ -2,8 +2,10 @@
 
 .card\:light {
     background-color: var(--gray-200);
-    width: 30vw;
-    min-width: 60vw;
+    height: 35vh;
+    min-height: 50vh;
+    width: 50vw;
+    min-width: 75vw;
     margin: 0 auto;
     margin-top: 5vh;
     padding: 2rem 2rem;

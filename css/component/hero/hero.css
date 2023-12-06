@@ -1,7 +1,9 @@
 .hero\:primary {
     display: flex;
+    justify-content: center;
     align-items: center;
-    height: 50vh;
+    height: 70vh;
+    max-height: 80vh;
     width: 100vw;
     background: var(--blue-green-500);
     padding-bottom: 5rem;

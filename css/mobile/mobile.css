@@ -4,4 +4,8 @@
         margin: 0 auto;
     }
 
+    nav, nav[class]{
+        margin-left: 5vw;
+        margin-right: 5vw;
+    }
 }
