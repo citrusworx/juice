@@ -93,6 +93,12 @@
     font-style: normal;
 }
 
+.poppins\:light{
+    font-family: var(--poppins-light);
+    font-weight: 100;
+    font-style: normal;
+}
+
 .raleway {
     font-family: var(--raleway);
     font-size: 32px;
