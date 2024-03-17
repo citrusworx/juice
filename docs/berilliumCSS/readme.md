@@ -33,19 +33,6 @@ To start using BerilliumCSS in your project, follow these simple steps:
    ```
 
 3. **Start Styling:** Begin using BerilliumCSS classes and components to style your web pages. Refer to our [documentation](https://berilliumcss.com/docs) for detailed guidance.
-### Node
-
-```bash
-npm install berilliumcss
-```
-
-### Composer
-
-For PHP projects that don't want to inject our stylesheets via `link` then you can import them via out Composer modules.
-
-```bash
-composer require berilliumcss
-```
 
 ### berilliumCLI
 
@@ -60,8 +47,6 @@ For comprehensive documentation and examples, visit our [official documentation]
 
 ## Tools We Use
 - Gulp
-- Node
-- Composer/Symfony
 - Choco
 - Pip
 
