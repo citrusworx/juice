@@ -34,9 +34,9 @@ This project aims to create a business-in-a-box where artists, bands, comedians,
 4. Front End
 	1. React/Typescript
 	2. MAUI
-5. Backend
+5. Backend Infrastructure
 	1. Docker
-	2. Kubernets
+	2. Kubernetes
 6. Deployment
 7. Maintenance
 8. Roadmap
@@ -45,3 +45,27 @@ This project aims to create a business-in-a-box where artists, bands, comedians,
 Travelling to partners.shopify.com and signing up is easy. I have set up my own partner account for Beryl Studios. 
 
 #### Create A Development Store
+I have created my own demo store for my artist site. This is where we will host all of our albums and other merch. 
+
+#### Setup our Dev Environment
+*This is a strict **custom build**. In other tutorials we will use Hydrogen-based development.*
+
+We will utilizing the NitroCitrus (qTEMP) stack:
+1. Typescript
+2. Express
+3. MongoDB
+4. PostgreSQL
+5. GraphQL
+	1. Sits in front of the DB layers for better querying
+
+##### Libraries
+**CSS**:
+1. berilliumCSS
+**js**
+2. berilliumjs
+**CMS**:
+3. berilliumCMS
+
+
+#### Install the Necessary Apps
+1. Install the Headless Channel

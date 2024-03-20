@@ -204,3 +204,11 @@
 .center {
     justify-content: center;
 }
+
+/* Mobile Flex */
+
+@media(max-width: 768px){
+    .mob\:fw-wrap { 
+        flex-wrap: wrap;        
+    }
+}
