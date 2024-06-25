@@ -18,6 +18,16 @@
     justify-content: space-evenly;
 }
 
+.nav\:bar.secondary\:md {
+    height: 10vh;
+    width: 100vw;
+    background-color: var(--secondary);
+    display: flex;
+    flex: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
 .nav\:box.primary\:md {
     height: 20vh;
     width: 100vw;
@@ -26,4 +36,8 @@
     flex: row;
     align-items: center;
     justify-content: space-evenly;
+}
+
+.link\:primary {
+    color: var(--primary);
 }

@@ -1,5 +1,11 @@
 
 /* SIZING */
+.icon\:xxs {
+    height: 10px;
+    width: 10px;
+}
+
+
 .icon\:xs {
     height: 12px;
     width: 12px;
@@ -37,6 +43,11 @@
 *****************************************/
 @media screen and (max-width: 600px) {
 
+.icon\:mobile .sm {
+    height: 10px;
+    width: 10px;
+}    
+    
 .icon\:mobile {
     height: 12px;
     width: 12px;

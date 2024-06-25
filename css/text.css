@@ -100,18 +100,28 @@ a {
     text-decoration: none;
 }
 
+a:active {
+    color: var(--secondary);
+    text-decoration: none;
+}
+
 a:hover {
     color: var(--secondary);
     text-decoration: none;
 }
 
 a:visited {
-    color: var(--secondary);
+    color: var(--primary);
     text-decoration: none;
 }
 
-.link\:light {
+a > li, .link\:light {
     color: var(--gray-200);
+    text-decoration: none;
+}
+
+a:hover > li, .link\:light {
+    color: var(--gray-400);
     text-decoration: none;
 }
 
