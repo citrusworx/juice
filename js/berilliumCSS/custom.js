@@ -1,104 +1,159 @@
-class HeadingTwo extends HTMLElement {
+class MatIcon extends HTMLElement {
     constructor() {
         super();
     }
 
-    static get observedAttributes() {
-        return ['size', 'color', 'font', 'class', 'text'];
+    static get observedAttributes(){
+        return ['lib', 'name', 'color', 'class'];
     }
 
-    connectedCallback() {
+    connectedCallback(){
         this.render();
     }
-
-    attributeChangedCallback(name, oldValue, newValue) {
-        switch (name) {
-            case 'size':
-            case 'color':
-            case 'font':
-            case 'class':
-                this.render();
-                break;
-            default:
-                break;
+     
+    attributeChangeCallback(name, value){
+        if(name === 'class'){
+            this.render();
         }
     }
-
-    render() {
-        const hSize = this.getAttribute('size') || '';
-        const hColor = this.getAttribute('color') || '';
-        const hFont = this.getAttribute('font') || '';
-        const hClass = this.getAttribute('class') || '';
+    render(){
+        const iconClass = this.getAttribute('class') || '';
+        const iconLib = this.getAttribute('lib') || '';
+        const iconName = this.getAttribute('name') || '';
+        const iconColor = this.getAttribute('color') || '';
 
         this.innerHTML = `
-            <h2 class="text:${hSize} text:color:${hColor} ${hFont} ${hClass}">
-                ${this.textContent}
-            </h2>
+                <i class="mat ${iconName} ${iconColor} ${iconClass}"></i>
         `;
-    }
+        }
 }
 
-class H2 extends HeadingTwo {
+class FlatIcon extends HTMLElement {
     constructor() {
         super();
     }
 
-    render() {
-        const hSize = this.getAttribute('size') || '';
-        const hColor = this.getAttribute('color') || '';
-        const hFont = this.getAttribute('font') || '';
-        const hClass = this.getAttribute('class') || '';
-
-        this.innerHTML = `
-            <h2 class="text:${hSize} text:color:${hColor} ${hFont} ${hClass}">
-                ${this.textContent}
-            </h2>
-        `;
+    static get observedAttributes(){
+        return ['lib', 'name', 'color', 'class'];
     }
-}
 
-class H3 extends HeadingTwo {
-	constructor(){
-		super();
-	}
-
-	render() {
-	const hSize = this.getAttribute('size') || '';
-	const hColor = this.getAttribute('color') || '';
-	const hFont = this.getAttribute('font') || '';
-	const hClass = this.getAttribute('class') || '';
-
-	this.innerHTML = `
-		<h3 class="text:${hSize} text:color:${hColor}${hFont}${hClass}">
-			${this.textContent}
-			<span><slot></slot></span>
-		</h3>
-	`;
-	}
-}
-
-class H4 extends HeadingTwo {
-        constructor(){
-                super();
+    connectedCallback(){
+        this.render();
+    }
+     
+    attributeChangeCallback(name, value){
+        if(name === 'class'){
+            this.render();
         }
-
-        render() {
-        const hSize = this.getAttribute('size') || '';
-        const hColor = this.getAttribute('color') || '';
-        const hFont = this.getAttribute('font') || '';
-        const hClass = this.getAttribute('class') || '';
+    }
+    render(){
+        const iconClass = this.getAttribute('class') || '';
+        const iconLib = this.getAttribute('lib') || '';
+        const iconName = this.getAttribute('name') || '';
+        const iconColor = this.getAttribute('color') || '';
 
         this.innerHTML = `
-                <h4 class="${hSize}${hColor}${hFont}${hClass}">
-                        ${this.textContent}
-                        <span><slot></slot></span>
-                </h4>
+                <i class="flat ${iconLib} ${iconName} ${iconColor} ${iconClass}"></i>
         `;
         }
+    
 }
 
+class FontAwesomeIcon extends HTMLElement {
+    constructor() {
+        super();
+    }
 
-window.customElements.define('heading-two', HeadingTwo);
-window.customElements.define('h-2', H2);
-window.customElements.define('h-3', H3);
-window.customElements.define('h-4', H4);
+    static get observedAttributes(){
+        return ['lib', 'name', 'color', 'class'];
+    }
+
+    connectedCallback(){
+        this.render();
+    }
+     
+    attributeChangeCallback(name, value){
+        if(name === 'class'){
+            this.render();
+        }
+    }
+    render(){
+        const iconClass = this.getAttribute('class') || '';
+        const iconLib = this.getAttribute('lib') || '';
+        const iconName = this.getAttribute('name') || '';
+        const iconColor = this.getAttribute('color') || '';
+
+        this.innerHTML = `
+                <i class="fas-${iconLib} ${iconName} ${iconColor} ${iconClass}"></i>
+        `;
+        }
+    
+}
+
+class IconFinder extends HTMLElement {
+    constructor() {
+        super();
+    }
+
+    static get observedAttributes(){
+        return ['lib', 'name', 'color', 'class'];
+    }
+
+    connectedCallback(){
+        this.render();
+    }
+     
+    attributeChangeCallback(name, value){
+        if(name === 'class'){
+            this.render();
+        }
+    }
+    render(){
+        const iconClass = this.getAttribute('class') || '';
+        const iconLib = this.getAttribute('lib') || '';
+        const iconName = this.getAttribute('name') || '';
+        const iconColor = this.getAttribute('color') || '';
+
+        this.innerHTML = `
+                <i class="icon-${iconLib} ${iconName} ${iconColor} ${iconClass}"></i>
+        `;
+        }
+    
+}
+
+class IcoNoir extends HTMLElement {
+    constructor() {
+        super();
+    }
+
+    static get observedAttributes(){
+        return ['lib', 'name', 'color', 'class'];
+    }
+
+    connectedCallback(){
+        this.render();
+    }
+     
+    attributeChangeCallback(name, value){
+        if(name === 'class'){
+            this.render();
+        }
+    }
+    render(){
+        const iconClass = this.getAttribute('class') || '';
+        const iconLib = this.getAttribute('lib') || '';
+        const iconName = this.getAttribute('name') || '';
+        const iconColor = this.getAttribute('color') || '';
+
+        this.innerHTML = `
+                <i class="icon-${iconLib} ${iconName} ${iconColor} ${iconClass}"></i>
+        `;
+        }
+    
+}
+
+window.customElements.define('mat-icon', MatIcon);
+window.customElements.define('flat-icon', FlatIcon);
+window.customElements.define('fas-icon', FontAwesomeIcon);
+window.customElements.define('icon-finder', IconFinder);
+window.customElements.define('ico-noir', IcoNoir);

@@ -122,12 +122,12 @@
   background-image: linear-gradient(180deg, #FFFFFF 0%, #6284FF 50%, #FF0000 100%);
 }
 
-.bg\:grad\:peach {
+.bg\:grad.peach {
   background-color: #FBAB7E;
   background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
 }
 
-.bg\:grad\:limeade {
+.bg\:grad.limeade {
   background-color: #85FFBD;
   background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
 }
@@ -147,7 +147,7 @@
   background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
 }
 
-.bg\:grad.peach-fizz {
+.bg\:grad.peach fizz {
   background-color: #FF9A8B;
   background-image: linear-gradient(90deg, #FF9A8B 0%, #FF6A88 55%, #FF99AC 100%);
 }

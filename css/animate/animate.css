@@ -95,6 +95,7 @@
 .turn {
     animation: spin 5s linear infinite;
     animation-play-state: paused;
+    overflow-y: hidden;
 }
 
 .turn\:fast {

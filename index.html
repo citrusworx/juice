@@ -10,30 +10,55 @@
 <body class="bg-black-100">
     <div class="w:full h:5 bg:secondary flex evenly rel static">
         <nav class="text:white text:light flex gr-3 items:center center evenly gap:10 nav:mobile">
+            
+            <!-- Left Side -->
             <div class="w:50% m:auto">
                 <ul class="flex gr-3 items:center around list-none gap:2">
-                     <li class="link-item"><fas-icon lib="br" name="css3" color="icon:blue-green-600" class="icon:sm icon:mobile"></fas-icon><a  class="link:primary" href="#">Swatches</a></li>
-                     <li class="link-item"><fas-icon lib="reg" name="file-code" color="icon:blue-green-600" class="icon:sm icon:mobile"></fas-icon><a  class="link:primary" href="#">Code</a></li>
-                     <li class="link-item"><fas-icon lib="reg" name="star" color="icon:blue-green-600" class="icon:sm icon:mobile"></fas-icon><a  class="link:primary" href="#">Themes</a></li>
-                     <li class="link-item"><fas-icon lib="reg" name="bookmark" color="icon:blue-green-600" class="icon:sm icon:mobile"></fas-icon><a  class="link:primary" href="#">Learn</a></li>
-                     <li class="link-item"><fas-icon lib="reg" name="file-pdf" color="icon:blue-green-600" class="icon:sm icon:mobile"></fas-icon><a  class="link:primary" href="#">Docs</a></li>
+                     <li class="link-item">
+                        <fas-icon lib="br" name="css3" color="icon:blue-green-600" class="icon:sm icon:mobile"></fas-icon>
+                        <a  class="link:primary" href="#">Swatches</a>
+                    </li>
+                     <li class="link-item">
+                        <fas-icon lib="reg" name="file-code" color="icon:blue-green-600" class="icon:sm icon:mobile"></fas-icon>
+                        <a  class="link:primary" href="#">Code</a>
+                    </li>
+                     <li class="link-item">
+                        <fas-icon lib="reg" name="star" color="icon:blue-green-600" class="icon:sm icon:mobile"></fas-icon>
+                        <a  class="link:primary" href="#">Themes</a>
+                    </li>
+                     <li class="link-item">
+                        <fas-icon lib="reg" name="bookmark" color="icon:blue-green-600" class="icon:sm icon:mobile"></fas-icon>
+                        <a  class="link:primary" href="#">Learn</a>
+                    </li>
+                     <li class="link-item">
+                        <fas-icon lib="reg" name="file-pdf" color="icon:blue-green-600" class="icon:sm icon:mobile"></fas-icon>
+                        <a  class="link:primary" href="#">Docs</a>
+                    </li>
                  </ul>
             </div>
+
+            <!-- Right Side -->
             <div class="w:50% m:auto">
             <ul class="flex gr-1 items:center center evenly list-none gap:2">
-                <li class="ml:px:5"><fas-icon lib="reg" name="circle-question" color="icon:primary" class="icon:sm icon:mobile"></fas-icon><a  class="link:primary" href="#">FAQ</a></li>
-                <li class="ml:px:5"><fas-icon lib="reg" name="user" color="icon:primary" class="icon:sm icon:mobile"></fas-icon><a  class="link:primary" href="#">Community</a></li>
+                <li class="ml:px:5">
+                    <fas-icon lib="reg" name="circle-question" color="icon:primary" class="icon:sm icon:mobile"></fas-icon>
+                    <a  class="link:primary" href="#">FAQ</a>
+                </li>
+                <li class="ml:px:5">
+                    <fas-icon lib="reg" name="user" color="icon:primary" class="icon:sm icon:mobile"></fas-icon>
+                    <a  class="link:primary" href="#">Community</a>
+                </li>
             </ul>
         </div>
         </nav>
     </div>
 
     <section class="hero:primary" id="jumbotron container">
-        <div class="card:light ds:md:secondary" id="jumbotron">
+        <div class="card:light ds:md:secondary flex col items:center" id="jumbotron">
             
-            <fas-icon lib="br" name="react" color="icon:blue-green-600" class="icon:xxl icon:mobile turn"></fas-icon>
+            <fas-icon lib="br" name="react" color="icon:blue-green-600" class="icon:xl w:5 h:10 icon:mobile turn"></fas-icon>
             <div class="" id="heading container">
-                <h2 class="m:auto text:xxlg text:font:primary text:color:primary">berillium<span class="text:font:light text:color:secondary">css</span></h2>
+                <h2 class="text:xxlg text:font:primary text:color:primary">berillium<span class="text:font:light text:color:secondary">css</span></h2>
              </div>
 
 
@@ -47,7 +72,7 @@
             
             
             <div class="flex bounce mt:5" id="button container">
-                <button class="btn:secondary h:10% w:min:30 rounded:md text:white text:font:light text:md">
+                <button class="btn:secondary h:5 w:min:30 rounded:md text:white text:font:light text:md">
                     Get Started with <span class="text:color:primary text:font:light text:md">berillium</span><span class="text:font:light text:gray text:md">css</span>
                 </button>
             </div>
@@ -68,23 +93,22 @@
             <div class="text:left">
                 <p class="text:font:light text:md">The new, massive library that plans to offer flexible, modular design patterns that fit into any project with ease!</p>
                 <p class="text:font:light text:md">berilliumCSS is the first project of the <a href="#">Berillium Ecosytem.</a></p>
-                <p class="text:font:primary text:md">Create a full-stack application from design to deploy using vanilla CSS and JS</p>
+                <p class="text:font:primary text:md">Design beautiful, accessible sites with CSS and vanilla JS!</p>
             </div>
         </div>
     </section>
     
     <!-- UTILITY CLASSES -->
-    <section class="bg:blue-green-500 h:90% w:full flex col items:center pb:rel:20">
+    <section class="bg:grad copper h:90% w:full items:center pb:rel:20">
         <div class="flex col items:center slideInLeft">
             <div class="flex col items:center mt:20">
                 <h2 class="text:font:bold text:xxlg text:white mb:5">Utility Classes</h2>
-                <iframe class="w:80 h:75" scrolling="no" title="berilliumCSS" src="https://codepen.io/stinklewinks/embed/JjxJXpX?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-                    See the Pen <a href="https://codepen.io/stinklewinks/pen/JjxJXpX">
-                    berilliumCSS</a> by Drew Marshall (<a href="https://codepen.io/stinklewinks">@stinklewinks</a>)
-                    on <a href="https://codepen.io">CodePen</a>.
-                  </iframe>
+                <pre>
+                        <p class="">This is some code</p>
+                </pre>
             </div>
         </div>
+        <p class="text:white ml:rel:5">Copper</p>
     </section>
 
     <!-- SWATCHES -->
@@ -94,8 +118,8 @@
             <span class="text:white text:font:bold text:xxlg text:blush:ivory">Swatches</span>
             <hr class="border:blush:sky w:12 trans:y:-2" />
             <div class="w:min:half">
-            <p class="text:white text:md">
-                BerilliumCSS introduces an innovative feature known as "Swatches." This functionality allows developers to effortlessly implement a cohesive color scheme throughout their web projects. Swatches in BerilliumCSS are pre-defined color sets that can be applied to various elements, ensuring consistency and harmony in design. These swatches are customizable, offering a range of hues and shades to fit the specific aesthetic needs of any website. With this feature, BerilliumCSS simplifies the process of color management, making it more accessible for developers to maintain a professional and visually appealing color palette across their web applications.
+            <p class="text:white text:xxlg text:center">
+                Swatches: Cohesion, Style, Simplicity
             </p>
             <div class="flex col items:center center mt:10">
                 <button class="btn:blush:raspberry h:5 text:blush:ivory rounded:md w:min:half w:max:80">Learn More About Swatches</button>
@@ -105,26 +129,26 @@
     </section>
     
     <!-- GRADIENTS GALORE -->
-    <section class="bg:grad cotton-candy w:full">
+    <section class="bg:grad peach fizz w:full">
         <div class="slideInLeft">
             <div class="flex col items:center"><h2 class="text:font:bold text:xxlg text:black mb:5">Super Duper Gradients</h2></div>
             <div class="flex gap:10 items:center m:auto w:80 pb:rel:20 mob:fw-wrap">
-                    <div class="bg:light p:rel:5">
-                            <h3>Welcome to Components</h3>
+                    <div class="bg:grad paleface p:rel:5">
+                            <h3>Paleface</h3>
                             <span class="bold">Plug and Play</span>
                             <p>
                                 Components are a major part of berilliumCSS. Pre-styled components that leave your site looking great and keeping your site fast and efficient.
                             </p>
                     </div>
-                    <div class="bg:primary text:white p:rel:5">
-                        <h3>Welcome to Components</h3>
+                    <div class="bg:grad cotton-candy p:rel:5">
+                        <h3 class="p:rel:5">Cotton Candy</h3>
                             <span class="bold">Plug and Play</span>
-                            <p>
+                            <p class="pt:rel:2 pb:rel:2">
                                 Components are a major part of berilliumCSS. Pre-styled components that leave your site looking great and keeping your site fast and efficient.
                             </p>
                     </div>
-                    <div class="bg:light">
-                        <h3>Welcome to Components</h3>
+                    <div class="bg:grad limeade p:rel:5">
+                        <h3>Limeade</h3>
                             <span class="bold">Plug and Play</span>
                             <p>
                                 Components are a major part of berilliumCSS. Pre-styled components that leave your site looking great and keeping your site fast and efficient.
@@ -133,12 +157,13 @@
             </div>
            
         </div>
+        <p class="ml:rel:5 text:white">Peach Fizz</p>
     </section>
 
     <!-- BETAone Banner -->
    <section class="banner:full secondary:md">
-        <h-2 size="lg" color="primary" font="text:font:bold" class="wiggle">Get notified of BETAone release</h-2>
-        <button class="bn:flat rounded:md w:min:15 text:sm">GET NOTIFIED</button>
+        <h2 class="text:lg text:color:primary text:font:bold wiggle">Get notified of BETAone release</h2>
+        <button class="bn:flat rounded:md w:min:15 text:md">GET NOTIFIED</button>
    </section>
    
    
@@ -173,7 +198,7 @@
                 </div>
             <ul class="text:white">
                 <li class="my:3 list-none">CSS</li>
-                <li class="my:3 list-none">UI</li>
+                <li class="my:3 list-none">JS</li>
                 <li class="my:3 list-none">CMS</li>
             </ul>
         </div>
@@ -189,9 +214,9 @@
         </div>  
               
     </footer>
-    <div class="h:5 flex col center text:white bg:dark"><span class="text:center ml:rel:25">All Rights Reserved &copy;2024 Beryl Labs</span></div>
+    <div class="h:5 flex col center text:white bg:dark"><span class="text:center ml:rel:25">All Rights Reserved &copy;2024 CitrusWorx</span></div>
     
-    <script async src="https://cdn.jsdelivr.net/gh/theberylcompany/berillium-ui@main/ui/vanilla/js/elements/icon/icon-custom.js"></script>
+    <!-- <script async src="https://cdn.jsdelivr.net/gh/theberylcompany/berillium-ui@main/ui/vanilla/js/elements/icon/icon-custom.js"></script> -->
     <script src="/js/berilliumcss/custom.js"></script>
 </body>
 </html>
