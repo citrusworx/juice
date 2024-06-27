@@ -33,37 +33,37 @@
 
     
 /* Black */
-.bg-black-100 {
+.bg\:black\:100 {
     background-color: var(--black-100);
 }
 
-.bg-black-200 {
+.bg\:black\:200 {
     background-color: var(--black-200);
 }
 
-.bg-black-300 {
+.bg\:black\:300 {
     background-color: var(--black-300);
 }
-.bg-black-400 {
+.bg\:black\:400 {
     background-color: var(--black-400);
 }
 
-.bg-black-500 {
+.bg\:black\:500 {
     background-color: var(--black-500);
 }
 
-.bg-black-600 {
+.bg\:black\:600 {
     background-color: var(--black-600);
 }
 
-.bg-black-700 {
+.bg\:black\:700 {
     background-color: var(--black-700);
 }
 
-.bg-black-800 {
+.bg\:black\:800 {
     background-color: var(--black-800);
 }
 
-.bg-black-900 {
+.bg\:black\:900 {
     background-color: var(--black-900);
 }

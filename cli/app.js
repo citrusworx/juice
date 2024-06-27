@@ -1,24 +1,30 @@
 const { program } = require('commander');
 const { exec } = require('child_process');
 const path = require('path');
-const env = require ('dotenv')
+const env = require ('dotenv');
 
 program
     .version('0.0.1')
     .option('-n', '--normalize', "Include the Normalize.css file")
     .option('-c', '--css <file>', 'Inject any CSS file into your project')
+    .option('-i', '--icon <file>', 'Add any icon into your project')
     .option('-s', '--swatch <file>', "Inject a swatch into your project")
     .option('t', '--theme <file>', 'Inject a theme into your project')
-    .option('-f', '--fonts <file>', 'Select a font sheet for your project')
+    .option('-f', '--fonts <file>', 'Select a font sheet for your project');
     
 const options = program.opts();
 
+// This is the store of CSS files that the user will add into their project
 let files = [];
+
 
 if(options.normailze){
     // Pull the normalize.css file and put it into the /css directory of the project
 }
 if(options.color){
+    // Pull the specified color files
+}
+if(options.icon){
     // Pull the specified color files
 }
 if(options.swatch){

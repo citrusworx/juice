@@ -27,23 +27,23 @@
 
 }
 
-.bg\:grad\:down.grape {
+.bg\:grad\:down, .grape {
     background: var(--grad-grape);
 }
 
-.bg\:grad\:down.pomegranite {
+.bg\:grad\:down, .pomegranite {
     background: var(--grad-pomegranite);
 }
 
-.bg\:grad\:down.candy-grape {
+.bg\:grad\:down, .candy-grape {
     background: var(--grad-candy-grape);
 }
 
-.bg\:grad\:up.grape {
+.bg\:grad\:up, .grape {
     background: var(--grad-grape-bt);
 }
 
-.bg\:grad\:up.pomegranite {
+.bg\:grad\:up, .pomegranite {
     background: var(--grad-pomegranite-bt);  
 }
 
