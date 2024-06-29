@@ -27,6 +27,8 @@ const options = program.opts();
 // This is the store of CSS files that the user will add into their project
 let files = [];
 
+// TODO: Define logic and to pull to /css directory
+
 
 if(options.normailze){
     // Pull the normalize.css file and put it into the /css directory of the project
