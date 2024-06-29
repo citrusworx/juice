@@ -15,7 +15,7 @@
     border-radius: 15px;
 }
 
-.shadow\:small {
+.ds\:small {
     box-shadow: hsla(0,0%, 0%, 0.3) 1px 2px;
 }
 
@@ -24,6 +24,10 @@
 }
 
 .ds\:md {
+    box-shadow: hsla(0,0%, 0%, 0.8) 10px 10px;
+}
+
+.ds\:med {
     box-shadow: hsla(0,0%, 0%, 0.8) 10px 10px;
 }
 

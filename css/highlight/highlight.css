@@ -6,9 +6,9 @@ span.hl\:yellow:hover {
     background-color: hsla(70, 100%, 50%, 0.8);    
 }
 
-span.hl\:yellow\:highlight {
+.yellow\:highlight {
     background-color: hsla(70, 100%, 50%, 0.5);
-    animation: highlightAction 1s linear forwards;
+    animation: highlightAction 3s linear forwards;
 }
 
 span.hl\:blue {

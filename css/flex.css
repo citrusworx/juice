@@ -14,6 +14,10 @@
     align-items: center;
 }
 
+.ai-baseline {
+    align-items: baseline;
+}
+
 .items\:baseline {
     align-items: baseline;
 }
@@ -119,6 +123,48 @@
     align-self: flex-end;
 }
 
+.jc-start {
+    justify-content: start;
+}
+
+.justify\:start {
+    justify-content: start;
+}
+
+.jc-end {
+    justify-content: end;
+}
+
+.justify\:end {
+    justify-content: end;
+}
+
+.jc-center {
+    justify-content: center;
+}
+
+.justify\:center {
+    justify-content: center;
+}
+
+.jc-between {
+    justify-content: space-between;
+}
+
+.justify\:between {
+    justify-content: space-between;
+}
+
+.jc-around {
+    justify-content: space-around;
+}
+
+.justify\:around {
+    justify-content: space-around;
+}
+
+/* SPACING */
+
 .gap\:1 {
     gap: 1vw;
 }
@@ -159,7 +205,89 @@
     gap: 10vw;
 }
 
+/*  ORDER */
 
+.order-1 {
+    order: 1;
+}
+
+.order\:1 {
+    order: 1;
+}
+
+.order-2 {
+    order: 2;
+}
+
+.order\:2 {
+    order: 2;
+}
+
+.order-3 {
+    order: 3;
+}
+
+.order\:3 {
+    order: 3;
+}
+
+.order-4 {
+    order: 4;
+}
+
+.order\:4 {
+    order: 4;
+}
+
+.order-5 {
+    order: 5;
+}
+
+.order\:5 {
+    order: 5;
+}
+
+.order-6 {
+    order: 6;
+}
+
+.order\:6 {
+    order: 6;
+}
+
+.order-7 {
+    order: 7;
+}
+
+.order\:7 {
+    order: 7;
+}
+
+.order-8 {
+    order: 8;
+}
+
+.order\:8 {
+    order: 8;
+}
+
+.order-9 {
+    order: 9;
+}
+
+.order\:9 {
+    order: 9;
+}
+
+.order-10 {
+    order: 10;
+}
+
+.order\:10 {
+    order: 10;
+}
+
+/* GROW / SHRINK */
 
 .grow\:1 {
     flex-grow: 1;
@@ -172,6 +300,20 @@
 .grow\:3 {
     flex-grow: 3;
 }
+
+.shrink\:none {
+    flex-shrink: 0;
+}
+
+.shrink\:1 {
+    flex-shrink: 1;
+}
+
+.shrink\:2 {
+    flex-shrink: 2;
+}
+
+/* DIRECTION */
 
 .row {
     flex-direction: row;
@@ -205,10 +347,60 @@
     justify-content: center;
 }
 
+/* BASIS */
+.basis-auto {
+    flex-basis: auto;
+}
+
+.basis-full {
+    flex-basis: 100%;
+}
+
+.basis-half {
+    flex-basis: 50%;
+}
+
+.basis-quarter {
+    flex-basis: 25%;
+}
+
+.basis-1 {
+    flex-basis: 1rem;
+}
+
+.basis-2 {
+    flex-basis: 2rem;
+}
+
+.basis-3 {
+    flex-basis: 3rem;
+}
+
+.basis-4 {
+    flex-basis: 4rem;
+}
+
+.basis-5 {
+    flex-basis: 5rem;
+}
+
+
 /* Mobile Flex */
 
 @media(max-width: 768px){
     .mob\:fw-wrap { 
+        flex-wrap: wrap;        
+    }
+}
+
+@media(max-width: 1024px){
+    .tab\:fw-wrap { 
+        flex-wrap: wrap;        
+    }
+}
+
+@media(max-width: 1440px){
+    .desk\:fw-wrap { 
         flex-wrap: wrap;        
     }
 }

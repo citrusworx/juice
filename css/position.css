@@ -70,8 +70,40 @@
     top: 10vh;
 }
 
+.top\:11 {
+    top: 11vh;
+}
+
+.top\:12 {
+    top: 12vh;
+}
+
+.top\:13 {
+    top: 13vh;
+}
+
+.top\:14 {
+    top: 14vh;
+}
+
 .top\:15 {
     top: 15vh;
+}
+
+.top\:16 {
+    top: 16vh;
+}
+
+.top\:17 {
+    top: 17vh;
+}
+
+.top\:18 {
+    top: 18vh;
+}
+
+.top\:19 {
+    top: 19vh;
 }
 
 .top\:20 {
@@ -232,6 +264,11 @@ v
 
 /* 
     COMBO TRANSFORM
+*/
+
+/* 
+- TODO: Create more combo transforms
+
 */
 
 .trans\:xy\:1 {

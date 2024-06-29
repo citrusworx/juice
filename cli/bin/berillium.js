@@ -2,14 +2,24 @@ const { program } = require('commander');
 const { exec } = require('child_process');
 const path = require('path');
 const env = require ('dotenv');
+const AWS = require('aws-sdk');
+
+// Load the env config
+env.config();
+
+const s3 = new AWS.S3({
+    accessKeyId: process.env.AWS_ACCESS_KEY_ID,
+    secretAccessKey: process.env.AWS_SECRET_ACCESS_KEY,
+    region: process.env.AWS_REGION,
+});
 
 program
     .version('0.0.1')
     .option('-n', '--normalize', "Include the Normalize.css file")
-    .option('-c', '--css <file>', 'Inject any CSS file into your project')
+    .option('-c', '--color <file>', 'Inject any Color file into your project')
     .option('-i', '--icon <file>', 'Add any icon into your project')
     .option('-s', '--swatch <file>', "Inject a swatch into your project")
-    .option('t', '--theme <file>', 'Inject a theme into your project')
+    .option('-t', '--theme <file>', 'Inject a theme into your project')
     .option('-f', '--fonts <file>', 'Select a font sheet for your project');
     
 const options = program.opts();

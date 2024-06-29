@@ -61,5 +61,3 @@ Ready for a game-changing development experience? Step into the Berillium univer
 
 **Particle System**
 
-## Documentation
-[CSS]() | [JS]() | [UI]()

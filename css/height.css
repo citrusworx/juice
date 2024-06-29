@@ -388,7 +388,7 @@
 }
 
 /* 
-    \%ERCENTAGE
+    % PERCENTAGE
 */
 
 .h\:1\% {
@@ -787,31 +787,31 @@
 /* Mobile */
 @media screen and (max-width: 600px){
     .h\:1 {
-        height: 2vh;
+        height: 1vh;
     }
     
     .h\:2 {
-        height: 4vh;
+        height: 2vh;
     }
     
     .h\:3 {
-        height: 6vh;
+        height: 3vh;
     }
     
     .h\:4 {
-        height: 8vh;
+        height: 4vh;
     }
     
     .h\:5 {
-        height: 10vh;
+        height: 5vh;
     }
     
     .h\:6 {
-        height: 12vh;
+        height: 6vh;
     }
     
     .h\:7 {
-        height: 14vh;
+        height: 7vh;
     }
     
     .h\:8 {
