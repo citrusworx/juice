@@ -1,0 +1,8 @@
+{
+    "css": {
+        "directories": [
+            "/css",
+            "/src/*"
+        ]
+    }
+}

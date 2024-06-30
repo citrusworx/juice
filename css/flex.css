@@ -391,6 +391,11 @@
     .mob\:fw-wrap { 
         flex-wrap: wrap;        
     }
+    
+    .mob\:col {
+        display: flex;
+        flex-direction: col;
+    }
 }
 
 @media(max-width: 1024px){

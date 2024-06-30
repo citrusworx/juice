@@ -10,7 +10,7 @@
 
 .nav\:bar.primary\:md {
     height: 10vh;
-    width: 100vw;
+    width:100vwx;
     background-color: var(--primary);
     display: flex;
     flex: row;
@@ -20,7 +20,7 @@
 
 .nav\:bar.secondary\:md {
     height: 10vh;
-    width: 100vw;
+    width: 100%;
     background-color: var(--secondary);
     display: flex;
     flex: row;
