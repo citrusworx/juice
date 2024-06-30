@@ -39,9 +39,12 @@ if(options.normalize){
     s3.getObject({
         Bucket: process.env.AWS_BUCKET,
         Key: 'css/normalize.css',
-    }).promise().then(data => {
+    })
+    .promise()
+    .then(data => {
         fs.writeFileSync(path.join(__dirname, 'css', 'normalize.css'), data.Body);
-    }).catch(err => {
+    })
+    .catch(err => {
         console.log(err);
     });
 }
@@ -52,9 +55,12 @@ if(options.css){
     s3.getObject({
         Bucket: process.env.AWS_BUCKET,
         Key: `css/${options.css}`,
-    }).promise().then(data => {
+    })
+    .promise()
+    .then(data => {
         fs.writeFileSync(path.join(__dirname, 'css', options.css), data.Body);
-    }).catch(err => {
+    })
+    .catch(err => {
         console.log(err);
     });
 
