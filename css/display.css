@@ -37,3 +37,15 @@
 .dis\:none{
     display: none;
 }
+
+.scroll {
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+}
+
+@media(max-width: 768px){
+    .mob\:scroll {
+        overflow-y: auto;
+        scroll-behavior: smooth;
+    }
+}
