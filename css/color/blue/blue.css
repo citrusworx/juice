@@ -121,3 +121,7 @@
 .bg\:blue\:900 {
     background-color: var(--blue-900);
 }
+
+.text\:color\:blue {
+	color: var(--blue-500);
+}

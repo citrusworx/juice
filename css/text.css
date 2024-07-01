@@ -92,35 +92,35 @@
 .strike {
     text-decoration: line-through;
 }
-
+		
 /* Link STYLES */
 
-a {
+.link\:primary {
     color: var(--primary);
     text-decoration: none;
 }
 
-a:active {
+.link\:primary:active {
     color: var(--secondary);
     text-decoration: none;
 }
 
-a:hover {
+.link\:primary:hover {
     color: var(--secondary);
     text-decoration: none;
 }
 
-a:visited {
+.link\:primary:visited {
     color: var(--primary);
     text-decoration: none;
 }
 
-a > li, .link\:light {
+.link\:light {
     color: var(--gray-200);
     text-decoration: none;
 }
 
-a:hover > li, .link\:light {
+.link\:light:hover {
     color: var(--gray-400);
     text-decoration: none;
 }
