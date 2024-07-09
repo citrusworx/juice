@@ -3,6 +3,10 @@
     border-radius: 5px;
 }
 
+.rounded\:sm {
+    border-radius: 5px;
+}
+
 .rounded-md {
     border-radius: 10px;
 }
@@ -12,6 +16,10 @@
 }
 
 .rounded-lg {
+    border-radius: 15px;
+}
+
+.rounded\:lg {
     border-radius: 15px;
 }
 
@@ -41,4 +49,12 @@
 
 .ds\:lg {
     box-shadow: hsla(0,0%, 0%, 0.3) 8px 8px;
+}
+
+.text, .ds\:sm {
+    text-shadow: hsla(0, 0%, 0%, 0.3) 4px 4px;
+}
+
+.text.shad\:md {
+    text-shadow: hsla(0, 0%, 0%, 0.6) 4px 4px;
 }

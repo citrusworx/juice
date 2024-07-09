@@ -1,14 +1,14 @@
     :root {
     /* Blues */
     --blue-100: hsl(210, 80%, 95%);
-    --blue-200: hsl(210, 80%, 90%);
-    --blue-300: hsl(210, 80%, 85%);
-    --blue-400: hsl(210, 80%, 80%);
-    --blue-500: hsl(210, 80%, 75%);
-    --blue-600: hsl(210, 80%, 70%);
-    --blue-700: hsl(210, 80%, 65%);
-    --blue-800: hsl(210, 80%, 60%);
-    --blue-900: hsl(210, 80%, 55%);
+    --blue-200: hsl(210, 80%, 80%);
+    --blue-300: hsl(210, 80%, 75%);
+    --blue-400: hsl(210, 80%, 60%);
+    --blue-500: hsl(210, 80%, 55%);
+    --blue-600: hsl(210, 80%, 40%);
+    --blue-700: hsl(210, 80%, 35%);
+    --blue-800: hsl(210, 80%, 25%);
+    --blue-900: hsl(210, 80%, 20%);
 
     --cornflower-100: hsl(223, 73%, 75%);
     --cornflower-200: hsl(223, 73%, 70%);
@@ -30,15 +30,15 @@
     --royal-800: hsl(223, 100%, 28%);
     --royal-900: hsl(223, 100%, 22%);
 
-    --sky-100: hsl(210, 100%, 80%);
-    --sky-200: hsl(210, 100%, 70%);
-    --sky-300: hsl(210, 100%, 60%);
-    --sky-400: hsl(210, 100%, 50%);
-    --sky-500: hsl(210, 100%, 40%);
-    --sky-600: hsl(210, 100%, 30%);
-    --sky-700: hsl(210, 100%, 25%);
-    --sky-800: hsl(210, 100%, 20%);
-    --sky-900: hsl(210, 100%, 15%);
+    --sky-blue-100: hsl(210, 100%, 80%);
+    --sky-blue-200: hsl(210, 100%, 70%);
+    --sky-blue-300: hsl(210, 100%, 60%);
+    --sky-blue-400: hsl(210, 100%, 50%);
+    --sky-blue-500: hsl(210, 100%, 40%);
+    --sky-blue-600: hsl(210, 100%, 30%);
+    --sky-blue-700: hsl(210, 100%, 25%);
+    --sky-blue-800: hsl(210, 100%, 20%);
+    --sky-blue-900: hsl(210, 100%, 15%);
 
     --morning-blue-100: hsl(191, 77%, 90%);
     --morning-blue-200: hsl(191, 77%, 80%);
@@ -122,6 +122,368 @@
     background-color: var(--blue-900);
 }
 
-.text\:color\:blue {
+.bg\:cornflower\:100 {
+    background-color: var(--cornflower-100);
+}
+
+.bg\:cornflower\:200 {
+    background-color: var(--cornflower-200);
+}
+
+.bg\:cornflower\:300 {
+    background-color: var(--cornflower-300);
+}
+.bg\:cornflower\:400 {
+    background-color: var(--cornflower-400);
+}
+
+.bg\:cornflower\:500 {
+    background-color: var(--cornflower-500);
+}
+
+.bg\:cornflower\:600 {
+    background-color: var(--cornflower-600);
+}
+
+.bg\:cornflower\:700 {
+    background-color: var(--cornflower-700);
+}
+
+.bg\:cornflower\:800 {
+    background-color: var(--cornflower-800);
+}
+
+.bg\:cornflower\:900 {
+    background-color: var(--cornflower-900);
+}
+
+
+.bg\:royal\:100 {
+    background-color: var(--royal-100);
+}
+
+.bg\:royal\:200 {
+    background-color: var(--royal-200);
+}
+
+.bg\:royal\:300 {
+    background-color: var(--royal-300);
+}
+.bg\:royal\:400 {
+    background-color: var(--royal-400);
+}
+
+.bg\:royal\:500 {
+    background-color: var(--royal-500);
+}
+
+.bg\:royal\:600 {
+    background-color: var(--royal-600);
+}
+
+.bg\:royal\:700 {
+    background-color: var(--royal-700);
+}
+
+.bg\:royal\:800 {
+    background-color: var(--royal-800);
+}
+
+.bg\:royal\:900 {
+    background-color: var(--royal-900);
+}
+
+.bg\:sky-blue\:100 {
+    background-color: var(--sky-blue-100);
+}
+
+.bg\:sky-blue\:200 {
+    background-color: var(--sky-blue-200);
+}
+
+.bg\:sky-blue\:300 {
+    background-color: var(--cornflower-300);
+}
+.bg\:sky-blue\:400 {
+    background-color: var(--sky-blue-400);
+}
+
+.bg\:sky-blue\:500 {
+    background-color: var(--sky-blue-500);
+}
+
+.bg\:sky-blue\:600 {
+    background-color: var(--sky-blue-600);
+}
+
+.bg\:sky-blue\:700 {
+    background-color: var(--sky-blue-700);
+}
+
+.bg\:sky-blue\:800 {
+    background-color: var(--sky-blue-800);
+}
+
+.bg\:sky-blue\:900 {
+    background-color: var(--sky-blue-900);
+}
+    
+.bg\:cornflower\:100 {
+    background-color: var(--cornflower-100);
+}
+
+.bg\:cornflower\:200 {
+    background-color: var(--cornflower-200);
+}
+
+.bg\:cornflower\:300 {
+    background-color: var(--cornflower-300);
+}
+.bg\:cornflower\:400 {
+    background-color: var(--cornflower-400);
+}
+
+.bg\:cornflower\:500 {
+    background-color: var(--cornflower-500);
+}
+
+.bg\:cornflower\:600 {
+    background-color: var(--cornflower-600);
+}
+
+.bg\:cornflower\:700 {
+    background-color: var(--cornflower-700);
+}
+
+.bg\:cornflower\:800 {
+    background-color: var(--cornflower-800);
+}
+
+.bg\:morning-blue\:900 {
+    background-color: var(--cornflower-900);
+}
+
+.bg\:morning-blue\:100 {
+    background-color: var(--morning-blue-100);
+}
+
+.bg\:morning-blue\:200 {
+    background-color: var(--morning-blue-200);
+}
+
+.bg\:morning-blue\:300 {
+    background-color: var(--morning-blue-300);
+}
+.bg\:morning-blue\:400 {
+    background-color: var(--morning-blue-400);
+}
+
+.bg\:morning-blue\:500 {
+    background-color: var(--morning-blue-500);
+}
+
+.bg\:morning-blue\:600 {
+    background-color: var(--morning-blue-600);
+}
+
+.bg\:morning-blue\:700 {
+    background-color: var(--morning-blue-700);
+}
+
+.bg\:morning-blue\:800 {
+    background-color: var(--morning-blue-800);
+}
+
+.bg\:morning-blue\:900 {
+    background-color: var(--morning-blue-900);
+}
+/*
+ * 	
+ *	Text Stiles
+ *  
+ */
+.text\:color\:blue-100 {
+	color: var(--blue-100);
+}
+
+.text\:color\:blue-200 {
+	color: var(--blue-200);
+}
+
+.text\:color\:blue-300 {
+	color: var(--blue-300);
+}
+
+.text\:color\:blue-400 {
+	color: var(--blue-400);
+}
+
+.text\:color\:blue-500 {
 	color: var(--blue-500);
+}
+
+.text\:color\:blue-600 {
+	color: var(--blue-600);
+}
+
+.text\:color\:blue-700 {
+	color: var(--blue-700);
+}
+
+.text\:color\:blue-800 {
+	color: var(--blue-800);
+}
+
+.text\:color\:blue-900 {
+	color: var(--morning-blue-900);
+}
+
+.text\:color.royal-100 {
+	color: var(--royal-100);
+}
+
+.text\:color.royal-200 {
+	color: var(--royal-200);
+}
+
+.text\:color.royal-300 {
+	color: var(--royal-300);
+}
+
+.text\:color.royal-400 {
+	color: var(--royal-400);
+}
+
+.text\:color.royal-500 {
+	color: var(--royal-500);
+}
+
+.text\:color.royal-600 {
+	color: var(--royal-600);
+}
+
+.text\:color.royal-700 {
+	color: var(--royal-700);
+}
+
+.text\:color.royal-800 {
+	color: var(--royal-800);
+}
+
+.text\:color.royal-900 {
+	color: var(--royal-900);
+}
+
+.text\:color\:morning-blue-100 {
+	color: var(--morning-blue-100);
+}
+
+.text\:color\:morning-blue-200 {
+	color: var(--morning-blue-200);
+}
+
+.text\:color\:morning-blue-300 {
+	color: var(--morning-blue-300);
+}
+
+.text\:color\:morning-blue-400 {
+	color: var(--morning-blue-400);
+}
+
+.text\:color\:morning-blue-500 {
+	color: var(--morning-blue-500);
+}
+
+.text\:color\:morning-blue-600 {
+	color: var(--morning-blue-600);
+}
+
+.text\:color\:morning-blue-700 {
+	color: var(--morning-blue-700);
+}
+
+.text\:color\:morning-blue-800 {
+	color: var(--morning-blue-800);
+}
+
+.text\:color\:morning-blue-900 {
+	color: var(--morning-blue-900);
+}
+
+/* 
+
+        SKY BLUE TEXT STILES
+
+*/
+
+.text\:color.sky-blue-100 {
+	color: var(--sky-blue-100);
+}
+
+.text\:color.sky-blue-200 {
+	color: var(--sky-blue-200);
+}
+
+.text\:color.sky-blue-300 {
+	color: var(--sky-blue-300);
+}
+
+.text\:color.sky-blue-400 {
+	color: var(--sky-blue-400);
+}
+
+.text\:color.sky-blue-500 {
+	color: var(--sky-blue-500);
+}
+
+.text\:color.sky-blue-600 {
+	color: var(--sky-blue-600);
+}
+
+.text\:color.sky-blue-700 {
+	color: var(--sky-blue-700);
+}
+
+.text\:color.sky-blue-800 {
+	color: var(--sky-blue-800);
+}
+
+.text\:color.sky-blue-900 {
+	color: var(--sky-blue-900);
+}
+
+.text\:color.sky-blue-100 {
+	color: var(--sky-blue-100);
+}
+
+.text\:color.sky-blue-200 {
+	color: var(--sky-blue-200);
+}
+
+.text\:color.sky-blue-300 {
+	color: var(--sky-blue-300);
+}
+
+.text\:color.sky-blue-400 {
+	color: var(--sky-blue-400);
+}
+
+.text\:color.sky-blue-500 {
+	color: var(--sky-blue-500);
+}
+
+.text\:color.sky-blue-600 {
+	color: var(--sky-blue-600);
+}
+
+.text\:color.sky-blue-700 {
+	color: var(--sky-blue-700);
+}
+
+.text\:color.sky-blue-800 {
+	color: var(--sky-blue-800);
+}
+
+.text\:color.sky-blue-900 {
+	color: var(--sky-blue-900);
 }

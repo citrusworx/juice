@@ -6,11 +6,13 @@
 .accordion\:item.open {
     visibility: visible;
     display: block;
+    transition: max-heoght 2s ease-in;
 
 }
 
 .accordion\:item.closed {
     visibility: hidden;
+    transition: min-height 2s ease-out;
 }
 
 

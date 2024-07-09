@@ -7165,6 +7165,15 @@
     mask-repeat: no-repeat;
 }
 
+.fas-solid.mag-glass {
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/magnifying-glass.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/fontawesome/web/svgs/solid/magnifying-glass.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
 .fas-solid.manat-sign {
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/manat-sign.svg');
     -webkit-mask-size: contain;

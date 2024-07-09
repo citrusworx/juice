@@ -1,0 +1,387 @@
+@import url('mobile.css');
+
+.flex {
+    display: flex;
+}
+
+.fl {
+    display: flex;
+}
+
+.ai-center {
+    align-items: center;
+}
+
+.items\:center{
+    align-items: center;
+}
+
+.ai-baseline {
+    align-items: baseline;
+}
+
+.items\:baseline {
+    align-items: baseline;
+}
+
+.ai-end {
+    align-items: flex-end;
+}
+
+.items\:end {
+    align-items: end;
+}
+
+.ai-start {
+    align-items: flex-start;
+}
+
+.items\:start {
+    align-items: start;
+}
+
+
+.items\:stretch{
+    align-items: stretch;
+}
+
+.ai-stretch {
+    align-items: stretch;
+}
+
+.ac-center {
+    align-content: center;
+}
+
+.content\:center {
+    align-content: center;
+}
+
+.ac-start {
+    align-content: start;
+}
+
+.content\:start {
+    align-content: start;
+}
+
+.ac-baseline {
+    align-content: baseline;
+}
+
+.content\:baseline {
+    align-content: baseline;
+}
+
+.ac-between {
+    align-content: space-between;
+}
+
+.content\:between {
+    align-content: space-between; 
+}
+
+.ac-around {
+    align-content: space-around;
+}
+
+.content\:around {
+    align-content: space-around;
+}
+
+.ac-evenly {
+    align-content: space-evenly;
+}
+
+.content\:evenly {
+    align-content: space-evenly;
+}
+
+.fw-rev {
+    flex-wrap: wrap-reverse;
+}
+
+.fw-nw {
+    flex-wrap: nowrap;
+}
+
+.fw-wrap {
+    flex-wrap: wrap;
+}
+
+.as-center {
+    align-self: center;
+}
+
+.self\:center {
+    align-self: center;
+}
+
+.self\:start {
+    align-self: flex-start;
+}
+
+.self\:end {
+    align-self: flex-end;
+}
+
+.jc-start {
+    justify-content: start;
+}
+
+.justify\:start {
+    justify-content: start;
+}
+
+.jc-end {
+    justify-content: end;
+}
+
+.justify\:end {
+    justify-content: end;
+}
+
+.jc-center {
+    justify-content: center;
+}
+
+.justify\:center {
+    justify-content: center;
+}
+
+.jc-between {
+    justify-content: space-between;
+}
+
+.justify\:between {
+    justify-content: space-between;
+}
+
+.jc-around {
+    justify-content: space-around;
+}
+
+.justify\:around {
+    justify-content: space-around;
+}
+
+/* SPACING */
+
+.gap\:1 {
+    gap: 1vw;
+}
+
+.gap\:2 {
+    gap: 2vw;
+}
+
+.gap\:3 {
+    gap: 3vw;
+}
+
+.gap\:4 {
+    gap: 4vw;
+}
+
+.gap\:5 {
+    gap: 5vw;
+}
+
+.gap\:6 {
+    gap: 6vw;
+}
+
+.gap\:7 {
+    gap: 7vw;
+}
+
+.gap\:8 {
+    gap: 8vw;
+}
+
+.gap\:9 {
+    gap: 9vw;
+}
+
+.gap\:10 {
+    gap: 10vw;
+}
+
+/*  ORDER */
+
+.order-1 {
+    order: 1;
+}
+
+.order\:1 {
+    order: 1;
+}
+
+.order-2 {
+    order: 2;
+}
+
+.order\:2 {
+    order: 2;
+}
+
+.order-3 {
+    order: 3;
+}
+
+.order\:3 {
+    order: 3;
+}
+
+.order-4 {
+    order: 4;
+}
+
+.order\:4 {
+    order: 4;
+}
+
+.order-5 {
+    order: 5;
+}
+
+.order\:5 {
+    order: 5;
+}
+
+.order-6 {
+    order: 6;
+}
+
+.order\:6 {
+    order: 6;
+}
+
+.order-7 {
+    order: 7;
+}
+
+.order\:7 {
+    order: 7;
+}
+
+.order-8 {
+    order: 8;
+}
+
+.order\:8 {
+    order: 8;
+}
+
+.order-9 {
+    order: 9;
+}
+
+.order\:9 {
+    order: 9;
+}
+
+.order-10 {
+    order: 10;
+}
+
+.order\:10 {
+    order: 10;
+}
+
+/* GROW / SHRINK */
+
+.grow\:1 {
+    flex-grow: 1;
+}
+
+.grow\:2 {
+    flex-grow: 2;
+}
+
+.grow\:3 {
+    flex-grow: 3;
+}
+
+.shrink\:none {
+    flex-shrink: 0;
+}
+
+.shrink\:1 {
+    flex-shrink: 1;
+}
+
+.shrink\:2 {
+    flex-shrink: 2;
+}
+
+/* DIRECTION */
+
+.row {
+    flex-direction: row;
+}
+
+.row-rev {
+    flex-direction: row-reverse;
+}
+
+.col {
+    flex-direction: column;
+}
+
+.col-rev {
+    flex-direction: column-reverse;
+}
+
+.evenly {
+    justify-content: space-evenly;
+}
+
+.between {
+    justify-content: space-between;
+}
+
+.around {
+    justify-content: space-around;
+}
+
+.center {
+    justify-content: center;
+}
+
+/* BASIS */
+.basis-auto {
+    flex-basis: auto;
+}
+
+.basis-full {
+    flex-basis: 100%;
+}
+
+.basis-half {
+    flex-basis: 50%;
+}
+
+.basis-quarter {
+    flex-basis: 25%;
+}
+
+.basis-1 {
+    flex-basis: 1rem;
+}
+
+.basis-2 {
+    flex-basis: 2rem;
+}
+
+.basis-3 {
+    flex-basis: 3rem;
+}
+
+.basis-4 {
+    flex-basis: 4rem;
+}
+
+.basis-5 {
+    flex-basis: 5rem;
+}

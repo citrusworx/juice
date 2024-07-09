@@ -27,3 +27,15 @@ function wiggle_button_toggle(){
         button.classList.add('wiggle');
     }
 }
+
+const tagline = document.getElementById('slogan');
+// Every 10 sec apply a new class and remove one
+function changeTagline(){
+    tagline.classList.add('caveat');
+    setInterval(() => {
+        tagline.classList.remove('caveat');
+        tagline.classList.add('homemade-apple');
+    }, 10000);
+}
+
+changeTagline();

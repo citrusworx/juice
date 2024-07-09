@@ -129,23 +129,27 @@
 /* Sizing */
 /* TODO: more sizes?? */
 .text\:sm{
-    font-size: 0.75rem;
+    font-size: 1rem;
 }
 
 .text\:md{
-    font-size: 1.2rem;
-}
-
-.text\:lg{
     font-size: 1.5rem;
 }
 
-.text\:xlg{
+.text\:lg{
     font-size: 2rem;
 }
 
+.text\:xlg{
+    font-size: 2.5rem;
+}
+
 .text\:xxlg{
-    font-size: 2.75rem;
+    font-size: 3rem;
+}
+
+.text\:xxxlg{
+    font-size: 5rem;
 }
 
 /* Rotate Text Upwards */
@@ -209,7 +213,7 @@
         }
     
         .text\:sm{
-            font-size: 0.75rem;
+            font-size: 0.7rem;
         }
         
         .text\:md{
@@ -217,17 +221,24 @@
         }
         
         .text\:lg{
-            font-size: 1.25rem;
-        }
-        
-        .text\:xlg{
             font-size: 1.5rem;
         }
         
-        .text\:xxlg{
+        .text\:xlg{
             font-size: 2rem;
         }
-    
+        
+        .text\:xxlg{
+            font-size: 2.5rem;
+        }
+
+        .text\:xxxlg{
+            font-size: 3rem;
+        }
+        
+        h1, h2, h3, h4, h5, h6 {
+            text-align: center;
+        }
         
         
         }
