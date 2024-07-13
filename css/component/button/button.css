@@ -1,31 +1,40 @@
-.btn\:flat {
+/* MUST HAVE UTILS */
+
+.no-hover {
+    pointer-events: none;
+}
+
+/* end of utils */
+
+.btn\:flat, .btn.flat {
     padding: 0.4rem;
+    border: none;
+    cursor: pointer;
+}
+
+.btn\:flat:hover, .btn.flat:hover {
     border: none;
 }
 
-.btn\:flat:hover {
-    background: var(--skylight);
-}
-
 /* Brand Specific Styling */
-.btn\:light {
+.btn\:light, .btn.light {
     background: var(--blue-500);
     border: hsl(0, 0%, 40%) 1px solid;
 }
 
-.btn\:light:hover {
+.btn\:light:hover, .btn.light:hover {
     background: var(--blue-200);
     border: hsl(0, 0%, 60%) 1px solid;
 }
 
-.btn\:dark {
+.btn\:dark, .btn.dark {
     height: 5vh;
     width: 5vw;
     background-color: var(--black-800);
     border:none;
 }
 
-.btn\:dark:hover {
+.btn\:dark:hover, .btn.dark:hover {
     background-color: var(--black-500);
 }
 
@@ -49,12 +58,17 @@
     border: var(--primary) 1px solid;
 }
 
-.btn\:meloncolly {
+.btn\:meloncolly, .btn.meloncolly {
     background-color: var(--meloncolly-citrus);
-    border: var(--meloncolly-berry) 1px solid;
+    border: var(--meloncolly-berry) 3px solid;
+}
+
+.btn\:meloncolly:hover, .btn.meloncolly:hover {
+    background-color: var(--meloncolly-splash);
+    border: var(--meloncolly-citrus) 3px solid;
 }
 
 .btn\:meloncolly:hover {
     background-color: var(--meloncolly-splash);
-    border: var(--meloncolly-berry) 1px solid;
+    border: var(--meloncolly-citrus) 3px solid;
 }

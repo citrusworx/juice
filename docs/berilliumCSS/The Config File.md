@@ -1,10 +1,10 @@
-## Config.css
+# Config.css
 
-### Importing External Files Following Categories
+## Importing External Files Following Categories
 
 The imported CSS files in BerilliumCSS are organized into three distinct categories, each serving a specific purpose. These categories are reflected in the order of imports as follows:
 
-#### 1. Root Files
+### 1. Root Files
 
 - **fonts/font.css**: This file is responsible for font configurations, allowing you to define custom fonts for your project.
 
@@ -16,7 +16,7 @@ The imported CSS files in BerilliumCSS are organized into three distinct categor
 
 - **icon.css**: Importing this file provides root configurations for icons, making it easy to integrate icons into your design.
 
-#### 2. Class Styles
+### 2. Class Styles
 
 - **animate/animate.css**: Within this class style file, you'll find a collection of animations that can be applied to elements, enhancing user interactions.
 
@@ -48,7 +48,7 @@ The imported CSS files in BerilliumCSS are organized into three distinct categor
 
 - **button.css**: The class styles in this file focus on buttons, offering predefined button styles that can be applied to various buttons in your project.
 
-#### 3. Responsive Styles
+### 3. Responsive Styles
 
 - **card.css**: Styles specific to cards are defined in this file, simplifying the creation of card-based components.
 
@@ -75,8 +75,9 @@ By prepping the styles in `config.css` for minification, BerilliumCSS helps you 
 ---
 
 ### Note
+
 **For Vanilla Devs**:
-There will be two links (`berillium.min.css` and `berillium.min.js`) required that will provide the fastest experience for both user and dev. 
+There will be two links (`berillium.min.css` and `berillium.min.js`) required that will provide the fastest experience for both user and dev.
 
 **For Node Devs**:
-A `gulp.js` script is provided that minifies your CSS for you after you add any custom classes that you need. 
+A `gulp.js` script is provided that minifies your CSS for you after you add any custom classes that you need.

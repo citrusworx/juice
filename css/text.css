@@ -153,7 +153,7 @@
 }
 
 /* Rotate Text Upwards */
-.r90 {
+.r90, .rotate\:90, .rotate-90 {
    writing-mode: vertical-rl;
    transform: rotate(180deg);
    backface-visibility: visible;

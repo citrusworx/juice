@@ -2,11 +2,45 @@
     display: grid;
 }
 
+.il-grid {
+    display: inline-grid;
+}
+
+.il\:grid {
+    display: inline-grid;
+}
+
 .gtc\:rep, .\3-1 {
     grid-template-columns: repeat(3, 1fr);
 }
 
-.gtr-auto {
+.gtc\:rep, .\2-1 {
+    grid-template-columns: repeat(2, 4fr);
+    column-gap: 5vw;
+}
+
+.gtr-auto, .gtr\:auto {
     grid-template-rows: auto;
 }
 
+/* Single Column */
+
+
+/* Two Column */
+.two-col {
+    grid-template-columns: 2fr 2fr;
+    grid-column-start:auto;
+    grid-column-end: 2;
+}
+
+/* Single Row */
+
+.row {
+    grid-template-rows: 2fr;
+}
+
+/* Two Rows */
+
+.two-rows {
+    grid-template-rows: 1fr 1fr;
+}

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://use.typekit.net/rkc1dxu.css">
+    <link rel="stylesheet" async href="css/berillium.css">
+    <title>Button Maker</title>
+</head>
+<body>
+    <main class="my:10">
+        <button class="mx:10 btn meloncolly h:10">Click here</button>
+        <button class="mx:10 btn:meloncolly">Click here</button>
+        <div
+            class="btn flat bg lime-100 h:10 w:20 rounded:md mx:10"
+            id="button" 
+            role="button"
+            tabindex="0"
+            aria-label="button"
+            onmouseover="hoverColor('lime', '400', '100')"
+            onmouseleave="hoverColor('lime', '100', '400')"
+            onclick="changePage('index.html')"
+        >
+            <h2 class="no-hover" id="button-heading">Find Out More</h2>
+            <p class="no-hover" id="button-content">
+                About how you can use divs as super buttons!
+            </p>
+        </div>
+    </main>
+    <script src="/js/berilliumCSS/button.js"></script>
+</body>
+</html>
