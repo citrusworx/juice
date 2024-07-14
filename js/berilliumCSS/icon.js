@@ -46,6 +46,7 @@ class FlatIcon extends HTMLElement {
             this.render();
         }
     }
+    
     render(){
         const iconClass = this.getAttribute('class') || '';
         const iconLib = this.getAttribute('lib') || '';

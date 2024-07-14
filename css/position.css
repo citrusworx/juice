@@ -110,9 +110,46 @@
     top: 20vh;
 }
 
-.left {
+.left, .left\:1 {
     left: 0.2rem;
 }
+
+.left\:2 {
+    left: 1vw;
+}
+
+.left\:3 {
+    left: 1.25vw;
+}
+
+.left\:4 {
+    left: 1.5vw;
+}
+
+.left\:5 {
+    left: 1.75vw;
+}
+
+.left\:6 {
+    left: 2vw;
+}
+
+.left\:7 {
+    left: 2.25vw;
+}
+
+.left\:8 {
+    left: 2.5vw;
+}
+
+.left\:9 {
+    left: 2.75vw;
+}
+
+.left\:10 {
+    left: 3vw;
+}
+
 
 .right {
     right: 0.2rem;

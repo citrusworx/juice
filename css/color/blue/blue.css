@@ -52,18 +52,18 @@
 }
 /* Blues */
 
-.bg\:blue-100 {
+.bg\:blue-100, .bg.blue-100 {
     background-color: var(--blue-100);
 }
 
-.bg\:blue-200 {
+.bg\:blue-200, .bg.blue-200 {
     background-color: var(--blue-200);
 }
 
-.bg\:blue-300 {
+.bg\:blue-300, .bg.blue-300 {
     background-color: var(--blue-300);
 }
-.bg\:blue-400 {
+.bg\:blue-400, .bg.blue-400 {
     background-color: var(--blue-400);
 }
 
@@ -486,4 +486,10 @@
 
 .text\:color.sky-blue-900 {
 	color: var(--sky-blue-900);
+}
+
+/* icon stiles */
+
+.icon\:blue-100, .icon.blue-100 {
+    color: var(--blue-100);
 }

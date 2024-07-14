@@ -1,0 +1,25 @@
+/* 
+    This is a css library for modal menus. This is also used for OS2.js.
+
+
+
+*/
+
+.homebar {
+    height: 5vh;
+    background-color: var(--blue-200);
+    
+    #home-icon {
+        margin-left: 1vw;
+        padding: 1vw;
+    }
+    
+    #home-icon:hover {
+        background-color: var(--blue-600);
+    } 
+}
+
+.modal {
+    height: 10vw;
+    background-color: var(--blue-200);
+}

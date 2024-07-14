@@ -12,13 +12,13 @@
         <button class="mx:10 btn meloncolly h:10">Click here</button>
         <button class="mx:10 btn:meloncolly">Click here</button>
         <div
-            class="btn flat bg lime-100 h:10 w:20 rounded:md mx:10"
+            class="btn flat bg blue-100 h:10 w:20 rounded:md mx:10"
             id="button" 
             role="button"
             tabindex="0"
             aria-label="button"
-            onmouseover="hoverColor('lime', '400', '100')"
-            onmouseleave="hoverColor('lime', '100', '400')"
+            onmouseover="hoverColor('blue', '300', '100'), changeText('caveat', 'open-sans-bold', 'text:md')"
+            onmouseleave="hoverColor('blue', '100', '300'), changeText('open-sans-bold', 'caveat', 'text:md')"
             onclick="changePage('index.html')"
         >
             <h2 class="no-hover" id="button-heading">Find Out More</h2>
@@ -26,7 +26,25 @@
                 About how you can use divs as super buttons!
             </p>
         </div>
+        <div
+            class="homebar flex gap:1 items:center start space:between"
+            id="homebar"
+        >
+        <div class="bg:blue-900 flex items:center rounded:lg h:4" id="home-icon">
+            <fas-icon
+            lib="solid"
+            name="desktop"
+            color="icon:blue-100"
+            class="icon:sm"
+            >
+        </fas-icon>
+        </div>
+            <p class="text:color green-900 text:md inline">
+                Texting some things about things.
+            </p>
+        </div>
     </main>
     <script src="/js/berilliumCSS/button.js"></script>
+    <script src="/js/berilliumcss/icon.js"></script>
 </body>
 </html>

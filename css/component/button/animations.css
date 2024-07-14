@@ -1,0 +1,19 @@
+.fill-left\:slow:hover, .fill-left.slow:hover {
+    animation: fill-left 10s linear forwards;
+}
+
+
+@keyframes fill-left {
+    0% {
+        background: linear-gradient(90deg, red, white);
+        background-size: 0% 100%;
+        background-repeat: no-repeat;
+        overflow: hidden;
+        position: relative;
+    }
+
+    100% {
+        background-size: 500% 100%;
+        background-repeat: no-repeat;
+    }
+}

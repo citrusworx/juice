@@ -2,7 +2,7 @@
 
 Welcome to BerilliumCSS, your go-to CSS library for crafting stunning, responsive, and feature-rich web designs. Whether you're a seasoned developer, a designer, or just getting started with web development, BerilliumCSS has you covered. This library has been carefully crafted with attention to detail, performance, and flexibility in mind.
 
-The name of the game is: options and simplicity. Having options for various color combinations is a bonus tool in any dev's toolkit. Simplicity is a must to keep projects easy to maintain and collaborate on. 
+The name of the game is: options and simplicity. Having options for various color combinations is a bonus tool in any dev's toolkit. Simplicity is a must to keep projects easy to maintain and collaborate on.
 
 ## Features
 
@@ -37,6 +37,7 @@ To start using BerilliumCSS in your project, follow these simple steps:
 ### berilliumCLI
 
 We have developed our very own CLI tool to make creating any type of applications a breeze!
+
 ```bash
 berillium css -module flex.css -swatch AquaFlux
 ```
@@ -46,6 +47,7 @@ berillium css -module flex.css -swatch AquaFlux
 For comprehensive documentation and examples, visit our [official documentation](https://berilliumcss.com/docs). You'll find detailed information on how to use BerilliumCSS effectively.
 
 ## Tools We Use
+
 - Gulp
 - Choco
 - Pip
