@@ -27,16 +27,46 @@
     font-style: normal;
 }
 
+.bootle {
+    font-family: 'Bootle', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
 .caveat {
     font-family: var(--caveat);
     font-weight: 500;
     font-style: cursive;
 }
 
+.creamy-sugar {
+    font-family: 'Creamy Sugar', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.digitalt {
+    font-family: 'Digitalt', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.dubiel {
+    font-family: 'Dubiel', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
 .homemade-apple {
     font-family: var(--homemade-apple);
     font-weight: 400;
     font-style: cursive;
+}
+
+.kate-blues {
+    font-family: 'Kate Blues', sans-serif;
+    font-weight: 700;
+    font-style: normal;
 }
 
 .lato {
@@ -55,6 +85,12 @@
 .montserrat {
     font-family: var(--montserrat);
     font-size: 18px;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.nugo-sans {
+    font-family: 'Nugo Sans', sans-serif;
     font-weight: 500;
     font-style: normal;
 }

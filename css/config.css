@@ -16,7 +16,7 @@
 @import url('form/form.css');
 @import url('flex.css');  
 @import url('text.css'); 
-@import url('grid.css');
+@import url('grid/grid.css');
 @import url('code.css');
 @import url('background.css');
 @import url('component/menus/menu.css');

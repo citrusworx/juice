@@ -133,7 +133,7 @@
 
 /* 
         LIME 
-    background [done], text, border, shadow
+    background [done], text[done], border[done], shadow (box and text)
 
 */
 
@@ -170,6 +170,154 @@
 
 .bg\:lime-900, .bg\ lime-900 {
     background-color: var(--lime-900);
+}
+
+/* Text Stiles */
+
+.text\:color\:lime-100, .text\:color.lime-100 {
+    color: var(--lime-100);
+}
+
+.text\:color\:lime-200, .text\:color.lime-200 {
+    color: var(--lime-200);
+}
+
+.text\:color\:lime-300, .text\:color.lime-300 {
+    color: var(--lime-300);
+}
+.text\:color\:lime-400, .text\:color.lime-400 {
+    color: var(--lime-400);
+}
+
+.text\:color\:lime-500, .text\:color.lime-500 {
+    color: var(--lime-500);
+}
+
+.text\:color\:lime-600, .text\:color.lime-600 {
+    color: var(--lime-600);
+}
+
+.text\:color\:lime-700, .text\:color.lime-700 {
+    color: var(--lime-700);
+}
+
+.text\:color\:lime-800, .text\:color.lime-800 {
+    color: var(--lime-800);
+}
+
+.text\:color\:lime-900, .text\:color.lime-900 {
+    color: var(--lime-900);
+}
+
+/* Border Stiles */
+.border\:color\:lime-100, .border\:color.lime-100 {
+    border-color: var(--lime-100);
+}
+
+.border\:color\:lime-200, .border\:color.lime-200 {
+    border-color: var(--lime-200);
+}
+
+.border\:color\:lime-300, .border\:color.lime-300 {
+    border-color: var(--lime-300);
+}
+
+.border\:color\:lime-400, .border\:color.lime-400 {
+    border-color: var(--lime-400);
+}
+
+.border\:color\:lime-500, .border\:color.lime-500 {
+    border-color: var(--lime-500);
+}
+
+.border\:color\:lime-600, .border\:color.lime-600 {
+    border-color: var(--lime-600);
+}
+
+.border\:color\:lime-700, .border\:color.lime-700 {
+    border-color: var(--lime-700);
+}
+
+.border\:color\:lime-800, .border\:color.lime-800 {
+    border-color: var(--lime-800);
+}
+
+.border\:color\:lime-900, .border\:color.lime-900 {
+    border-color: var(--lime-900);
+}
+
+/* Shadow Stiles */
+
+.shadow\:box\:lime-100, .shadow\:box.lime-100 {
+    box-shadow: var(--lime-100);
+}
+
+.shadow\:text\:lime-100, .shadow\:text.lime-100 {
+    text-shadow: var(--lime-100);
+}
+
+.shadow\:box\:lime-200, .shadow\:box.lime-200 {
+    box-shadow: var(--lime-200);
+}
+
+.shadow\:text\:lime-300, .shadow\:text.lime-200 {
+    text-shadow: var(--lime-200);
+}
+
+.shadow\:box\:lime-300, .shadow\:box.lime-300 {
+    box-shadow: var(--lime-300);
+}
+
+.shadow\:text\:lime-300, .shadow\:text.lime-300 {
+    text-shadow: var(--lime-300);
+}
+
+.shadow\:box\:lime-400, .shadow\:box.lime-400 {
+    box-shadow: var(--lime-400);
+}
+
+.shadow\:text\:lime-400, .shadow\:text.lime-400 {
+    text-shadow: var(--lime-400);
+}
+
+.shadow\:box\:lime-500, .shadow\:box.lime-500 {
+    box-shadow: var(--lime-500);
+}
+
+.shadow\:text\:lime-500, .shadow\:text.lime-500 {
+    text-shadow: var(--lime-500);
+}
+
+.shadow\:box\:lime-600, .shadow\:box.lime-600 {
+    box-shadow: var(--lime-600);
+}
+
+.shadow\:text\:lime-600, .shadow\:text.lime-600 {
+    text-shadow: var(--lime-600);
+}
+
+.shadow\:box\:lime-700, .shadow\:box.lime-700 {
+    box-shadow: var(--lime-700);
+}
+
+.shadow\:text\:lime-700, .shadow\:text.lime-700 {
+    text-shadow: var(--lime-700);
+}
+
+.shadow\:box\:lime-800, .shadow\:box.lime-800 {
+    box-shadow: var(--lime-800);
+}
+
+.shadow\:text\:lime-800, .shadow\:text.lime-800 {
+    text-shadow: var(--lime-800);
+}
+
+.shadow\:box\:lime-900, .shadow\:box.lime-900 {
+    box-shadow: var(--lime-900);
+}
+
+.shadow\:text\:lime-900, .shadow\:text.lime-900 {
+    text-shadow: var(--lime-900);
 }
 
 /* 

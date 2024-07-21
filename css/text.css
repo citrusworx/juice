@@ -159,6 +159,16 @@
    backface-visibility: visible;
 }
 
+/* Shadow Stiles */
+
+.shadow\:text\:md.light-blur {
+    text-shadow: 3px 3px 2px;
+}
+
+.shadow\:text\:md.med-blur {
+    text-shadow: 3px 3px 5px;
+}
+
 /***************************************** 
 |                                        |   
 |           MOBILE CONFIG                |

@@ -1,12 +1,2 @@
-.grid {
-    display: grid;
-}
 
-.gtc\:rep, .\3-1 {
-    grid-template-columns: repeat(3, 1fr);
-}
-
-.gtr-auto {
-    grid-template-rows: auto;
-}
 

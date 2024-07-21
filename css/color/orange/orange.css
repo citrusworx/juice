@@ -33,43 +33,52 @@
 
    }
 
-   .bg-orange-100 {
+.bg-orange-100, .bg.orange-100, .bg\:orange-100 {
     background-color: var(--orange-100);
 }
 
-.bg-orange-200 {
+.bg-orange-200, .bg.orange-200, .bg\:orange-200 {
     background-color: var(--orange-200);
 }
 
-.bg-orange-300 {
+.bg-orange-300, .bg.orange-300, .bg\:orange-300 {
     background-color: var(--orange-300);
 }
 
-.bg-orange-400 {
+.bg-orange-400, .bg.orange-400, .bg\:orange-400 {
     background-color: var(--orange-400);
 }
 
-.bg-orange-500 {
+.bg-orange-500, .bg.orange-500, .bg\:orange-500 {
     background-color: var(--orange-500);
 }
 
-.bg-orange-600 {
+.bg-orange-600, .bg.orange-600, .bg\:orange-600 {
     background-color: var(--orange-600);
 }
 
-.bg-orange-700 {
+.bg-orange-700, .bg.orange-700, .bg\:orange-700 {
     background-color: var(--orange-700);
 }
 
-.bg-orange-800 {
+.bg-orange-800, .bg.orange-800, .bg\:orange-800 {
     background-color: var(--orange-800);
 }
 
-.bg-orange-900 {
+.bg-orange-900, .bg.orange-900, .bg\:orange-900 {
     background-color: var(--orange-900);
 }
 
+/* Creamsicle Stiles */
 
-.bg-creamsicle-500 {
+.bg-creamsicle-300, .bg.creamsicle-300, .bg\:creamsicle-300 {
+    background-color: var(--creamsicle-300);
+}
+
+.bg-creamsicle-400, .bg.creamsicle-400, .bg\:creamsicle-400 {
+    background-color: var(--creamsicle-400);
+}
+
+.bg-creamsicle-500, .bg.creamsicle-500, .bg\:creamsicle-500 {
     background-color: var(--creamsicle-500);
 }

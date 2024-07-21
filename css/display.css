@@ -38,6 +38,24 @@
     display: none;
 }
 
+.float\:left {
+    display: absolute;
+    margin-left: 0;
+    margin-right: auto;
+    margin-top: -5px;
+}
+
+.float\:right {
+    display: absolute;
+    margin-left: auto;
+    margin-right: 0;
+    margin-top: -5px;
+}
+
+.float.right {
+    float: right;
+}
+
 .scroll {
     overflow-y: scroll;
     scroll-behavior: smooth;

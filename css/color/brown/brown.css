@@ -1,0 +1,89 @@
+:root {
+    --brown-100: hsl(30, 59%, 87%);
+    --brown-200: hsl(30, 59%, 77%);
+    --brown-300: hsl(30, 59%, 67%);
+    --brown-400: hsl(30, 59%, 57%);
+    --brown-500: hsl(30, 59%, 47%);
+    --brown-600: hsl(30, 59%, 37%);
+    --brown-700: hsl(30, 59%, 27%);
+    --brown-800: hsl(30, 59%, 17%);
+    --brown-900: hsl(30, 59%, 14%);
+}
+
+/* BG Stiles */
+
+.bg\:brown-100, .bg.brown-100 {
+    background-color: var(--brown-100);
+}
+
+.bg\:brown-200, .bg.brown-200 {
+    background-color: var(--brown-200);
+}
+
+.bg\:brown-300, .bg.brown-300 {
+    background-color: var(--brown-300);
+}
+
+.bg\:brown-400, .bg.brown-400 {
+    background-color: var(--brown-400);
+}
+
+.bg\:brown-500, .bg.brown-500 {
+    background-color: var(--brown-500);
+}
+
+.bg\:brown-600, .bg.brown-600 {
+    background-color: var(--brown-600);
+}
+
+.bg\:brown-700, .bg.brown-700 {
+    background-color: var(--brown-700);
+}
+
+.bg\:brown-800, .bg.brown-800 {
+    background-color: var(--brown-800);
+}
+
+.bg\:brown-900, .bg.brown-900 {
+    background-color: var(--brown-900);
+}
+
+/* Text Stiles */
+
+.text\:color\:brown-100, .text\:color.brown-100 {
+    color: var(--brown-100);
+}
+
+.text\:color\:brown-200, .text\:color.brown-200 {
+    color: var(--brown-200);
+}
+
+.text\:color\:brown-300, .text\:color.brown-300 {
+    color: var(--brown-300);
+}
+
+.text\:color\:brown-400, .text\:color.brown-400 {
+    color: var(--brown-400);
+}
+
+.text\:color\:brown-500, .text\:color.brown-500 {
+    color: var(--brown-500);
+}
+
+.text\:color\:brown-600, .text\:color.brown-600 {
+    color: var(--brown-600);
+}
+
+.text\:color\:brown-700, .text\:color.brown-700 {
+    color: var(--brown-700);
+}
+
+.text\:color\:brown-800, .text\:color.brown-800 {
+    color: var(--brown-800);
+}
+
+.text\:color\:brown-900, .text\:color.brown-900 {
+    color: var(--brown-900);
+}
+
+/* Border Stiles */
