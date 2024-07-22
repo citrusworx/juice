@@ -26,24 +26,24 @@
     color: var(--glacier-frost)
 }
 /*  BG Stiles */
-.bg\:color\:sapphire {
-    color: var(--glacier-sapphire)
+.bg\:color.sapphire {
+    background-color: var(--glacier-sapphire)
 }
 
-.bg\:color\:cerulean {
-    color: var(--glacier-cerulean)
+.bg\:color.cerulean {
+    background-color: var(--glacier-cerulean)
 }
 
-.bg\:color\:aqua {
-    color: var(--glacier-aqua)
+.bg\:color.aqua {
+    background-color: var(--glacier-aqua)
 }
 
-.bg\:color\:ice {
-    color: var(--glacier-ice)
+.bg\:color.ice {
+    background-color: var(--glacier-ice)
 }
 
-.bg\:color\:frost {
-    color: var(--glacier-frost)
+.bg\:color.frost {
+    background-color: var(--glacier-frost)
 }
 
 /*  Border Stiles */

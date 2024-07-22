@@ -5,3 +5,19 @@
         --meloncolly-cascade: hsl(106, 67%, 34%);
         --meloncolly-compliment: hsl(310, 50%, 25%);
 }
+
+.bg-meloncolly.plum {
+        background-color: var(--meloncolly-plum);
+}
+
+.bg-meloncolly.lime {
+        background-color: var(--meloncolly-lime);
+}
+
+.bg-meloncolly.cascade {
+        background-color: var(--meloncolly-cascade);
+}
+
+.bg-meloncolly.compliment {
+        background-color: var(--meloncolly-compliment);
+}

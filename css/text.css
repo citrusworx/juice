@@ -92,6 +92,10 @@
 .strike {
     text-decoration: line-through;
 }
+
+.text-primary {
+    font-family: var(--primary-font);
+}
 		
 /* Link STYLES */
 

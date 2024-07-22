@@ -1,18 +1,18 @@
 /* Background */
 
-.bg.meloncolly\:zinnia{
+.bg-meloncolly.zinnia{
     background-color: var(--meloncolly-zinnia);
 }
 
-.bg.meloncolly\:tertiary{
+.bg-meloncolly.tertiary{
     background-color: var(--meloncolly-tertiary);
 }
 
-.bg.meloncolly\:lavender{
+.bg-meloncolly.lavender{
     background-color: var(--meloncolly-lavender);
 }
 
-.bg.meloncolly\:azalea{
+.bg-meloncolly.azalea{
     background-color: var(--meloncolly-azalea);
 }
 

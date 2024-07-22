@@ -10,6 +10,14 @@
     grid-template-columns: auto;
 }
 
+.gtc-rep.col-five {
+    grid-template-columns: repeat(5, 2fr);
+}
+
+.gtc-rep.col-four {
+    grid-template-columns: repeat(4, 2fr);
+}
+
 .gtc-rep.col-three {
     grid-template-columns: repeat(3, 1fr);
 }
@@ -17,6 +25,8 @@
 .gtc-rep.col-two {
     grid-template-columns: repeat(2, 2fr);
 }
+
+
 
 .gtr-auto {
     grid-template-rows: auto;

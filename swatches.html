@@ -4,19 +4,113 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://use.typekit.net/rkc1dxu.css">
-    <link rel="stylesheet" async href="css/berillium.css">   
-    <title>Document</title>
+    <link rel="stylesheet" async href="css/berillium.css">
+    <title>Fonts</title>
 </head>
 <body>
-    <section id="nav">
-        <nav class="h:5 w:full flex row items:center center gap:5 space:evenly bg:royal:400">
-            <ul class="list:none flex row items:center center gap:5 text:white open-sans-bold text:md">
-                <li class=""><a class="link:light" href="index.html">Home</a></li>
-                <li class=""><a class="link:light" href="swatches.html">Swatches</a></li>
-                <li class=""><a class="link:light" href="code.html">Code</a></li>
-                <li class=""><a class="link:light" href="#">Docs</a></li>
-            </ul>
-        </nav>
-    </section>
+    <nav class="flex row center nav:bar secondary:md">
+        <a href="index.html"><span class="text:color:primary">berillium<span class="text:white">CSS</span></span></a> 
+        <ul class="flex row center gap:10">
+            <li><a class="link:light" href="index.html">Home</a></li>
+            <li><a class="link:light" href="swatches.html">Swatches</a></li>
+            <li><a class="link:light" href="code.html">Code</a></li>
+            <li><a class="link:light" href="#">Docs</a></li>
+        </ul>        
+    </nav>
+    <main class="m:auto w:80 mt:10 mb:10">
+        <section id="hero">
+            <div class="h:60 w:80 bg:blue-200">
+                <h2 class="text:primary bold text:xxlg text:center">Swatches</h2>
+                <p class="text:primary text:md text:center">
+                    Never be bogged down by color choice again. Just pick a swatch!
+                </p>
+            </div>
+        </section>
+        <h3 class="text:primary bold text:xlg pt:rel:5">Blush</h3>
+        <section class="grid gtc-rep col-five gap:2">
+            <div class="h:10 bg:blush raspberry text:font:primary">Raspberry</div>
+            <div class="h:10 bg:blush petal text:font:primary">Petal</div>
+            <div class="h:10 bg:blush ivory text:font:primary">Ivory</div>
+            <div class="h:10 bg:blush sky text:font:primary">Sky</div>
+            <div class="h:10 bg:blush midnight text:font:primary text:white">Midnight</div>
+        </section>
+        <h3 class="text:primary bold text:xlg pt:rel:5">Glacier</h3>
+        <section class="grid gtc-rep col-five gap:2">
+            <div class="h:10 bg:color sapphire text:font:primary">Sapphire</div>
+            <div class="h:10 bg:color cerulean text:font:primary">Cerulean</div>
+            <div class="h:10 bg:color aqua text:font:primary">Aqua</div>
+            <div class="h:10 bg:color ice text:font:primary">Ice</div>
+            <div class="h:10 bg:color frost text:font:primary">Frost</div>
+        </section>
+        <h3 class="text:primary bold text:xlg pt:rel:5">Meloncolly</h3>
+        <h4 class="text:font:light text:md">Analogous</h4>
+        <section class="grid gtc-rep col-four gap:2">
+            <div class="h:10 bg-meloncolly zinnia text:font:primary">Zinnia</div>
+            <div class="h:10 bg-meloncolly tertiary text:font:primary">Tertiary</div>
+            <div class="h:10 bg-meloncolly lavender text:font:primary">Lavender</div>
+            <div class="h:10 bg-meloncolly azalea text:font:primary">Azalea</div>
+        </section>
+
+        <h4 class="text:font:light text:md">Complimentary</h4>
+        <section class="grid gtc-rep col-four gap:2">
+            <div class="h:10 bg-meloncolly plum text:font:primary">Plum</div>
+            <div class="h:10 bg-meloncolly lime text:font:primary">Lime</div>
+            <div class="h:10 bg-meloncolly cascade text:font:primary">Cascade</div>
+            <div class="h:10 bg-meloncolly compliment text:font:primary text:white">Compliment</div>
+        </section>
+    </main>
+       <!-- FOOTER -->
+   <footer class="flex around fw-wrap bg:black:800 h:40 items:center pb:rel:10 w:min:25 gap:1">
+    <div class="w-15 mt:10" id="footer-logo">
+        <h2 class="text:xxlg text:white text:font:primary">berillium<span class="text:color:primary text:font:primary">css</span></h2>
+        <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+kofiWidgetOverlay.draw('beryllabs', {
+'type': 'floating-chat',
+'floating-chat.donateButton.text': 'Support me',
+'floating-chat.donateButton.background-color': '#5cb85c',
+'floating-chat.donateButton.text-color': '#fff'
+});
+</script>
+    </div>
+    
+    <div class="mob:fw-wrap flex gap:5 w-15 mt:5">
+       <div>
+       
+        <div>
+            <h3 class="text:color:primary">More Resources</h3>
+        </div>
+        <ul class="text:white">
+            <li class="my:3 list-none">CLI</li>
+            <li class="my:3 list-none">Node</li>
+            <li class="my:3 list-none">PHP</li>
+            <li class="my:3 list-none">C# / Blazor</li>
+        </ul>
+    </div>
+    <div class="col w-15 mt:5">
+            <div>
+                <h3 class="text:color:primary">Berillium</h3>
+            </div>
+        <ul class="text:white">
+            <li class="my:3 list-none">CSS</li>
+            <li class="my:3 list-none">JS</li>
+            <li class="my:3 list-none">CMS</li>
+        </ul>
+    </div>
+    <div class="col w-15 mt:5">
+        <div>
+            <h3 class="text:color:primary">Company</h3>
+        </div>
+        <ul class="text:white">
+            <li class="my:3 list-none">About</li>
+            <li class="my:3 list-none">Contact</li>
+            <li class="my:3 list-none">Careers</li>
+        </ul>
+        </div>
+    </div>  
+          
+</footer>
+    <script src="/js/berilliumCSS/button.js"></script>
+    <script src="/js/berilliumcss/icon.js"></script>       
 </body>
 </html>

@@ -27,23 +27,23 @@
 }
 
 /* BG */
-.bg\:blush\:raspberry {
+.bg\:blush.raspberry {
     background-color: var(--blush-raspberry);
 }
 
-.bg\:blush\:petal {
+.bg\:blush.petal {
     background-color: var(--blush-petal);
 }
 
-.bg\:blush\:ivory {
+.bg\:blush.ivory {
     background-color: var(--blush-ivory);
 }
 
-.bg\:blush\:sky {
+.bg\:blush.sky {
     background-color: var(--blush-sky);
 }
 
-.bg\:blush\:midnight {
+.bg\:blush.midnight {
     background-color: var(--blush-midnight);
 }
 /* Border Stiles */
