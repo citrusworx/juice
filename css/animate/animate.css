@@ -59,7 +59,7 @@
 }
 
 .slideInLeft\:slow {
-    animation: slideInLeft 2s linear forwards;
+    animation: slideInLeft 1s ease-in;
 }
 
 .slideInOutLeft {
@@ -247,10 +247,10 @@
 
 @keyframes slideInLeft {
     0% {
-        transform: translateX(-100vw);
+        transform: translateX(-15vw);
     }
     100% {
-        transform: translateX(0rem);
+        transform: translateX(0vw);
     }
 }
 

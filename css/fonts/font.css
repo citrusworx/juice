@@ -15,6 +15,12 @@
     font-style: normal;
 }
 
+.anton {
+    font-family: var(--anton);
+    font-weight: 500;
+    font-style: normal;
+}
+
 .architects-daughter {
     font-family: var(--architects-daughter);
     font-weight: 500;
@@ -52,8 +58,14 @@
 }
 
 .dubiel {
-    font-family: 'Dubiel', sans-serif;
+    font-family: 'Dubiel';
     font-weight: 500;
+    font-style: normal;
+}
+
+.founder {
+    font-family: 'Founder';
+    font-weight: 700;
     font-style: normal;
 }
 
@@ -64,7 +76,7 @@
 }
 
 .kate-blues {
-    font-family: 'Kate Blues', sans-serif;
+    font-family: 'Kate Blues';
     font-weight: 700;
     font-style: normal;
 }
@@ -72,6 +84,18 @@
 .lato {
     font-family: var(--lato);
     font-size: 18px;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.lilita-one {
+    font-family: var(--lilita-one);
+    font-weight: 700;
+    font-style: normal;
+}
+
+.lobster {
+    font-family: var(--lobster);
     font-weight: 500;
     font-style: normal;
 }
@@ -117,7 +141,13 @@
     font-style: cursive;
 }
 
-.playfair\:display{
+.play {
+    font-family: var(--play);
+    font-weight: 400;
+    font-style: normal;
+}
+
+.playfair-display{
     font-family: var(--playfair-display);
     font-weight: 400;
     font-style: normal;
@@ -138,6 +168,18 @@
 .raleway {
     font-family: var(--raleway);
     font-size: 32px;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.reenie-beanie {
+    font-family: var(--reenie-beanie);
+    font-weight: 700;
+    font-style: normal;
+}
+
+.roboto {
+    font-family: var(--roboto);
     font-weight: 500;
     font-style: normal;
 }
@@ -165,5 +207,11 @@
     font-family: var(--ubuntu);
     font-size: 14px;
     font-weight: 300;
+    font-style: normal;
+}
+
+.yavonne {
+    font-family: var(--yanone-kaffeesatz);
+    font-weight: 700;
     font-style: normal;
 }
