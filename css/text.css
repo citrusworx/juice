@@ -144,16 +144,20 @@
     font-size: 2rem;
 }
 
-.text\:xlg{
+.text\:xlg, .text\:xlarge{
     font-size: 2.5rem;
 }
 
-.text\:xxlg{
+.text\:xxlg, .text\:xxlarge{
     font-size: 3rem;
 }
 
-.text\:xxxlg{
+.text\:xxxlg, .text\:xxxlarge{
     font-size: 5rem;
+}
+
+.text\:huge {
+    font-size: 7rem;
 }
 
 /* Rotate Text Upwards */

@@ -69,6 +69,14 @@
     background-color: var(--orange-900);
 }
 
+/* 
+    Text Stile: Orange
+*/
+
+.text\:color.orange-500 {
+    color: var(--orange-500)
+}
+
 /* Creamsicle Stiles */
 
 .bg-creamsicle-300, .bg.creamsicle-300, .bg\:creamsicle-300 {
@@ -81,4 +89,13 @@
 
 .bg-creamsicle-500, .bg.creamsicle-500, .bg\:creamsicle-500 {
     background-color: var(--creamsicle-500);
+}
+
+
+/* 
+    Text Stile: Creamsicle
+*/
+
+.text\:color.creamsicle-500 {
+    color: var(--creamsicle-500);
 }

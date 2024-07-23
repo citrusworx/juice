@@ -43,7 +43,7 @@
     -moz-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
-    -moz-text-fill-color: transparent;
+    color: transparent;
 }
 
 .bg\:grad\:down, .candy-grape {
@@ -61,8 +61,10 @@
 .text\:grad.grim {
     background: var(--grad-grim);
     -webkit-background-clip: text;
+    -moz-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
+    color: transparent;
 }
 
 .bg\:grad\:up, .pomegranite {
