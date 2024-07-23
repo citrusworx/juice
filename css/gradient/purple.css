@@ -25,6 +25,8 @@
     --grad-pomegranite-bt: linear-gradient(-180deg, #851140 0%, #992554 25%, #AD3968 50%, #C14D7C 75%, #D56190 100%);
     --grad-candy-grape-bt: linear-gradient(-180deg, #410392 0%, #5517A6 25%, #692BBA 50%, #7D3FCE 75%, #9153E2 100%);
 
+    --grad-grim: linear-gradient(2deg, #623683, #764A97, #8A5EAB, #9E72BF, #B286D3 );
+
 }
 
 .bg\:grad\:down, .grape {
@@ -35,12 +37,30 @@
     background: var(--grad-pomegranite);
 }
 
+.text\:grad.pomegranite {
+    background: var(--grad-pomegranite);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
 .bg\:grad\:down, .candy-grape {
     background: var(--grad-candy-grape);
 }
 
-.bg\:grad\:up, .grape {
+.bg\:grad\:up.grape {
     background: var(--grad-grape-bt);
+}
+
+.bg\:grad.grim {
+    background: var(--grad-grim);
+}
+
+.text\:grad.grim {
+    background: var(--grad-grim);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 .bg\:grad\:up, .pomegranite {

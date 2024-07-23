@@ -1,63 +1,63 @@
 :root {
-    --blue-green-100: linear-gradient(90deg, hsla(160, 100%, 97%, 1.0), hsla(160, 100%, 65%, 1.0));
-    --blue-green-200: linear-gradient(90deg, hsla(160, 100%, 90%, 1.0), hsla(160, 100%, 50%, 1.0));
-    --blue-green-300: linear-gradient(90deg, hsla(160, 100%, 80%, 1.0), hsla(160, 100%, 45%, 1.0));
-    --blue-green-400: linear-gradient(90deg, hsla(160, 100%, 70%, 1.0), hsla(160, 100%, 40%, 1.0));
-    --blue-green-500: linear-gradient(90deg, hsla(160, 100%, 60%, 1.0), hsla(160, 100%, 35%, 1.0));
-    --blue-green-600: linear-gradient(90deg, hsla(160, 100%, 50%, 1.0), hsla(160, 100%, 30%, 1.0));
-    --blue-green-700: linear-gradient(90deg, hsla(160, 100%, 40%, 1.0), hsla(160, 100%, 25%, 1.0));
-    --blue-green-800: linear-gradient(90deg, hsla(160, 100%, 30%, 1.0), hsla(160, 100%, 20%, 1.0));
-    --blue-green-900: linear-gradient(90deg, hsla(160, 100%, 20%, 1.0), hsla(160, 100%, 15%, 1.0));
+    --green-blue-100l: linear-gradient(90deg, hsla(160, 100%, 97%, 1.0), hsla(160, 100%, 65%, 1.0));
+    --green-blue-200l: linear-gradient(90deg, hsla(160, 100%, 90%, 1.0), hsla(160, 100%, 50%, 1.0));
+    --green-blue-300l: linear-gradient(90deg, hsla(160, 100%, 80%, 1.0), hsla(160, 100%, 45%, 1.0));
+    --green-blue-400l: linear-gradient(90deg, hsla(160, 100%, 70%, 1.0), hsla(160, 100%, 40%, 1.0));
+    --green-blue-500l: linear-gradient(90deg, hsla(160, 100%, 60%, 1.0), hsla(160, 100%, 35%, 1.0));
+    --green-blue-600l: linear-gradient(90deg, hsla(160, 100%, 50%, 1.0), hsla(160, 100%, 30%, 1.0));
+    --green-blue-700l: linear-gradient(90deg, hsla(160, 100%, 40%, 1.0), hsla(160, 100%, 25%, 1.0));
+    --green-blue-800l: linear-gradient(90deg, hsla(160, 100%, 30%, 1.0), hsla(160, 100%, 20%, 1.0));
+    --green-blue-900l: linear-gradient(90deg, hsla(160, 100%, 20%, 1.0), hsla(160, 100%, 15%, 1.0));
 
-    --green-blue-100: linear-gradient(90deg,hsla(160, 100%, 65%), hsl(160, 100%, 97%));
-    --green-blue-200: linear-gradient(90deg, hsla(160, 100%, 50%), hsl(160, 100%, 90%));
-    --green-blue-300: linear-gradient(90deg, hsla(160, 100%, 45%), hsl(160, 100%, 80%));
-    --green-blue-400: linear-gradient(90deg, hsla(160, 100%, 40%), hsl(160, 100%, 70%));
-    --green-blue-500: linear-gradient(90deg, hsla(160, 100%, 35%), hsl(160, 100, 60%));
-    --green-blue-600: linear-gradient(90deg, hsla(160, 100%, 30%), hsl(160, 100, 50%));
-    --green-blue-700: linear-gradient(90deg, hsla(160, 100%, 25%), hsl(160, 100%, 40%));
-    --green-blue-800: linear-gradient(90deg, hsla(160, 100%, 20%), hsl(160, 100%, 30%));
-    --green-blue-900: linear-gradient(90deg, hsla(160, 100%, 15%), hsl(160, 100%, 20%));
+    --green-blue-100r: linear-gradient(90deg,hsla(160, 100%, 65%), hsl(160, 100%, 97%));
+    --green-blue-200r: linear-gradient(90deg, hsla(160, 100%, 50%), hsl(160, 100%, 90%));
+    --green-blue-300r: linear-gradient(90deg, hsla(160, 100%, 45%), hsl(160, 100%, 80%));
+    --green-blue-400r: linear-gradient(90deg, hsla(160, 100%, 40%), hsl(160, 100%, 70%));
+    --green-blue-500r: linear-gradient(90deg, hsla(160, 100%, 35%), hsl(160, 100%, 60%));
+    --green-blue-600r: linear-gradient(90deg, hsla(160, 100%, 30%), hsl(160, 100%, 50%));
+    --green-blue-700r: linear-gradient(90deg, hsla(160, 100%, 25%), hsl(160, 100%, 40%));
+    --green-blue-800r: linear-gradient(90deg, hsla(160, 100%, 20%), hsl(160, 100%, 30%));
+    --green-blue-900r: linear-gradient(90deg, hsla(160, 100%, 15%), hsl(160, 100%, 20%));
 
     --grad-meadow: linear-gradient(90deg, #749433 0%, #88A847 25%, #9CBC5B 50%, #B0D06F 75%, #C4E483 100%);
     --grad-candy-apple: linear-gradient(90deg, #429450 0%, #56A864 25%, #6ABC78 50%, #7ED08C 75%, #92E4A0 100%);
 
 }
 
-.bg\:blue-green-100 {
-    background: var(--blue-green-100);
+.bg\:green-blue-100r {
+    background: var(--green-blue-100r);
 }
 
-.bg\:blue-green-200 {
-    background: var(--blue-green-200);
+.bg\:green-blue-200r {
+    background: var(--green-blue-200r);
 }
 
-.bg\:blue-green-300 {
-    background: var(--blue-green-300);
+.bg\:green-blue-300r {
+    background: var(--green-blue-300r);
 }
 
-.bg\:blue-green-400 {
-    background: var(--blue-green-400);
+.bg\:green-blue-400r {
+    background: var(--green-blue-400r);
 }
 
-.bg\:blue-green-500 {
-    background: var(--blue-green-500);
+.bg\:green-blue-500r {
+    background: var(--green-blue-500r);
 }
 
-.bg\:blue-green-600 {
-    background: var(--blue-green-600);
+.bg\:green-blue-600r {
+    background: var(--green-blue-600r);
 }
 
-.bg\:blue-green-700 {
-    background: var(--blue-green-700);
+.bg\:green-blue-700r {
+    background: var(--green-blue-700r);
 }
 
-.bg\:blue-green-800 {
-    background: var(--blue-green-800);
+.bg\:green-blue-800r {
+    background: var(--green-blue-800r);
 }
 
-.bg\:blue-green-900 {
-    background: var(--blue-green-900);
+.bg\:green-blue-900r {
+    background: var(--green-blue-900r);
 }
 
 .bg\:green-blue-100 {
