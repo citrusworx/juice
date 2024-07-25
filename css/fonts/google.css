@@ -1,171 +1,171 @@
 
 @font-face {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans';
     src: url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
 }
 
 @font-face {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto';
     src: url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 }
 
 @font-face {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat';
     src: url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 }
 
 @font-face {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Lato';
     src: url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 }
 
 @font-face {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins';
     src: url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 }
 
 @font-face {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Inter';
     src: url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 }
 
 @font-face {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Oswald';
     src: url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
 }
 
 @font-face {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Raleway';
     src: url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 }
 
 @font-face {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Playfair Display';
     src: url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 }
 
 @font-face {
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Ubuntu';
     src: url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
 }
 
 @font-face {
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Dancing Script';
     src: url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
 }
 
 @font-face {
-    font-family: 'Pacifico', cursive;
-    src: url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+    font-family: 'Pacifico';
+    src: url('https://fonts.gstatic.com/s/pacifico/v22/FwZY7-Qmy14u9lezJ-6H6Mk.woff2');
 }
 
 @font-face {
-    font-family: 'Satisfy', cursive;
+    font-family: 'Satisfy';
     src: url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
 }
 
 @font-face {
-    font-family: 'Caveat', cursive;
+    font-family: 'Caveat';
     src: url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&display=swap');
 }
 
 @font-face {
-    font-family: 'Indie Flower', cursive;
-    src: url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+    font-family: 'Indie Flower';
+    src: url('https://fonts.gstatic.com/s/indieflower/v21/m8JVjfNVeKWVnh3QMuKkFcZVaUuH.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Permanent Marker', cursive;
-    src: url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+    font-family: 'Permanent Marker';
+    src: url('https://fonts.gstatic.com/s/permanentmarker/v16/Fh4uPib9Iyv2ucM6pGQMWimMp004La2Cfw.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Macando', cursive;
+    font-family: 'Macando';
     src: url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
 }
 
 @font-face {
-    font-family: 'Architects Daughter', cursive;
+    font-family: 'Architects Daughter';
     src: url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
 }
 
 @font-face {
-    font-family: 'Luckiest Guy', cursive;
-    src: url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+    font-family: 'Luckiest Guy';
+    src: url('./otf/luckiest-guy/luckiest-guy.ttf');
 }
 
 @font-face {
-    font-family: 'Homemade Apple', cursive;
-    src: url('https://fonts.googleapis.com/css2?family=Homemade+Apple&display=swap');
+    font-family: 'Homemade Apple';
+    src: url('https://fonts.gstatic.com/s/homemadeapple/v22/Qw3EZQFXECDrI2q789EKQZJob0x6XHg.woff2');
 }
 
 @font-face {
-    font-family: 'Reenie Beanie', cursive;
-    src: url('https://fonts.googleapis.com/css2?family=Reenie+Beanie&display=swap');
+    font-family: 'Reenie Beanie';
+    src: url('https://fonts.gstatic.com/s/reeniebeanie/v20/z7NSdR76eDkaJKZJFkkjuvWxXPq1qw.woff2');
 }
 
 @font-face {
-    font-family: 'Titillium Web', sans-serif;
+    font-family: 'Titillium Web';
     src: url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
 }
 
 @font-face {
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Josefin Sans';
     src: url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
 }
 
 @font-face {
-    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Bebas Neue';
     src: url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 }
 
 @font-face {
-    font-family: 'Anton', sans-serif;
+    font-family: 'Anton';
     src: url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 }
 
 @font-face {
-    font-family: 'Lobster', sans-serif;
-    src: url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+    font-family: 'Lobster';
+    src: url('https://fonts.gstatic.com/s/lobster/v30/neILzCirqoswsqX9zoKmMw.woff2');
 }
 
 @font-face {
-    font-family: 'Comfortaa', sans-serif;
+    font-family: 'Comfortaa';
     src: url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap');
 }
 
 @font-face {
-    font-family: 'Abril Fatface', serif;
+    font-family: 'Abril Fatface';
     src: url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
 }
 
 @font-face {
-    font-family: 'Play', sans-serif;
-    src: url('https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap');
+    font-family: 'Play';
+    src: url('https://fonts.gstatic.com/s/play/v19/6aez4K2oVqwIvtU2Hw.woff2');
 }
 
 @font-face {
-    font-family: 'Yanone Kaffeesatz', sans-serif;
-    src: url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@200;300;400;500;600;700&display=swap');
+    font-family: 'Yanone Kaffeesatz';
+    src: url('https://fonts.gstatic.com/s/yanonekaffeesatz/v30/3y976aknfjLm_3lMKjiMgmUUYBs04Y8bH-o.woff2');
 }
 
 @font-face {
-    font-family: 'Lilita One', sans-serif;
-    src: url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+    font-family: 'Lilita One';
+    src: url('https://fonts.gstatic.com/s/lilitaone/v15/i7dPIFZ9Zz-WBtRtedDbYEF8RQ.woff2');
 }
 
 @font-face {
-    font-family: 'Archivo Black', sans-serif;
+    font-family: 'Archivo Black';
     src: url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
 }
 
 @font-face {
-    font-family: 'Acme', sans-serif;
+    font-family: 'Acme';
     src: url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
 }
 
 @font-face {
-    font-family: 'Source Code Pro', monospace;
+    font-family: 'Source Code Pro';
     src: url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 }
 :root {

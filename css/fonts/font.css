@@ -51,6 +51,12 @@
     font-style: normal;
 }
 
+.dancing-script {
+    font-family: var(--dancing-script);
+    font-weight: 700;
+    font-style: normal;
+}
+
 .digitalt {
     font-family: 'Digitalt', sans-serif;
     font-weight: 700;
@@ -72,7 +78,12 @@
 .homemade-apple {
     font-family: var(--homemade-apple);
     font-weight: 400;
-    font-style: cursive;
+}
+
+.indie-flower {
+    font-family: var(--indie-flower);
+    font-weight: 700;
+    font-style: normal;
 }
 
 .kate-blues {
@@ -98,6 +109,11 @@
     font-family: var(--lobster);
     font-weight: 500;
     font-style: normal;
+}
+
+.luckiest-guy {
+    font-family: var(--luckiest-guy);
+    font-weight: 700;
 }
 
 .macando {
@@ -134,10 +150,21 @@
     font-style: italic;
 }
 
+.oswald {
+    font-family: var(--oswald);
+    font-weight: 700;
+    font-style: normal;
+}
+
 .pacifico {
     font-family: var(--pacifico);
     font-size: 34px;
     font-weight: 700;
+    font-style: cursive;
+}
+
+.permanent-marker {
+    font-family: var(--permanent-marker);
     font-style: cursive;
 }
 
@@ -180,8 +207,6 @@
 
 .roboto {
     font-family: var(--roboto);
-    font-weight: 500;
-    font-style: normal;
 }
 
 .roboto\:light\:italic{
