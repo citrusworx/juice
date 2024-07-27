@@ -26,7 +26,7 @@
 
 @font-face {
     font-family: 'Inter';
-    src: url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+    src: url('https://fonts.gstatic.com/s/inter/v13/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2') format('woff2');
 }
 
 @font-face {
@@ -66,7 +66,7 @@
 
 @font-face {
     font-family: 'Caveat';
-    src: url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&display=swap');
+    src: url('https://fonts.gstatic.com/s/caveat/v18/Wnz6HAc5bAfYB2Q7ZjYY.woff2') format('woff2');
 }
 
 @font-face {
@@ -86,7 +86,7 @@
 
 @font-face {
     font-family: 'Architects Daughter';
-    src: url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+    src: url('https://fonts.gstatic.com/s/architectsdaughter/v18/KtkxAKiDZI_td1Lkx62xHZHDtgO_Y-bvTYlg4w.woff2') format('woff2');
 }
 
 @font-face {
@@ -111,7 +111,7 @@
 
 @font-face {
     font-family: 'Josefin Sans';
-    src: url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+    src: url('https://fonts.gstatic.com/s/josefinsans/v32/Qw3EZQNVED7rKGKxtqIqX5EUCEx6XHg.woff2') format('woff2');
 }
 
 @font-face {
@@ -121,7 +121,7 @@
 
 @font-face {
     font-family: 'Anton';
-    src: url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+    src: url('https://fonts.gstatic.com/s/anton/v25/1Ptgg87LROyAm3Kz-C8.woff2') format('woff2');
 }
 
 @font-face {
@@ -131,7 +131,7 @@
 
 @font-face {
     font-family: 'Comfortaa';
-    src: url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap');
+    src: url('https://fonts.gstatic.com/s/comfortaa/v45/1Ptsg8LJRfWJmhDAuUs4TYFq.woff2') format('woff2');
 }
 
 @font-face {
@@ -156,12 +156,12 @@
 
 @font-face {
     font-family: 'Archivo Black';
-    src: url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+    src: url('https://fonts.gstatic.com/s/archivoblack/v21/HTxqL289NzCGg4MzN6KJ7eW6CYyF_g.woff2') format('woff2');
 }
 
 @font-face {
     font-family: 'Acme';
-    src: url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+    src: url('https://fonts.gstatic.com/s/acme/v25/RrQfboBx-C5_XxrBbg.woff2') format('woff2');
 }
 
 @font-face {
@@ -169,39 +169,39 @@
     src: url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 }
 :root {
-    --open-sans: 'Open Sans', sans-serif;
-    --roboto: 'Roboto', sans-serif;
-    --montserrat: 'Montserrat', sans-serif;
-    --lato: 'Lato', sans-serif;
-    --poppins: 'Poppins', sans-serif;
-    --poppins-light:'Poppins-Light';
-    --inter: 'Inter', sans-serif;
-    --oswald: 'Oswald', sans-serif;
-    --raleway: 'Raleway', sans-serif;
-    --playfair-display: 'Playfair Display', serif;
-    --ubuntu: 'Ubuntu', sans-serif;
-    --dancing-script: 'Dancing Script', cursive;
-    --pacifico: 'Pacifico', cursive;
-    --satisfy: 'Satisfy', cursive;
-    --caveat: 'Caveat', cursive;
-    --indie-flower: 'Indie Flower', cursive;
-    --permanent-marker: 'Permanent Marker', cursive;
-    --macondo: 'Macando', cursive;
-    --architects-daughter: 'Architects Daughter', cursive;
-    --luckiest-guy: 'Luckiest Guy', cursive;
-    --homemade-apple: 'Homemade Apple', cursive;
-    --reenie-beanie: 'Reenie Beanie', cursive;
-    --titillium-web: 'Titillium Web', sans-serif;
-    --josefin-sans: 'Josefin Sans', sans-serif;
-    --bebas-neue: 'Bebas Neue', sans-serif;
-    --anton: 'Anton', sans-serif;
-    --lobster: 'Lobster', cursive;
-    --comfortaa: 'Comfortaa', sans-serif;
-    --abril-fatface: 'Abril Fatface', serif;
-    --play: 'Play', sans-serif;
-    --yanone-kaffeesatz: 'Yanone Kaffeesatz', sans-serif;
-    --lilita-one: 'Lilita One', sans-serif;
-    --archivo-black: 'Archivo Black', sans-serif;
-    --acme: 'Acme', sans-serif;
-    --source-code-pro: 'Source Code Pro', monospace;
+    --open-sans: 'Open Sans', sans-serif; /* Added */
+    --roboto: 'Roboto', sans-serif; /* Added */
+    --montserrat: 'Montserrat', sans-serif; /* Added */
+    --lato: 'Lato', sans-serif; /* Added */
+    --poppins: 'Poppins', sans-serif; /* Added */
+    --poppins-light:'Poppins-Light';  /* Added */
+    --inter: 'Inter', sans-serif; /* Added */
+    --oswald: 'Oswald', sans-serif; /* Added */
+    --raleway: 'Raleway', sans-serif; /* Added */
+    --playfair-display: 'Playfair Display', serif; /* Added */
+    --ubuntu: 'Ubuntu', sans-serif; /* Added */
+    --dancing-script: 'Dancing Script', cursive; /* Added */
+    --pacifico: 'Pacifico', cursive; /* Added */
+    --satisfy: 'Satisfy', cursive; /* Added */
+    --caveat: 'Caveat', cursive; /* Added */
+    --indie-flower: 'Indie Flower', cursive; /* Added */
+    --permanent-marker: 'Permanent Marker', cursive; /* Added */
+    --macondo: 'Macando', cursive; /* Added */
+    --architects-daughter: 'Architects Daughter', cursive; /* Added */
+    --luckiest-guy: 'Luckiest Guy', cursive; /* Added */
+    --homemade-apple: 'Homemade Apple', cursive; /* Added */ 
+    --reenie-beanie: 'Reenie Beanie', cursive; /* Added */
+    --titillium-web: 'Titillium Web', sans-serif; /* Added */
+    --josefin-sans: 'Josefin Sans', sans-serif; /* Added */
+    --bebas-neue: 'Bebas Neue', sans-serif; /* Added */
+    --anton: 'Anton', sans-serif; /* Added */
+    --lobster: 'Lobster', cursive; /* Added */
+    --comfortaa: 'Comfortaa', sans-serif; /* Added */
+    --abril-fatface: 'Abril Fatface', serif; /* Added */
+    --play: 'Play', sans-serif; /* Added */
+    --yanone-kaffeesatz: 'Yanone Kaffeesatz', sans-serif; /* Added */
+    --lilita-one: 'Lilita One', sans-serif; /* Added */
+    --archivo-black: 'Archivo Black', sans-serif; /* Added */
+    --acme: 'Acme', sans-serif; /* Added */
+    --source-code-pro: 'Source Code Pro', monospace; /* Added */
 }

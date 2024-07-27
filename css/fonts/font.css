@@ -3,7 +3,7 @@
 @import url('fontspace.css');
 
 .abril-fatface {
-    font-family: var(--acme);
+    font-family: var(--abril-fatface);
     font-weight: 400;
     font-style: normal;
 }
@@ -27,6 +27,13 @@
     font-style: cursive;
 }
 
+.archivo-black, .archivo\:black {
+    font-family: var(--archivo-black);
+    font-weight: 700;
+    font-size: 12px;
+    font-style: normal;
+}
+
 .bebas-neue {
     font-family: var(--bebas-neue);
     font-weight: 700;
@@ -42,12 +49,18 @@
 .caveat {
     font-family: var(--caveat);
     font-weight: 500;
-    font-style: cursive;
 }
 
 .creamy-sugar {
     font-family: 'Creamy Sugar', sans-serif;
     font-weight: 500;
+    font-style: normal;
+}
+
+.comfortaa {
+    font-family: var(--comfortaa);
+    font-size: 12px;
+    font-weight: 700;
     font-style: normal;
 }
 
@@ -86,6 +99,20 @@
     font-style: normal;
 }
 
+.inter {
+    font-family: var(--inter);
+    font-size: 12px;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.josefin-sans, .josefin\:sans {
+    font-family: var(--josefin-sans);
+    font-size: 12px;
+    font-weight: 700;
+    font-style: normal;
+}
+
 .kate-blues {
     font-family: 'Kate Blues';
     font-weight: 700;
@@ -94,7 +121,7 @@
 
 .lato {
     font-family: var(--lato);
-    font-size: 18px;
+    font-size: 12px;
     font-weight: 500;
     font-style: normal;
 }
@@ -124,7 +151,7 @@
 
 .montserrat {
     font-family: var(--montserrat);
-    font-size: 18px;
+    font-size: 12px;
     font-weight: 500;
     font-style: normal;
 }
@@ -135,10 +162,16 @@
     font-style: normal;
 }
 
+.open-sans {
+    font-family: var(--open-sans);
+    font-size: 12px;
+    font-weight: 700;
+    font-style: normal;
+}
 
 .open-sans-bold {
     font-family: var(--open-sans);
-    font-size: 34px;
+    font-size: 12px;
     font-weight: 700;
     font-style: normal;
 }
@@ -186,7 +219,7 @@
     font-style: normal;
 }
 
-.poppins\:light{
+.poppins\:light, .poppins-light{
     font-family: var(--poppins-light);
     font-weight: 100;
     font-style: normal;
@@ -207,6 +240,9 @@
 
 .roboto {
     font-family: var(--roboto);
+    font-size: 12px;
+    font-weight: 700;
+    font-style: normal;
 }
 
 .roboto\:light\:italic{
@@ -225,6 +261,13 @@
 .source-code {
     font-family: var(--source-code-pro);
     font-weight: 400;
+    font-style: normal;
+}
+
+.titillium {
+    font-family: var(--titillium-web);
+    font-size: 12px;
+    font-weight: 700;
     font-style: normal;
 }
 

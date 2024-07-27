@@ -61,6 +61,11 @@
     scroll-behavior: smooth;
 }
 
+.scroll-auto {
+    overflow-y: scroll;
+    scroll-behavior: auto;
+}
+
 @media(max-width: 768px){
     .mob\:scroll {
         overflow-y: auto;
