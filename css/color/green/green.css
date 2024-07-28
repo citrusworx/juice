@@ -83,7 +83,7 @@
 }
 
 /* Text Stiles */
-.text\:color\:green-100, .text\:color.green-100 {
+.text\:color\:green-100, .text\:color.green-100, .text-color-green-100, .text-color.green-100 {
     color: var(--green-100);
 }
 
@@ -120,7 +120,7 @@
 }
 
 /* Border Stiles */
-.border\:green-100, .border.green-100 {
+.border\:green-100, .border.green\:100, .border.green-100 {
     border-color: var(--green-100);
 }
 

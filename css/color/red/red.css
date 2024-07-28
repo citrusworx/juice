@@ -120,6 +120,10 @@
    background-color: var(--red-900);
 }
 
+.text\:color.red-400 {
+   color: var(--red-400);
+}
+
 .bg-scarlett-100 {
    background: var(--scarlett-100);
 }
