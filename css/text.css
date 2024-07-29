@@ -95,6 +95,18 @@
 .text-primary {
     font-family: var(--primary-font);
 }
+
+.kern\:\.5 {
+    letter-spacing: .5rem;
+}
+
+.kern\:1 {
+    letter-spacing: 1rem;
+}
+
+.kern\:2 {
+    letter-spacing: 2rem;
+}
 		
 /* Link STYLES */
 
