@@ -1,0 +1,11 @@
+:root {
+    --candy-apple-red-100: hsl(10, 100%, 97%);
+    --candy-apple-red-200: hsl(10, 100%, 90%);
+    --candy-apple-red-300: hsl(10, 100%, 80%);
+    --candy-apple-red-400: hsl(10, 100%, 70%);
+    --candy-apple-red-500: hsl(10, 100%, 60%);
+    --candy-apple-red-600: hsl(10, 100%, 50%);
+    --candy-apple-red-700: hsl(10, 100%, 40%);
+    --candy-apple-red-800: hsl(10, 100%, 30%);
+    --candy-apple-red-900: hsl(10, 100%, 20%);
+}

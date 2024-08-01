@@ -1,3 +1,6 @@
+    @import url('obsidian.css');
+    @import url('onyx.css');
+    
     :root {
     /* Blacks */
     --black-100: hsl(0, 0%, 50%);
@@ -9,26 +12,6 @@
     --black-700: hsl(0, 0%, 20%);
     --black-800: hsl(0, 0%, 15%);
     --black-900: hsl(0, 0%, 10%);
-
-    --onyx-100: hsl(0, 5%, 50%);
-    --onyx-200: hsl(0, 5%, 45%);
-    --onyx-300: hsl(0, 5%, 40%);
-    --onyx-400: hsl(0, 5%, 35%);
-    --onyx-500: hsl(0, 5%, 30%);
-    --onyx-600: hsl(0, 5%, 25%);
-    --onyx-700: hsl(0, 5%, 20%);
-    --onyx-800: hsl(0, 5%, 15%);
-    --onyx-900: hsl(0, 5%, 10%);
-
-    --obsidian-100: hsl(0, 3%, 50%);
-    --obsidian-200: hsl(0, 3%, 45%);
-    --obsidian-300: hsl(0, 3%, 40%);
-    --obsidian-400: hsl(0, 3%, 35%);
-    --obsidian-500: hsl(0, 3%, 30%);
-    --obsidian-600: hsl(0, 3%, 25%);
-    --obsidian-700: hsl(0, 3%, 20%);
-    --obsidian-800: hsl(0, 3%, 15%);
-    --obsidian-900: hsl(0, 3%, 10%);
     }
 /* 
 
@@ -158,117 +141,66 @@ Background, Text, Border, Shadow
     box-shadow: 2px 2px 5px var(--black-100) ;
 }
 
-
-/* Obisidian */
-/* Background */
-.bg-obsidian-100, .bg.obsidian-100, .bg\:obsidian\:100 {
-    background-color: var(--obsidian-100);
+/* Icon */
+.icon\:black-100, .icon.black-100 {
+    display: inline-block;
+    background: var(--black-100);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
-.bg-obsidian-200, .bg.obsidian-200, .bg\:obsidian\:200 {
-    background-color: var(--obsidian-200);
+.icon\:black-200, .icon.black-200 {
+    display: inline-block;
+    background: var(--black-200);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
-.bg-obsidian-300, .bg.obsidian-300, .bg\:obsidian\:300 {
-    background-color: var(--obsidian-300);
+.icon\:black-300, .icon.black-300 {
+    display: inline-block;
+    background: var(--black-300);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
-.bg-obsidian-400, .bg.obsidian-400, .bg\:obsidian\:400 {
-    background-color: var(--obsidian-400);
+.icon\:black-400, .icon.black-400 {
+    display: inline-block;
+    background: var(--black-400);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
-.bg-obsidian-500, .bg.obsidian-500, .bg\:obsidian\:500 {
-    background-color: var(--obsidian-500);
+.icon\:black-500, .icon.black-500 {
+    display: inline-block;
+    background: var(--black-500);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
-.bg-obsidian-600, .bg.obsidian-600, .bg\:obsidian\:600 {
-    background-color: var(--obsidian-600);
+.icon\:black-600, .icon.black-600 {
+    display: inline-block;
+    background: var(--black-600);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
-.bg-obsidian-700, .bg.obsidian-700, .bg\:obsidian\:700 {
-    background-color: var(--obsidian-700);
+.icon\:black-700, .icon.black-700 {
+    display: inline-block;
+    background: var(--black-700);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
-.bg-obsidian-800, .bg.obsidian-800, .bg\:obsidian\:800 {
-    background-color: var(--obsidian-800);
+.icon\:black-800, .icon.black-800 {
+    display: inline-block;
+    background: var(--black-800);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
-.bg-obsidian-900, .bg.obsidian-900, .bg\:obsidian\:900 {
-    background-color: var(--obsidian-900);
-}
-
-
-/* Text Siles */
-
-.text-color-obsidian-100, .text-color.obsidian-100, .text\:color.obsidian-100, .text\:color\:obsidian-100 {
-    color: var(--obsidian-100);
-}
-
-.text-color-obsidian-200, .text-color.obsidian-200, .text\:color.obsidian-200, .text\:color\:obsidian-200 {
-    color: var(--obsidian-200);
-}
-
-.text-color-obsidian-300, .text-color.obsidian-300, .text\:color.obsidian-300, .text\:color\:obsidian-300 {
-    color: var(--obsidian-300);
-}
-
-.text-color-obsidian-400, .text-color.obsidian-400, .text\:color.obsidian-400, .text\:color\:obsidian-400 {
-    color: var(--obsidian-400);
-}
-
-.text-color-obsidian-500, .text-color.obsidian-500, .text\:color.obsidian-500, .text\:color\:obsidian-500 {
-    color: var(--obsidian-500);
-}
-
-.text-color-obsidian-600, .text-color.obsidian-600, .text\:color.obsidian-600, .text\:color\:obsidian-600 {
-    color: var(--obsidian-600);
-}
-
-.text-color-obsidian-700, .text-color.obsidian-700, .text\:color.obsidian-700, .text\:color\:obsidian-700 {
-    color: var(--obsidian-700);
-}
-
-.text-color-obsidian-800, .text-color.obsidian-800, .text\:color.obsidian-800, .text\:color\:obsidian-800 {
-    color: var(--obsidian-800);
-}
-
-.text-color-obsidian-900, .text-color.obsidian-900, .text\:color.obsidian-900, .text\:color\:obsidian-900 {
-    color: var(--obsidian-900);
-}
-
-/* Onyx */
-
-.bg\:onyx\:100 {
-    background-color: var(--onyx-100);
-}
-
-.bg\:onyx\:200 {
-    background-color: var(--onyx-200);
-}
-
-.bg\:onyx\:300 {
-    background-color: var(--onyx-300);
-}
-.bg\:onyx\:400 {
-    background-color: var(--onyx-400);
-}
-
-.bg\:onyx\:500 {
-    background-color: var(--onyx-500);
-}
-
-.bg\:onyx\:600 {
-    background-color: var(--onyx-600);
-}
-
-.bg\:onyx\:700 {
-    background-color: var(--onyx-700);
-}
-
-.bg\:onyx\:800 {
-    background-color: var(--onyx-800);
-}
-
-.bg\:onyx\:900 {
-    background-color: var(--onyx-900);
+.icon\:black-900, .icon.black-900 {
+    display: inline-block;
+    background: var(--black-900);
+    background-size: cover;
+    background-repeat: no-repeat;
 }

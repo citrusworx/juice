@@ -1,0 +1,11 @@
+:root {
+    --brick-red-100: hsl(0, 100%, 95%);
+    --brick-red-200: hsl(0, 70%, 85%);
+    --brick-red-300: hsl(0, 70%, 75%);
+    --brick-red-400: hsl(0, 100%, 65%);
+    --brick-red-500: hsl(0, 70%, 55%);
+    --brick-red-600: hsl(0, 70%, 45%);
+    --brick-red-700: hsl(0, 100%, 35%);
+    --brick-red-800: hsl(0, 70%, 25%);
+    --brick-red-900: hsl(0, 70%, 15%);
+}

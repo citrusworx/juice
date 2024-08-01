@@ -1,0 +1,11 @@
+:root {
+    --burgundy-100: hsl(345, 100%, 65%);
+    --burgundy-200: hsl(345, 100%, 55%);
+    --burgundy-300: hsl(345, 100%, 40%);
+    --burgundy-400: hsl(345, 100%, 35%);
+    --burgundy-500: hsl(345, 100%, 25%);
+    --burgundy-600: hsl(345, 100%, 20%);
+    --burgundy-700: hsl(345, 100%, 15%);
+    --burgundy-800: hsl(345, 100%, 10%);
+    --burgundy-900: hsl(345, 95%, 10%);
+}

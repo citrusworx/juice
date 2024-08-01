@@ -36,4 +36,11 @@ As of our current release, we support:
 1. [Black](/docs/berilliumCSS/color/colors/black.md)
 2. Blue
 3. Brown
-4. Red
+4. Orange
+5. Red
+6. Pink
+7. Yellow
+8. Purple
+9. White
+10. Gray
+11. Green

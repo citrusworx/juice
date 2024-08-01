@@ -1,0 +1,11 @@
+:root {
+    --scarlett-100: hsl(5, 100%, 95%);
+    --scarlett-200: hsl(5, 100%, 85%);
+    --scarlett-300: hsl(5, 100%, 75%);
+    --scarlett-400: hsl(5, 100%, 65%);
+    --scarlett-500: hsl(5, 100%, 55%);
+    --scarlett-600: hsl(5, 100%, 45%);
+    --scarlett-700: hsl(5, 100%, 35%);
+    --scarlett-800: hsl(5, 100%, 25%);
+    --scarlett-900: hsl(5, 100%, 15%);
+}

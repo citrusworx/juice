@@ -1,0 +1,11 @@
+:root {
+    --concrete-100: hsl(0, 5%, 95%);
+    --concrete-200: hsl(0, 5%, 90%);
+    --concrete-300: hsl(0, 5%, 85%);
+    --concrete-400: hsl(0, 5%, 80%);
+    --concrete-500: hsl(0, 5%, 75%);
+    --concrete-600: hsl(0, 5%, 70%);
+    --concrete-700: hsl(0, 5%, 65%);
+    --concrete-800: hsl(0, 5%, 60%);
+    --concrete-900: hsl(0, 5%, 55%);
+}
