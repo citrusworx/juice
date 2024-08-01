@@ -1,0 +1,123 @@
+:root {
+    --royal-100: hsl(223, 100%, 70%);
+    --royal-200: hsl(223, 100%, 64%);
+    --royal-300: hsl(223, 100%, 58%);
+    --royal-400: hsl(223, 100%, 52%);
+    --royal-500: hsl(223, 100%, 46%);
+    --royal-600: hsl(223, 100%, 40%);
+    --royal-700: hsl(223, 100%, 34%);
+    --royal-800: hsl(223, 100%, 28%);
+    --royal-900: hsl(223, 100%, 22%);
+}
+
+.bg\:royal-100, .bg.royal-100, .bg-royal-100, .bg\:royal\:100 {
+    background-color: var(--royal-100);
+}
+
+.bg\:royal-200, .bg.royal-200, .bg-royal-200, .bg\:royal\:200 {
+    background-color: var(--royal-200);
+}
+
+.bg\:royal-300, .bg.royal-300, .bg-royal-300, .bg\:royal\:300 {
+    background-color: var(--royal-300);
+}
+
+.bg\:royal-400, .bg.royal-400, .bg-royal-400, .bg\:royal\:400 {
+    background-color: var(--royal-400);
+}
+
+.bg\:royal-500, .bg.royal-500, .bg-royal-500, .bg\:royal\:500{
+    background-color: var(--royal-500);
+}
+
+.bg\:royal-600, .bg.royal-600, .bg-royal-600, .bg\:royal\:600 {
+    background-color: var(--royal-600);
+}
+
+.bg\:royal-700, .bg.royal-700, .bg-royal-700, .bg\:royal\:700 {
+    background-color: var(--royal-700);
+}
+
+.bg\:royal-800, .bg.royal-800, .bg-royal-800, .bg\:royal\:800 {
+    background-color: var(--royal-800);
+}
+
+.bg\:royal-900, .bg.royal-900, .bg-royal-900, .bg\:royal\:900{
+    background-color: var(--royal-900);
+}
+
+/* Text Stiles */
+
+.text\:color.royal-100 {
+	color: var(--royal-100);
+}
+
+.text\:color.royal-200 {
+	color: var(--royal-200);
+}
+
+.text\:color.royal-300 {
+	color: var(--royal-300);
+}
+
+.text\:color.royal-400 {
+	color: var(--royal-400);
+}
+
+.text\:color.royal-500 {
+	color: var(--royal-500);
+}
+
+.text\:color.royal-600 {
+	color: var(--royal-600);
+}
+
+.text\:color.royal-700 {
+	color: var(--royal-700);
+}
+
+.text\:color.royal-800 {
+	color: var(--royal-800);
+}
+
+.text\:color.royal-900 {
+	color: var(--royal-900);
+}
+
+/* Icon */
+
+.icon\:royal-100, .icon.royal-100 {
+    color: var(--royal-100);
+}
+
+.icon\:royal-200, .icon.royal-200 {
+    color: var(--royal-200);
+}
+
+.icon\:royal-300, .icon.royal-300 {
+    color: var(--royal-300);
+}
+
+.icon\:royal-400, .icon.royal-400 {
+    color: var(--royal-400);
+}
+
+.icon\:royal-500, .icon.royal-500 {
+    color: var(--royal-500);
+}
+
+.icon\:royal-600, .icon.royal-600 {
+    color: var(--royal-600);
+}
+
+.icon\:royal-700, .icon.royal-700 {
+    color: var(--royal-700);
+}
+
+.icon\:royal-800, .icon.royal-800 {
+    color: var(--royal-800);
+}
+
+.icon\:royal-900, .icon.royal-900 {
+    color: var(--royal-900);
+}

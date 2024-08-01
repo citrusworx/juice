@@ -1,25 +1,13 @@
 /* Container Styles */
-.rounded-sm {
+.rounded-sm, .rounded\:sm {
     border-radius: 5px;
 }
 
-.rounded\:sm {
-    border-radius: 5px;
-}
-
-.rounded-md {
+.rounded-md, .rounded\:md {
     border-radius: 10px;
 }
 
-.rounded\:md {
-    border-radius: 10px;
-}
-
-.rounded-lg {
-    border-radius: 15px;
-}
-
-.rounded\:lg {
+.rounded-lg, .rounded\:lg {
     border-radius: 15px;
 }
 
@@ -51,14 +39,122 @@
     box-shadow: var(--secondary) 10px 10px;
 }
 
-.ds\:lg {
-    box-shadow: hsla(0,0%, 0%, 0.3) 8px 8px;
+
+/* Border Styling (minus color) */
+
+/* All Around */
+.border\:sm, .border-sm {
+    border-width: 1px;
 }
 
-.text, .ds\:sm {
-    text-shadow: hsla(0, 0%, 0%, 0.3) 4px 4px;
+.border\:md, .border-md {
+    border-width: 3px;
 }
 
-.text.shad\:md {
-    text-shadow: hsla(0, 0%, 0%, 0.6) 4px 4px;
+.border\:lg, .border-lg {
+    border-width: 5px;
+}
+
+/* Left */
+
+.border\:left\:sm, .border-left-sm {
+    border-left: 1px;
+}
+
+.border\:left\:md, .border-left-md {
+    border-left-width: 3px;
+}
+
+.border\:left\:lg, .border-left-lg {
+    border-left: 5px;
+}
+
+/* Right */
+
+.border\:right\:sm, .border-right-sm {
+    border-right: 1px;
+}
+
+.border\:right\:md, .border-right-md {
+    border-right: 3px;
+}
+
+.border\:right\:lg, .border-right-lg {
+    border-right: 5px;
+}
+
+/* Top */
+
+.border\:top\:sm, .border-top-sm {
+    border-top: 1px;
+}
+
+.border\:top\:md, .border-top-md {
+    border-top: 3px;
+}
+
+.border\:top\:lg, .border-top-lg {
+    border-top: 5px;
+}
+
+/* Bot */
+
+.border\:bot\:sm, .border-bot-sm {
+    border-bottom: 1px;
+}
+
+.border\:bot\:md, .border-bot-md {
+    border-bottom: 3px;
+}
+
+.border\:bot\:lg, .border-bot-lg {
+    border-bottom: 5px;
+}
+
+/* Border Styles */
+
+.solid {
+    border-style: solid;
+}
+
+.dotted {
+    border-style: dotted;
+}
+
+.dashed {
+    border-style: dashed;
+}
+
+.double {
+    border-style: double;
+}
+
+.groove {
+    border-style: groove;
+}
+
+.ridge {
+    border-style: ridge;
+}
+
+.inset {
+    border-style: inset;
+}
+
+.outset {
+    border-style: outset;
+}
+
+/* Spacing */
+
+.border\:spacing\:sm, .border-spacing-sm, .bs\:sm, .bs-sm {
+    border-spacing: 1px;
+}
+
+.border\:spacing\:md, .border-spacing-md, .bs\:md, .bs-md {
+    border-spacing: 3px;
+}
+
+.border\:spacing\:lg, .border-spacing-lg, .bs\:lg, .bs-lg {
+    border-spacing: 5px;
 }

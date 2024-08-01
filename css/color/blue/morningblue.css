@@ -1,0 +1,163 @@
+:root {
+    --morning-blue-100: hsl(191, 77%, 90%);
+    --morning-blue-200: hsl(191, 77%, 80%);
+    --morning-blue-300: hsl(191, 77%, 70%);
+    --morning-blue-400: hsl(191, 77%, 60%);
+    --morning-blue-500: hsl(191, 77%, 50%);
+    --morning-blue-600: hsl(191, 77%, 40%);
+    --morning-blue-700: hsl(191, 77%, 30%);
+    --morning-blue-800: hsl(191, 77%, 25%);
+    --morning-blue-900: hsl(191, 77%, 20%);
+}
+
+/* Background */
+
+.bg\:morning-blue-100, .bg.morning-blue-100, .bg-morning-blue-100, .bg\:morning-blue\:100 {
+    background-color: var(--morning-blue-100);
+}
+
+.bg\:morning-blue-200, .bg.morning-blue-200, .bg-morning-blue-200, .bg\:morning-blue\:200 {
+    background-color: var(--morning-blue-200);
+}
+
+.bg\:morning-blue-300, .bg.morning-blue-300,.bg-morning-blue-300, .bg\:morning-blue\:300 {
+    background-color: var(--morning-blue-300);
+}
+.bg\:morning-blue-400, .bg.morning-blue-400, .bg-morning-blue-400, .bg\:morning-blue\:400 {
+    background-color: var(--morning-blue-400);
+}
+
+.bg\:morning-blue-500, .bg.morning-blue-500, .bg-morning-blue-500, .bg\:morning-blue\:500 {
+    background-color: var(--morning-blue-500);
+}
+
+.bg\:morning-blue-600, .bg.morning-blue-600, .bg-morning-blue-600, .bg\:morning-blue\:600 {
+    background-color: var(--morning-blue-600);
+}
+
+.bg\:morning-blue-700, .bg.morning-blue-700, .bg-morning-blue-700, .bg\:morning-blue\:700 {
+    background-color: var(--morning-blue-700);
+}
+
+.bg\:morning-blue-800, .bg.morning-blue-800, .bg-morning-blue-800, .bg\:morning-blue\:800 {
+    background-color: var(--morning-blue-800);
+}
+
+.bg\:morning-blue-900, .bg.morning-blue-900, .bg-morning-blue-900, .bg\:morning-blue\:900 {
+    background-color: var(--morning-blue-900);
+}
+
+/* Text Stiles */
+
+.text\:color\:morning-blue-100 {
+	color: var(--morning-blue-100);
+}
+
+.text\:color\:morning-blue-200 {
+	color: var(--morning-blue-200);
+}
+
+.text\:color\:morning-blue-300 {
+	color: var(--morning-blue-300);
+}
+
+.text\:color\:morning-blue-400 {
+	color: var(--morning-blue-400);
+}
+
+.text\:color\:morning-blue-500 {
+	color: var(--morning-blue-500);
+}
+
+.text\:color\:morning-blue-600 {
+	color: var(--morning-blue-600);
+}
+
+.text\:color\:morning-blue-700 {
+	color: var(--morning-blue-700);
+}
+
+.text\:color\:morning-blue-800 {
+	color: var(--morning-blue-800);
+}
+
+.text\:color\:morning-blue-900 {
+	color: var(--morning-blue-900);
+}
+
+/* Border */
+
+.border\:color\:morning-blue-100 {
+	color: var(--morning-blue-100);
+}
+
+.border\:color\:morning-blue-200 {
+	color: var(--morning-blue-200);
+}
+
+.border\:color\:morning-blue-300 {
+	color: var(--morning-blue-300);
+}
+
+.border\:color\:morning-blue-400 {
+	color: var(--morning-blue-400);
+}
+
+.border\:color\:morning-blue-500 {
+	color: var(--morning-blue-500);
+}
+
+.border\:color\:morning-blue-600 {
+	color: var(--morning-blue-600);
+}
+
+.border\:color\:morning-blue-700 {
+	color: var(--morning-blue-700);
+}
+
+.border\:color\:morning-blue-800 {
+	color: var(--morning-blue-800);
+}
+
+.border\:color\:morning-blue-900 {
+	color: var(--morning-blue-900);
+}
+
+/* Shadow */
+
+/* Icon */
+.icon\:morning-blue-100, .icon.morning-blue-100 {
+    color: var(--morning-blue-100);
+}
+
+.icon\:morning-blue-200, .icon.morning-blue-200 {
+    color: var(--morning-blue-200);
+}
+
+.icon\:morning-blue-300, .icon.morning-blue-300 {
+    color: var(--morning-blue-300);
+}
+
+.icon\:morning-blue-400, .icon.morning-blue-400 {
+    color: var(--morning-blue-400);
+}
+
+.icon\:morning-blue-500, .icon.morning-blue-500 {
+    color: var(--morning-blue-500);
+}
+
+.icon\:morning-blue-600, .icon.morning-blue-600 {
+    color: var(--morning-blue-600);
+}
+
+.icon\:morning-blue-700, .icon.morning-blue-700 {
+    color: var(--morning-blue-700);
+}
+
+.icon\:morning-blue-800, .icon.morning-blue-800 {
+    color: var(--morning-blue-800);
+}
+
+.icon\:morning-blue-900, .icon.morning-blue-900 {
+    color: var(--morning-blue-900);
+}

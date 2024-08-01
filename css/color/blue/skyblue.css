@@ -1,0 +1,123 @@
+:root {
+    --sky-blue-100: hsl(210, 100%, 80%);
+    --sky-blue-200: hsl(210, 100%, 70%);
+    --sky-blue-300: hsl(210, 100%, 60%);
+    --sky-blue-400: hsl(210, 100%, 50%);
+    --sky-blue-500: hsl(210, 100%, 40%);
+    --sky-blue-600: hsl(210, 100%, 30%);
+    --sky-blue-700: hsl(210, 100%, 25%);
+    --sky-blue-800: hsl(210, 100%, 20%);
+    --sky-blue-900: hsl(210, 100%, 15%);
+}
+
+.bg\:sky-blue-100, .bg.sky-blue-100, .bg-sky-blue-100, .bg\:sky-blue\:100 {
+    background-color: var(--sky-blue-100);
+}
+
+.bg\:sky-blue-200, .bg.sky-blue-200, .bg-sky-blue-200, .bg\:sky-blue\:200 {
+    background-color: var(--sky-blue-200);
+}
+
+.bg\:sky-blue-300, .bg.sky-blue-300, .bg-sky-blue-300, .bg\:sky-blue\:300 {
+    background-color: var(--cornflower-300);
+}
+
+.bg\:sky-blue-400, .bg.sky-blue-400, .bg-sky-blue-400, .bg\:sky-blue\:400 {
+    background-color: var(--sky-blue-400);
+}
+
+.bg\:sky-blue-500, .bg.sky-blue-500, .bg-sky-blue-500, .bg\:sky-blue\:500 {
+    background-color: var(--sky-blue-500);
+}
+
+.bg\:sky-blue-600, .bg.sky-blue-600, .bg-sky-blue-600, .bg\:sky-blue\:600 {
+    background-color: var(--sky-blue-600);
+}
+
+.bg\:sky-blue-700, .bg.sky-blue-700, .bg-sky-blue-700, .bg\:sky-blue\:700 {
+    background-color: var(--sky-blue-700);
+}
+
+.bg\:sky-blue-800, .bg.sky-blue-800, .bg-sky-blue-800, .bg\:sky-blue\:800 {
+    background-color: var(--sky-blue-800);
+}
+
+.bg\:sky-blue-900, .bg.sky-blue-900, .bg-sky-blue-900, .bg\:sky-blue\:900 {
+    background-color: var(--sky-blue-900);
+}
+
+/* Text Stiles */
+
+.text\:color.sky-blue-100 {
+	color: var(--sky-blue-100);
+}
+
+.text\:color.sky-blue-200 {
+	color: var(--sky-blue-200);
+}
+
+.text\:color.sky-blue-300 {
+	color: var(--sky-blue-300);
+}
+
+.text\:color.sky-blue-400 {
+	color: var(--sky-blue-400);
+}
+
+.text\:color.sky-blue-500 {
+	color: var(--sky-blue-500);
+}
+
+.text\:color.sky-blue-600 {
+	color: var(--sky-blue-600);
+}
+
+.text\:color.sky-blue-700 {
+	color: var(--sky-blue-700);
+}
+
+.text\:color.sky-blue-800 {
+	color: var(--sky-blue-800);
+}
+
+.text\:color.sky-blue-900 {
+	color: var(--sky-blue-900);
+}
+
+/* Icon */
+
+.icon\:sky-blue-100, .icon.sky-blue-100 {
+    color: var(--sky-blue-100);
+}
+
+.icon\:sky-blue-200, .icon.sky-blue-200 {
+    color: var(--sky-blue-200);
+}
+
+.icon\:sky-blue-300, .icon.sky-blue-300 {
+    color: var(--sky-blue-300);
+}
+
+.icon\:sky-blue-400, .icon.sky-blue-400 {
+    color: var(--sky-blue-400);
+}
+
+.icon\:sky-blue-500, .icon.sky-blue-500 {
+    color: var(--sky-blue-500);
+}
+
+.icon\:sky-blue-600, .icon.sky-blue-600 {
+    color: var(--sky-blue-600);
+}
+
+.icon\:sky-blue-700, .icon.sky-blue-700 {
+    color: var(--sky-blue-700);
+}
+
+.icon\:sky-blue-800, .icon.sky-blue-800 {
+    color: var(--sky-blue-800);
+}
+
+.icon\:sky-blue-900, .icon.sky-blue-900 {
+    color: var(--sky-blue-900);
+}

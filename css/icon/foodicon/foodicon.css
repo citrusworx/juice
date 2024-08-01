@@ -1,0 +1,134 @@
+.bell\:pepper, .bell-pepper {
+    -webkit-mask-image: url('../../../icons/pizza/bell-peppers.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/pizza/bell-peppers.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.cheese {
+    -webkit-mask-image: url('../../../icons/pizza/cheese.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/pizza/cheese.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.mushrooms {
+    -webkit-mask-image: url('../../../icons/pizza/mushrooms.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/pizza/mushrooms.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.pepperoni-slice, .pepperoni\:slice {
+    -webkit-mask-image: url('../../../icons/pizza/pepperoni-slice.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/pizza/pepperoni-slice.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.pizza-bite, .pizza\:bite {
+    -webkit-mask-image: url('../../../icons/pizza/pizza-bite.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/pizza/pizza-bite.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.pizza-cutter, .pizza\:cutter {
+    -webkit-mask-image: url('../../../icons/pizza/pizza-cutter.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/pizza/pizza-cutter.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.pizza-slice.melted {
+    -webkit-mask-image: url('../../../icons/pizza/Pizza.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/pizza/Pizza.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.pizza-menu, .pizza\:menu {
+    -webkit-mask-image: url('../../../icons/pizza/pizza-menu.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/pizza/pizza-menu.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.pizza-box {
+    -webkit-mask-image: url('../../../icons/pizza/pizza-box.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/pizza/pizza-box.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.pizza-peel, .pizza\:peel {
+    -webkit-mask-image: url('../../../icons/pizza/pizza-peel.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/pizza/pizza-peel.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.pizza-shop, .pizza\:shop {
+    -webkit-mask-image: url('../../../icons/pizza/pizza-shop.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/pizza/pizza-shop.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.pizza-truck, .pizza\:truck {
+    -webkit-mask-image: url('../../../icons/pizza/pizza-truck.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/pizza/pizza-truck.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.pizzeria-sgn, .pizzeria\:sign {
+    -webkit-mask-image: url('../../../icons/pizza/pizzeria-sign.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/pizza/pizzeria-sign.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.tom-sauce, .tom\:sauce {
+    -webkit-mask-image: url('../../../icons/pizza/tomato-sauce.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/pizza/tomato-sauce.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.whole-pizza, .whole\:pizza, .pizza-whole, .pizza\:whole {
+    -webkit-mask-image: url('../../../icons/pizza/whole-pizza.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/pizza/whole-pizza.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
