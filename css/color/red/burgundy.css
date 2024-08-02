@@ -9,3 +9,145 @@
     --burgundy-800: hsl(345, 100%, 10%);
     --burgundy-900: hsl(345, 95%, 10%);
 }
+
+/* Burgundy */
+.bg\:burgundy-100, .bg.burgundy-100, .bg-burgundy-100, .bg\:burgundy\:100 {
+    background-color: var(--burgundy-100);
+}
+
+.bg\:burgundy-200, .bg.burgundy-200, .bg-burgundy-200, .bg\:burgundy\:200 {
+    background-color: var(--burgundy-200);
+}
+
+.bg\:burgundy-300, .bg.burgundy-300,.bg-burgundy-300, .bg\:burgundy\:300 {
+    background-color: var(--burgundy-300);
+}
+.bg\:burgundy-400, .bg.burgundy-400, .bg-burgundy-400, .bg\:burgundy\:400 {
+    background-color: var(--burgundy-400);
+}
+
+.bg\:burgundy-500, .bg.burgundy-500, .bg-burgundy-500, .bg\:burgundy\:500 {
+    background-color: var(--burgundy-500);
+}
+
+.bg\:burgundy-600, .bg.burgundy-600, .bg-burgundy-600, .bg\:burgundy\:600 {
+    background-color: var(--burgundy-600);
+}
+
+.bg\:burgundy-700, .bg.burgundy-700, .bg-burgundy-700, .bg\:burgundy\:700 {
+    background-color: var(--burgundy-700);
+}
+
+.bg\:burgundy-800, .bg.burgundy-800, .bg-burgundy-800, .bg\:burgundy\:800 {
+    background-color: var(--burgundy-800);
+}
+
+.bg\:burgundy-900, .bg.burgundy-900, .bg-burgundy-900, .bg\:burgundy\:900 {
+    background-color: var(--burgundy-900);
+}
+
+/*
+ * 	
+ *	Text Stiles
+ *  
+ */
+ .text\:color\:burgundy-100, .text-color-burgundy-100, .text\:color.bg-burgundy-100, .text-color.bg-burgundy-100, .tc-burgundy-100 , .tc\:burgundy-100{
+    color: var(--burgundy-100);
+}
+
+.text\:color\:burgundy-200, .text-color-burgundy-200, .text\:color.bg-burgundy-200, .text-color.bg-burgundy-200, .tc-burgundy-200 , .tc\:burgundy-200{
+    color: var(--burgundy-200);
+}
+
+.text\:color\:burgundy-300, .text-color-burgundy-300, .text\:color.bg-burgundy-300, .text-color.bg-burgundy-300, .tc-burgundy-300 , .tc\:burgundy-300{
+    color: var(--burgundy-300);
+}
+
+.text\:color\:burgundy-400, .text-color-burgundy-400, .text\:color.bg-burgundy-400, .text-color.bg-burgundy-400, .tc-burgundy-400 , .tc\:burgundy-400{
+    color: var(--burgundy-400);
+}
+
+.text\:color\:burgundy-500, .text-color-burgundy-500, .text\:color.bg-burgundy-500, .text-color.bg-burgundy-500, .tc-burgundy-500 , .tc\:burgundy-500{
+    color: var(--burgundy-500);
+}
+
+.text\:color\:burgundy-600, .text-color-burgundy-600, .text\:color.bg-burgundy-600, .text-color.bg-burgundy-600, .tc-burgundy-600 , .tc\:burgundy-600{
+    color: var(--burgundy-600);
+}
+
+.text\:color\:burgundy-700, .text-color-burgundy-700, .text\:color.bg-burgundy-700, .text-color.bg-burgundy-700, .tc-burgundy-700 , .tc\:burgundy-700{
+    color: var(--burgundy-700);
+}
+
+.text\:color\:burgundy-800, .text-color-burgundy-800, .text\:color.bg-burgundy-800, .text-color.bg-burgundy-800, .tc-burgundy-800 , .tc\:burgundy-800{
+    color: var(--burgundy-800);
+}
+
+.text\:color\:burgundy-900, .text-color-burgundy-900, .text\:color.bg-burgundy-900, .text-color.bg-burgundy-900, .tc-burgundy-900 , .tc\:burgundy-900{
+    color: var(--burgundy-900);
+}
+
+/* icon stiles */
+
+.icon\:burgundy-100, .icon.burgundy-100 {
+    display: inline-block;
+    background: var(--burgundy-100);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:burgundy-200, .icon.burgundy-200 {
+    display: inline-block;
+    background: var(--burgundy-200);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:burgundy-300, .icon.burgundy-300 {
+    display: inline-block;
+    background: var(--burgundy-300);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:burgundy-400, .icon.burgundy-400 {
+    display: inline-block;
+    background: var(--burgundy-400);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:burgundy-500, .icon.burgundy-500 {
+    display: inline-block;
+    background: var(--burgundy-500);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:burgundy-600, .icon.burgundy-600 {
+    display: inline-block;
+    background: var(--burgundy-600);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:burgundy-700, .icon.burgundy-700 {
+    display: inline-block;
+    background: var(--burgundy-700);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:burgundy-800, .icon.burgundy-800 {
+    display: inline-block;
+    background: var(--burgundy-800);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:burgundy-900, .icon.burgundy-900 {
+    display: inline-block;
+    background: var(--burgundy-900);
+    background-size: cover;
+    background-repeat: no-repeat;
+}

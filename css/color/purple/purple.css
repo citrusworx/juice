@@ -12,40 +12,144 @@
     --purple-900: hsl(255, 100%, 55%);
 
     }
-
-    
-/* Purples */
-.bg-purple-100 {
+/* Purple */
+.bg\:purple-100, .bg.purple-100, .bg-purple-100, .bg\:purple\:100 {
     background-color: var(--purple-100);
 }
 
-.bg-purple-200 {
+.bg\:purple-200, .bg.purple-200, .bg-purple-200, .bg\:purple\:200 {
     background-color: var(--purple-200);
 }
 
-.bg-purple-300 {
+.bg\:purple-300, .bg.purple-300,.bg-purple-300, .bg\:purple\:300 {
     background-color: var(--purple-300);
 }
-.bg-purple-400 {
+.bg\:purple-400, .bg.purple-400, .bg-purple-400, .bg\:purple\:400 {
     background-color: var(--purple-400);
 }
 
-.bg-purple-500 {
+.bg\:purple-500, .bg.purple-500, .bg-purple-500, .bg\:purple\:500 {
     background-color: var(--purple-500);
 }
 
-.bg-purple-600 {
+.bg\:purple-600, .bg.purple-600, .bg-purple-600, .bg\:purple\:600 {
     background-color: var(--purple-600);
 }
 
-.bg-purple-700 {
+.bg\:purple-700, .bg.purple-700, .bg-purple-700, .bg\:purple\:700 {
     background-color: var(--purple-700);
 }
 
-.bg-purple-800 {
+.bg\:purple-800, .bg.purple-800, .bg-purple-800, .bg\:purple\:800 {
     background-color: var(--purple-800);
 }
 
-.bg-purple-900 {
+.bg\:purple-900, .bg.purple-900, .bg-purple-900, .bg\:purple\:900 {
     background-color: var(--purple-900);
+}
+
+/*
+ * 	
+ *	Text Stiles
+ *  
+ */
+ .text\:color\:purple-100, .text-color-purple-100, .text\:color.bg-purple-100, .text-color.bg-purple-100, .tc-purple-100 , .tc\:purple-100{
+    color: var(--purple-100);
+}
+
+.text\:color\:purple-200, .text-color-purple-200, .text\:color.bg-purple-200, .text-color.bg-purple-200, .tc-purple-200 , .tc\:purple-200{
+    color: var(--purple-200);
+}
+
+.text\:color\:purple-300, .text-color-purple-300, .text\:color.bg-purple-300, .text-color.bg-purple-300, .tc-purple-300 , .tc\:purple-300{
+    color: var(--purple-300);
+}
+
+.text\:color\:purple-400, .text-color-purple-400, .text\:color.bg-purple-400, .text-color.bg-purple-400, .tc-purple-400 , .tc\:purple-400{
+    color: var(--purple-400);
+}
+
+.text\:color\:purple-500, .text-color-purple-500, .text\:color.bg-purple-500, .text-color.bg-purple-500, .tc-purple-500 , .tc\:purple-500{
+    color: var(--purple-500);
+}
+
+.text\:color\:purple-600, .text-color-purple-600, .text\:color.bg-purple-600, .text-color.bg-purple-600, .tc-purple-600 , .tc\:purple-600{
+    color: var(--purple-600);
+}
+
+.text\:color\:purple-700, .text-color-purple-700, .text\:color.bg-purple-700, .text-color.bg-purple-700, .tc-purple-700 , .tc\:purple-700{
+    color: var(--purple-700);
+}
+
+.text\:color\:purple-800, .text-color-purple-800, .text\:color.bg-purple-800, .text-color.bg-purple-800, .tc-purple-800 , .tc\:purple-800{
+    color: var(--purple-800);
+}
+
+.text\:color\:purple-900, .text-color-purple-900, .text\:color.bg-purple-900, .text-color.bg-purple-900, .tc-purple-900 , .tc\:purple-900{
+    color: var(--purple-900);
+}
+
+/* icon stiles */
+
+.icon\:purple-100, .icon.purple-100 {
+    display: inline-block;
+    background: var(--purple-100);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:purple-200, .icon.purple-200 {
+    display: inline-block;
+    background: var(--purple-200);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:purple-300, .icon.purple-300 {
+    display: inline-block;
+    background: var(--purple-300);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:purple-400, .icon.purple-400 {
+    display: inline-block;
+    background: var(--purple-400);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:purple-500, .icon.purple-500 {
+    display: inline-block;
+    background: var(--purple-500);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:purple-600, .icon.purple-600 {
+    display: inline-block;
+    background: var(--purple-600);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:purple-700, .icon.purple-700 {
+    display: inline-block;
+    background: var(--purple-700);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:purple-800, .icon.purple-800 {
+    display: inline-block;
+    background: var(--purple-800);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:purple-900, .icon.purple-900 {
+    display: inline-block;
+    background: var(--purple-900);
+    background-size: cover;
+    background-repeat: no-repeat;
 }

@@ -8,11 +8,18 @@
 #vscode
 .vscode/
 
+# Git
+.gitattributes
+.gitignore
 
 #npm
 node_modules/
+
 
 #Repo related files
 gulpfile.js
 package-lock.json
 package.json
+yarn.lock
+FUNDING.yml
+

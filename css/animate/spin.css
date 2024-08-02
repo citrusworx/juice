@@ -1,0 +1,21 @@
+.spin {
+    animation: spin 2s linear infinite;
+}
+
+.spin\:fast {
+    animation: spin 0.5s linear infinite;
+}
+
+.spin\:slow {
+    animation: spin 4s linear infinite;
+}
+
+@keyframes spin {
+    0% {
+        rotate: 0deg;
+    }
+
+    100% {
+        rotate: 360deg;
+    }
+}

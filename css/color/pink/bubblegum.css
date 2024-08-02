@@ -9,3 +9,145 @@
     --bubblegum-800: hsl(310, 100%, 25%);
     --bubblegum-900: hsl(310, 100%, 20%);
 }
+
+/* Bubblegum */
+.bg\:bubblegum-100, .bg.bubblegum-100, .bg-bubblegum-100, .bg\:bubblegum\:100 {
+    background-color: var(--bubblegum-100);
+}
+
+.bg\:bubblegum-200, .bg.bubblegum-200, .bg-bubblegum-200, .bg\:bubblegum\:200 {
+    background-color: var(--bubblegum-200);
+}
+
+.bg\:bubblegum-300, .bg.bubblegum-300,.bg-bubblegum-300, .bg\:bubblegum\:300 {
+    background-color: var(--bubblegum-300);
+}
+.bg\:bubblegum-400, .bg.bubblegum-400, .bg-bubblegum-400, .bg\:bubblegum\:400 {
+    background-color: var(--bubblegum-400);
+}
+
+.bg\:bubblegum-500, .bg.bubblegum-500, .bg-bubblegum-500, .bg\:bubblegum\:500 {
+    background-color: var(--bubblegum-500);
+}
+
+.bg\:bubblegum-600, .bg.bubblegum-600, .bg-bubblegum-600, .bg\:bubblegum\:600 {
+    background-color: var(--bubblegum-600);
+}
+
+.bg\:bubblegum-700, .bg.bubblegum-700, .bg-bubblegum-700, .bg\:bubblegum\:700 {
+    background-color: var(--bubblegum-700);
+}
+
+.bg\:bubblegum-800, .bg.bubblegum-800, .bg-bubblegum-800, .bg\:bubblegum\:800 {
+    background-color: var(--bubblegum-800);
+}
+
+.bg\:bubblegum-900, .bg.bubblegum-900, .bg-bubblegum-900, .bg\:bubblegum\:900 {
+    background-color: var(--bubblegum-900);
+}
+
+/*
+ * 	
+ *	Text Stiles
+ *  
+ */
+ .text\:color\:bubblegum-100, .text-color-bubblegum-100, .text\:color.bg-bubblegum-100, .text-color.bg-bubblegum-100, .tc-bubblegum-100 , .tc\:bubblegum-100{
+    color: var(--bubblegum-100);
+}
+
+.text\:color\:bubblegum-200, .text-color-bubblegum-200, .text\:color.bg-bubblegum-200, .text-color.bg-bubblegum-200, .tc-bubblegum-200 , .tc\:bubblegum-200{
+    color: var(--bubblegum-200);
+}
+
+.text\:color\:bubblegum-300, .text-color-bubblegum-300, .text\:color.bg-bubblegum-300, .text-color.bg-bubblegum-300, .tc-bubblegum-300 , .tc\:bubblegum-300{
+    color: var(--bubblegum-300);
+}
+
+.text\:color\:bubblegum-400, .text-color-bubblegum-400, .text\:color.bg-bubblegum-400, .text-color.bg-bubblegum-400, .tc-bubblegum-400 , .tc\:bubblegum-400{
+    color: var(--bubblegum-400);
+}
+
+.text\:color\:bubblegum-500, .text-color-bubblegum-500, .text\:color.bg-bubblegum-500, .text-color.bg-bubblegum-500, .tc-bubblegum-500 , .tc\:bubblegum-500{
+    color: var(--bubblegum-500);
+}
+
+.text\:color\:bubblegum-600, .text-color-bubblegum-600, .text\:color.bg-bubblegum-600, .text-color.bg-bubblegum-600, .tc-bubblegum-600 , .tc\:bubblegum-600{
+    color: var(--bubblegum-600);
+}
+
+.text\:color\:bubblegum-700, .text-color-bubblegum-700, .text\:color.bg-bubblegum-700, .text-color.bg-bubblegum-700, .tc-bubblegum-700 , .tc\:bubblegum-700{
+    color: var(--bubblegum-700);
+}
+
+.text\:color\:bubblegum-800, .text-color-bubblegum-800, .text\:color.bg-bubblegum-800, .text-color.bg-bubblegum-800, .tc-bubblegum-800 , .tc\:bubblegum-800{
+    color: var(--bubblegum-800);
+}
+
+.text\:color\:bubblegum-900, .text-color-bubblegum-900, .text\:color.bg-bubblegum-900, .text-color.bg-bubblegum-900, .tc-bubblegum-900 , .tc\:bubblegum-900{
+    color: var(--bubblegum-900);
+}
+
+/* icon stiles */
+
+.icon\:bubblegum-100, .icon.bubblegum-100 {
+    display: inline-block;
+    background: var(--bubblegum-100);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:bubblegum-200, .icon.bubblegum-200 {
+    display: inline-block;
+    background: var(--bubblegum-200);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:bubblegum-300, .icon.bubblegum-300 {
+    display: inline-block;
+    background: var(--bubblegum-300);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:bubblegum-400, .icon.bubblegum-400 {
+    display: inline-block;
+    background: var(--bubblegum-400);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:bubblegum-500, .icon.bubblegum-500 {
+    display: inline-block;
+    background: var(--bubblegum-500);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:bubblegum-600, .icon.bubblegum-600 {
+    display: inline-block;
+    background: var(--bubblegum-600);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:bubblegum-700, .icon.bubblegum-700 {
+    display: inline-block;
+    background: var(--bubblegum-700);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:bubblegum-800, .icon.bubblegum-800 {
+    display: inline-block;
+    background: var(--bubblegum-800);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:bubblegum-900, .icon.bubblegum-900 {
+    display: inline-block;
+    background: var(--bubblegum-900);
+    background-size: cover;
+    background-repeat: no-repeat;
+}

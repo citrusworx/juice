@@ -1,0 +1,12 @@
+.flash\:red{
+    animation: flash-red 1s running infinite;
+}
+
+@keyframes flash-red {
+    0% {
+
+    }
+    100% {
+        color: red;
+    }
+}

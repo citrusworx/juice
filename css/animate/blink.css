@@ -1,0 +1,22 @@
+
+.blink {
+    opacity: 0;
+    animation: blink 2.5s linear infinite;
+}
+
+.blink\:slow{
+    opacity: 0;
+    animation: blink 3.5s linear infinite;
+}
+
+.blink\:fast{
+    opacity: 0;
+    animation: blink 1.5s linear infinite;
+}
+
+@keyframes blink {
+    0%   {opacity: 0;}
+    25% {opacity: 1;}
+    50% {opacity: 0;}
+    100% {opacity: 1;}
+}

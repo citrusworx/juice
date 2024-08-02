@@ -1,0 +1,34 @@
+.turn {
+    animation: spin 5s linear infinite;
+    animation-play-state: paused;
+    overflow-y: hidden;
+}
+
+.turn\:fast {
+    animation: spin 2s linear infinite;
+    animation-play-state: paused;
+}
+
+.turn\:slow {
+    animation: spin 7s linear infinite;
+    animation-play-state: paused;
+}
+
+.turn:hover{
+    animation-play-state: running;
+}
+
+.turn\:slow:hover{
+    animation-play-state: running;
+}
+
+.turn\:fast:hover{
+    animation-play-state: running;
+}
+
+
+@keyframes turn {
+    100% {
+        transform: rotate(1turn);
+    }
+}

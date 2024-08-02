@@ -1,0 +1,47 @@
+
+.bounce {
+    animation: bounce 1s linear forwards;
+}
+
+@keyframes bounce {
+    0%{
+        transform: translateY(1px);
+    }
+
+    25% {
+        transform: translateY(-1px);
+    }
+
+    50% {
+        transform: translateY(0.8px);
+    }
+
+    100% {
+        transform: translateY(-0.2px);
+    }
+}
+
+.bounce\:in {
+    animation: bounceIn 10s linear forwards;
+}
+
+@keyframes bounceIn {
+    0%{
+        transform: translateY(1px);
+        transform: translateX(-100vw);
+    }
+
+    25% {
+        transform: translateY(-1px);
+        
+    }
+
+    50% {
+        transform: translateY(0.8px);
+    }
+
+    100% {
+        transform: translateY(-0.2px);
+        transform: translateX(0rem);
+    }
+}

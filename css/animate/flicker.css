@@ -1,0 +1,37 @@
+.flicker {
+    opacity: 1;
+    animation: flicker 2s infinite;
+}
+
+@keyframes flicker {
+    0%   {
+        opacity: 0;
+    }
+    10%  {
+        opacity: 0.1;
+    }
+    20%  {
+        opacity: 0;
+    }
+    30%  {
+        opacity: .5;
+    }
+    40%  {
+        opacity: .1;
+    }
+    50%  {
+        opacity: 1;
+    }
+    60%  {
+        opacity: .85;
+    }
+    70%  {
+        opacity: .35;
+    }
+    80%  {
+        opacity: 0;
+    }
+    100% {
+        opacity: .4;
+    }
+}

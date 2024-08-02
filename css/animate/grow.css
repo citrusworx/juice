@@ -1,0 +1,13 @@
+.grow {
+    animation: grow 2s linear forwards;
+}
+
+@keyframes grow {
+    0% {
+        
+    }
+
+    100% {
+        
+    }
+}

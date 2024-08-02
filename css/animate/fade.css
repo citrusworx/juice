@@ -1,0 +1,33 @@
+/* 
+    FADE IN
+*/
+
+.fade\:in{ 
+    animation: fadeIn 1s linear forwards;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0%;
+    }
+    100% {
+        opacity: 100%;
+    }
+}
+
+/* 
+    FADE OUT
+*/
+
+.fade\:out{
+    animation: fadeOut 1s linear forwards;
+}
+
+@keyframes fadeOut {
+    0% {
+        opacity: 100%;
+    }
+    100% {
+        opacity: 0%;
+    }
+}
