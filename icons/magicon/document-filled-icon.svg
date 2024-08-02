@@ -1,0 +1,6 @@
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <title>
+    document-filled-icon
+  </title>
+  <path d="M10 4V.073c.4.096.765.295 1.064.576l2.288 2.287c.28.3.478.665.575 1.063H10zM8 4c0 1.105.895 2 2 2h4v8c0 1.105-.895 2-2 2H3c-.532 0-1.04-.212-1.417-.588-.375-.377-.585-.887-.583-1.42V2.008C1 .9 1.894.003 3 0h5v4z" fill="#000" fill-rule="evenodd"/>
+</svg>

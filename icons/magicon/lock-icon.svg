@@ -1,0 +1,6 @@
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <title>
+    lock-icon
+  </title>
+  <path d="M13 16H3c-1.105 0-2-.895-2-2V6c0-1.105.895-2 2-2h1c0-2.21 1.79-4 4-4s4 1.79 4 4h1c1.105 0 2 .895 2 2v8c0 1.105-.895 2-2 2zM8 2c-1.105 0-2 .895-2 2h4c0-1.105-.895-2-2-2zm5 4H3v8h10V6zM8 8c1.105 0 2 .895 2 2s-.895 2-2 2-2-.895-2-2 .895-2 2-2z" fill="#000" fill-rule="evenodd"/>
+</svg>

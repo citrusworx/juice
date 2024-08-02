@@ -1,0 +1,6 @@
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <title>
+    battery-half-icon
+  </title>
+  <path d="M14 10v1c0 1.105-.895 2-2 2H2c-1.105 0-2-.895-2-2V5c0-1.105.895-2 2-2h10c1.105 0 2 .895 2 2v1c1.105 0 2 .895 2 2s-.895 2-2 2zm-2-5H2v6h10V5zm-7 5H3V6h2v4zm3 0H6V6h2v4z" fill="#000" fill-rule="evenodd"/>
+</svg>

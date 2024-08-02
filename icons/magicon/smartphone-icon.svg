@@ -1,0 +1,6 @@
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <title>
+    smartphone-icon
+  </title>
+  <path d="M11 16H5c-1.105 0-2-.895-2-2V2c0-1.105.895-2 2-2h6c1.105 0 2 .895 2 2v12c0 1.105-.895 2-2 2zm0-13H5v10h6V3z" fill="#000" fill-rule="evenodd"/>
+</svg>

@@ -10,23 +10,6 @@
 }
 
 /* Brand */
-.text\:font\:primary {
-    font-family: var(--primary-font);
-    font-weight: 500;
-    font-style: normal;
-}
-
-.text\:font\:light {
-    font-family: var(--light-font);
-    font-weight: 300;
-    font-style: normal;
-}
-
-.text\:font\:bold {
-    font-family: var(--bold-font);
-    font-weight: 700;
-    font-style: normal;
-}
 
 .korolev-rounded, .korolev.rounded {
     font-family: var(--primary-font);

@@ -1,0 +1,6 @@
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <title>
+    duplicate-icon
+  </title>
+  <path d="M14 12h-2v2c0 1.105-.895 2-2 2H2c-1.105 0-2-.895-2-2V6c0-1.105.895-2 2-2h2V2c0-1.105.895-2 2-2h8c1.105 0 2 .895 2 2v8c0 1.105-.895 2-2 2zM2 14h8V6H2v8zM14 2H6v2h4c1.105 0 2 .895 2 2v4h2V2z" fill="#000" fill-rule="evenodd"/>
+</svg>

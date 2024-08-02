@@ -51,39 +51,39 @@
  *	Text Stiles
  *  
  */
- .text\:color\:peach-100, .text-color-peach-100, .text\:color.bg-peach-100, .text-color.bg-peach-100, .tc-peach-100 , .tc\:peach-100{
+ .text\:color\:peach-100, .text-color-peach-100, .text\:color.peach-100, .text-color.peach-100, .tc-peach-100 , .tc\:peach-100{
     color: var(--peach-100);
 }
 
-.text\:color\:peach-200, .text-color-peach-200, .text\:color.bg-peach-200, .text-color.bg-peach-200, .tc-peach-200 , .tc\:peach-200{
+.text\:color\:peach-200, .text-color-peach-200, .text\:color.peach-200, .text-color.peach-200, .tc-peach-200 , .tc\:peach-200{
     color: var(--peach-200);
 }
 
-.text\:color\:peach-300, .text-color-peach-300, .text\:color.bg-peach-300, .text-color.bg-peach-300, .tc-peach-300 , .tc\:peach-300{
+.text\:color\:peach-300, .text-color-peach-300, .text\:color.peach-300, .text-color.peach-300, .tc-peach-300 , .tc\:peach-300{
     color: var(--peach-300);
 }
 
-.text\:color\:peach-400, .text-color-peach-400, .text\:color.bg-peach-400, .text-color.bg-peach-400, .tc-peach-400 , .tc\:peach-400{
+.text\:color\:peach-400, .text-color-peach-400, .text\:color.peach-400, .text-color.peach-400, .tc-peach-400 , .tc\:peach-400{
     color: var(--peach-400);
 }
 
-.text\:color\:peach-500, .text-color-peach-500, .text\:color.bg-peach-500, .text-color.bg-peach-500, .tc-peach-500 , .tc\:peach-500{
+.text\:color\:peach-500, .text-color-peach-500, .text\:color.peach-500, .text-color.peach-500, .tc-peach-500 , .tc\:peach-500{
     color: var(--peach-500);
 }
 
-.text\:color\:peach-600, .text-color-peach-600, .text\:color.bg-peach-600, .text-color.bg-peach-600, .tc-peach-600 , .tc\:peach-600{
+.text\:color\:peach-600, .text-color-peach-600, .text\:color.peach-600, .text-color.peach-600, .tc-peach-600 , .tc\:peach-600{
     color: var(--peach-600);
 }
 
-.text\:color\:peach-700, .text-color-peach-700, .text\:color.bg-peach-700, .text-color.bg-peach-700, .tc-peach-700 , .tc\:peach-700{
+.text\:color\:peach-700, .text-color-peach-700, .text\:color.peach-700, .text-color.peach-700, .tc-peach-700 , .tc\:peach-700{
     color: var(--peach-700);
 }
 
-.text\:color\:peach-800, .text-color-peach-800, .text\:color.bg-peach-800, .text-color.bg-peach-800, .tc-peach-800 , .tc\:peach-800{
+.text\:color\:peach-800, .text-color-peach-800, .text\:color.peach-800, .text-color.peach-800, .tc-peach-800 , .tc\:peach-800{
     color: var(--peach-800);
 }
 
-.text\:color\:peach-900, .text-color-peach-900, .text\:color.bg-peach-900, .text-color.bg-peach-900, .tc-peach-900 , .tc\:peach-900{
+.text\:color\:peach-900, .text-color-peach-900, .text\:color.peach-900, .text-color.peach-900, .tc-peach-900 , .tc\:peach-900{
     color: var(--peach-900);
 }
 
