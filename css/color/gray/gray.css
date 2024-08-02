@@ -1,3 +1,4 @@
+@import url('concrete.css');
 :root {
 /* Grays */
     --gray-100: hsl(0, 0%, 95%);
