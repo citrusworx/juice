@@ -1,7 +1,7 @@
 /* Create sizing classes for the card */
 
 .card\:light {
-    background-color: var(--gray-200);
+    background-color: var(--gray-100);
     height: 35vh;
     min-height: 50vh;
     width: 40vw;
@@ -12,12 +12,10 @@
     border-radius: 10px;
  }
 
-.card\:light, .sm {
-    background-color: var(--gray-200);
-    height: 15vh;
-    min-height: 50vh;
-    width: 30vw;
-    min-width: 45vw;
+.card\:light.sm {
+    background-color: var(--gray-100);
+    min-height: 25vh;
+    min-width: 10vw;
     margin: 0 auto;
     margin-top: 5vh;
     padding: 2rem 2rem;

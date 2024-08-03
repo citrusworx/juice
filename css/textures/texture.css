@@ -1,0 +1,7 @@
+.grunge {
+    background-repeat: no-repeat;
+    background-size: cover;
+    mix-blend-mode: darken;
+    mask: url('./grunge/grunge-001.svg');
+    z-index: 1;
+}

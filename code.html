@@ -25,22 +25,26 @@
         
 
         <section class="hero:secondary shadow:color:black-100 shadow:sm" id="hero">
-           <div class="card:light mt:10 mob:scroll">
+           <div class="card:light mob:scroll">
                 <h2 class="text:color:sky-blue-500 text:xxlg">Icon Tester</h2>
-                <i class="pizza-truck icon:orange-600 icon:lg"></i>
+                <i class="pizza-truck icon:orange-600 icon:lg bounce in"></i>
                 <i class="pizza:whole icon:blue-400 icon:lg"></i>
            </div>
         </section>
         
         
         <section class="mt:10" id="get-started">
-            <div class="flex col items:center mt:2">
+
+            <div class="flex col items:center mt:2 ds:sm m:auto w:half p:rel:10 h:80%">
                 <h2 class="border-color black-600 border:left:md rounded:sm ridge bs:lg px:rel:3">Getting Started</h2>
-                <p class="">
+                <p class="mt:5 text:center">
                     berilliumCSS is the new standard for versatile styling of all types of
-                    applications.
+                    applications. Not only can you style your web apps however you like...you can 
+                    style your native applications as well!
                 </p>
             </div>
+
+
             <div class="m:auto mt:15" id="terminal">
                 <div class="bg:sky-blue:600 w:80% h:5 mob:scroll" id="screen">
                         <p class="source-code text:white flex col items:center mt:5">
@@ -62,7 +66,7 @@
         
            
         <section class="m:auto" id="docs-cta">
-            <div class="flex col items:center w:70% mt:10">
+            <div class="flex col items:center w:70% mt:10 p:rel:5">
                 <h2>Read the Docs</h2>
             <p>berilliumCSS has extensive documentation and tutorials to showcase just
             exactly what you can do with our library. If you have some ideas or edits to
@@ -71,13 +75,55 @@
         </section>
         
         
-        <footer class="flex row center items:center space:around gap:5 m:auto">
-            <div>
-                Logo
+        <footer class="flex around fw-wrap bg-ocean h:40 items:center pb:rel:10 w:min:25 gap:1">
+            <div class="w-15 mt:10" id="footer-logo">
+                <h2 class="text:color text:font:orimary orange-500 text:xxxlg">J<span class="text:primary bold text:color creamsicle-500 text:xxxlg">ui</span>ce</h2>
+                <button class="btn:flat bg:grad copper text:white" title="Change Theme">Change Theme</button>
+                <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+    <script>
+      kofiWidgetOverlay.draw('beryllabs', {
+        'type': 'floating-chat',
+        'floating-chat.donateButton.text': 'Support me',
+        'floating-chat.donateButton.background-color': '#5cb85c',
+        'floating-chat.donateButton.text-color': '#fff'
+      });
+    </script>
             </div>
-            <div>
-                Nav
+            
+            <div class="mob:fw-wrap flex gap:5 w-15 mt:5">
+               <div>
+               
+                <div>
+                    <h3 class="text:color:primary">More Resources</h3>
+                </div>
+                <ul class="text:white">
+                    <li class="my:3 list-none">CLI</li>
+                    <li class="my:3 list-none">Node</li>
+                    <li class="my:3 list-none">PHP</li>
+                    <li class="my:3 list-none">C# / Blazor</li>
+                </ul>
             </div>
+            <div class="col w-15 mt:5">
+                    <div>
+                        <h3 class="text:color:primary">Berillium</h3>
+                    </div>
+                <ul class="text:white">
+                    <li class="my:3 list-none">CSS</li>
+                    <li class="my:3 list-none">JS</li>
+                    <li class="my:3 list-none">CMS</li>
+                </ul>
+            </div>
+            <div class="col w-15 mt:5">
+                <div>
+                    <h3 class="text:color:primary">Company</h3>
+                </div>
+                <ul class="text:white">
+                    <li class="my:3 list-none">About</li>
+                    <li class="my:3 list-none">Contact</li>
+                    <li class="my:3 list-none">Careers</li>
+                </ul>
+                </div>
+            </div>  
         </footer>
     </main>
     </body>

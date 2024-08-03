@@ -21,7 +21,7 @@
     }
 }
 
-.bounce\:in {
+.bounce\:in, .bounce-in, .bounce.in {
     animation: bounceIn 10s linear forwards;
 }
 
@@ -38,6 +38,33 @@
 
     50% {
         transform: translateY(0.8px);
+    }
+
+    100% {
+        transform: translateY(-0.2px);
+        transform: translateX(0rem);
+    }
+}
+
+.bounce\:out, .bounce-out, .bounce.out {
+    animation: bounceIn 10s linear forwards;
+}
+
+@keyframes bounceIn {
+    0%{
+        transform: translateY(1px);
+        transform: translateX(-75vw);
+    }
+
+    25% {
+        transform: translateY(-1px);
+        transform: translateX(-50vw);
+        
+    }
+
+    50% {
+        transform: translateY(0.8px);
+        transform: translateX(-25vw);
     }
 
     100% {

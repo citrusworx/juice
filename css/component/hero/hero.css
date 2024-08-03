@@ -12,11 +12,10 @@
 .hero\:secondary {
     display: flex;
     align-items: center;
-    height: 50vh;
+    height: 80vh;
     width: 100vw;
     background: var(--secondary);
-    margin: auto 0;
-    padding-bottom: 5rem;
+    margin: 0 auto;
 }
 
 .hero\:dark {

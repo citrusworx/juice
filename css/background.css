@@ -16,10 +16,6 @@
     background-color: var(--secondary-light);
 }
 
-.bg\:slate-blue-500 {
-    background: var(--slate-blue-500);
-}
-
 .bg\:light {
     background: var(--gray-200);
 }

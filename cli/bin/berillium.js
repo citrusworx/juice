@@ -3,7 +3,7 @@ const { exec } = require('child_process');
 const path = require('path');
 const env = require ('dotenv');
 const AWS = require('aws-sdk');
-import * as fs from 'fs';
+const fs = require('fs');
 
 // Load the env config
 env.config();

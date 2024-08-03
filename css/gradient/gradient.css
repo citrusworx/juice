@@ -1,7 +1,7 @@
-@import url('blue.css');
-@import url('green.css');
-@import url('orange.css');
-@import url('purple.css');
+@import url('blue/blue.css');
+@import url('green/green.css');
+@import url('orange/orange.css');
+@import url('purple/purple.css');
 
 :root{
 
