@@ -18,28 +18,32 @@
                 <li><a class="link:light" href="gradient.html">Gradients</a></li>
                 <li><a class="link:light" href="fonts.html">Fonts</a></li>
                 <li><a class="link:light" href="code.html">Code</a></li>
+                <li><a class="link:light" href="/html/blog/blog.html">HTML</a></li>
                 <li><a class="link:light" href="#">Docs</a></li>
             </ul>        
         </nav>
     <main>
         
 
-        <section class="hero:secondary shadow:color:black-100 shadow:sm" id="hero">
+        <section class="hero:secondary shadow:color:black-100 shadow:sm flex col" id="hero">
            <div class="card:light mob:scroll">
                 <h2 class="text:color:sky-blue-500 text:xxlg">Icon Tester</h2>
                 <i class="pizza-truck icon:orange-600 icon:lg bounce in"></i>
                 <i class="pizza:whole icon:blue-400 icon:lg"></i>
+           </div>
+           <div id="accordion">
+            
            </div>
         </section>
         
         
         <section class="mt:10" id="get-started">
 
-            <div class="flex col items:center mt:2 ds:sm m:auto w:half p:rel:10 h:80%">
+            <div class="flex col items:center mt:2 ds:sm m:auto w:half p:rel:10 h:80% border:color black-100 solid rounded:sm">
                 <h2 class="border-color black-600 border:left:md rounded:sm ridge bs:lg px:rel:3">Getting Started</h2>
                 <p class="mt:5 text:center">
                     berilliumCSS is the new standard for versatile styling of all types of
-                    applications. Not only can you style your web apps however you like...you can 
+                    applications. <span class="hl:blush:sky">Not only</span> can you style your web apps however you like...you can 
                     style your native applications as well!
                 </p>
             </div>
@@ -78,16 +82,7 @@
         <footer class="flex around fw-wrap bg-ocean h:40 items:center pb:rel:10 w:min:25 gap:1">
             <div class="w-15 mt:10" id="footer-logo">
                 <h2 class="text:color text:font:orimary orange-500 text:xxxlg">J<span class="text:primary bold text:color creamsicle-500 text:xxxlg">ui</span>ce</h2>
-                <button class="btn:flat bg:grad copper text:white" title="Change Theme">Change Theme</button>
-                <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-    <script>
-      kofiWidgetOverlay.draw('beryllabs', {
-        'type': 'floating-chat',
-        'floating-chat.donateButton.text': 'Support me',
-        'floating-chat.donateButton.background-color': '#5cb85c',
-        'floating-chat.donateButton.text-color': '#fff'
-      });
-    </script>
+                <button class="h:5 w:10 rounded:sm p:rel:2 btn:blush:sky text:white" title="Change Theme">Change Theme</button>
             </div>
             
             <div class="mob:fw-wrap flex gap:5 w-15 mt:5">
@@ -126,5 +121,6 @@
             </div>  
         </footer>
     </main>
+    <script src="/js/juice/accordion.js"></script>
     </body>
 </html>

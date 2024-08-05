@@ -13,7 +13,7 @@
 }
 
 /* BG Styles */
-.bg.plumpkin\:plum {
+.bg.plumpkin\:plum, .bg\:color.plumpkin\:plum, .bg-color.plumpkin-plum {
     background-color: var(--plumpkin-plum);
 }
 

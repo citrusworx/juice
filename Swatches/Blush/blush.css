@@ -6,65 +6,66 @@
     --blush-midnight: hsl(207, 79%, 19%);
 }
 /* Text */
-.text\:blush\:raspberry {
+.text\:blush\:raspberry, .text\:color.blush\:raspberry, .text-color.blush-raspberry {
     color: var(--blush-raspberry);
 }
 
-.text\:blush\:petal {
+.text\:blush\:petal, .text\:color.blush\:petal, .text-color.blush-petal {
     color: var(--blush-petal);
 }
 
-.text\:blush\:ivory {
+.text\:blush\:ivory, .text\:color.blush\:ivory, .text-color.blush-ivory {
     color: var(--blush-ivory);
 }
 
-.text\:blush\:sky {
+.text\:blush\:sky, .text\:color.blush\:sky, .text-color.blush-sky {
     color: var(--blush-sky);
 }
 
-.text\:blush\:midnight {
+.text\:blush\:midnight, .text\:color.blush\:midnight, .text-color.blush-midnight {
     color: var(--blush-midnight);
 }
 
 /* BG */
-.bg\:blush.raspberry {
+.bg\:blush.raspberry, .bg\:color.blush\:raspberry, .bg-color.blush-raspberry {
     background-color: var(--blush-raspberry);
 }
 
-.bg\:blush.petal {
+.bg\:blush.petal, .bg\:color.blush\:raspberry, .bg-color.blush-raspberry {
     background-color: var(--blush-petal);
 }
 
-.bg\:blush.ivory {
+.bg\:blush.ivory, .bg\:color.blush\:ivory, .bg-color.blush-ivory {
     background-color: var(--blush-ivory);
 }
 
-.bg\:blush.sky {
+.bg\:blush.sky, .bg\:color.blush\:sky, .bg-color.blush-sky {
     background-color: var(--blush-sky);
 }
 
-.bg\:blush.midnight {
+.bg\:blush.midnight, .bg\:color.blush\:midnight, .bg-color.blush-midnight {
     background-color: var(--blush-midnight);
 }
+
 /* Border Stiles */
 .border\:blush\:raspberry {
-    border: 5px solid var(--blush-raspberry);
+    border-color: var(--blush-raspberry);
 }
 
 .border\:blush\:petal {
-    border: 5px solid var(--blush-petal);
+    border-color: var(--blush-petal);
 }
 
 .border\:blush\:ivory {
-    border: 5px solid var(--blush-ivory);
+    border-color: var(--blush-ivory);
 }
 
 .border\:blush\:sky {
-    border: 5px solid var(--blush-sky);
+    border-color: var(--blush-sky);
 }
 
 .border\:blush\:midnight {
-    border: 5px solid var(--blush-midnight);
+    border-color: var(--blush-midnight);
 }
 
 /* Shadow Stiles */
@@ -101,6 +102,16 @@
 .hl\:blush\:petal {
     background-color:var(--blush-petal);
 }
+
+.hl\:blush\:sky {
+    background-color: var(--blush-sky);
+    padding: 0.2rem;
+}
+
+/* .hl\:blush\:sky:hover {
+    background-color: var(--blush-petal);
+    padding: 0.2rem;
+} */
 
 .hl\:blush\:raspberry:hover {
     background-color: var(--blush-raspberry);    
@@ -174,15 +185,18 @@
 .btn\:blush\:ivory {
     height: 5vh;
     width: 5vw;
-    background-color: var(--ivory);
+    background-color: var(--blush-ivory);
     border:none;
 }
 
 .btn\:blush\:sky {
-    height: 5vh;
-    width: 5vw;
     background-color: var(--blush-sky);
     border:none;
+}
+
+.btn\:blush\:sky:hover {
+    background-color: var(--blush-ivory);
+    color: var(--black-600);
 }
 
 .btn\:blush\:midnight {
