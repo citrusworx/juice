@@ -13,11 +13,11 @@
 }
 
 /* BG Styles */
-.bg.plumpkin\:plum, .bg\:color.plumpkin\:plum, .bg-color.plumpkin-plum {
+.bg\:color\:\:plumpkin-plum, .bg\:color.plumpkin-plum {
     background-color: var(--plumpkin-plum);
 }
 
-.bg.plumpkin\:lavender {
+.bg\:color\:\:plumpkin-lavender, .bg\:color.plumpkin-lavender {
     background-color: var(--plumpkin-lavender);
 }
 
@@ -25,7 +25,7 @@
     background-color: var(--plumpkin-lilac);
 }
 
-.bg.plumpkin\:peach  {
+.bg\:color\:\:plumpkin-peach  {
     background-color: var(--plumpkin-peach);
 }
 

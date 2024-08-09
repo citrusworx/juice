@@ -1,0 +1,14 @@
+@media screen and (max-width: 768px) {
+    .hero\:primary {
+        .hero\:primary {
+            display: flexbox;
+            justify-content: center;
+            align-items: center;
+            height: 70vh;
+            max-height: 80vh;
+            width: 100vw;
+            padding-bottom: 5rem;
+            overflow: hidden;
+        }
+    }
+}

@@ -1,3 +1,5 @@
+@import url(mobile.css);
+
 .hero\:primary {
     display: flexbox;
     justify-content: center;
