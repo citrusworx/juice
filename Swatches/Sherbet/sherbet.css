@@ -6,26 +6,34 @@
     --sherbet-passion: hsl(289, 100%, 50%);
     --sherbet-bluerazz: hsl(256, 100%, 50%);
     --sherbet-pistachio: hsl(55, 67%, 34%);
+
+    /* Compound hsla */
+    --sherbet-lemon-hsla: hsla(55, 100%, 50%, 0.5);
+    --sherbet-peach-hsla: hsla(43, 100%, 50%, 0.5);
+    --sherbet-passion-hsla: hsl(289, 100%, 50%, 0.5);
+    --sherbet-bluerazz-hsla: hsl(256, 100%, 50%, 0.5);
+    --sherbet-pistachio-hsla: hsl(55, 67%, 34%, 0.5);
+
 }
     
-.sherbet\:primary {
-    color: var(--sherbet-primary);
+.text\:color\:\:sherbet-lemon {
+    color: var(--sherbet-lemon);
 }
 
-.sherbet\:secondary {
-    color: var(--sherbet-secondary);
+.text\:color\:\:sherbet-peach {
+    color: var(--sherbet-peach);
 }
 
-.sherbet\:tertiary {
-    color: var(--sherbet-tertiary);
+.text\:color\:\:sherbet-passion {
+    color: var(--sherbet-passion);
 }
 
-.sherbet\:util {
-    color: var(--sherbet-util);
+.text\:color\:\:sherbet-bluerazz {
+    color: var(--sherbet-bluerazz);
 }
 
-.sherbet\:dark {
-    color: var(--sherbet-dark);
+.text\:color\:\:sherbet-pistachio {
+    color: var(--sherbet-pistachio);
 }
 
 /* 
@@ -34,22 +42,84 @@ Background Classes
 
 */
 
-.bg-sherbet\:primary {
-    background-color: var(--sherbet-primary);
+.bg\:color\:\:sherbet-lemon {
+    background-color: var(--sherbet-lemon);
 }
 
-.bg-sherbet\:secondary {
-    background-color: var(--sherbet-secondary);
+.bg\:color\:\:sherbet-peach {
+    background-color: var(--sherbet-peach);
 }
 
-.bg-sherbet\:tertiary {
-    background-color: var(--sherbet-tertiary);
+.bg\:color\:\:sherbet-passion {
+    background-color: var(--sherbet-passion);
 }
 
-.bg-sherbet\:util {
-    background-color: var(--sherbet-util);
+.bg\:color\:\:sherbet-bluerazz {
+    background-color: var(--sherbet-bluerazz);
 }
 
-.bg-sherbet\:dark {
-    background-color: var(--sherbet-dark);
+.bg\:color\:\:sherbet-pistachio {
+    background-color: var(--sherbet-pistachio);
+}
+
+/* 
+    Border Stiles
+*/
+
+.border\:color\:\:sherbet-lemon {
+    border-color: var(--sherbet-lemon);
+}
+
+.border\:color\:\:sherbet-peach {
+    border-color: var(--sherbet-peach);
+}
+
+.border\:color\:\:sherbet-passion {
+    border-color: var(--sherbet-passion);
+}
+
+.border\:color\:\:sherbet-bluerazz {
+    border-color: var(--sherbet-bluerazz);
+}
+
+.border\:color\:\:sherbet-pistachio {
+    border-color: var(--sherbet-pistachio);
+}
+
+/* 
+    Shadow Stiles
+*/
+
+/* Add hsla colors for shadow stiles */
+
+.shadow\:color\:\:sherbet-lemon.sm {
+    box-shadow: var(--sherbet-lemon) 2px 2px;
+}
+
+.shadow\:color\:\:sherbet-lemon.md {
+    box-shadow: var(--sherbet-lemon) 4px 4px;
+}
+
+.shadow\:color\:\:sherbet-lemon.lg {
+    box-shadow: var(--sherbet-lemon) 6px 6px;
+}
+
+.shadow\:color\:\:sherbet-peach.sm {
+    box-shadow: var(--sherbet-peach-hsla) 2px 2px;
+}
+
+.shadow\:color\:\:sherbet-peach.md {
+    box-shadow: var(--sherbet-peach-hsla) 4px 4px;
+}
+
+.shadow\:color\:\:sherbet-passion {
+    box-shadow: var(--sherbet-passion);
+}
+
+.shadow\:color\:\:sherbet-bluerazz {
+    box-shadow: var(--sherbet-bluerazz);
+}
+
+.shadow\:color\:\:sherbet-pistachio {
+    box-shadow: var(--sherbet-pistachio);
 }
