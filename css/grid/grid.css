@@ -23,10 +23,8 @@
 }
 
 .gtc-rep.col-two {
-    grid-template-columns: repeat(2, 2fr);
+    grid-template-columns: repeat(2, 1fr);
 }
-
-
 
 .gtr-auto {
     grid-template-rows: auto;
@@ -51,5 +49,5 @@
 /* Two Rows */
 
 .two-rows {
-    grid-template-rows: 1fr 1fr;
+    grid-template-rows: 1fr 2fr;
 }

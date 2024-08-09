@@ -1,6 +1,11 @@
 /* Smart Phones */
-@media screen and (max-width: 600px) {
+@media screen and (min-width: 480px) and (max-width: 600px) {
     * {
-        margin: 0 auto;
+        margin: 1rem auto;
+    }
+
+    section {
+        margin: 1rem auto;
     }
 }
+

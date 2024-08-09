@@ -158,3 +158,16 @@
 .border\:spacing\:lg, .border-spacing-lg, .bs\:lg, .bs-lg {
     border-spacing: 5px;
 }
+
+/* Custom Styles */
+.frosted-glass {
+     /* Semi-transparent background */
+    backdrop-filter: blur(10px); /* Apply blur effect */
+    -webkit-backdrop-filter: blur(10px); /* For Safari */
+    -moz-backdrop-filter: blur(10px);
+    border-radius: 10px; /* Optional: rounded corners */
+    padding: 20px; /* Optional: padding inside the element */
+    box-shadow: 0 4px 6px rgba(255, 255, 255, 0.5); /* Optional: subtle shadow */
+    border: 1px solid rgba(255, 255, 255, 0.3); /* Optional: subtle border */
+    color: #fff; /* Text color */
+}

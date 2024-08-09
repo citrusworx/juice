@@ -56,26 +56,6 @@
     font-family: var(--light-font);
 }
 
-.text\:white {
-    color: white;
-}
-
-.text\:white\:faded {
-    color: hsla(360, 100%, 100%, 0.5);
-}
-
-.text\:black {
-    color: var(--black-700);
-}
-
-.text\:black\:matte {
-    color: var(--black-400);
-}
-
-.text\:gray {
-    color: var(--gray-500);
-}
-
 .bold {
     font-weight: bold;
 }
@@ -111,32 +91,32 @@
 /* Link STYLES */
 
 .link\:primary {
-    color: var(--primary);
+    color: var(--orange-300);
     text-decoration: none;
 }
 
 .link\:primary:active {
-    color: var(--secondary);
+    color: var(--orange-500);
     text-decoration: none;
 }
 
 .link\:primary:hover {
-    color: var(--secondary);
+    color: var(--orange-700);
     text-decoration: none;
 }
 
 .link\:primary:visited {
-    color: var(--primary);
+    color: var(--creamsicle-200);
     text-decoration: none;
 }
 
 .link\:light {
-    color: var(--gray-200);
+    color: var(--white-200);
     text-decoration: none;
 }
 
 .link\:light:hover {
-    color: var(--gray-400);
+    color: var(--white-400);
     text-decoration: none;
 }
 

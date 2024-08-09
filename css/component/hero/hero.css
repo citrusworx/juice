@@ -1,12 +1,12 @@
 .hero\:primary {
-    display: flex;
+    display: flexbox;
     justify-content: center;
     align-items: center;
     height: 70vh;
     max-height: 80vh;
     width: 100vw;
-    background: var(--blue-green-500);
     padding-bottom: 5rem;
+    overflow: hidden;
 }
 
 .hero\:secondary {

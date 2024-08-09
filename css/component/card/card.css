@@ -1,9 +1,8 @@
 /* Create sizing classes for the card */
 
-.card\:light {
-    background-color: var(--gray-100);
-    height: 35vh;
-    min-height: 50vh;
+.card {
+   display: flexbox;
+    height: 60vh;
     width: 40vw;
     max-width: 55vw;
     margin: 0 auto;
@@ -12,65 +11,6 @@
     border-radius: 10px;
  }
 
-.card\:light.sm {
-    background-color: var(--gray-100);
-    min-height: 25vh;
-    min-width: 10vw;
-    margin: 0 auto;
-    margin-top: 5vh;
-    padding: 2rem 2rem;
-    border-radius: 10px;
- }
- 
- .card\:dark {
-    background-color: var(--black-700);
-    width: 30vw;
-    max-width: 35vw;
-    margin: 0 auto;
-    margin-top: 5vh;
-    padding: 2rem 2rem;
-    border-radius: 10px;
- }
-
- .card\:primary {
-    background-color: var(--primary);
-    width: 30vw;
-    max-width: 35vw;
-    margin: 0 auto;
-    margin-top: 5vh;
-    padding: 2rem 2rem;
-    border-radius: 10px;
- }
-
- .card\:primary\:light {
-    background-color: var(--primary-light);
-    width: 30vw;
-    max-width: 35vw;
-    margin: 0 auto;
-    margin-top: 5vh;
-    padding: 2rem 2rem;
-    border-radius: 10px;
- }
- 
- .card\:secondary {
-    background-color: var(--secondary);
-    width: 30vw;
-    max-width: 35vw;
-    margin: 0 auto;
-    margin-top: 5vh;
-    padding: 2rem 2rem;
-    border-radius: 10px;
- }
-
- .card\:secondary\:light {
-    background-color: var(--secondary-light);
-    width: 30vw;
-    max-width: 35vw;
-    margin: 0 auto;
-    margin-top: 10vh;
-    padding: 2rem 2rem;
-    border-radius: 10px;
- }
 
  #card {
     width: 50vw;
