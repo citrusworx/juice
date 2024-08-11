@@ -58,3 +58,47 @@ then we can use the class as such in our markup.
 
 </div>
 ```
+
+We have also flirted with the idea of this convention
+
+```css
+
+/* selector : property :: value [combo] */
+/* example: border:color::white-100[solid-3] */
+
+.border\:color\:\:white-100\[solid-3\]{
+        border-color: var(--white-100);
+        border-style: solid;
+        border-width: 3px;
+}
+
+```
+
+We then apply the class to an html template like so:
+
+```html
+
+<h3 class="border:color::white-100[solid-3]">Heading With Border</h3>
+
+```
+
+So what we did is applied the typical BEM style without realizing it but doing it in a way that utilizes whitespace while applying utility-esque class naming. So let's try another example with a hyphen.
+
+We are going to applying the same class as before but with hyphens instead.
+
+```html
+
+<h3 class="border-color--white-100[solid-3]">Heading With Border</h3>
+
+```
+
+These are what we call *pure classes*. Pure classes use the same delimiter throughout the class name (given the combo selector). Then we have *hybrid* classes the use both delimiters and separate further into smaller utilities.
+
+```html
+
+<h3 class="border:color blue-400 solid:3px">Heading</h3>
+<h3 class="border-color blue-400 solid-3px">Heading</h3>
+
+```
+
+With hybrid classes there is a win-lose situation that is possible. If you are using selector that shares a property with another selector (say flex and grid with gap), be sure to use a shell to separate them.

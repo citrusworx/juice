@@ -8,11 +8,11 @@
     --sherbet-pistachio: hsl(55, 67%, 34%);
 
     /* Compound hsla */
-    --sherbet-lemon-hsla: hsla(55, 100%, 50%, 0.5);
-    --sherbet-peach-hsla: hsla(43, 100%, 50%, 0.5);
-    --sherbet-passion-hsla: hsl(289, 100%, 50%, 0.5);
-    --sherbet-bluerazz-hsla: hsl(256, 100%, 50%, 0.5);
-    --sherbet-pistachio-hsla: hsl(55, 67%, 34%, 0.5);
+    --sherbet-lemon-hsla: hsla(55, 100%, 50%, 0.3);
+    --sherbet-peach-hsla: hsla(43, 100%, 50%, 0.3);
+    --sherbet-passion-hsla: hsl(289, 100%, 50%, 0.3);
+    --sherbet-bluerazz-hsla: hsl(256, 100%, 50%, 0.3);
+    --sherbet-pistachio-hsla: hsl(55, 67%, 34%, 0.3);
 
 }
     
@@ -93,15 +93,15 @@ Background Classes
 /* Add hsla colors for shadow stiles */
 
 .shadow\:color\:\:sherbet-lemon.sm {
-    box-shadow: var(--sherbet-lemon) 2px 2px;
+    box-shadow: var(--sherbet-lemon-hsla) 2px 2px;
 }
 
 .shadow\:color\:\:sherbet-lemon.md {
-    box-shadow: var(--sherbet-lemon) 4px 4px;
+    box-shadow: var(--sherbet-lemon-hsla) 4px 6px;
 }
 
 .shadow\:color\:\:sherbet-lemon.lg {
-    box-shadow: var(--sherbet-lemon) 6px 6px;
+    box-shadow: var(--sherbet-lemon-hsla) 6px 6px;
 }
 
 .shadow\:color\:\:sherbet-peach.sm {
@@ -122,4 +122,26 @@ Background Classes
 
 .shadow\:color\:\:sherbet-pistachio {
     box-shadow: var(--sherbet-pistachio);
+}
+
+/* Outline */
+
+.outline\:color\:\:sherbet-lemon\[razz\] {
+    border-color: var(--sherbet-lemon);
+    color: var(--sherbet-bluerazz);
+}
+
+.outline\:color\:\:sherbet-lemon\[razz\]:hover {
+    border-color: var(--sherbet-bluerazz);
+    color: var(--sherbet-lemon);
+}
+
+.outline\:color\:\:sherbet-lemon\[stachio\] {
+    border-color: var(--sherbet-lemon);
+    color: var(--sherbet-pistachio);
+}
+
+.outline\:color\:\:sherbet-lemon\[stachio\]:hover {
+    border-color: var(--sherbet-pistachio);
+    color: var(--sherbet-lemon);
 }

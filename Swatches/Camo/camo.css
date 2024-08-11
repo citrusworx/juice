@@ -1,6 +1,54 @@
 :root {
-    --camo-100: hsl();
-    --camo-200: hsl();
-    --camo-300: hsl();
-    --camo-400: hsl();
+    --camo-forest: hsl(87, 50%, 17%);
+    --camo-grass: hsl(85, 75%, 30%);
+    --camo-moss: hsl(69, 65%, 20%);
+    --camo-tan: hsl(51, 28%, 68%);
+    --camo-earth: hsl(44, 23%, 35%);
 }
+
+/* Background Styles */
+
+.bg\:color\:\:camo\[forest\]{
+    background-color: var(--camo-forest);
+}
+
+.bg\:color\:\:camo\[grass\]{
+    background-color: var(--camo-grass);
+}
+
+.bg\:color\:\:camo\[moss\]{
+    background-color: var(--camo-grass);
+}
+
+.bg\:color\:\:camo\[tan\]{
+    background-color: var(--camo-tan);
+}
+
+.bg\:color\:\:camo\[earth\]{
+    background-color: var(--camo-earth);
+}
+
+/* Text Stiles */
+
+.text\:color\:\:camo\[forest\]{
+    color: var(--camo-forest);
+}
+
+.text\:color\:\:camo\[grass\]{
+    color: var(--camo-grass);
+}
+
+.text\:color\:\:camo\[moss\]{
+    color: var(--camo-moss);
+}
+
+.text\:color\:\:camo\[tan\]{
+    color: var(--camo-tan);
+}
+
+.text\:color\:\:camo\[earth\]{
+    color: var(--camo-earth);
+}
+
+/* Border Stiles */
+

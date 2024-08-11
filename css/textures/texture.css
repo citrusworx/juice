@@ -1,7 +1,276 @@
-.grunge {
-    background-repeat: no-repeat;
+@import url('hexa/hexa.css');
+
+/* 
+
+    GRUNGE TEXTURES
+
+*/
+.texture\:grunge\:\:splash-001 {
+    background-image: url('./grunge/svg/grunge-001.svg');
+    height: 100%;
+    width: 100%;
     background-size: cover;
-    mix-blend-mode: darken;
-    mask: url('./grunge/grunge-001.svg');
+    pointer-events: none;
+}
+
+.texture\:grunge\:\:splash-002 {
+    background-image: url('./grunge/png/Texture\ 2.png');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    pointer-events: none;
+}
+
+.texture\:grunge\:\:splash-003 {
+    background-image: url('./grunge/png/Texture\ 3.png');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    pointer-events: none;
+}
+
+.texture\:grunge\:\:splash-004 {
+    background-image: url('./grunge/png/Texture\ 4.png');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    pointer-events: none;
+}
+
+.texture\:grunge\:\:splash-005 {
+    background-image: url('./grunge/png/Texture\ 5.png');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    pointer-events: none;
+}
+
+.texture\:grunge\:\:splash-006 {
+    background-image: url('./grunge/png/Texture\ 6.png');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    pointer-events: none;
+}
+
+.texture\:grunge\:\:splash-007 {
+    background-image: url('./grunge/png/Texture\ 7.png');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    pointer-events: none;
+}
+
+.texture\:grunge\:\:splash-008 {
+    background-image: url('./grunge/png/Texture\ 8.png');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    pointer-events: none;
+}
+
+.texture\:grunge\:\:splash-009 {
+    background-image: url('./grunge/png/Texture\ 9.png');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    pointer-events: none;
+}
+
+.texture\:grunge\:\:splash-010 {
+    background-image: url('./grunge/png/Texture\ 10.png');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    pointer-events: none;
+}
+
+.texture\:grunge\:\:splash-011 {
+    background-image: url('./grunge/png/Texture\ 11.png');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    pointer-events: none;
+}
+
+.texture\:grunge\:\:splash-012 {
+    background-image: url('./grunge/png/Texture\ 12.png');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    pointer-events: none;
+}
+
+.texture\:grunge\:\:splash-013 {
+    background-image: url('./grunge/png/Texture\ 13.png');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    pointer-events: none;
+}
+
+.texture\:grunge\:\:splash-014 {
+    background-image: url('./grunge/png/Texture\ 14.png');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    pointer-events: none;
+}
+
+.texture\:grunge\:\:splash-015 {
+    background-image: url('./grunge/png/Texture\ 15.png');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    pointer-events: none;
+}
+
+.texture\:grunge\:\:splash-016 {
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+.bg\:test\[op-8\] > * {
+    position: relative;
     z-index: 1;
+}
+
+.texture\:grunge\:\:splash-016\[blur\]::before {
+    content: "";
+    background-image: url('./grunge/png/Texture\ 16.png');
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-size: cover;
+    pointer-events: none;
+    filter:contrast(20%);
+}
+
+
+/* 
+
+    GRID STYLES
+
+*/
+
+.texture\:grid\:\:pat-001 {
+    background-image: url('./grid/Grid\ 01.png');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    pointer-events: none;
+}
+
+.texture\:grid\:\:pat-002 {
+    background-image: url('./grid/Grid\ 02.png');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    pointer-events: none;
+}
+
+.texture\:grid\:\:pat-003 {
+    background-image: url('./grid/Grid\ 03.png');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    pointer-events: none;
+}
+
+.texture\:grid\:\:pat-004 {
+    background-image: url('./grid/Grid\ 04.png');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    pointer-events: none;
+}
+
+.texture\:grid\:\:pat-005 {
+    background-image: url('./grid/Grid\ 05.png');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    pointer-events: none;
+}
+
+.texture\:grid\:\:pat-006 {
+    background-image: url('./grid/Grid\ 06.png');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    pointer-events: none;
+}
+
+.texture\:grid\:\:pat-007 {
+    background-image: url('./grid/Grid\ 07.png');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    pointer-events: none;
+}
+
+.texture\:grid\:\:pat-008 {
+    background-image: url('./grid/Grid\ 08.png');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    pointer-events: none;
+}
+
+.texture\:grid\:\:pat-009 {
+    background-image: url('./grid/Grid\ 09.png');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    pointer-events: none;
+}
+
+.texture\:grid\:\:pat-010 {
+    background-image: url('./grid/Grid\ 10.png');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    pointer-events: none;
+}
+
+.texture\:grid\:\:pat-011 {
+    background-image: url('./grid/Grid\ 11.png');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    pointer-events: none;
+}
+
+.texture\:grid\:\:pat-012 {
+    background-image: url('./grid/Grid\ 12.png');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    pointer-events: none;
+}
+
+
+
+
+.darken {
+    mix-blend-mode: darken;
+}
+
+.multiply {
+    mix-blend-mode: multiply;
+}
+
+.color\:\:burn {
+    mix-blend-mode: color-burn;
+}
+
+.cover {
+    background-size: cover;
+}
+
+.bg\:test\[op-8\] {
+    background: hsla(20, 50%, 50%, 0.8);
 }
