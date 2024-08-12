@@ -54,19 +54,19 @@
 }
 
 .top\:6 {
-    top: 2vh;
+    top: 6vh;
 }
 
 .top\:7 {
-    top: 3vh;
+    top: 7vh;
 }
 
 .top\:8 {
-    top: 4vh;
+    top: 8vh;
 }
 
 .top\:9 {
-    top: 5vh;
+    top: 9vh;
 }
 
 .top\:10 {
@@ -120,23 +120,23 @@
 }
 
 .left\:1 {
-    left: 0.2rem;
+    left: 1rem;
 }
 
 .left\:2 {
-    left: 1vw;
+    left: 2vw;
 }
 
 .left\:3 {
-    left: 1.25vw;
+    left: 3vw;
 }
 
 .left\:4 {
-    left: 1.5vw;
+    left: 4vw;
 }
 
 .left\:5 {
-    left: 1.75vw;
+    left: 5vw;
 }
 
 .left\:6 {
@@ -144,21 +144,152 @@
 }
 
 .left\:7 {
-    left: 2.25vw;
+    left: 7vw;
 }
 
 .left\:8 {
-    left: 2.5vw;
+    left: 8vw;
 }
 
 .left\:9 {
-    left: 2.75vw;
+    left: 9vw;
 }
 
 .left\:10 {
-    left: 3vw;
+    left: 10vw;
 }
 
+.left\:11 {
+    left:11rem;
+}
+
+.left\:12 {
+    left: 12vw;
+}
+
+.left\:13 {
+    left: 13vw;
+}
+
+.left\:14 {
+    left: 14vw;
+}
+
+.left\:15 {
+    left: 15vw;
+}
+
+.left\:16 {
+    left: 16vw;
+}
+
+.left\:17 {
+    left: 17vw;
+}
+
+.left\:18 {
+    left: 18vw;
+}
+
+.left\:19 {
+    left: 19vw;
+}
+
+.left\:20 {
+    left: 20vw;
+}
+
+.left\:20 {
+    left: 20vw;
+}
+
+.left\:21 {
+    left: 21vw;
+}
+
+.left\:22 {
+    left: 22vw;
+}
+
+.left\:23 {
+    left: 23vw;
+}
+
+.left\:24 {
+    left: 24vw;
+}
+
+.left\:25 {
+    left: 25vw;
+}
+
+.left\:26 {
+    left: 26vw;
+}
+
+.left\:27 {
+    left: 27vw;
+}
+
+.left\:28 {
+    left: 28vw;
+}
+
+.left\:29 {
+    left: 29vw;
+}
+
+.left\:30 {
+    left: 30vw;
+}
+
+.left\:31 {
+    left: 31vw;
+}
+
+.left\:32 {
+    left: 32vw;
+}
+
+.left\:33 {
+    left: 33vw;
+}
+
+.left\:34 {
+    left: 34vw;
+}
+
+.left\:35 {
+    left: 35vw;
+}
+
+.left\:36 {
+    left: 36vw;
+}
+
+.left\:37 {
+    left: 37vw;
+}
+
+.left\:38 {
+    left: 38vw;
+}
+
+.left\:39 {
+    left: 39vw;
+}
+
+.left\:40 {
+    left: 40vw;
+}
+
+
+
+/* 
+
+    RIGHT
+
+*/
 
 .right {
     right: 0.2rem;

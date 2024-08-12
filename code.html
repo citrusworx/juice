@@ -10,22 +10,29 @@
     <link rel="stylesheet" async href="css/juice.css">   
 </head>
     <body>
-        <nav class="flex row center nav:bar secondary:md">
+        <nav class="flex row center nav:bar secondary:md rel">
             <a href="index.html"><span class="text:color:primary">berillium<span class="text:white">CSS</span></span></a> 
             <ul class="flex row center gap:10">
                 <li><a class="link:light" href="index.html">Home</a></li>
-                <li><a class="link:light" href="swatches.html">Swatches</a></li>
+                <li><a class="link:light" href="" id="swatch-link">Swatches</a></li>
                 <li><a class="link:light" href="gradient.html">Gradients</a></li>
                 <li><a class="link:light" href="fonts.html">Fonts</a></li>
                 <li><a class="link:light" href="code.html">Code</a></li>
                 <li><a class="link:light" href="/html/blog/blog.html">HTML</a></li>
                 <li><a class="link:light" href="#">Docs</a></li>
             </ul>        
+            <div class="abs top:7 left:29 h:20 w:8 bg:color::white-200 ds:sm front dis:none rounded:sm" id="swatches-menu">
+                <ul class="list:none flex col  items:start center">
+                    <li class="p:rel:3 mt:3 :hover::blue-300"><a href="/swatches.html" class="dec:none" title="Meloncolly">Meloncolly</a></li>
+                    <li class="p:rel:3 mt:3 :hover::blue-300"><a href="/swatches.html" class="dec:none" title="Camo">Camo</a></li>
+                </ul>
+            </div>
         </nav>
+        
     <main>
         
 
-        <section class="hero:secondary shadow:color::sherbet-lemon md flex col ds:md" id="hero">
+        <section class="hero:secondary shadow:color::sherbet-lemon md flex col ds:md rel" id="hero">
            <div class="card bg blue-300 mob:scroll">
                 <h2 class="text:color::sherbet-lemon text:xxlg :hover-red">Icon Tester</h2>
                 <i class="pizza-truck icon:orange-600 icon:lg"></i>
@@ -88,9 +95,9 @@
             </div>
         </section>
 
-        <div class="bg-brown-200 h:80 w:full cover m:auto rel mid">
-            <div class="texture:grid::pat-010 flex items:center content:center center">
-                <div class="h:75% w:40 m:auto rounded:sm bg-brown-200 rel mt:10 ds:md">
+        <div class="bg:blue-200 h:90 w:full cover m:auto rel mid">
+            <div class="texture:grid::pat-002 flex items:center content:center center">
+                <div class="h:75% w:40 m:auto rounded:sm bg:blue-200 rel ds:md">
                     <div class="front h:100% abs top:0 left:0 flex col items:center content:center center content:box">
                     <h3 class="text:lg">Introducing Texures and Patterns</h3>
                     <p>
@@ -100,14 +107,14 @@
                         Veritatis, dolorem ut! Laborum consectetur minima eaque corporis voluptas amet quae cupiditate dolorem illo quaerat. Nihil ipsum enim qui ab quod? Voluptatem quidem provident corporis repellat laborum. Possimus, perferendis temporibus.
                         Quas nulla incidunt qui culpa, perferendis laudantium? Cupiditate, necessitatibus veniam aut, pariatur, labore corrupti provident ad in omnis neque mollitia dolore odio. Modi hic cumque ipsa cupiditate animi, reiciendis excepturi.
                     </p>
-                    <button class="btn:flat bg-brown-700 rounded:sm text:color::white-100">Click Me For Stuff</button>
+                    <button class="btn:flat bg:blue-700 rounded:sm text:color::white-100">Click Me For Stuff</button>
                     </div>
                 </div>
             </div>
         </div>
         
         
-        <footer class="flex around fw-wrap bg-ocean h:40 items:center pb:rel:10 w:min:25 gap:1">
+        <footer class="flex around fw-wrap bg-ocean h:40 items:center pb:rel:10 w:min:25 gap:1 rel">
             <div class="w-15 mt:10" id="footer-logo">
                 <h2 class="text:color text:font:orimary orange-500 text:xxxlg">J<span class="text:primary bold text:color creamsicle-500 text:xxxlg">ui</span>ce</h2>
                 <button class="h:5 w:10 rounded:sm p:rel:2 btn:blush:sky text:white" title="Change Theme">Change Theme</button>
@@ -150,5 +157,6 @@
         </footer>
     </main>
     <script src="/js/juice/accordion.js"></script>
+    <script src="/js/juice/juice.js"></script>
     </body>
 </html>
