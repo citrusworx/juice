@@ -1,0 +1,245 @@
+.magicon[class *= "9-dots"]{
+        -webkit-mask-image: url('../../../icons/magicon/9-dots-icon.svg');
+        -webkit-mask-size: contain;
+        -webkit-mask-repeat: no-repeat;
+        mask-image: url('../../../icons/magicon/9-dots-icon.svg');
+        mask-size: contain;
+        mask-repeat: no-repeat;
+}
+
+.magicon.arrow-down\[1\] {
+    -webkit-mask-image: url('../../../icons/magicon/arrow-down-1-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/arrow-down-1-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.arrow-down\[2\] {
+    -webkit-mask-image: url('../../../icons/magicon/arrow-down-2-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/arrow-down-2-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.arrow-left\[1\] {
+    -webkit-mask-image: url('../../../icons/magicon/arrow-left-1-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/arrow-left-1-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.arrow-left\[2\] {
+    -webkit-mask-image: url('../../../icons/magicon/arrow-left-2-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/arrow-left-2-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.arrow-left-right {
+    -webkit-mask-image: url('../../../icons/magicon/arrow-left-right-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/arrow-left-right-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.arrow-right\[1\] {
+    -webkit-mask-image: url('../../../icons/magicon/arrow-right-1-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/arrow-right-1-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.arrow-right\[2\] {
+    -webkit-mask-image: url('../../../icons/magicon/arrow-right-2-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/arrow-right-2-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.arrow-up\[1\] {
+    -webkit-mask-image: url('../../../icons/magicon/arrow-up-1-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/arrow-up-1-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.arrow-up\[2\] {
+    -webkit-mask-image: url('../../../icons/magicon/arrow-up-2-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/arrow-up-2-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.arrow-up-down {
+    -webkit-mask-image: url('../../../icons/magicon/arrow-down-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/arrow-up-down-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.arrows-left-right {
+    -webkit-mask-image: url('../../../icons/magicon/arrows-left-right-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/arrows-left-right-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.arrows-right\[1\] {
+    -webkit-mask-image: url('../../../icons/magicon/arrow-right-1-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/arrow-right-1-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.arrow-right\[2\] {
+    -webkit-mask-image: url('../../../icons/magicon/arrow-right-2-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/arrow-right-2-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.arrows-up\[1\] {
+    -webkit-mask-image: url('../../../icons/magicon/arrow-up-1-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/arrow-up-1-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.arrow-up\[2\] {
+    -webkit-mask-image: url('../../../icons/magicon/arrow-up-2-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/arrow-up-2-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.arrows-up-down {
+    -webkit-mask-image: url('../../../icons/magicon/arrows-up-down-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/arrows-up-down-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.backward-filled {
+    -webkit-mask-image: url('../../../icons/magicon/backward-filled-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/backward-filled-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat; 
+}
+
+.magicon.backward {
+    -webkit-mask-image: url('../../../icons/magicon/backward-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/backward-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.battery\[empty\] {
+    -webkit-mask-image: url('../../../icons/magicon/battery-empty-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/battery-empty-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.battery\[full\] {
+    -webkit-mask-image: url('../../../icons/magicon/battery-full-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/battery-full-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.battery\[half\] {
+    -webkit-mask-image: url('../../../icons/magicon/battery-half-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/battery-half-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.battery\[low\] {
+    -webkit-mask-image: url('../../../icons/magicon/battery-low-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/battery-low-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.blocks\[filled\] {
+    -webkit-mask-image: url('../../../icons/magicon/blocks-filled-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/blocks-filled-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.blocks {
+    -webkit-mask-image: url('../../../icons/magicon/blocks-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/blocks-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.bubble\[filled\] {
+    -webkit-mask-image: url('../../../icons/magicon/bubble-filled-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/bubble-filled-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.bubble {
+    -webkit-mask-image: url('../../../icons/magicon/bubble-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/bubble-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+
+
