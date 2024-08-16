@@ -348,3 +348,93 @@
     mask-size: contain;
     mask-repeat: no-repeat;
 }
+
+.magicon.dashboard\[filled\] {
+    -webkit-mask-image: url('../../../icons/magicon/dashboard-filled-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/dashboard-filled-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.dashboard {
+    -webkit-mask-image: url('../../../icons/magicon/dashboard-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/dashboard-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.document\[filled\] {
+    -webkit-mask-image: url('../../../icons/magicon/document-filled-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/document-filled-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.document {
+    -webkit-mask-image: url('../../../icons/magicon/document-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/document-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.document\[plus\] {
+    -webkit-mask-image: url('../../../icons/magicon/document-plus-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/document-plus-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.document\[text\] {
+    -webkit-mask-image: url('../../../icons/magicon/document-text-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/document-text-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.dots\[hr\] {
+    -webkit-mask-image: url('../../../icons/magicon/dots-hr-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/dots-hr-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.dots\[vr\] {
+    -webkit-mask-image: url('../../../icons/magicon/dots-vr-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/dots-vr-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.download {
+    -webkit-mask-image: url('../../../icons/magicon/download-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/download-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.duplicate {
+    -webkit-mask-image: url('../../../icons/magicon/duplicate-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/duplicate-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
