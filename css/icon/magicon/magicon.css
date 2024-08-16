@@ -241,5 +241,110 @@
     mask-repeat: no-repeat;
 }
 
+.magicon.calendar {
+    -webkit-mask-image: url('../../../icons/magicon/calendar-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/calendar-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
 
+.magicon.camera\[filled\] {
+    -webkit-mask-image: url('../../../icons/magicon/camera-filled-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/camera-filled-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
 
+.magicon.camera {
+    -webkit-mask-image: url('../../../icons/magicon/camera-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/camera-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.cart {
+    -webkit-mask-image: url('../../../icons/magicon/cart-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/cart-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.clock\[filled\]{
+    -webkit-mask-image: url('../../../icons/magicon/clock-filled-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/clock-filled-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.clock {
+    -webkit-mask-image: url('../../../icons/magicon/clock-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/clock-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.close-circle\[filled\]{
+    -webkit-mask-image: url('../../../icons/magicon/close-circle-filled-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/close-circle-filled-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.close-circle {
+    -webkit-mask-image: url('../../../icons/magicon/close-circle-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/close-circle-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.close {
+    -webkit-mask-image: url('../../../icons/magicon/close-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/close-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.cloud\[filled\] {
+    -webkit-mask-image: url('../../../icons/magicon/cloud-filled-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/cloud-filled-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.cloud {
+    -webkit-mask-image: url('../../../icons/magicon/cloud-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/cloud-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.magicon.crop {
+    -webkit-mask-image: url('../../../icons/magicon/crop-icon.svg');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: url('../../../icons/magicon/crop-icon.svg');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
