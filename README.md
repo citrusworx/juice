@@ -26,7 +26,7 @@ There's pros and cons to all naming conventions used in CSS. We believe there is
 </section>
 ```
 
-## 🌈 Swatch Library: Unleash Your Inner Artist
+## 🌈 Swatch Library: Expressive Design
 
 Unlock your creative potential with our revolutionary Swatch Library. Instead of reusing the same old colors, choose from our meticulously curated color schemes, featuring different systems color harmonies like:
 
@@ -87,8 +87,6 @@ Unlock your creative potential with our revolutionary Swatch Library. Instead of
 
 This allows for endless color choice and opportunity. Feel free to paruse the swatch library :D
 
-### Gradients Galore
-
 ### Featured Swatches
 
 🍉 **Meloncolly**: Experience a palette of sentimental greens and lively reds.
@@ -104,6 +102,8 @@ This allows for endless color choice and opportunity. Feel free to paruse the sw
 🌊 **Aquaflux**: A collection of sea fairing blends of color
 
 🚥 **Neon**: A collection of electric colors
+
+### Gradients Galore
 
 ## 🎥 Animation Station
 
