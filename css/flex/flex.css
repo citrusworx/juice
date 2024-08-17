@@ -1,100 +1,234 @@
 @import url('mobile.css');
 
-.flex {
+.flex,.fl {
     display: flex;
 }
 
-.fl {
-    display: flex;
-}
-
-.ai-center {
+.ai-center, .items\:center {
     align-items: center;
 }
 
-.items\:center{
-    align-items: center;
-}
-
-.ai-baseline {
+.ai-baseline, .items\:baseline {
     align-items: baseline;
 }
 
-.items\:baseline {
-    align-items: baseline;
-}
-
-.ai-end {
+.ai-end, .items\:end {
     align-items: flex-end;
 }
 
-.items\:end {
-    align-items: end;
-}
-
-.ai-start {
+.ai-start, .items\:start {
     align-items: flex-start;
 }
 
-.items\:start {
-    align-items: start;
-}
-
-
-.items\:stretch{
+.ai-stretch, .items\:stretch {
     align-items: stretch;
 }
 
-.ai-stretch {
-    align-items: stretch;
-}
-
-.ac-center {
+/* Align Content */
+.ac-center, .content\:center {
     align-content: center;
 }
 
-.content\:center {
-    align-content: center;
-}
-
-.ac-start {
+.ac-start, .content\:start {
     align-content: start;
 }
 
-.content\:start {
-    align-content: start;
-}
-
-.ac-baseline {
+.ac-baseline, .content\:baseline {
     align-content: baseline;
 }
 
-.content\:baseline {
-    align-content: baseline;
-}
-
-.ac-between {
+.ac-between, .content\:between {
     align-content: space-between;
 }
 
-.content\:between {
-    align-content: space-between; 
-}
-
-.ac-around {
+.ac-around, .content\:around {
     align-content: space-around;
 }
 
-.content\:around {
-    align-content: space-around;
-}
-
-.ac-evenly {
+.ac-evenly, .content\:evenly {
     align-content: space-evenly;
 }
 
-.content\:evenly {
-    align-content: space-evenly;
+/* Align Self */
+
+.as-center, .self\:center {
+    align-self: center;
+}
+
+.as-start, .self\:start {
+    align-self: flex-start;
+}
+
+.as-end, .self\:end {
+    align-self: flex-end;
+}
+
+/* Align Tracks */
+.at-inherit, .tracks\:inherit {
+    align-tracks:inherit
+}
+
+
+/* Justify Items */
+
+.ji\:base, .justify\:items.\[base\] {
+    justify-items: baseline;
+}
+
+.ji\:center, .justify\:items.\[center\] {
+    justify-items: center;
+}
+
+.ji\:base, .justify\:items.\[end\] {
+    justify-items: end;
+}
+
+.ji\:base, .justify\:items.\[first-base\] {
+    justify-items: first baseline;
+}
+
+.ji\:base, .justify\:items.\[flex-end\] {
+    justify-items: flex-end;
+}
+
+.ji\:base, .justify\:items.\[flex-start\] {
+    justify-items: flex-start;
+}
+
+.ji\:base, .justify\:items.\[last-base\] {
+    justify-items: last baseline;
+}
+
+.ji\:base, .justify\:items.\[last-base\] {
+    justify-items: last baseline;
+}
+
+.ji\:base, .justify\:items.\[left\] {
+    justify-items: left;
+}
+
+.ji\:base, .justify\:items.\[legacy\] {
+    justify-items: legacy;
+}
+
+.ji\:base, .justify\:items.\[normal\] {
+    justify-items: normal;
+}
+
+.ji\:base, .justify\:items.\[right\] {
+    justify-items: right;
+}
+
+.ji\:base, .justify\:items.\[safe\] {
+    justify-items: safe;
+}
+
+.ji\:base, .justify\:items.\[self-end\] {
+    justify-items: self-end;
+}
+
+.ji\:base, .justify\:items.\[self-start\] {
+    justify-items: self-start;
+}
+
+.ji\:base, .justify\:items.\[start\] {
+    justify-items: start;
+}
+
+.ji\:base, .justify\:items.\[stretch\] {
+    justify-items: stretch;
+}
+
+.ji\:base, .justify\:items.\[unsafe\] {
+    justify-items: unsafe;
+}
+
+/* Justify Content */
+
+.jc-start, .justify\:start {
+    justify-content: start;
+}
+
+.jc-end, .justify\:end {
+    justify-content: end;
+}
+
+.jc-center, .justify\:center {
+    justify-content: center;
+}
+
+.jc-between, .justify\:between {
+    justify-content: space-between;
+}
+
+.jc-around, .justify\:around {
+    justify-content: space-around;
+}
+
+/* Self */
+
+.self\:justify.\[base\] {
+    justify-self: baseline;
+}
+
+.self\:justify.\[center\] {
+    justify-self: center;
+}
+
+.self\:justify.\[end\] {
+    justify-self: end;
+}
+
+.self\:justify.\[first-base\] {
+    justify-self: first baseline;
+}
+
+.self\:justify.\[flex-end\] {
+    justify-self: flex-end;
+}
+
+.self\:justify.\[flex-start\] {
+    justify-self: flex-start;
+}
+
+.self\:justify.\[last-base\] {
+    justify-self: last baseline;
+}
+
+.self\:justify.\[left\] {
+    justify-self: left;
+}
+
+.self\:justify.\[normal\] {
+    justify-self: normal;
+}
+
+.self\:justify.\[right\] {
+    justify-self: right;
+}
+
+.self\:justify.\[save\] {
+    justify-self: save;
+}
+
+.self\:justify.\[self-end\] {
+    justify-self: self-end;
+}
+
+.self\:justify.\[self-start\] {
+    justify-self: self-start;
+}
+
+.self\:justify.\[start\] {
+    justify-self: start;
+}
+
+.self\:justify.\[stretch\] {
+    justify-self: stretch;
+}
+
+.self\:justify.\[unsave\] {
+    justify-self: unsave;
 }
 
 .fw-rev {
@@ -107,62 +241,6 @@
 
 .fw-wrap {
     flex-wrap: wrap;
-}
-
-.as-center {
-    align-self: center;
-}
-
-.self\:center {
-    align-self: center;
-}
-
-.self\:start {
-    align-self: flex-start;
-}
-
-.self\:end {
-    align-self: flex-end;
-}
-
-.jc-start {
-    justify-content: start;
-}
-
-.justify\:start {
-    justify-content: start;
-}
-
-.jc-end {
-    justify-content: end;
-}
-
-.justify\:end {
-    justify-content: end;
-}
-
-.jc-center {
-    justify-content: center;
-}
-
-.justify\:center {
-    justify-content: center;
-}
-
-.jc-between {
-    justify-content: space-between;
-}
-
-.justify\:between {
-    justify-content: space-between;
-}
-
-.jc-around {
-    justify-content: space-around;
-}
-
-.justify\:around {
-    justify-content: space-around;
 }
 
 /* SPACING */
