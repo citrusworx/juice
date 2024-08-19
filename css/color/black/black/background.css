@@ -1,0 +1,82 @@
+/* Black */
+.bg-color--black-100,
+.bg-color.black-100,
+.bg\:color\:\:black-100,
+.bg\:color.black\:100,
+.bgc\:black\:100,
+.bgc-black-100
+{
+    background-color: var(--black-100);
+}
+
+.bg-color--black-200,
+.bg-color.black-200,
+.bg\:color\:\:black-200,
+.bg\:color.black\:200,
+.bgc\:black\:200,
+.bgc-black-200 {
+    background-color: var(--black-200);
+}
+
+.bg-color--black-300,
+.bg-color.black-300,
+.bg\:color\:\:black-300,
+.bg\:color.black\:300,
+.bgc\:black\:300,
+.bgc-black-300 {
+    background-color: var(--black-300);
+}
+
+.bg-color--black-400,
+.bg-color.black-400,
+.bg\:color\:\:black-400,
+.bg\:color.black\:400,
+.bgc\:black\:400,
+.bgc-black-400 {
+    background-color: var(--black-400);
+}
+
+.bg-color--black-500,
+.bg-color.black-500,
+.bg\:color\:\:black-500,
+.bg\:color.black\:500,
+.bgc\:black\:500,
+.bgc-black-500 {
+    background-color: var(--black-500);
+}
+
+.bg-color--black-600,
+.bg-color.black-600,
+.bg\:color\:\:black-600,
+.bg\:color.black\:600,
+.bgc\:black\:600,
+.bgc-black-600 {
+    background-color: var(--black-600);
+}
+
+.bg-color--black-700,
+.bg-color.black-700,
+.bg\:color\:\:black-700,
+.bg\:color.black\:700,
+.bgc\:black\:700,
+.bgc-black-700 {
+    background-color: var(--black-700);
+}
+
+.bg-color--black-800,
+.bg-color.black-800,
+.bg\:color\:\:black-800,
+.bg\:color.black\:800,
+.bgc\:black\:800,
+.bgc-black-800 {
+    background-color: var(--black-800);
+}
+
+.bg-color--black-900,
+.bg-color.black-900,
+.bg\:color\:\:black-900,
+.bg\:color.black\:900,
+.bgc\:black\:900,
+.bgc-black-900 {
+    background-color: var(--black-900);
+}

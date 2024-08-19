@@ -1,0 +1,36 @@
+/* Background */
+.bg\:onyx-100, .bg.onyx-100, .bg-onyx-100, .bg\:onyx\:100 {
+    background-color: var(--onyx-100);
+}
+
+.bg\:onyx-200, .bg.onyx-200, .bg-onyx-200, .bg\:onyx\:200 {
+    background-color: var(--onyx-200);
+}
+
+.bg\:onyx-300, .bg.onyx-300, .bg-onyx-300, .bg\:onyx\:300 {
+    background-color: var(--onyx-300);
+}
+
+.bg\:onyx-400, .bg.onyx-400, .bg-onyx-400, .bg\:onyx\:400 {
+    background-color: var(--onyx-400);
+}
+
+.bg\:onyx-500, .bg.onyx-500, .bg-onyx-500, .bg\:onyx\:500 {
+    background-color: var(--onyx-500);
+}
+
+.bg\:onyx-600, .bg.onyx-600, .bg-onyx-600, .bg\:onyx\:600 {
+    background-color: var(--onyx-600);
+}
+
+.bg\:onyx-700, .bg.onyx-700, .bg-onyx-700, .bg\:onyx\:700 {
+    background-color: var(--onyx-700);
+}
+
+.bg\:onyx-800, .bg.onyx-800, .bg-onyx-800, .bg\:onyx\:800 {
+    background-color: var(--onyx-800);
+}
+
+.bg\:onyx-900, .bg.onyx-900, .bg-onyx-900, .bg\:onyx\:900 {
+    background-color: var(--onyx-900);
+}

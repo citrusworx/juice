@@ -1,0 +1,63 @@
+/* Icon */
+.icon\:black-100, .icon.black-100 {
+    display: inline-block;
+    background: var(--black-100);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:black-200, .icon.black-200 {
+    display: inline-block;
+    background: var(--black-200);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:black-300, .icon.black-300 {
+    display: inline-block;
+    background: var(--black-300);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:black-400, .icon.black-400 {
+    display: inline-block;
+    background: var(--black-400);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:black-500, .icon.black-500 {
+    display: inline-block;
+    background: var(--black-500);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:black-600, .icon.black-600 {
+    display: inline-block;
+    background: var(--black-600);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:black-700, .icon.black-700 {
+    display: inline-block;
+    background: var(--black-700);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:black-800, .icon.black-800 {
+    display: inline-block;
+    background: var(--black-800);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:black-900, .icon.black-900 {
+    display: inline-block;
+    background: var(--black-900);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
