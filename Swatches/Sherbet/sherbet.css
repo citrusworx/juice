@@ -16,15 +16,31 @@
 
 }
     
-.text\:color\:\:sherbet-lemon {
+.text\:color\:\:sherbet-lemon,
+.text-color--sherbet-lemon,
+.text\:color.sherbet\:lemon,
+.text-color.sherbet-lemon,
+.tc\:sherbet-lemon
+{
     color: var(--sherbet-lemon);
 }
 
-.text\:color\:\:sherbet-peach {
+.text\:color\:\:sherbet-peach,
+.text-color--sherbet-peach,
+.text\:color.sherbet\:peach,
+.text-color.sherbet-peach,
+.tc\:sherbet-peach
+{
     color: var(--sherbet-peach);
 }
 
-.text\:color\:\:sherbet-passion {
+.text\:color\:\:sherbet\:passion,
+.text-color--sherbet-passion,
+.text\:color.sherbet\:passion,
+.text-color.sherbet-passion,
+.tc\:sherbet\:passion,
+.tc-sherbet-passion
+{
     color: var(--sherbet-passion);
 }
 

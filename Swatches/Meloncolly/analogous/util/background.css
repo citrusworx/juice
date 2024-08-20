@@ -1,0 +1,37 @@
+.bg\:color\:\:meloncolly\:zinnia,
+.bg-color--meloncolly-zinnia,
+.bg\:color.meloncolly\:zinnia,
+.bg-meloncolly.zinnia,
+.bgc\:meloncolly\:zinnia,
+.bgc-meloncolly-zinnia
+{
+    background-color: var(--meloncolly-zinnia);
+}
+
+.bg\:color\:\:meloncolly\:tertiary,
+.bg-color--meloncolly-tertiary,
+.bg\:color.meloncolly\:tertiary,
+.bg-meloncolly.tertiary,
+.bgc\:meloncolly\:tertiary,
+.bgc-meloncolly-tertiary
+{
+    background-color: var(--meloncolly-tertiary);
+}
+
+.bg\:color\:\:meloncolly\:lavender,
+.bg-color--meloncolly-lavender,
+.bg\:color.meloncolly\:lavender,
+.bg-meloncolly.lavender,
+.bgc\:meloncolly\:lavender,
+.bgc-meloncolly-lavender {
+    background-color: var(--meloncolly-lavender);
+}
+
+.bg\:color\:\:meloncolly\:azalea,
+.bg-color--meloncolly-azalea,
+.bg\:color.meloncolly\:azalea,
+.bg-meloncolly.azalea,
+.bgc\:meloncolly\:azalea,
+.bgc-meloncolly-azalea {
+    background-color: var(--meloncolly-azalea);
+}

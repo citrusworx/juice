@@ -1,0 +1,39 @@
+.bg\:color\:\:meloncolly\:plum,
+.bg-color--meloncolly-plum,
+.bg\:color.meloncolly-plum,
+.bg-color.meloncolly-plum,
+.bgc\:meloncolly-plum,
+.bgc-meloncolly-plum
+{
+    background-color: var(--meloncolly-plum);
+}
+
+.bg\:color\:\:meloncolly\:lime,
+.bg-color--meloncolly-lime,
+.bg\:color.meloncolly-lime,
+.bg-color.meloncolly-lime,
+.bgc\:meloncolly-lime,
+.bgc-meloncolly-lime
+{
+    background-color: var(--meloncolly-lime);
+}
+
+.bg\:color\:\:meloncolly\:cascade,
+.bg-color--meloncolly-cascade,
+.bg\:color.meloncolly-cascade,
+.bg-color.meloncolly-cascade,
+.bgc\:meloncolly-cascade,
+.bgc-meloncolly-cascade
+{
+    background-color: var(--meloncolly-cascade);
+}
+
+.bg\:color\:\:meloncolly\:compliment,
+.bg-color--meloncolly-compliment,
+.bg\:color.meloncolly-compliment,
+.bg-color.meloncolly-compliment,
+.bgc\:meloncolly-compliment,
+.bgc-meloncolly-compliment
+{
+    background-color: var(--meloncolly-compliment);
+}

@@ -1,0 +1,17 @@
+/* Text Stiles */
+
+.text.meloncolly\:zinnia {
+    color: var(--meloncolly-zinnia);
+}
+
+.text.meloncolly\:tertiary {
+    color: var(--meloncolly-tertiary);
+}
+
+.text.meloncolly\:lavender {
+    color: var(--meloncolly-lavender);
+}
+
+.text.meloncolly\:azalea {
+    color: var(--meloncolly-azalea);
+}

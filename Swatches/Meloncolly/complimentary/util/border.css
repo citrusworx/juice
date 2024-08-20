@@ -1,0 +1,36 @@
+.border\:color\:\:meloncolly-plum,
+.border-color--meloncolly-plum,
+.border\:color.meloncolly\:plum,
+.border-color.meloncolly-plum,
+.bc\:meloncolly\:plum,
+.bc-meloncolly-plum
+{
+    border-color: var(--meloncolly-plum);
+}
+
+.border\:color\:\:meloncolly-lime,
+.border-color--meloncolly-lime,
+.border\:color.meloncolly\:lime,
+.border-color.meloncolly-lime,
+.bc\:meloncolly\:lime,
+.bc-meloncolly-lime {
+    border-color: var(--meloncolly-lime);
+}
+
+.border\:color\:\:meloncolly-cascade,
+.border-color--meloncolly-cascade,
+.border\:color.meloncolly\:cascade,
+.border-color.meloncolly-cascade,
+.bc\:meloncolly\:cascade,
+.bc-meloncolly-cascade {
+    border-color: var(--meloncolly-cascade);
+}
+
+.border\:color\:\:meloncolly-compliment,
+.border-color--meloncolly-compliment,
+.border\:color.meloncolly\:compliment,
+.border-color.meloncolly-compliment,
+.bc\:meloncolly\:compliment,
+.bc-meloncolly-compliment {
+    border-color: var(--meloncolly-compliment);
+}
