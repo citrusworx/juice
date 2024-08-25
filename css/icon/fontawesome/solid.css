@@ -4068,33 +4068,6 @@
     mask-repeat: no-repeat;
 }
 
-.fas-solid.face\:angry {
-    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-angry.svg');
-    -webkit-mask-size: contain;
-    -webkit-mask-repeat: no-repeat;
-    mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-angry.svg');
-    mask-size: contain;
-    mask-repeat: no-repeat;
-}
-
-.fas-solid.face\:dizzy {
-    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-dizzy.svg');
-    -webkit-mask-size: contain;
-    -webkit-mask-repeat: no-repeat;
-    mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-dizzy.svg');
-    mask-size: contain;
-    mask-repeat: no-repeat;
-}
-
-.fas-solid.face\:flushed {
-    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-flushed.svg');
-    -webkit-mask-size: contain;
-    -webkit-mask-repeat: no-repeat;
-    mask-image: url('../../../icons/fontawesome/web/svgs/solid/face-flushed.svg');
-    mask-size: contain;
-    mask-repeat: no-repeat;
-}
-
 .fas-solid.eye\:low-vision {
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/eye-low-vision.svg');
     -webkit-mask-size: contain;
@@ -4619,8 +4592,7 @@
 }
 
 .fas-solid.file\:csv {
-    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/file-csv.svg');
-    -webkit-mask-size: contain;
+fi    -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
     mask-image: url('../../../icons/fontawesome/web/svgs/solid/file-csv.svg');
     mask-size: contain;
