@@ -1,0 +1,97 @@
+/* Hover Styles */
+
+.\:hover-black-100:hover, .\:hover.black-100:hover {
+    border-color: var(--black-100);
+    background-color: var(--black-100);
+}
+
+.\:hover-black-200:hover, .\:hover.black-200:hover {
+    border-color: var(--black-200);
+    background-color: var(--black-200);
+}
+
+.\:hover-black-300:hover, .\:hover.black-300:hover {
+    border-color: var(--black-300);
+    background-color: var(--black-300);
+}
+
+.\:hover-black-400:hover, .\:hover.black-400:hover {
+    border-color: var(--black-400);
+    background-color: var(--black-400);
+}
+
+.\:hover-black-500:hover, .\:hover.black-500:hover {
+    border-color: var(--black-500);
+    background-color: var(--black-500);
+}
+
+.\:hover-black-600:hover, .\:hover.black-600:hover {
+    border-color: var(--black-600);
+    background-color: var(--black-600);
+}
+
+.\:hover-black-700:hover, .\:hover.black-700:hover {
+    border-color: var(--black-700);
+    background-color: var(--black-700);
+}
+
+.\:hover-black-800:hover, .\:hover.black-800:hover {
+    border-color: var(--black-800);
+    background-color: var(--black-800);
+}
+
+.\:hover-black-900:hover, .\:hover.black-900:hover {
+    border-color: var(--black-900);
+    background-color: var(--black-900);
+}
+
+.\:hover-black-900\[white\]:hover{
+    border-color: var(--black-900);
+    background-color: var(--black-900);
+    color:var(--white-100);
+}
+
+.\:hover-black-100\[outline\]:hover, .\:hover.black-100\[outline\]:hover {
+    color: var(--black-100);
+    border-color: var(--black-100);
+}
+
+.\:hover-black-200\[outline\]:hover, .\:hover.black-200\[outline\]:hover {
+    color: var(--black-200);
+    border-color: var(--black-200);
+}
+
+.\:hover-black-300\[outline\]:hover, .\:hover.black-300\[outline\]:hover {
+    color: var(--black-300);
+    border-color: var(--black-300);
+}
+
+.\:hover-black-400\[outline\]:hover, .\:hover.black-400\[outline\]:hover {
+    color: var(--black-400);
+    border-color: var(--black-400);
+}
+
+.\:hover-black-500\[outline\]:hover, .\:hover.black-500\[outline\]:hover {
+    color: var(--black-500);
+    border-color: var(--black-500);
+}
+
+.\:hover-black-600\[outline\]:hover, .\:hover.black-600\[outline\]:hover {
+    color: var(--black-600);
+    border-color: var(--black-600);
+}
+
+.\:hover-black-700\[outline\]:hover, .\:hover.black-700\[outline\]:hover {
+    color: var(--black-700);
+    border-color: var(--black-700);
+}
+
+.\:hover-black-800\[outline\]:hover, .\:hover.black-800\[outline\]:hover {
+    color: var(--black-800);
+    border-color: var(--black-800);
+}
+
+.\:hover-black-900\[outline\]:hover, .\:hover.black-900\[outline\]:hover {
+    color: var(--black-900);
+    border-color: var(--black-900);
+}

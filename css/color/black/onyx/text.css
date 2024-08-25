@@ -1,0 +1,35 @@
+.text\:color\:onyx-100, .text-color-onyx-100, .text\:color.bg-onyx-100, .text-color.bg-onyx-100, .tc-onyx-100 , .tc\:onyx-100{
+    color: var(--onyx-100);
+}
+
+.text\:color\:onyx-200, .text-color-onyx-200, .text\:color.bg-onyx-200, .text-color.bg-onyx-200, .tc-onyx-200 , .tc\:onyx-200{
+    color: var(--onyx-200);
+}
+
+.text\:color\:onyx-300, .text-color-onyx-300, .text\:color.bg-onyx-300, .text-color.bg-onyx-300, .tc-onyx-300 , .tc\:onyx-300{
+    color: var(--onyx-300);
+}
+
+.text\:color\:onyx-400, .text-color-onyx-400, .text\:color.bg-onyx-400, .text-color.bg-onyx-400, .tc-onyx-400 , .tc\:onyx-400{
+    color: var(--onyx-400);
+}
+
+.text\:color\:onyx-500, .text-color-onyx-500, .text\:color.bg-onyx-500, .text-color.bg-onyx-500, .tc-onyx-500 , .tc\:onyx-500{
+    color: var(--onyx-500);
+}
+
+.text\:color\:onyx-600, .text-color-onyx-600, .text\:color.bg-onyx-600, .text-color.bg-onyx-600, .tc-onyx-600 , .tc\:onyx-600{
+    color: var(--onyx-600);
+}
+
+.text\:color\:onyx-700, .text-color-onyx-700, .text\:color.bg-onyx-700, .text-color.bg-onyx-700, .tc-onyx-700 , .tc\:onyx-700{
+    color: var(--onyx-700);
+}
+
+.text\:color\:onyx-800, .text-color-onyx-800, .text\:color.bg-onyx-800, .text-color.bg-onyx-800, .tc-onyx-800 , .tc\:onyx-800{
+    color: var(--onyx-800);
+}
+
+.text\:color\:onyx-900, .text-color-onyx-900, .text\:color.bg-onyx-900, .text-color.bg-onyx-900, .tc-onyx-900 , .tc\:onyx-900{
+    color: var(--onyx-900);
+}

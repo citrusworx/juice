@@ -1,23 +1,15 @@
+/* Module Import */
+@import url('util/background.css');
+@import url('util/border.css');
+@import url('util/hover.css');
+@import url('util/icon.css');
+@import url('util/shadow.css');
+@import url('util/text.css');
+
 :root {
         /* Complimentary */
         --meloncolly-plum: hsl(310, 75%, 38%);
         --meloncolly-lime: hsl(106, 100%, 50%);
         --meloncolly-cascade: hsl(106, 67%, 34%);
         --meloncolly-compliment: hsl(310, 50%, 25%);
-}
-
-.bg-meloncolly.plum {
-        background-color: var(--meloncolly-plum);
-}
-
-.bg-meloncolly.lime {
-        background-color: var(--meloncolly-lime);
-}
-
-.bg-meloncolly.cascade {
-        background-color: var(--meloncolly-cascade);
-}
-
-.bg-meloncolly.compliment {
-        background-color: var(--meloncolly-compliment);
 }

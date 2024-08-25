@@ -1,0 +1,36 @@
+
+.text\:color\:obsidian-100, .text-color-obsidian-100, .text\:color.bg-obsidian-100, .text-color.bg-obsidian-100, .tc-obsidian-100 , .tc\:obsidian-100{
+    color: var(--obsidian-100);
+}
+
+.text\:color\:obsidian-200, .text-color-obsidian-200, .text\:color.bg-obsidian-200, .text-color.bg-obsidian-200, .tc-obsidian-200 , .tc\:obsidian-200{
+    color: var(--obsidian-200);
+}
+
+.text\:color\:obsidian-300, .text-color-obsidian-300, .text\:color.bg-obsidian-300, .text-color.bg-obsidian-300, .tc-obsidian-300 , .tc\:obsidian-300{
+    color: var(--obsidian-300);
+}
+
+.text\:color\:obsidian-400, .text-color-obsidian-400, .text\:color.bg-obsidian-400, .text-color.bg-obsidian-400, .tc-obsidian-400 , .tc\:obsidian-400{
+    color: var(--obsidian-400);
+}
+
+.text\:color\:obsidian-500, .text-color-obsidian-500, .text\:color.bg-obsidian-500, .text-color.bg-obsidian-500, .tc-obsidian-500 , .tc\:obsidian-500{
+    color: var(--obsidian-500);
+}
+
+.text\:color\:obsidian-600, .text-color-obsidian-600, .text\:color.bg-obsidian-600, .text-color.bg-obsidian-600, .tc-obsidian-600 , .tc\:obsidian-600{
+    color: var(--obsidian-600);
+}
+
+.text\:color\:obsidian-700, .text-color-obsidian-700, .text\:color.bg-obsidian-700, .text-color.bg-obsidian-700, .tc-obsidian-700 , .tc\:obsidian-700{
+    color: var(--obsidian-700);
+}
+
+.text\:color\:obsidian-800, .text-color-obsidian-800, .text\:color.bg-obsidian-800, .text-color.bg-obsidian-800, .tc-obsidian-800 , .tc\:obsidian-800{
+    color: var(--obsidian-800);
+}
+
+.text\:color\:obsidian-900, .text-color-obsidian-900, .text\:color.bg-obsidian-900, .text-color.bg-obsidian-900, .tc-obsidian-900 , .tc\:obsidian-900{
+    color: var(--obsidian-900);
+}

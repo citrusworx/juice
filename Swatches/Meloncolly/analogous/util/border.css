@@ -1,0 +1,17 @@
+/* Border Stiles */
+
+.border\:thin.meloncolly\:zinnia {
+    border: 1px solid var(--meloncolly-zinnia);
+}
+
+.border\:thin.meloncolly\:tertiary {
+    border: 1px solid var(--meloncolly-tertiary);
+}
+
+.border\:thin.meloncolly\:lavender {
+    border: 1px solid var(--meloncolly-lavender)
+}
+
+.border\:thin.meloncolly\:azalea {
+    border: 1px solid var(--meloncolly-azalea);
+}

@@ -1,0 +1,17 @@
+/* Drop Shadow Stiles */
+
+.ds\:md.meloncolly\:zinnia {
+    box-shadow: var(--meloncolly-zinnia) 10px 10px;
+}
+
+.ds\:md.meloncolly\:tertiary {
+    box-shadow: var(--meloncolly-tertiary) 10px 10px;
+}
+
+.ds\:md.meloncolly\:lavender {
+    box-shadow: var(--meloncolly-lavender) 10px 10px;
+}
+
+.ds\:md.meloncolly\:azalea {
+    box-shadow: var(--meloncolly-azalea) 10px 10px;
+}

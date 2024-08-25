@@ -1,0 +1,36 @@
+/* Background */
+.bg\:obsidian-100, .bg.obsidian-100, .bg-obsidian-100, .bg\:obsidian\:100 {
+    background-color: var(--obsidian-100);
+}
+
+.bg\:obsidian-200, .bg.obsidian-200, .bg-obsidian-200, .bg\:obsidian\:200 {
+    background-color: var(--obsidian-200);
+}
+
+.bg\:obsidian-300, .bg.obsidian-300, .bg-obsidian-300, .bg\:obsidian\:300 {
+    background-color: var(--obsidian-300);
+}
+
+.bg\:obsidian-400, .bg.obsidian-400, .bg-obsidian-400, .bg\:obsidian\:400 {
+    background-color: var(--obsidian-400);
+}
+
+.bg\:obsidian-500, .bg.obsidian-500, .bg-obsidian-500, .bg\:obsidian\:500 {
+    background-color: var(--obsidian-500);
+}
+
+.bg\:obsidian-600, .bg.obsidian-600, .bg-obsidian-600, .bg\:obsidian\:600 {
+    background-color: var(--obsidian-600);
+}
+
+.bg\:obsidian-700, .bg.obsidian-700, .bg-obsidian-700, .bg\:obsidian\:700 {
+    background-color: var(--obsidian-700);
+}
+
+.bg\:obsidian-800, .bg.obsidian-800, .bg-obsidian-800, .bg\:obsidian\:800 {
+    background-color: var(--obsidian-800);
+}
+
+.bg\:obsidian-900, .bg.obsidian-900, .bg-obsidian-900, .bg\:obsidian\:900 {
+    background-color: var(--obsidian-900);
+}
