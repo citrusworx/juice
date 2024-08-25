@@ -2,27 +2,29 @@
 
 @media(max-width: 768px){
 
-@import url('mobile.css');
+.flex,
+.fl 
+{
+    display: flex;
+}
 
-    .flex,
-    .fl {
-        display: flex;
-    }
+.ai-center,
+.items\:center
+{
+    align-items: center;
+}
 
-    .ai-center,
-    .items\:center {
-        align-items: center;
-    }
+.ai-baseline,
+.items\:baseline
+{
+    align-items: baseline;
+}
 
-    .ai-baseline,
-    .items\:baseline {
-        align-items: baseline;
-    }
-
-    .ai-end,
-    .items\:end {
-        align-items: flex-end;
-    }
+.ai-end,
+.items\:end
+{
+    align-items: flex-end;
+}
 
     .ai-start,
     .items\:start {
@@ -506,7 +508,6 @@
     .basis-5 {
         flex-basis: 5rem;
     }
-
     .mob\:fw-wrap { 
         flex-wrap: wrap;        
     }
