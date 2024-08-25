@@ -1,7 +1,7 @@
 /* Tablets */
 @media screen and (min-width: 601px) and (max-width: 768px) {
     .text\:sm{
-        font-size: 0.75rem;
+        font-size: calc(0.75rem + 1vw);
     }
     
     .text\:md{

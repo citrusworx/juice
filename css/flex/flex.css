@@ -68,6 +68,10 @@
     align-tracks:inherit
 }
 
+.at-center, .tracks\:center {
+    align-tracks:inherit
+}
+
 
 /* Justify Items */
 
@@ -139,9 +143,6 @@
     justify-items: stretch;
 }
 
-.ji\:base, .justify\:items.\[unsafe\] {
-    justify-items: unsafe;
-}
 
 /* Justify Content */
 
@@ -207,10 +208,6 @@
     justify-self: right;
 }
 
-.self\:justify.\[save\] {
-    justify-self: save;
-}
-
 .self\:justify.\[self-end\] {
     justify-self: self-end;
 }
@@ -225,10 +222,6 @@
 
 .self\:justify.\[stretch\] {
     justify-self: stretch;
-}
-
-.self\:justify.\[unsave\] {
-    justify-self: unsave;
 }
 
 .fw-rev {

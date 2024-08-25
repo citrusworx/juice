@@ -5,9 +5,9 @@
 
 Why settle for the ordinary when you can have exceptional? Juice is the CSS framework that breaks the mold, combining the utility of frameworks like Bootstrap and Tailwind with creative and intuitive naming conventions. And if you're in the React Native ecosystem, meet Juice — a library that takes our iconic stylesheets and serves them as easily importable components. Here's why you should start using Juice today!
 
-### Choose What You Want
+### Choose What You Want (in Development)
 
-Our componentized library makes adding to your codebase a breeze. Our CSS, JS, and UI libraries are a big a la carte for your design and development needs. We believe that your day to day should be focused on facilitating your logic rather than building out your interfaces.
+Our component-ized library makes adding to your codebase a breeze. Our CSS, JS, and UI libraries are a big a la carte for your design and development needs. We believe that your day to day should be focused on facilitating your logic rather than building out your interfaces.
 
 ```bash
 juice css --swatch blush --fonts google.css --normalize
@@ -19,7 +19,7 @@ There's pros and cons to all naming conventions used in CSS. We believe there is
 
 ```html
 <section class="card:md">
-    <h2 class="text:xlg text:color:red">Heading</h2>
+    <h2 class="text:xlg text:color::red-100">Heading</h2>
     <p class="text:md caveat">
         This is some paragraph text.
     </p>

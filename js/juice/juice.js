@@ -6,4 +6,5 @@ swatchLink.addEventListener('click', function(event) {
     swatchesMenu.classList.toggle('fade:in::fast');
 });
 
+
 // TODO: Create drop down menus for all links
