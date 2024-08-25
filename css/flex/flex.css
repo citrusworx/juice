@@ -228,11 +228,17 @@
     flex-wrap: wrap-reverse;
 }
 
-.fw-nw {
+.fw-nw,
+.fw\:nw,
+.flex-wrap\:nowrap,
+.flex-wrap-nowrap
+{
     flex-wrap: nowrap;
 }
 
-.fw-wrap {
+.fw-wrap,
+.fw\:wrap
+{
     flex-wrap: wrap;
 }
 
