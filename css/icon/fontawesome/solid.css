@@ -4592,7 +4592,8 @@
 }
 
 .fas-solid.file\:csv {
-fi    -webkit-mask-size: contain;
+    -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/file-csv.svg');
+    -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
     mask-image: url('../../../icons/fontawesome/web/svgs/solid/file-csv.svg');
     mask-size: contain;
@@ -6318,7 +6319,7 @@ fi    -webkit-mask-size: contain;
     mask-repeat: no-repeat;
 }
 
-.fas-solid.house-tsunami {
+.fas-solid.house\:tsunami {
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/house-tsunami.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -6327,7 +6328,7 @@ fi    -webkit-mask-size: contain;
     mask-repeat: no-repeat;
 }
 
-.fas-solid.house-user {
+.fas-solid.house\:user {
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/house-user.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -8703,7 +8704,7 @@ fi    -webkit-mask-size: contain;
     mask-repeat: no-repeat;
 }
 
-.fas-solid.plane-circle-exclamation {
+.fas-solid.plane\:circle-exclamation {
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/plane-circle-exclamation.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -8712,7 +8713,7 @@ fi    -webkit-mask-size: contain;
     mask-repeat: no-repeat;
 }
 
-.fas-solid.plane-circle-xmark {
+.fas-solid.plane\:circle-xmark {
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/plane-circle-xmark.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
@@ -10602,7 +10603,7 @@ fi    -webkit-mask-size: contain;
     mask-repeat: no-repeat;
 }
 
-.fas-solid.sun-plant-wilt {
+.fas-solid.sun\:plant-wilt {
     -webkit-mask-image: url('../../../icons/fontawesome/web/svgs/solid/sun-plant-wilt.svg');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
