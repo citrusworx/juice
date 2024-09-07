@@ -68,6 +68,10 @@
     align-tracks:inherit
 }
 
+.at-center, .tracks\:center {
+    align-tracks:inherit
+}
+
 
 /* Justify Items */
 
@@ -139,9 +143,6 @@
     justify-items: stretch;
 }
 
-.ji\:base, .justify\:items.\[unsafe\] {
-    justify-items: unsafe;
-}
 
 /* Justify Content */
 
@@ -207,10 +208,6 @@
     justify-self: right;
 }
 
-.self\:justify.\[save\] {
-    justify-self: save;
-}
-
 .self\:justify.\[self-end\] {
     justify-self: self-end;
 }
@@ -227,19 +224,21 @@
     justify-self: stretch;
 }
 
-.self\:justify.\[unsave\] {
-    justify-self: unsave;
-}
-
 .fw-rev {
     flex-wrap: wrap-reverse;
 }
 
-.fw-nw {
+.fw-nw,
+.fw\:nw,
+.flex-wrap\:nowrap,
+.flex-wrap-nowrap
+{
     flex-wrap: nowrap;
 }
 
-.fw-wrap {
+.fw-wrap,
+.fw\:wrap
+{
     flex-wrap: wrap;
 }
 
