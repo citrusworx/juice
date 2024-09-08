@@ -1,0 +1,45 @@
+/* Hover Styles */
+.\:hover\:\:royal-100:hover {
+    background-color: var(--royal-100);
+    width: 100%;
+}
+
+.\:hover\:\:royal-200:hover {
+    background-color: var(--royal-200);
+    width: 100%;
+}
+
+.\:hover\:\:royal-300:hover {
+    background-color: var(--royal-300);
+    width: 100%;
+}
+
+.\:hover\:\:royal-400:hover {
+    background-color: var(--royal-400);
+    width: 100%;
+}
+
+.\:hover\:\:royal-500:hover {
+    background-color: var(--royal-500);
+    width: 100%;
+}
+
+.\:hover\:\:royal-600:hover {
+    background-color: var(--royal-600);
+    width: 100%;
+}
+
+.\:hover\:\:royal-700:hover {
+    background-color: var(--royal-700);
+    width: 100%;
+}
+
+.\:hover\:\:royal-800:hover {
+    background-color: var(--royal-800);
+    width: 100%;
+}
+
+.\:hover\:\:royal-900:hover {
+    background-color: var(--royal-900);
+    width: 100%;
+}

@@ -1,0 +1,48 @@
+
+
+
+/* Text
+
+Naming Convention
+.text | - or : |  color | - or : | VALUE
+.text:color:value or .text-color-value {i.e. - text:color:blue-400, text-color-blue-400}
+
+Shorthand: tc-value or tc:value
+
+*/
+
+.text\:color\:cornflower-100, .text-color-cornflower-100, .text\:color.bg-cornflower-100, .text-color.bg-cornflower-100, .tc-cornflower-100 , .tc\:cornflower-100{
+    color: var(--cornflower-100);
+}
+
+.text\:color\:cornflower-200, .text-color-cornflower-200, .text\:color.bg-cornflower-200, .text-color.bg-cornflower-200, .tc-cornflower-200 , .tc\:cornflower-200{
+    color: var(--cornflower-200);
+}
+
+.text\:color\:cornflower-300, .text-color-cornflower-300, .text\:color.bg-cornflower-300, .text-color.bg-cornflower-300, .tc-cornflower-300 , .tc\:cornflower-300{
+    color: var(--cornflower-300);
+}
+
+.text\:color\:cornflower-400, .text-color-cornflower-400, .text\:color.bg-cornflower-400, .text-color.bg-cornflower-400, .tc-cornflower-400 , .tc\:cornflower-400{
+    color: var(--cornflower-400);
+}
+
+.text\:color\:cornflower-500, .text-color-cornflower-500, .text\:color.bg-cornflower-500, .text-color.bg-cornflower-500, .tc-cornflower-500 , .tc\:cornflower-500{
+    color: var(--cornflower-500);
+}
+
+.text\:color\:cornflower-600, .text-color-cornflower-600, .text\:color.bg-cornflower-600, .text-color.bg-cornflower-600, .tc-cornflower-600 , .tc\:cornflower-600{
+    color: var(--cornflower-600);
+}
+
+.text\:color\:cornflower-700, .text-color-cornflower-700, .text\:color.bg-cornflower-700, .text-color.bg-cornflower-700, .tc-cornflower-700 , .tc\:cornflower-700{
+    color: var(--cornflower-700);
+}
+
+.text\:color\:cornflower-800, .text-color-cornflower-800, .text\:color.bg-cornflower-800, .text-color.bg-cornflower-800, .tc-cornflower-800 , .tc\:cornflower-800{
+    color: var(--cornflower-800);
+}
+
+.text\:color\:cornflower-900, .text-color-cornflower-900, .text\:color.bg-cornflower-900, .text-color.bg-cornflower-900, .tc-cornflower-900 , .tc\:cornflower-900{
+    color: var(--cornflower-900);
+}

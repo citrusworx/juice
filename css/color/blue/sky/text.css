@@ -1,0 +1,48 @@
+
+
+
+/* Text
+
+Naming Convention
+.text | - or : |  color | - or : | VALUE
+.text:color:value or .text-color-value {i.e. - text:color:blue-400, text-color-blue-400}
+
+Shorthand: tc-value or tc:value
+
+*/
+
+.text\:color\:sky-blue-100, .text-color-sky-blue-100, .text\:color.bg-sky-blue-100, .text-color.bg-sky-blue-100, .tc-sky-blue-100 , .tc\:sky-blue-100{
+    color: var(--sky-blue-100);
+}
+
+.text\:color\:sky-blue-200, .text-color-sky-blue-200, .text\:color.bg-sky-blue-200, .text-color.bg-sky-blue-200, .tc-sky-blue-200 , .tc\:sky-blue-200{
+    color: var(--sky-blue-200);
+}
+
+.text\:color\:sky-blue-300, .text-color-sky-blue-300, .text\:color.bg-sky-blue-300, .text-color.bg-sky-blue-300, .tc-sky-blue-300 , .tc\:sky-blue-300{
+    color: var(--sky-blue-300);
+}
+
+.text\:color\:sky-blue-400, .text-color-sky-blue-400, .text\:color.bg-sky-blue-400, .text-color.bg-sky-blue-400, .tc-sky-blue-400 , .tc\:sky-blue-400{
+    color: var(--sky-blue-400);
+}
+
+.text\:color\:sky-blue-500, .text-color-sky-blue-500, .text\:color.bg-sky-blue-500, .text-color.bg-sky-blue-500, .tc-sky-blue-500 , .tc\:sky-blue-500{
+    color: var(--sky-blue-500);
+}
+
+.text\:color\:sky-blue-600, .text-color-sky-blue-600, .text\:color.bg-sky-blue-600, .text-color.bg-sky-blue-600, .tc-sky-blue-600 , .tc\:sky-blue-600{
+    color: var(--sky-blue-600);
+}
+
+.text\:color\:sky-blue-700, .text-color-sky-blue-700, .text\:color.bg-sky-blue-700, .text-color.bg-sky-blue-700, .tc-sky-blue-700 , .tc\:sky-blue-700{
+    color: var(--sky-blue-700);
+}
+
+.text\:color\:sky-blue-800, .text-color-sky-blue-800, .text\:color.bg-sky-blue-800, .text-color.bg-sky-blue-800, .tc-sky-blue-800 , .tc\:sky-blue-800{
+    color: var(--sky-blue-800);
+}
+
+.text\:color\:sky-blue-900, .text-color-sky-blue-900, .text\:color.bg-sky-blue-900, .text-color.bg-sky-blue-900, .tc-sky-blue-900 , .tc\:sky-blue-900{
+    color: var(--sky-blue-900);
+}

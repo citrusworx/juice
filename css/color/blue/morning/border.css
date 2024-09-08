@@ -1,0 +1,50 @@
+
+
+/* Border
+
+Naming Convention
+border | - or : | color | - or : | value
+
+*/
+
+.border\:color\:\:morning-blue-100,
+.border-color--morning-blue-100,
+.border\:color.bg-morning-blue-100,
+.border-color.bg-morning-blue-100,
+.bc-morning-blue-100 ,
+.bc\:morning-blue-100
+{
+    border-color: var(--morning-blue-100);
+}
+
+.border\:color\:morning-blue-200, .border-color-morning-blue-200, .border\:color.bg-morning-blue-200, .border-color.bg-morning-blue-200, .bc-morning-blue-200 , .bc\:morning-blue-200{
+    border-color: var(--morning-blue-200);
+}
+
+.border\:color\:morning-blue-300, .border-color-morning-blue-300, .border\:color.bg-morning-blue-300, .border-color.bg-morning-blue-300, .bc-morning-blue-300 , .bc\:morning-blue-300{
+    border-color: var(--morning-blue-300);
+}
+
+.border\:color\:morning-blue-400, .border-color-morning-blue-400, .border\:color.bg-morning-blue-400, .border-color.bg-morning-blue-400, .bc-morning-blue-400 , .bc\:morning-blue-400{
+    border-color: var(--morning-blue-400);
+}
+
+.border\:color\:morning-blue-500, .border-color-morning-blue-500, .border\:color.bg-morning-blue-500, .border-color.bg-morning-blue-500, .bc-morning-blue-500 , .bc\:morning-blue-500{
+    border-color: var(--morning-blue-500);
+}
+
+.border\:color\:morning-blue-600, .border-color-morning-blue-600, .border\:color.bg-morning-blue-600, .border-color.bg-morning-blue-600, .bc-morning-blue-600 , .bc\:morning-blue-600{
+    border-color: var(--morning-blue-600);
+}
+
+.border\:color\:morning-blue-700, .border-color-morning-blue-700, .border\:color.bg-morning-blue-700, .border-color.bg-morning-blue-700, .bc-morning-blue-700 , .bc\:morning-blue-700{
+    border-color: var(--morning-blue-700);
+}
+
+.border\:color\:morning-blue-800, .border-color-morning-blue-800, .border\:color.bg-morning-blue-800, .border-color.bg-morning-blue-800, .bc-morning-blue-800 , .bc\:morning-blue-800{
+    border-color: var(--morning-blue-800);
+}
+
+.border\:color\:morning-blue-900, .border-color-morning-blue-900, .border\:color.bg-morning-blue-900, .border-color.bg-morning-blue-900, .bc-morning-blue-900 , .bc\:morning-blue-900{
+    border-color: var(--morning-blue-900);
+}

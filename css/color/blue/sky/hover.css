@@ -1,0 +1,45 @@
+/* Hover Styles */
+.\:hover\:\:sky-blue-100:hover {
+    background-color: var(--sky-blue-100);
+    width: 100%;
+}
+
+.\:hover\:\:sky-blue-200:hover {
+    background-color: var(--sky-blue-200);
+    width: 100%;
+}
+
+.\:hover\:\:sky-blue-300:hover {
+    background-color: var(--sky-blue-300);
+    width: 100%;
+}
+
+.\:hover\:\:sky-blue-400:hover {
+    background-color: var(--sky-blue-400);
+    width: 100%;
+}
+
+.\:hover\:\:sky-blue-500:hover {
+    background-color: var(--sky-blue-500);
+    width: 100%;
+}
+
+.\:hover\:\:sky-blue-600:hover {
+    background-color: var(--sky-blue-600);
+    width: 100%;
+}
+
+.\:hover\:\:sky-blue-700:hover {
+    background-color: var(--sky-blue-700);
+    width: 100%;
+}
+
+.\:hover\:\:sky-blue-800:hover {
+    background-color: var(--sky-blue-800);
+    width: 100%;
+}
+
+.\:hover\:\:sky-blue-900:hover {
+    background-color: var(--sky-blue-900);
+    width: 100%;
+}

@@ -1,0 +1,45 @@
+/* Hover Styles */
+.\:hover\:\:blue-100:hover {
+    background-color: var(--blue-100);
+    width: 100%;
+}
+
+.\:hover\:\:blue-200:hover {
+    background-color: var(--blue-200);
+    width: 100%;
+}
+
+.\:hover\:\:blue-300:hover {
+    background-color: var(--blue-300);
+    width: 100%;
+}
+
+.\:hover\:\:blue-400:hover {
+    background-color: var(--blue-400);
+    width: 100%;
+}
+
+.\:hover\:\:blue-500:hover {
+    background-color: var(--blue-500);
+    width: 100%;
+}
+
+.\:hover\:\:blue-600:hover {
+    background-color: var(--blue-600);
+    width: 100%;
+}
+
+.\:hover\:\:blue-700:hover {
+    background-color: var(--blue-700);
+    width: 100%;
+}
+
+.\:hover\:\:blue-800:hover {
+    background-color: var(--blue-800);
+    width: 100%;
+}
+
+.\:hover\:\:blue-900:hover {
+    background-color: var(--blue-900);
+    width: 100%;
+}

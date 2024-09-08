@@ -1,0 +1,77 @@
+/* sky-blues */
+
+.bg.sky-blue\:100,
+.bg.sky-blue-100,
+.bg-sky-blue-100,
+.bg\:sky-blue\:100,
+.bg\:color\:\:sky-blue-100,
+.bg-color--sky-blue-100,
+.bgc\:sky-blue\:100,
+.bgc-sky-blue-100
+{
+    background-color: var(--sky-blue-100);
+}
+
+.bg\:sky-blue-200,
+.bg.sky-blue-200,
+.bg-sky-blue-200,
+.bg\:sky-blue\:200
+{
+    background-color: var(--sky-blue-200);
+}
+
+.bg\:sky-blue-300,
+.bg.sky-blue-300,
+.bg-sky-blue-300,
+.bg\:sky-blue\:300
+{
+    background-color: var(--sky-blue-300);
+}
+
+.bg\:sky-blue-400,
+.bg.sky-blue-400,
+.bg-sky-blue-400,
+.bg\:sky-blue\:400
+{
+    background-color: var(--sky-blue-400);
+}
+
+.bg\:sky-blue-500,
+.bg.sky-blue-500,
+.bg-sky-blue-500,
+.bg\:sky-blue\:500
+{
+    background-color: var(--sky-blue-500);
+}
+
+.bg\:sky-blue-600,
+.bg.sky-blue-600,
+.bg-sky-blue-600,
+.bg\:sky-blue\:600
+{
+    background-color: var(--sky-blue-600);
+}
+
+.bg\:sky-blue-700,
+.bg.sky-blue-700,
+.bg-sky-blue-700,
+.bg\:sky-blue\:700
+{
+    background-color: var(--sky-blue-700);
+}
+
+.bg\:sky-blue-800,
+.bg.sky-blue-800,
+.bg-sky-blue-800,
+.bg\:sky-blue\:800
+{
+    background-color: var(--sky-blue-800);
+}
+
+.bg\:sky-blue-900,
+.bg.sky-blue-900,
+.bg-sky-blue-900,
+.bg\:sky-blue\:900
+{
+    background-color: var(--sky-blue-900);
+}

@@ -1,0 +1,77 @@
+/* cornflowers */
+
+.bg.cornflower\:100,
+.bg.cornflower-100,
+.bg-cornflower-100,
+.bg\:cornflower\:100,
+.bg\:color\:\:cornflower-100,
+.bg-color--cornflower-100,
+.bgc\:cornflower\:100,
+.bgc-cornflower-100
+{
+    background-color: var(--cornflower-100);
+}
+
+.bg\:cornflower-200,
+.bg.cornflower-200,
+.bg-cornflower-200,
+.bg\:cornflower\:200
+{
+    background-color: var(--cornflower-200);
+}
+
+.bg\:cornflower-300,
+.bg.cornflower-300,
+.bg-cornflower-300,
+.bg\:cornflower\:300
+{
+    background-color: var(--cornflower-300);
+}
+
+.bg\:cornflower-400,
+.bg.cornflower-400,
+.bg-cornflower-400,
+.bg\:cornflower\:400
+{
+    background-color: var(--cornflower-400);
+}
+
+.bg\:cornflower-500,
+.bg.cornflower-500,
+.bg-cornflower-500,
+.bg\:cornflower\:500
+{
+    background-color: var(--cornflower-500);
+}
+
+.bg\:cornflower-600,
+.bg.cornflower-600,
+.bg-cornflower-600,
+.bg\:cornflower\:600
+{
+    background-color: var(--cornflower-600);
+}
+
+.bg\:cornflower-700,
+.bg.cornflower-700,
+.bg-cornflower-700,
+.bg\:cornflower\:700
+{
+    background-color: var(--cornflower-700);
+}
+
+.bg\:cornflower-800,
+.bg.cornflower-800,
+.bg-cornflower-800,
+.bg\:cornflower\:800
+{
+    background-color: var(--cornflower-800);
+}
+
+.bg\:cornflower-900,
+.bg.cornflower-900,
+.bg-cornflower-900,
+.bg\:cornflower\:900
+{
+    background-color: var(--cornflower-900);
+}

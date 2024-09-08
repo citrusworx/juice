@@ -1,0 +1,77 @@
+/* royals */
+
+.bg.royal\:100,
+.bg.royal-100,
+.bg-royal-100,
+.bg\:royal\:100,
+.bg\:color\:\:royal-100,
+.bg-color--royal-100,
+.bgc\:royal\:100,
+.bgc-royal-100
+{
+    background-color: var(--royal-100);
+}
+
+.bg\:royal-200,
+.bg.royal-200,
+.bg-royal-200,
+.bg\:royal\:200
+{
+    background-color: var(--royal-200);
+}
+
+.bg\:royal-300,
+.bg.royal-300,
+.bg-royal-300,
+.bg\:royal\:300
+{
+    background-color: var(--royal-300);
+}
+
+.bg\:royal-400,
+.bg.royal-400,
+.bg-royal-400,
+.bg\:royal\:400
+{
+    background-color: var(--royal-400);
+}
+
+.bg\:royal-500,
+.bg.royal-500,
+.bg-royal-500,
+.bg\:royal\:500
+{
+    background-color: var(--royal-500);
+}
+
+.bg\:royal-600,
+.bg.royal-600,
+.bg-royal-600,
+.bg\:royal\:600
+{
+    background-color: var(--royal-600);
+}
+
+.bg\:royal-700,
+.bg.royal-700,
+.bg-royal-700,
+.bg\:royal\:700
+{
+    background-color: var(--royal-700);
+}
+
+.bg\:royal-800,
+.bg.royal-800,
+.bg-royal-800,
+.bg\:royal\:800
+{
+    background-color: var(--royal-800);
+}
+
+.bg\:royal-900,
+.bg.royal-900,
+.bg-royal-900,
+.bg\:royal\:900
+{
+    background-color: var(--royal-900);
+}

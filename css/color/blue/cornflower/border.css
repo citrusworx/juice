@@ -1,0 +1,44 @@
+
+
+/* Border
+
+Naming Convention
+border | - or : | color | - or : | value
+
+*/
+
+.border\:color\:cornflower-100, .border-color-cornflower-100, .border\:color.bg-cornflower-100, .border-color.bg-cornflower-100, .bc-cornflower-100 , .bc\:cornflower-100{
+    border-color: var(--cornflower-100);
+}
+
+.border\:color\:cornflower-200, .border-color-cornflower-200, .border\:color.bg-cornflower-200, .border-color.bg-cornflower-200, .bc-cornflower-200 , .bc\:cornflower-200{
+    border-color: var(--cornflower-200);
+}
+
+.border\:color\:cornflower-300, .border-color-cornflower-300, .border\:color.bg-cornflower-300, .border-color.bg-cornflower-300, .bc-cornflower-300 , .bc\:cornflower-300{
+    border-color: var(--cornflower-300);
+}
+
+.border\:color\:cornflower-400, .border-color-cornflower-400, .border\:color.bg-cornflower-400, .border-color.bg-cornflower-400, .bc-cornflower-400 , .bc\:cornflower-400{
+    border-color: var(--cornflower-400);
+}
+
+.border\:color\:cornflower-500, .border-color-cornflower-500, .border\:color.bg-cornflower-500, .border-color.bg-cornflower-500, .bc-cornflower-500 , .bc\:cornflower-500{
+    border-color: var(--cornflower-500);
+}
+
+.border\:color\:cornflower-600, .border-color-cornflower-600, .border\:color.bg-cornflower-600, .border-color.bg-cornflower-600, .bc-cornflower-600 , .bc\:cornflower-600{
+    border-color: var(--cornflower-600);
+}
+
+.border\:color\:cornflower-700, .border-color-cornflower-700, .border\:color.bg-cornflower-700, .border-color.bg-cornflower-700, .bc-cornflower-700 , .bc\:cornflower-700{
+    border-color: var(--cornflower-700);
+}
+
+.border\:color\:cornflower-800, .border-color-cornflower-800, .border\:color.bg-cornflower-800, .border-color.bg-cornflower-800, .bc-cornflower-800 , .bc\:cornflower-800{
+    border-color: var(--cornflower-800);
+}
+
+.border\:color\:cornflower-900, .border-color-cornflower-900, .border\:color.bg-cornflower-900, .border-color.bg-cornflower-900, .bc-cornflower-900 , .bc\:cornflower-900{
+    border-color: var(--cornflower-900);
+}
