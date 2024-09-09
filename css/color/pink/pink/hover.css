@@ -1,0 +1,97 @@
+/* Hover Styles */
+
+.\:hover-pink-100:hover, .\:hover.pink-100:hover {
+    border-color: var(--pink-100);
+    background-color: var(--pink-100);
+}
+
+.\:hover-pink-200:hover, .\:hover.pink-200:hover {
+    border-color: var(--pink-200);
+    background-color: var(--pink-200);
+}
+
+.\:hover-pink-300:hover, .\:hover.pink-300:hover {
+    border-color: var(--pink-300);
+    background-color: var(--pink-300);
+}
+
+.\:hover-pink-400:hover, .\:hover.pink-400:hover {
+    border-color: var(--pink-400);
+    background-color: var(--pink-400);
+}
+
+.\:hover-pink-500:hover, .\:hover.pink-500:hover {
+    border-color: var(--pink-500);
+    background-color: var(--pink-500);
+}
+
+.\:hover-pink-600:hover, .\:hover.pink-600:hover {
+    border-color: var(--pink-600);
+    background-color: var(--pink-600);
+}
+
+.\:hover-pink-700:hover, .\:hover.pink-700:hover {
+    border-color: var(--pink-700);
+    background-color: var(--pink-700);
+}
+
+.\:hover-pink-800:hover, .\:hover.pink-800:hover {
+    border-color: var(--pink-800);
+    background-color: var(--pink-800);
+}
+
+.\:hover-pink-900:hover, .\:hover.pink-900:hover {
+    border-color: var(--pink-900);
+    background-color: var(--pink-900);
+}
+
+.\:hover-pink-900\[white\]:hover{
+    border-color: var(--pink-900);
+    background-color: var(--pink-900);
+    color:var(--white-100);
+}
+
+.\:hover-pink-100\[outline\]:hover, .\:hover.pink-100\[outline\]:hover {
+    color: var(--pink-100);
+    border-color: var(--pink-100);
+}
+
+.\:hover-pink-200\[outline\]:hover, .\:hover.pink-200\[outline\]:hover {
+    color: var(--pink-200);
+    border-color: var(--pink-200);
+}
+
+.\:hover-pink-300\[outline\]:hover, .\:hover.pink-300\[outline\]:hover {
+    color: var(--pink-300);
+    border-color: var(--pink-300);
+}
+
+.\:hover-pink-400\[outline\]:hover, .\:hover.pink-400\[outline\]:hover {
+    color: var(--pink-400);
+    border-color: var(--pink-400);
+}
+
+.\:hover-pink-500\[outline\]:hover, .\:hover.pink-500\[outline\]:hover {
+    color: var(--pink-500);
+    border-color: var(--pink-500);
+}
+
+.\:hover-pink-600\[outline\]:hover, .\:hover.pink-600\[outline\]:hover {
+    color: var(--pink-600);
+    border-color: var(--pink-600);
+}
+
+.\:hover-pink-700\[outline\]:hover, .\:hover.pink-700\[outline\]:hover {
+    color: var(--pink-700);
+    border-color: var(--pink-700);
+}
+
+.\:hover-pink-800\[outline\]:hover, .\:hover.pink-800\[outline\]:hover {
+    color: var(--pink-800);
+    border-color: var(--pink-800);
+}
+
+.\:hover-pink-900\[outline\]:hover, .\:hover.pink-900\[outline\]:hover {
+    color: var(--pink-900);
+    border-color: var(--pink-900);
+}

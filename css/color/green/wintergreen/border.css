@@ -1,0 +1,82 @@
+/* Border */
+.border\:color\:\:wintergreen\:100,
+.border-color--wintergreen-100,
+.border\:color.wintergreen\:100,
+.border-color.wintergreen-100,
+.bc\:wintergreen\:100,
+.bc-wintergreen-100
+{
+    border-color: var(--wintergreen-100);
+}
+
+.border\:color\:\:wintergreen\:200,
+.border-color--wintergreen-200,
+.border\:color.wintergreen\:200,
+.border-color.wintergreen-200,
+.bc\:wintergreen\:200,
+.bc-wintergreen-200 {
+    border-color: var(--wintergreen-200);
+}
+
+.border\:color\:\:wintergreen\:300,
+.border-color--wintergreen-300,
+.border\:color.wintergreen\:300,
+.border-color.wintergreen-300,
+.bc\:wintergreen\:300,
+.bc-wintergreen-300 {
+    border-color: var(--wintergreen-300);
+}
+
+.border\:color\:\:wintergreen\:400,
+.border-color--wintergreen-400,
+.border\:color.wintergreen\:400,
+.border-color.wintergreen-400,
+.bc\:wintergreen\:400,
+.bc-wintergreen-400 {
+    border-color: var(--wintergreen-400);
+}
+
+.border\:color\:\:wintergreen\:500,
+.border-color--wintergreen-500,
+.border\:color.wintergreen\:500,
+.border-color.wintergreen-500,
+.bc\:wintergreen\:500,
+.bc-wintergreen-500 {
+    border-color: var(--wintergreen-500);
+}
+
+.border\:color\:\:wintergreen\:600,
+.border-color--wintergreen-600,
+.border\:color.wintergreen\:600,
+.border-color.wintergreen-600,
+.bc\:wintergreen\:600,
+.bc-wintergreen-600 {
+    border-color: var(--wintergreen-600);
+}
+
+.border\:color\:\:wintergreen\:700,
+.border-color--wintergreen-700,
+.border\:color.wintergreen\:700,
+.border-color.wintergreen-700,
+.bc\:wintergreen\:700,
+.bc-wintergreen-700 {
+    border-color: var(--wintergreen-700);
+}
+
+.border\:color\:\:wintergreen\:800,
+.border-color--wintergreen-800,
+.border\:color.wintergreen\:800,
+.border-color.wintergreen-800,
+.bc\:wintergreen\:800,
+.bc-wintergreen-800 {
+    border-color: var(--wintergreen-800);
+}
+
+.border\:color\:\:wintergreen\:900,
+.border-color--wintergreen-900,
+.border\:color.wintergreen\:900,
+.border-color.wintergreen-900,
+.bc\:wintergreen\:900,
+.bc-wintergreen-900 {
+    border-color: var(--wintergreen-900);
+}

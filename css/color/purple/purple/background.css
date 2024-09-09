@@ -1,0 +1,82 @@
+/* purple */
+.bg-color--purple-100,
+.bg-color.purple-100,
+.bg\:color\:\:purple-100,
+.bg\:color.purple\:100,
+.bgc\:purple\:100,
+.bgc-purple-100
+{
+    background-color: var(--purple-100);
+}
+
+.bg-color--purple-200,
+.bg-color.purple-200,
+.bg\:color\:\:purple-200,
+.bg\:color.purple\:200,
+.bgc\:purple\:200,
+.bgc-purple-200 {
+    background-color: var(--purple-200);
+}
+
+.bg-color--purple-300,
+.bg-color.purple-300,
+.bg\:color\:\:purple-300,
+.bg\:color.purple\:300,
+.bgc\:purple\:300,
+.bgc-purple-300 {
+    background-color: var(--purple-300);
+}
+
+.bg-color--purple-400,
+.bg-color.purple-400,
+.bg\:color\:\:purple-400,
+.bg\:color.purple\:400,
+.bgc\:purple\:400,
+.bgc-purple-400 {
+    background-color: var(--purple-400);
+}
+
+.bg-color--purple-500,
+.bg-color.purple-500,
+.bg\:color\:\:purple-500,
+.bg\:color.purple\:500,
+.bgc\:purple\:500,
+.bgc-purple-500 {
+    background-color: var(--purple-500);
+}
+
+.bg-color--purple-600,
+.bg-color.purple-600,
+.bg\:color\:\:purple-600,
+.bg\:color.purple\:600,
+.bgc\:purple\:600,
+.bgc-purple-600 {
+    background-color: var(--purple-600);
+}
+
+.bg-color--purple-700,
+.bg-color.purple-700,
+.bg\:color\:\:purple-700,
+.bg\:color.purple\:700,
+.bgc\:purple\:700,
+.bgc-purple-700 {
+    background-color: var(--purple-700);
+}
+
+.bg-color--purple-800,
+.bg-color.purple-800,
+.bg\:color\:\:purple-800,
+.bg\:color.purple\:800,
+.bgc\:purple\:800,
+.bgc-purple-800 {
+    background-color: var(--purple-800);
+}
+
+.bg-color--purple-900,
+.bg-color.purple-900,
+.bg\:color\:\:purple-900,
+.bg\:color.purple\:900,
+.bgc\:purple\:900,
+.bgc-purple-900 {
+    background-color: var(--purple-900);
+}

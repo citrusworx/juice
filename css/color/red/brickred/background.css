@@ -1,0 +1,82 @@
+/* brick-red */
+.bg-color--brick-red-100,
+.bg-color.brick-red-100,
+.bg\:color\:\:brick-red-100,
+.bg\:color.brick-red\:100,
+.bgc\:brick-red\:100,
+.bgc-brick-red-100
+{
+    background-color: var(--brick-red-100);
+}
+
+.bg-color--brick-red-200,
+.bg-color.brick-red-200,
+.bg\:color\:\:brick-red-200,
+.bg\:color.brick-red\:200,
+.bgc\:brick-red\:200,
+.bgc-brick-red-200 {
+    background-color: var(--brick-red-200);
+}
+
+.bg-color--brick-red-300,
+.bg-color.brick-red-300,
+.bg\:color\:\:brick-red-300,
+.bg\:color.brick-red\:300,
+.bgc\:brick-red\:300,
+.bgc-brick-red-300 {
+    background-color: var(--brick-red-300);
+}
+
+.bg-color--brick-red-400,
+.bg-color.brick-red-400,
+.bg\:color\:\:brick-red-400,
+.bg\:color.brick-red\:400,
+.bgc\:brick-red\:400,
+.bgc-brick-red-400 {
+    background-color: var(--brick-red-400);
+}
+
+.bg-color--brick-red-500,
+.bg-color.brick-red-500,
+.bg\:color\:\:brick-red-500,
+.bg\:color.brick-red\:500,
+.bgc\:brick-red\:500,
+.bgc-brick-red-500 {
+    background-color: var(--brick-red-500);
+}
+
+.bg-color--brick-red-600,
+.bg-color.brick-red-600,
+.bg\:color\:\:brick-red-600,
+.bg\:color.brick-red\:600,
+.bgc\:brick-red\:600,
+.bgc-brick-red-600 {
+    background-color: var(--brick-red-600);
+}
+
+.bg-color--brick-red-700,
+.bg-color.brick-red-700,
+.bg\:color\:\:brick-red-700,
+.bg\:color.brick-red\:700,
+.bgc\:brick-red\:700,
+.bgc-brick-red-700 {
+    background-color: var(--brick-red-700);
+}
+
+.bg-color--brick-red-800,
+.bg-color.brick-red-800,
+.bg\:color\:\:brick-red-800,
+.bg\:color.brick-red\:800,
+.bgc\:brick-red\:800,
+.bgc-brick-red-800 {
+    background-color: var(--brick-red-800);
+}
+
+.bg-color--brick-red-900,
+.bg-color.brick-red-900,
+.bg\:color\:\:brick-red-900,
+.bg\:color.brick-red\:900,
+.bgc\:brick-red\:900,
+.bgc-brick-red-900 {
+    background-color: var(--brick-red-900);
+}

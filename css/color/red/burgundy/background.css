@@ -1,0 +1,82 @@
+/* burgundy */
+.bg-color--burgundy-100,
+.bg-color.burgundy-100,
+.bg\:color\:\:burgundy-100,
+.bg\:color.burgundy\:100,
+.bgc\:burgundy\:100,
+.bgc-burgundy-100
+{
+    background-color: var(--burgundy-100);
+}
+
+.bg-color--burgundy-200,
+.bg-color.burgundy-200,
+.bg\:color\:\:burgundy-200,
+.bg\:color.burgundy\:200,
+.bgc\:burgundy\:200,
+.bgc-burgundy-200 {
+    background-color: var(--burgundy-200);
+}
+
+.bg-color--burgundy-300,
+.bg-color.burgundy-300,
+.bg\:color\:\:burgundy-300,
+.bg\:color.burgundy\:300,
+.bgc\:burgundy\:300,
+.bgc-burgundy-300 {
+    background-color: var(--burgundy-300);
+}
+
+.bg-color--burgundy-400,
+.bg-color.burgundy-400,
+.bg\:color\:\:burgundy-400,
+.bg\:color.burgundy\:400,
+.bgc\:burgundy\:400,
+.bgc-burgundy-400 {
+    background-color: var(--burgundy-400);
+}
+
+.bg-color--burgundy-500,
+.bg-color.burgundy-500,
+.bg\:color\:\:burgundy-500,
+.bg\:color.burgundy\:500,
+.bgc\:burgundy\:500,
+.bgc-burgundy-500 {
+    background-color: var(--burgundy-500);
+}
+
+.bg-color--burgundy-600,
+.bg-color.burgundy-600,
+.bg\:color\:\:burgundy-600,
+.bg\:color.burgundy\:600,
+.bgc\:burgundy\:600,
+.bgc-burgundy-600 {
+    background-color: var(--burgundy-600);
+}
+
+.bg-color--burgundy-700,
+.bg-color.burgundy-700,
+.bg\:color\:\:burgundy-700,
+.bg\:color.burgundy\:700,
+.bgc\:burgundy\:700,
+.bgc-burgundy-700 {
+    background-color: var(--burgundy-700);
+}
+
+.bg-color--burgundy-800,
+.bg-color.burgundy-800,
+.bg\:color\:\:burgundy-800,
+.bg\:color.burgundy\:800,
+.bgc\:burgundy\:800,
+.bgc-burgundy-800 {
+    background-color: var(--burgundy-800);
+}
+
+.bg-color--burgundy-900,
+.bg-color.burgundy-900,
+.bg\:color\:\:burgundy-900,
+.bg\:color.burgundy\:900,
+.bgc\:burgundy\:900,
+.bgc-burgundy-900 {
+    background-color: var(--burgundy-900);
+}

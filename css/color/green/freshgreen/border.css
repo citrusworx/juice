@@ -1,0 +1,82 @@
+/* Border */
+.border\:color\:\:fresh-green\:100,
+.border-color--fresh-green-100,
+.border\:color.fresh-green\:100,
+.border-color.fresh-green-100,
+.bc\:fresh-green\:100,
+.bc-fresh-green-100
+{
+    border-color: var(--fresh-green-100);
+}
+
+.border\:color\:\:fresh-green\:200,
+.border-color--fresh-green-200,
+.border\:color.fresh-green\:200,
+.border-color.fresh-green-200,
+.bc\:fresh-green\:200,
+.bc-fresh-green-200 {
+    border-color: var(--fresh-green-200);
+}
+
+.border\:color\:\:fresh-green\:300,
+.border-color--fresh-green-300,
+.border\:color.fresh-green\:300,
+.border-color.fresh-green-300,
+.bc\:fresh-green\:300,
+.bc-fresh-green-300 {
+    border-color: var(--fresh-green-300);
+}
+
+.border\:color\:\:fresh-green\:400,
+.border-color--fresh-green-400,
+.border\:color.fresh-green\:400,
+.border-color.fresh-green-400,
+.bc\:fresh-green\:400,
+.bc-fresh-green-400 {
+    border-color: var(--fresh-green-400);
+}
+
+.border\:color\:\:fresh-green\:500,
+.border-color--fresh-green-500,
+.border\:color.fresh-green\:500,
+.border-color.fresh-green-500,
+.bc\:fresh-green\:500,
+.bc-fresh-green-500 {
+    border-color: var(--fresh-green-500);
+}
+
+.border\:color\:\:fresh-green\:600,
+.border-color--fresh-green-600,
+.border\:color.fresh-green\:600,
+.border-color.fresh-green-600,
+.bc\:fresh-green\:600,
+.bc-fresh-green-600 {
+    border-color: var(--fresh-green-600);
+}
+
+.border\:color\:\:fresh-green\:700,
+.border-color--fresh-green-700,
+.border\:color.fresh-green\:700,
+.border-color.fresh-green-700,
+.bc\:fresh-green\:700,
+.bc-fresh-green-700 {
+    border-color: var(--fresh-green-700);
+}
+
+.border\:color\:\:fresh-green\:800,
+.border-color--fresh-green-800,
+.border\:color.fresh-green\:800,
+.border-color.fresh-green-800,
+.bc\:fresh-green\:800,
+.bc-fresh-green-800 {
+    border-color: var(--fresh-green-800);
+}
+
+.border\:color\:\:fresh-green\:900,
+.border-color--fresh-green-900,
+.border\:color.fresh-green\:900,
+.border-color.fresh-green-900,
+.bc\:fresh-green\:900,
+.bc-fresh-green-900 {
+    border-color: var(--fresh-green-900);
+}

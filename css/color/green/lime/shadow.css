@@ -1,0 +1,23 @@
+.shadow\:color\:lime-900 {
+    box-shadow: var(--lime-900) ;
+}
+
+.shadow\:size\:\:sm.\[spread-none\]{
+    box-shadow: 2px 2px 2px 0;
+}
+
+.shadow\:size\:\:sm.\[spread-2\] {
+    box-shadow: 2px 2px 2px 2px;
+}
+
+.shadow\:size\:\:sm.\[spread-3\] {
+    box-shadow: 2px 2px 2px 3px;
+}
+
+.shadow\:size\:\:sm.\[spread-4\] {
+    box-shadow: 2px 2px 2px 4px;
+}
+
+.shadow\:size\:\:sm .\[spread-10\] {
+    box-shadow: 2px 2px 2px 10px;
+}

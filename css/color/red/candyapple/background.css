@@ -1,0 +1,82 @@
+/* candy-apple-red */
+.bg-color--candy-apple-red-100,
+.bg-color.candy-apple-red-100,
+.bg\:color\:\:candy-apple-red-100,
+.bg\:color.candy-apple-red\:100,
+.bgc\:candy-apple-red\:100,
+.bgc-candy-apple-red-100
+{
+    background-color: var(--candy-apple-red-100);
+}
+
+.bg-color--candy-apple-red-200,
+.bg-color.candy-apple-red-200,
+.bg\:color\:\:candy-apple-red-200,
+.bg\:color.candy-apple-red\:200,
+.bgc\:candy-apple-red\:200,
+.bgc-candy-apple-red-200 {
+    background-color: var(--candy-apple-red-200);
+}
+
+.bg-color--candy-apple-red-300,
+.bg-color.candy-apple-red-300,
+.bg\:color\:\:candy-apple-red-300,
+.bg\:color.candy-apple-red\:300,
+.bgc\:candy-apple-red\:300,
+.bgc-candy-apple-red-300 {
+    background-color: var(--candy-apple-red-300);
+}
+
+.bg-color--candy-apple-red-400,
+.bg-color.candy-apple-red-400,
+.bg\:color\:\:candy-apple-red-400,
+.bg\:color.candy-apple-red\:400,
+.bgc\:candy-apple-red\:400,
+.bgc-candy-apple-red-400 {
+    background-color: var(--candy-apple-red-400);
+}
+
+.bg-color--candy-apple-red-500,
+.bg-color.candy-apple-red-500,
+.bg\:color\:\:candy-apple-red-500,
+.bg\:color.candy-apple-red\:500,
+.bgc\:candy-apple-red\:500,
+.bgc-candy-apple-red-500 {
+    background-color: var(--candy-apple-red-500);
+}
+
+.bg-color--candy-apple-red-600,
+.bg-color.candy-apple-red-600,
+.bg\:color\:\:candy-apple-red-600,
+.bg\:color.candy-apple-red\:600,
+.bgc\:candy-apple-red\:600,
+.bgc-candy-apple-red-600 {
+    background-color: var(--candy-apple-red-600);
+}
+
+.bg-color--candy-apple-red-700,
+.bg-color.candy-apple-red-700,
+.bg\:color\:\:candy-apple-red-700,
+.bg\:color.candy-apple-red\:700,
+.bgc\:candy-apple-red\:700,
+.bgc-candy-apple-red-700 {
+    background-color: var(--candy-apple-red-700);
+}
+
+.bg-color--candy-apple-red-800,
+.bg-color.candy-apple-red-800,
+.bg\:color\:\:candy-apple-red-800,
+.bg\:color.candy-apple-red\:800,
+.bgc\:candy-apple-red\:800,
+.bgc-candy-apple-red-800 {
+    background-color: var(--candy-apple-red-800);
+}
+
+.bg-color--candy-apple-red-900,
+.bg-color.candy-apple-red-900,
+.bg\:color\:\:candy-apple-red-900,
+.bg\:color.candy-apple-red\:900,
+.bgc\:candy-apple-red\:900,
+.bgc-candy-apple-red-900 {
+    background-color: var(--candy-apple-red-900);
+}

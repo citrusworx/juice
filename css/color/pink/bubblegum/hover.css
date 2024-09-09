@@ -1,0 +1,97 @@
+/* Hover Styles */
+
+.\:hover-bubblegum-100:hover, .\:hover.bubblegum-100:hover {
+    border-color: var(--bubblegum-100);
+    background-color: var(--bubblegum-100);
+}
+
+.\:hover-bubblegum-200:hover, .\:hover.bubblegum-200:hover {
+    border-color: var(--bubblegum-200);
+    background-color: var(--bubblegum-200);
+}
+
+.\:hover-bubblegum-300:hover, .\:hover.bubblegum-300:hover {
+    border-color: var(--bubblegum-300);
+    background-color: var(--bubblegum-300);
+}
+
+.\:hover-bubblegum-400:hover, .\:hover.bubblegum-400:hover {
+    border-color: var(--bubblegum-400);
+    background-color: var(--bubblegum-400);
+}
+
+.\:hover-bubblegum-500:hover, .\:hover.bubblegum-500:hover {
+    border-color: var(--bubblegum-500);
+    background-color: var(--bubblegum-500);
+}
+
+.\:hover-bubblegum-600:hover, .\:hover.bubblegum-600:hover {
+    border-color: var(--bubblegum-600);
+    background-color: var(--bubblegum-600);
+}
+
+.\:hover-bubblegum-700:hover, .\:hover.bubblegum-700:hover {
+    border-color: var(--bubblegum-700);
+    background-color: var(--bubblegum-700);
+}
+
+.\:hover-bubblegum-800:hover, .\:hover.bubblegum-800:hover {
+    border-color: var(--bubblegum-800);
+    background-color: var(--bubblegum-800);
+}
+
+.\:hover-bubblegum-900:hover, .\:hover.bubblegum-900:hover {
+    border-color: var(--bubblegum-900);
+    background-color: var(--bubblegum-900);
+}
+
+.\:hover-bubblegum-900\[white\]:hover{
+    border-color: var(--bubblegum-900);
+    background-color: var(--bubblegum-900);
+    color:var(--white-100);
+}
+
+.\:hover-bubblegum-100\[outline\]:hover, .\:hover.bubblegum-100\[outline\]:hover {
+    color: var(--bubblegum-100);
+    border-color: var(--bubblegum-100);
+}
+
+.\:hover-bubblegum-200\[outline\]:hover, .\:hover.bubblegum-200\[outline\]:hover {
+    color: var(--bubblegum-200);
+    border-color: var(--bubblegum-200);
+}
+
+.\:hover-bubblegum-300\[outline\]:hover, .\:hover.bubblegum-300\[outline\]:hover {
+    color: var(--bubblegum-300);
+    border-color: var(--bubblegum-300);
+}
+
+.\:hover-bubblegum-400\[outline\]:hover, .\:hover.bubblegum-400\[outline\]:hover {
+    color: var(--bubblegum-400);
+    border-color: var(--bubblegum-400);
+}
+
+.\:hover-bubblegum-500\[outline\]:hover, .\:hover.bubblegum-500\[outline\]:hover {
+    color: var(--bubblegum-500);
+    border-color: var(--bubblegum-500);
+}
+
+.\:hover-bubblegum-600\[outline\]:hover, .\:hover.bubblegum-600\[outline\]:hover {
+    color: var(--bubblegum-600);
+    border-color: var(--bubblegum-600);
+}
+
+.\:hover-bubblegum-700\[outline\]:hover, .\:hover.bubblegum-700\[outline\]:hover {
+    color: var(--bubblegum-700);
+    border-color: var(--bubblegum-700);
+}
+
+.\:hover-bubblegum-800\[outline\]:hover, .\:hover.bubblegum-800\[outline\]:hover {
+    color: var(--bubblegum-800);
+    border-color: var(--bubblegum-800);
+}
+
+.\:hover-bubblegum-900\[outline\]:hover, .\:hover.bubblegum-900\[outline\]:hover {
+    color: var(--bubblegum-900);
+    border-color: var(--bubblegum-900);
+}

@@ -1,0 +1,82 @@
+/* creamsicle */
+.bg-color--creamsicle-100,
+.bg-color.creamsicle-100,
+.bg\:color\:\:creamsicle-100,
+.bg\:color.creamsicle\:100,
+.bgc\:creamsicle\:100,
+.bgc-creamsicle-100
+{
+    background-color: var(--creamsicle-100);
+}
+
+.bg-color--creamsicle-200,
+.bg-color.creamsicle-200,
+.bg\:color\:\:creamsicle-200,
+.bg\:color.creamsicle\:200,
+.bgc\:creamsicle\:200,
+.bgc-creamsicle-200 {
+    background-color: var(--creamsicle-200);
+}
+
+.bg-color--creamsicle-300,
+.bg-color.creamsicle-300,
+.bg\:color\:\:creamsicle-300,
+.bg\:color.creamsicle\:300,
+.bgc\:creamsicle\:300,
+.bgc-creamsicle-300 {
+    background-color: var(--creamsicle-300);
+}
+
+.bg-color--creamsicle-400,
+.bg-color.creamsicle-400,
+.bg\:color\:\:creamsicle-400,
+.bg\:color.creamsicle\:400,
+.bgc\:creamsicle\:400,
+.bgc-creamsicle-400 {
+    background-color: var(--creamsicle-400);
+}
+
+.bg-color--creamsicle-500,
+.bg-color.creamsicle-500,
+.bg\:color\:\:creamsicle-500,
+.bg\:color.creamsicle\:500,
+.bgc\:creamsicle\:500,
+.bgc-creamsicle-500 {
+    background-color: var(--creamsicle-500);
+}
+
+.bg-color--creamsicle-600,
+.bg-color.creamsicle-600,
+.bg\:color\:\:creamsicle-600,
+.bg\:color.creamsicle\:600,
+.bgc\:creamsicle\:600,
+.bgc-creamsicle-600 {
+    background-color: var(--creamsicle-600);
+}
+
+.bg-color--creamsicle-700,
+.bg-color.creamsicle-700,
+.bg\:color\:\:creamsicle-700,
+.bg\:color.creamsicle\:700,
+.bgc\:creamsicle\:700,
+.bgc-creamsicle-700 {
+    background-color: var(--creamsicle-700);
+}
+
+.bg-color--creamsicle-800,
+.bg-color.creamsicle-800,
+.bg\:color\:\:creamsicle-800,
+.bg\:color.creamsicle\:800,
+.bgc\:creamsicle\:800,
+.bgc-creamsicle-800 {
+    background-color: var(--creamsicle-800);
+}
+
+.bg-color--creamsicle-900,
+.bg-color.creamsicle-900,
+.bg\:color\:\:creamsicle-900,
+.bg\:color.creamsicle\:900,
+.bgc\:creamsicle\:900,
+.bgc-creamsicle-900 {
+    background-color: var(--creamsicle-900);
+}

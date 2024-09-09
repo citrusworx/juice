@@ -1,0 +1,97 @@
+/* Hover Styles */
+
+.\:hover-wintergreen-100:hover, .\:hover.wintergreen-100:hover {
+    border-color: var(--wintergreen-100);
+    background-color: var(--wintergreen-100);
+}
+
+.\:hover-wintergreen-200:hover, .\:hover.wintergreen-200:hover {
+    border-color: var(--wintergreen-200);
+    background-color: var(--wintergreen-200);
+}
+
+.\:hover-wintergreen-300:hover, .\:hover.wintergreen-300:hover {
+    border-color: var(--wintergreen-300);
+    background-color: var(--wintergreen-300);
+}
+
+.\:hover-wintergreen-400:hover, .\:hover.wintergreen-400:hover {
+    border-color: var(--wintergreen-400);
+    background-color: var(--wintergreen-400);
+}
+
+.\:hover-wintergreen-500:hover, .\:hover.wintergreen-500:hover {
+    border-color: var(--wintergreen-500);
+    background-color: var(--wintergreen-500);
+}
+
+.\:hover-wintergreen-600:hover, .\:hover.wintergreen-600:hover {
+    border-color: var(--wintergreen-600);
+    background-color: var(--wintergreen-600);
+}
+
+.\:hover-wintergreen-700:hover, .\:hover.wintergreen-700:hover {
+    border-color: var(--wintergreen-700);
+    background-color: var(--wintergreen-700);
+}
+
+.\:hover-wintergreen-800:hover, .\:hover.wintergreen-800:hover {
+    border-color: var(--wintergreen-800);
+    background-color: var(--wintergreen-800);
+}
+
+.\:hover-wintergreen-900:hover, .\:hover.wintergreen-900:hover {
+    border-color: var(--wintergreen-900);
+    background-color: var(--wintergreen-900);
+}
+
+.\:hover-wintergreen-900\[white\]:hover{
+    border-color: var(--wintergreen-900);
+    background-color: var(--wintergreen-900);
+    color:var(--white-100);
+}
+
+.\:hover-wintergreen-100\[outline\]:hover, .\:hover.wintergreen-100\[outline\]:hover {
+    color: var(--wintergreen-100);
+    border-color: var(--wintergreen-100);
+}
+
+.\:hover-wintergreen-200\[outline\]:hover, .\:hover.wintergreen-200\[outline\]:hover {
+    color: var(--wintergreen-200);
+    border-color: var(--wintergreen-200);
+}
+
+.\:hover-wintergreen-300\[outline\]:hover, .\:hover.wintergreen-300\[outline\]:hover {
+    color: var(--wintergreen-300);
+    border-color: var(--wintergreen-300);
+}
+
+.\:hover-wintergreen-400\[outline\]:hover, .\:hover.wintergreen-400\[outline\]:hover {
+    color: var(--wintergreen-400);
+    border-color: var(--wintergreen-400);
+}
+
+.\:hover-wintergreen-500\[outline\]:hover, .\:hover.wintergreen-500\[outline\]:hover {
+    color: var(--wintergreen-500);
+    border-color: var(--wintergreen-500);
+}
+
+.\:hover-wintergreen-600\[outline\]:hover, .\:hover.wintergreen-600\[outline\]:hover {
+    color: var(--wintergreen-600);
+    border-color: var(--wintergreen-600);
+}
+
+.\:hover-wintergreen-700\[outline\]:hover, .\:hover.wintergreen-700\[outline\]:hover {
+    color: var(--wintergreen-700);
+    border-color: var(--wintergreen-700);
+}
+
+.\:hover-wintergreen-800\[outline\]:hover, .\:hover.wintergreen-800\[outline\]:hover {
+    color: var(--wintergreen-800);
+    border-color: var(--wintergreen-800);
+}
+
+.\:hover-wintergreen-900\[outline\]:hover, .\:hover.wintergreen-900\[outline\]:hover {
+    color: var(--wintergreen-900);
+    border-color: var(--wintergreen-900);
+}

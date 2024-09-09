@@ -1,0 +1,97 @@
+/* Hover Styles */
+
+.\:hover-maroon-100:hover, .\:hover.maroon-100:hover {
+    border-color: var(--maroon-100);
+    background-color: var(--maroon-100);
+}
+
+.\:hover-maroon-200:hover, .\:hover.maroon-200:hover {
+    border-color: var(--maroon-200);
+    background-color: var(--maroon-200);
+}
+
+.\:hover-maroon-300:hover, .\:hover.maroon-300:hover {
+    border-color: var(--maroon-300);
+    background-color: var(--maroon-300);
+}
+
+.\:hover-maroon-400:hover, .\:hover.maroon-400:hover {
+    border-color: var(--maroon-400);
+    background-color: var(--maroon-400);
+}
+
+.\:hover-maroon-500:hover, .\:hover.maroon-500:hover {
+    border-color: var(--maroon-500);
+    background-color: var(--maroon-500);
+}
+
+.\:hover-maroon-600:hover, .\:hover.maroon-600:hover {
+    border-color: var(--maroon-600);
+    background-color: var(--maroon-600);
+}
+
+.\:hover-maroon-700:hover, .\:hover.maroon-700:hover {
+    border-color: var(--maroon-700);
+    background-color: var(--maroon-700);
+}
+
+.\:hover-maroon-800:hover, .\:hover.maroon-800:hover {
+    border-color: var(--maroon-800);
+    background-color: var(--maroon-800);
+}
+
+.\:hover-maroon-900:hover, .\:hover.maroon-900:hover {
+    border-color: var(--maroon-900);
+    background-color: var(--maroon-900);
+}
+
+.\:hover-maroon-900\[white\]:hover{
+    border-color: var(--maroon-900);
+    background-color: var(--maroon-900);
+    color:var(--white-100);
+}
+
+.\:hover-maroon-100\[outline\]:hover, .\:hover.maroon-100\[outline\]:hover {
+    color: var(--maroon-100);
+    border-color: var(--maroon-100);
+}
+
+.\:hover-maroon-200\[outline\]:hover, .\:hover.maroon-200\[outline\]:hover {
+    color: var(--maroon-200);
+    border-color: var(--maroon-200);
+}
+
+.\:hover-maroon-300\[outline\]:hover, .\:hover.maroon-300\[outline\]:hover {
+    color: var(--maroon-300);
+    border-color: var(--maroon-300);
+}
+
+.\:hover-maroon-400\[outline\]:hover, .\:hover.maroon-400\[outline\]:hover {
+    color: var(--maroon-400);
+    border-color: var(--maroon-400);
+}
+
+.\:hover-maroon-500\[outline\]:hover, .\:hover.maroon-500\[outline\]:hover {
+    color: var(--maroon-500);
+    border-color: var(--maroon-500);
+}
+
+.\:hover-maroon-600\[outline\]:hover, .\:hover.maroon-600\[outline\]:hover {
+    color: var(--maroon-600);
+    border-color: var(--maroon-600);
+}
+
+.\:hover-maroon-700\[outline\]:hover, .\:hover.maroon-700\[outline\]:hover {
+    color: var(--maroon-700);
+    border-color: var(--maroon-700);
+}
+
+.\:hover-maroon-800\[outline\]:hover, .\:hover.maroon-800\[outline\]:hover {
+    color: var(--maroon-800);
+    border-color: var(--maroon-800);
+}
+
+.\:hover-maroon-900\[outline\]:hover, .\:hover.maroon-900\[outline\]:hover {
+    color: var(--maroon-900);
+    border-color: var(--maroon-900);
+}

@@ -1,0 +1,63 @@
+/* Icon */
+.icon\:maroon-100, .icon.maroon-100 {
+    display: inline-block;
+    background: var(--maroon-100);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:maroon-200, .icon.maroon-200 {
+    display: inline-block;
+    background: var(--maroon-200);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:maroon-300, .icon.maroon-300 {
+    display: inline-block;
+    background: var(--maroon-300);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:maroon-400, .icon.maroon-400 {
+    display: inline-block;
+    background: var(--maroon-400);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:maroon-500, .icon.maroon-500 {
+    display: inline-block;
+    background: var(--maroon-500);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:maroon-600, .icon.maroon-600 {
+    display: inline-block;
+    background: var(--maroon-600);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:maroon-700, .icon.maroon-700 {
+    display: inline-block;
+    background: var(--maroon-700);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:maroon-800, .icon.maroon-800 {
+    display: inline-block;
+    background: var(--maroon-800);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:maroon-900, .icon.maroon-900 {
+    display: inline-block;
+    background: var(--maroon-900);
+    background-size: cover;
+    background-repeat: no-repeat;
+}

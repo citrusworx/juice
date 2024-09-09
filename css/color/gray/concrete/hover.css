@@ -1,0 +1,97 @@
+/* Hover Styles */
+
+.\:hover-concrete-100:hover, .\:hover.concrete-100:hover {
+    border-color: var(--concrete-100);
+    background-color: var(--concrete-100);
+}
+
+.\:hover-concrete-200:hover, .\:hover.concrete-200:hover {
+    border-color: var(--concrete-200);
+    background-color: var(--concrete-200);
+}
+
+.\:hover-concrete-300:hover, .\:hover.concrete-300:hover {
+    border-color: var(--concrete-300);
+    background-color: var(--concrete-300);
+}
+
+.\:hover-concrete-400:hover, .\:hover.concrete-400:hover {
+    border-color: var(--concrete-400);
+    background-color: var(--concrete-400);
+}
+
+.\:hover-concrete-500:hover, .\:hover.concrete-500:hover {
+    border-color: var(--concrete-500);
+    background-color: var(--concrete-500);
+}
+
+.\:hover-concrete-600:hover, .\:hover.concrete-600:hover {
+    border-color: var(--concrete-600);
+    background-color: var(--concrete-600);
+}
+
+.\:hover-concrete-700:hover, .\:hover.concrete-700:hover {
+    border-color: var(--concrete-700);
+    background-color: var(--concrete-700);
+}
+
+.\:hover-concrete-800:hover, .\:hover.concrete-800:hover {
+    border-color: var(--concrete-800);
+    background-color: var(--concrete-800);
+}
+
+.\:hover-concrete-900:hover, .\:hover.concrete-900:hover {
+    border-color: var(--concrete-900);
+    background-color: var(--concrete-900);
+}
+
+.\:hover-concrete-900\[white\]:hover{
+    border-color: var(--concrete-900);
+    background-color: var(--concrete-900);
+    color:var(--white-100);
+}
+
+.\:hover-concrete-100\[outline\]:hover, .\:hover.concrete-100\[outline\]:hover {
+    color: var(--concrete-100);
+    border-color: var(--concrete-100);
+}
+
+.\:hover-concrete-200\[outline\]:hover, .\:hover.concrete-200\[outline\]:hover {
+    color: var(--concrete-200);
+    border-color: var(--concrete-200);
+}
+
+.\:hover-concrete-300\[outline\]:hover, .\:hover.concrete-300\[outline\]:hover {
+    color: var(--concrete-300);
+    border-color: var(--concrete-300);
+}
+
+.\:hover-concrete-400\[outline\]:hover, .\:hover.concrete-400\[outline\]:hover {
+    color: var(--concrete-400);
+    border-color: var(--concrete-400);
+}
+
+.\:hover-concrete-500\[outline\]:hover, .\:hover.concrete-500\[outline\]:hover {
+    color: var(--concrete-500);
+    border-color: var(--concrete-500);
+}
+
+.\:hover-concrete-600\[outline\]:hover, .\:hover.concrete-600\[outline\]:hover {
+    color: var(--concrete-600);
+    border-color: var(--concrete-600);
+}
+
+.\:hover-concrete-700\[outline\]:hover, .\:hover.concrete-700\[outline\]:hover {
+    color: var(--concrete-700);
+    border-color: var(--concrete-700);
+}
+
+.\:hover-concrete-800\[outline\]:hover, .\:hover.concrete-800\[outline\]:hover {
+    color: var(--concrete-800);
+    border-color: var(--concrete-800);
+}
+
+.\:hover-concrete-900\[outline\]:hover, .\:hover.concrete-900\[outline\]:hover {
+    color: var(--concrete-900);
+    border-color: var(--concrete-900);
+}

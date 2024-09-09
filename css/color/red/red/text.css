@@ -1,0 +1,83 @@
+/* Text */
+
+.text\:color\:\:red\:100,
+.text-color--red-100,
+.text-color.red-100,
+.text\:color.red\:100,
+.tc\:red\:100,
+.tc-red-100
+{
+    color: var(--red-100);
+}
+
+.text\:color\:\:red\:200,
+.text-color--red-200,
+.text-color.red-200,
+.text\:color.red\:200,
+.tc\:red\:200,
+.tc-red-200 {
+    color: var(--red-200);
+}
+
+.text\:color\:\:red\:300,
+.text-color--red-300,
+.text-color.red-300,
+.text\:color.red\:300,
+.tc\:red\:300,
+.tc-red-300 {
+    color: var(--red-300);
+}
+
+.text\:color\:\:red\:400,
+.text-color--red-400,
+.text-color.red-400,
+.text\:color.red\:400,
+.tc\:red\:400,
+.tc-red-400 {
+    color: var(--red-400);
+}
+
+.text\:color\:\:red\:500,
+.text-color--red-500,
+.text-color.red-500,
+.text\:color.red\:500,
+.tc\:red\:500,
+.tc-red-500 {
+    color: var(--red-500);
+}
+
+.text\:color\:\:red\:600,
+.text-color--red-600,
+.text-color.red-600,
+.text\:color.red\:600,
+.tc\:red\:600,
+.tc-red-600 {
+    color: var(--red-600);
+}
+
+.text\:color\:\:red\:700,
+.text-color--red-700,
+.text-color.red-700,
+.text\:color.red\:700,
+.tc\:red\:700,
+.tc-red-700 {
+    color: var(--red-700);
+}
+
+.text\:color\:\:red\:800,
+.text-color--red-800,
+.text-color.red-800,
+.text\:color.red\:800,
+.tc\:red\:800,
+.tc-red-800 {
+    color: var(--red-800);
+}
+
+.text\:color\:\:red\:900,
+.text-color--red-900,
+.text-color.red-900,
+.text\:color.red\:900,
+.tc\:red\:900,
+.tc-red-900 {
+    color: var(--red-900);
+}

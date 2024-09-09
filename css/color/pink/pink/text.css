@@ -1,0 +1,83 @@
+/* Text */
+
+.text\:color\:\:pink\:100,
+.text-color--pink-100,
+.text-color.pink-100,
+.text\:color.pink\:100,
+.tc\:pink\:100,
+.tc-pink-100
+{
+    color: var(--pink-100);
+}
+
+.text\:color\:\:pink\:200,
+.text-color--pink-200,
+.text-color.pink-200,
+.text\:color.pink\:200,
+.tc\:pink\:200,
+.tc-pink-200 {
+    color: var(--pink-200);
+}
+
+.text\:color\:\:pink\:300,
+.text-color--pink-300,
+.text-color.pink-300,
+.text\:color.pink\:300,
+.tc\:pink\:300,
+.tc-pink-300 {
+    color: var(--pink-300);
+}
+
+.text\:color\:\:pink\:400,
+.text-color--pink-400,
+.text-color.pink-400,
+.text\:color.pink\:400,
+.tc\:pink\:400,
+.tc-pink-400 {
+    color: var(--pink-400);
+}
+
+.text\:color\:\:pink\:500,
+.text-color--pink-500,
+.text-color.pink-500,
+.text\:color.pink\:500,
+.tc\:pink\:500,
+.tc-pink-500 {
+    color: var(--pink-500);
+}
+
+.text\:color\:\:pink\:600,
+.text-color--pink-600,
+.text-color.pink-600,
+.text\:color.pink\:600,
+.tc\:pink\:600,
+.tc-pink-600 {
+    color: var(--pink-600);
+}
+
+.text\:color\:\:pink\:700,
+.text-color--pink-700,
+.text-color.pink-700,
+.text\:color.pink\:700,
+.tc\:pink\:700,
+.tc-pink-700 {
+    color: var(--pink-700);
+}
+
+.text\:color\:\:pink\:800,
+.text-color--pink-800,
+.text-color.pink-800,
+.text\:color.pink\:800,
+.tc\:pink\:800,
+.tc-pink-800 {
+    color: var(--pink-800);
+}
+
+.text\:color\:\:pink\:900,
+.text-color--pink-900,
+.text-color.pink-900,
+.text\:color.pink\:900,
+.tc\:pink\:900,
+.tc-pink-900 {
+    color: var(--pink-900);
+}

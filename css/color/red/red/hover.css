@@ -1,0 +1,97 @@
+/* Hover Styles */
+
+.\:hover-red-100:hover, .\:hover.red-100:hover {
+    border-color: var(--red-100);
+    background-color: var(--red-100);
+}
+
+.\:hover-red-200:hover, .\:hover.red-200:hover {
+    border-color: var(--red-200);
+    background-color: var(--red-200);
+}
+
+.\:hover-red-300:hover, .\:hover.red-300:hover {
+    border-color: var(--red-300);
+    background-color: var(--red-300);
+}
+
+.\:hover-red-400:hover, .\:hover.red-400:hover {
+    border-color: var(--red-400);
+    background-color: var(--red-400);
+}
+
+.\:hover-red-500:hover, .\:hover.red-500:hover {
+    border-color: var(--red-500);
+    background-color: var(--red-500);
+}
+
+.\:hover-red-600:hover, .\:hover.red-600:hover {
+    border-color: var(--red-600);
+    background-color: var(--red-600);
+}
+
+.\:hover-red-700:hover, .\:hover.red-700:hover {
+    border-color: var(--red-700);
+    background-color: var(--red-700);
+}
+
+.\:hover-red-800:hover, .\:hover.red-800:hover {
+    border-color: var(--red-800);
+    background-color: var(--red-800);
+}
+
+.\:hover-red-900:hover, .\:hover.red-900:hover {
+    border-color: var(--red-900);
+    background-color: var(--red-900);
+}
+
+.\:hover-red-900\[white\]:hover{
+    border-color: var(--red-900);
+    background-color: var(--red-900);
+    color:var(--white-100);
+}
+
+.\:hover-red-100\[outline\]:hover, .\:hover.red-100\[outline\]:hover {
+    color: var(--red-100);
+    border-color: var(--red-100);
+}
+
+.\:hover-red-200\[outline\]:hover, .\:hover.red-200\[outline\]:hover {
+    color: var(--red-200);
+    border-color: var(--red-200);
+}
+
+.\:hover-red-300\[outline\]:hover, .\:hover.red-300\[outline\]:hover {
+    color: var(--red-300);
+    border-color: var(--red-300);
+}
+
+.\:hover-red-400\[outline\]:hover, .\:hover.red-400\[outline\]:hover {
+    color: var(--red-400);
+    border-color: var(--red-400);
+}
+
+.\:hover-red-500\[outline\]:hover, .\:hover.red-500\[outline\]:hover {
+    color: var(--red-500);
+    border-color: var(--red-500);
+}
+
+.\:hover-red-600\[outline\]:hover, .\:hover.red-600\[outline\]:hover {
+    color: var(--red-600);
+    border-color: var(--red-600);
+}
+
+.\:hover-red-700\[outline\]:hover, .\:hover.red-700\[outline\]:hover {
+    color: var(--red-700);
+    border-color: var(--red-700);
+}
+
+.\:hover-red-800\[outline\]:hover, .\:hover.red-800\[outline\]:hover {
+    color: var(--red-800);
+    border-color: var(--red-800);
+}
+
+.\:hover-red-900\[outline\]:hover, .\:hover.red-900\[outline\]:hover {
+    color: var(--red-900);
+    border-color: var(--red-900);
+}

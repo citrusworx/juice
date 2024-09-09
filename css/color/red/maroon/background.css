@@ -1,0 +1,82 @@
+/* maroon */
+.bg-color--maroon-100,
+.bg-color.maroon-100,
+.bg\:color\:\:maroon-100,
+.bg\:color.maroon\:100,
+.bgc\:maroon\:100,
+.bgc-maroon-100
+{
+    background-color: var(--maroon-100);
+}
+
+.bg-color--maroon-200,
+.bg-color.maroon-200,
+.bg\:color\:\:maroon-200,
+.bg\:color.maroon\:200,
+.bgc\:maroon\:200,
+.bgc-maroon-200 {
+    background-color: var(--maroon-200);
+}
+
+.bg-color--maroon-300,
+.bg-color.maroon-300,
+.bg\:color\:\:maroon-300,
+.bg\:color.maroon\:300,
+.bgc\:maroon\:300,
+.bgc-maroon-300 {
+    background-color: var(--maroon-300);
+}
+
+.bg-color--maroon-400,
+.bg-color.maroon-400,
+.bg\:color\:\:maroon-400,
+.bg\:color.maroon\:400,
+.bgc\:maroon\:400,
+.bgc-maroon-400 {
+    background-color: var(--maroon-400);
+}
+
+.bg-color--maroon-500,
+.bg-color.maroon-500,
+.bg\:color\:\:maroon-500,
+.bg\:color.maroon\:500,
+.bgc\:maroon\:500,
+.bgc-maroon-500 {
+    background-color: var(--maroon-500);
+}
+
+.bg-color--maroon-600,
+.bg-color.maroon-600,
+.bg\:color\:\:maroon-600,
+.bg\:color.maroon\:600,
+.bgc\:maroon\:600,
+.bgc-maroon-600 {
+    background-color: var(--maroon-600);
+}
+
+.bg-color--maroon-700,
+.bg-color.maroon-700,
+.bg\:color\:\:maroon-700,
+.bg\:color.maroon\:700,
+.bgc\:maroon\:700,
+.bgc-maroon-700 {
+    background-color: var(--maroon-700);
+}
+
+.bg-color--maroon-800,
+.bg-color.maroon-800,
+.bg\:color\:\:maroon-800,
+.bg\:color.maroon\:800,
+.bgc\:maroon\:800,
+.bgc-maroon-800 {
+    background-color: var(--maroon-800);
+}
+
+.bg-color--maroon-900,
+.bg-color.maroon-900,
+.bg\:color\:\:maroon-900,
+.bg\:color.maroon\:900,
+.bgc\:maroon\:900,
+.bgc-maroon-900 {
+    background-color: var(--maroon-900);
+}

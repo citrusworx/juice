@@ -1,0 +1,82 @@
+/* concrete */
+.bg-color--concrete-100,
+.bg-color.concrete-100,
+.bg\:color\:\:concrete-100,
+.bg\:color.concrete\:100,
+.bgc\:concrete\:100,
+.bgc-concrete-100
+{
+    background-color: var(--concrete-100);
+}
+
+.bg-color--concrete-200,
+.bg-color.concrete-200,
+.bg\:color\:\:concrete-200,
+.bg\:color.concrete\:200,
+.bgc\:concrete\:200,
+.bgc-concrete-200 {
+    background-color: var(--concrete-200);
+}
+
+.bg-color--concrete-300,
+.bg-color.concrete-300,
+.bg\:color\:\:concrete-300,
+.bg\:color.concrete\:300,
+.bgc\:concrete\:300,
+.bgc-concrete-300 {
+    background-color: var(--concrete-300);
+}
+
+.bg-color--concrete-400,
+.bg-color.concrete-400,
+.bg\:color\:\:concrete-400,
+.bg\:color.concrete\:400,
+.bgc\:concrete\:400,
+.bgc-concrete-400 {
+    background-color: var(--concrete-400);
+}
+
+.bg-color--concrete-500,
+.bg-color.concrete-500,
+.bg\:color\:\:concrete-500,
+.bg\:color.concrete\:500,
+.bgc\:concrete\:500,
+.bgc-concrete-500 {
+    background-color: var(--concrete-500);
+}
+
+.bg-color--concrete-600,
+.bg-color.concrete-600,
+.bg\:color\:\:concrete-600,
+.bg\:color.concrete\:600,
+.bgc\:concrete\:600,
+.bgc-concrete-600 {
+    background-color: var(--concrete-600);
+}
+
+.bg-color--concrete-700,
+.bg-color.concrete-700,
+.bg\:color\:\:concrete-700,
+.bg\:color.concrete\:700,
+.bgc\:concrete\:700,
+.bgc-concrete-700 {
+    background-color: var(--concrete-700);
+}
+
+.bg-color--concrete-800,
+.bg-color.concrete-800,
+.bg\:color\:\:concrete-800,
+.bg\:color.concrete\:800,
+.bgc\:concrete\:800,
+.bgc-concrete-800 {
+    background-color: var(--concrete-800);
+}
+
+.bg-color--concrete-900,
+.bg-color.concrete-900,
+.bg\:color\:\:concrete-900,
+.bg\:color.concrete\:900,
+.bgc\:concrete\:900,
+.bgc-concrete-900 {
+    background-color: var(--concrete-900);
+}

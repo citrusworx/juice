@@ -1,0 +1,83 @@
+/* Text */
+
+.text\:color\:\:wintergreen\:100,
+.text-color--wintergreen-100,
+.text-color.wintergreen-100,
+.text\:color.wintergreen\:100,
+.tc\:wintergreen\:100,
+.tc-wintergreen-100
+{
+    color: var(--wintergreen-100);
+}
+
+.text\:color\:\:wintergreen\:200,
+.text-color--wintergreen-200,
+.text-color.wintergreen-200,
+.text\:color.wintergreen\:200,
+.tc\:wintergreen\:200,
+.tc-wintergreen-200 {
+    color: var(--wintergreen-200);
+}
+
+.text\:color\:\:wintergreen\:300,
+.text-color--wintergreen-300,
+.text-color.wintergreen-300,
+.text\:color.wintergreen\:300,
+.tc\:wintergreen\:300,
+.tc-wintergreen-300 {
+    color: var(--wintergreen-300);
+}
+
+.text\:color\:\:wintergreen\:400,
+.text-color--wintergreen-400,
+.text-color.wintergreen-400,
+.text\:color.wintergreen\:400,
+.tc\:wintergreen\:400,
+.tc-wintergreen-400 {
+    color: var(--wintergreen-400);
+}
+
+.text\:color\:\:wintergreen\:500,
+.text-color--wintergreen-500,
+.text-color.wintergreen-500,
+.text\:color.wintergreen\:500,
+.tc\:wintergreen\:500,
+.tc-wintergreen-500 {
+    color: var(--wintergreen-500);
+}
+
+.text\:color\:\:wintergreen\:600,
+.text-color--wintergreen-600,
+.text-color.wintergreen-600,
+.text\:color.wintergreen\:600,
+.tc\:wintergreen\:600,
+.tc-wintergreen-600 {
+    color: var(--wintergreen-600);
+}
+
+.text\:color\:\:wintergreen\:700,
+.text-color--wintergreen-700,
+.text-color.wintergreen-700,
+.text\:color.wintergreen\:700,
+.tc\:wintergreen\:700,
+.tc-wintergreen-700 {
+    color: var(--wintergreen-700);
+}
+
+.text\:color\:\:wintergreen\:800,
+.text-color--wintergreen-800,
+.text-color.wintergreen-800,
+.text\:color.wintergreen\:800,
+.tc\:wintergreen\:800,
+.tc-wintergreen-800 {
+    color: var(--wintergreen-800);
+}
+
+.text\:color\:\:wintergreen\:900,
+.text-color--wintergreen-900,
+.text-color.wintergreen-900,
+.text\:color.wintergreen\:900,
+.tc\:wintergreen\:900,
+.tc-wintergreen-900 {
+    color: var(--wintergreen-900);
+}

@@ -1,0 +1,82 @@
+/* Border */
+.border\:color\:\:candy-apple-red\:100,
+.border-color--candy-apple-red-100,
+.border\:color.candy-apple-red\:100,
+.border-color.candy-apple-red-100,
+.bc\:candy-apple-red\:100,
+.bc-candy-apple-red-100
+{
+    border-color: var(--candy-apple-red-100);
+}
+
+.border\:color\:\:candy-apple-red\:200,
+.border-color--candy-apple-red-200,
+.border\:color.candy-apple-red\:200,
+.border-color.candy-apple-red-200,
+.bc\:candy-apple-red\:200,
+.bc-candy-apple-red-200 {
+    border-color: var(--candy-apple-red-200);
+}
+
+.border\:color\:\:candy-apple-red\:300,
+.border-color--candy-apple-red-300,
+.border\:color.candy-apple-red\:300,
+.border-color.candy-apple-red-300,
+.bc\:candy-apple-red\:300,
+.bc-candy-apple-red-300 {
+    border-color: var(--candy-apple-red-300);
+}
+
+.border\:color\:\:candy-apple-red\:400,
+.border-color--candy-apple-red-400,
+.border\:color.candy-apple-red\:400,
+.border-color.candy-apple-red-400,
+.bc\:candy-apple-red\:400,
+.bc-candy-apple-red-400 {
+    border-color: var(--candy-apple-red-400);
+}
+
+.border\:color\:\:candy-apple-red\:500,
+.border-color--candy-apple-red-500,
+.border\:color.candy-apple-red\:500,
+.border-color.candy-apple-red-500,
+.bc\:candy-apple-red\:500,
+.bc-candy-apple-red-500 {
+    border-color: var(--candy-apple-red-500);
+}
+
+.border\:color\:\:candy-apple-red\:600,
+.border-color--candy-apple-red-600,
+.border\:color.candy-apple-red\:600,
+.border-color.candy-apple-red-600,
+.bc\:candy-apple-red\:600,
+.bc-candy-apple-red-600 {
+    border-color: var(--candy-apple-red-600);
+}
+
+.border\:color\:\:candy-apple-red\:700,
+.border-color--candy-apple-red-700,
+.border\:color.candy-apple-red\:700,
+.border-color.candy-apple-red-700,
+.bc\:candy-apple-red\:700,
+.bc-candy-apple-red-700 {
+    border-color: var(--candy-apple-red-700);
+}
+
+.border\:color\:\:candy-apple-red\:800,
+.border-color--candy-apple-red-800,
+.border\:color.candy-apple-red\:800,
+.border-color.candy-apple-red-800,
+.bc\:candy-apple-red\:800,
+.bc-candy-apple-red-800 {
+    border-color: var(--candy-apple-red-800);
+}
+
+.border\:color\:\:candy-apple-red\:900,
+.border-color--candy-apple-red-900,
+.border\:color.candy-apple-red\:900,
+.border-color.candy-apple-red-900,
+.bc\:candy-apple-red\:900,
+.bc-candy-apple-red-900 {
+    border-color: var(--candy-apple-red-900);
+}

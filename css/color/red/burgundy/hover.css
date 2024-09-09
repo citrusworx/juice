@@ -1,0 +1,97 @@
+/* Hover Styles */
+
+.\:hover-burgundy-100:hover, .\:hover.burgundy-100:hover {
+    border-color: var(--burgundy-100);
+    background-color: var(--burgundy-100);
+}
+
+.\:hover-burgundy-200:hover, .\:hover.burgundy-200:hover {
+    border-color: var(--burgundy-200);
+    background-color: var(--burgundy-200);
+}
+
+.\:hover-burgundy-300:hover, .\:hover.burgundy-300:hover {
+    border-color: var(--burgundy-300);
+    background-color: var(--burgundy-300);
+}
+
+.\:hover-burgundy-400:hover, .\:hover.burgundy-400:hover {
+    border-color: var(--burgundy-400);
+    background-color: var(--burgundy-400);
+}
+
+.\:hover-burgundy-500:hover, .\:hover.burgundy-500:hover {
+    border-color: var(--burgundy-500);
+    background-color: var(--burgundy-500);
+}
+
+.\:hover-burgundy-600:hover, .\:hover.burgundy-600:hover {
+    border-color: var(--burgundy-600);
+    background-color: var(--burgundy-600);
+}
+
+.\:hover-burgundy-700:hover, .\:hover.burgundy-700:hover {
+    border-color: var(--burgundy-700);
+    background-color: var(--burgundy-700);
+}
+
+.\:hover-burgundy-800:hover, .\:hover.burgundy-800:hover {
+    border-color: var(--burgundy-800);
+    background-color: var(--burgundy-800);
+}
+
+.\:hover-burgundy-900:hover, .\:hover.burgundy-900:hover {
+    border-color: var(--burgundy-900);
+    background-color: var(--burgundy-900);
+}
+
+.\:hover-burgundy-900\[white\]:hover{
+    border-color: var(--burgundy-900);
+    background-color: var(--burgundy-900);
+    color:var(--white-100);
+}
+
+.\:hover-burgundy-100\[outline\]:hover, .\:hover.burgundy-100\[outline\]:hover {
+    color: var(--burgundy-100);
+    border-color: var(--burgundy-100);
+}
+
+.\:hover-burgundy-200\[outline\]:hover, .\:hover.burgundy-200\[outline\]:hover {
+    color: var(--burgundy-200);
+    border-color: var(--burgundy-200);
+}
+
+.\:hover-burgundy-300\[outline\]:hover, .\:hover.burgundy-300\[outline\]:hover {
+    color: var(--burgundy-300);
+    border-color: var(--burgundy-300);
+}
+
+.\:hover-burgundy-400\[outline\]:hover, .\:hover.burgundy-400\[outline\]:hover {
+    color: var(--burgundy-400);
+    border-color: var(--burgundy-400);
+}
+
+.\:hover-burgundy-500\[outline\]:hover, .\:hover.burgundy-500\[outline\]:hover {
+    color: var(--burgundy-500);
+    border-color: var(--burgundy-500);
+}
+
+.\:hover-burgundy-600\[outline\]:hover, .\:hover.burgundy-600\[outline\]:hover {
+    color: var(--burgundy-600);
+    border-color: var(--burgundy-600);
+}
+
+.\:hover-burgundy-700\[outline\]:hover, .\:hover.burgundy-700\[outline\]:hover {
+    color: var(--burgundy-700);
+    border-color: var(--burgundy-700);
+}
+
+.\:hover-burgundy-800\[outline\]:hover, .\:hover.burgundy-800\[outline\]:hover {
+    color: var(--burgundy-800);
+    border-color: var(--burgundy-800);
+}
+
+.\:hover-burgundy-900\[outline\]:hover, .\:hover.burgundy-900\[outline\]:hover {
+    color: var(--burgundy-900);
+    border-color: var(--burgundy-900);
+}

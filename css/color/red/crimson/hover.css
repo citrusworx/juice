@@ -1,0 +1,97 @@
+/* Hover Styles */
+
+.\:hover-crimson-100:hover, .\:hover.crimson-100:hover {
+    border-color: var(--crimson-100);
+    background-color: var(--crimson-100);
+}
+
+.\:hover-crimson-200:hover, .\:hover.crimson-200:hover {
+    border-color: var(--crimson-200);
+    background-color: var(--crimson-200);
+}
+
+.\:hover-crimson-300:hover, .\:hover.crimson-300:hover {
+    border-color: var(--crimson-300);
+    background-color: var(--crimson-300);
+}
+
+.\:hover-crimson-400:hover, .\:hover.crimson-400:hover {
+    border-color: var(--crimson-400);
+    background-color: var(--crimson-400);
+}
+
+.\:hover-crimson-500:hover, .\:hover.crimson-500:hover {
+    border-color: var(--crimson-500);
+    background-color: var(--crimson-500);
+}
+
+.\:hover-crimson-600:hover, .\:hover.crimson-600:hover {
+    border-color: var(--crimson-600);
+    background-color: var(--crimson-600);
+}
+
+.\:hover-crimson-700:hover, .\:hover.crimson-700:hover {
+    border-color: var(--crimson-700);
+    background-color: var(--crimson-700);
+}
+
+.\:hover-crimson-800:hover, .\:hover.crimson-800:hover {
+    border-color: var(--crimson-800);
+    background-color: var(--crimson-800);
+}
+
+.\:hover-crimson-900:hover, .\:hover.crimson-900:hover {
+    border-color: var(--crimson-900);
+    background-color: var(--crimson-900);
+}
+
+.\:hover-crimson-900\[white\]:hover{
+    border-color: var(--crimson-900);
+    background-color: var(--crimson-900);
+    color:var(--white-100);
+}
+
+.\:hover-crimson-100\[outline\]:hover, .\:hover.crimson-100\[outline\]:hover {
+    color: var(--crimson-100);
+    border-color: var(--crimson-100);
+}
+
+.\:hover-crimson-200\[outline\]:hover, .\:hover.crimson-200\[outline\]:hover {
+    color: var(--crimson-200);
+    border-color: var(--crimson-200);
+}
+
+.\:hover-crimson-300\[outline\]:hover, .\:hover.crimson-300\[outline\]:hover {
+    color: var(--crimson-300);
+    border-color: var(--crimson-300);
+}
+
+.\:hover-crimson-400\[outline\]:hover, .\:hover.crimson-400\[outline\]:hover {
+    color: var(--crimson-400);
+    border-color: var(--crimson-400);
+}
+
+.\:hover-crimson-500\[outline\]:hover, .\:hover.crimson-500\[outline\]:hover {
+    color: var(--crimson-500);
+    border-color: var(--crimson-500);
+}
+
+.\:hover-crimson-600\[outline\]:hover, .\:hover.crimson-600\[outline\]:hover {
+    color: var(--crimson-600);
+    border-color: var(--crimson-600);
+}
+
+.\:hover-crimson-700\[outline\]:hover, .\:hover.crimson-700\[outline\]:hover {
+    color: var(--crimson-700);
+    border-color: var(--crimson-700);
+}
+
+.\:hover-crimson-800\[outline\]:hover, .\:hover.crimson-800\[outline\]:hover {
+    color: var(--crimson-800);
+    border-color: var(--crimson-800);
+}
+
+.\:hover-crimson-900\[outline\]:hover, .\:hover.crimson-900\[outline\]:hover {
+    color: var(--crimson-900);
+    border-color: var(--crimson-900);
+}

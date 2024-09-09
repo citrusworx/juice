@@ -1,0 +1,82 @@
+/* fresh-green */
+.bg-color--fresh-green-100,
+.bg-color.fresh-green-100,
+.bg\:color\:\:fresh-green-100,
+.bg\:color.fresh-green\:100,
+.bgc\:fresh-green\:100,
+.bgc-fresh-green-100
+{
+    background-color: var(--fresh-green-100);
+}
+
+.bg-color--fresh-green-200,
+.bg-color.fresh-green-200,
+.bg\:color\:\:fresh-green-200,
+.bg\:color.fresh-green\:200,
+.bgc\:fresh-green\:200,
+.bgc-fresh-green-200 {
+    background-color: var(--fresh-green-200);
+}
+
+.bg-color--fresh-green-300,
+.bg-color.fresh-green-300,
+.bg\:color\:\:fresh-green-300,
+.bg\:color.fresh-green\:300,
+.bgc\:fresh-green\:300,
+.bgc-fresh-green-300 {
+    background-color: var(--fresh-green-300);
+}
+
+.bg-color--fresh-green-400,
+.bg-color.fresh-green-400,
+.bg\:color\:\:fresh-green-400,
+.bg\:color.fresh-green\:400,
+.bgc\:fresh-green\:400,
+.bgc-fresh-green-400 {
+    background-color: var(--fresh-green-400);
+}
+
+.bg-color--fresh-green-500,
+.bg-color.fresh-green-500,
+.bg\:color\:\:fresh-green-500,
+.bg\:color.fresh-green\:500,
+.bgc\:fresh-green\:500,
+.bgc-fresh-green-500 {
+    background-color: var(--fresh-green-500);
+}
+
+.bg-color--fresh-green-600,
+.bg-color.fresh-green-600,
+.bg\:color\:\:fresh-green-600,
+.bg\:color.fresh-green\:600,
+.bgc\:fresh-green\:600,
+.bgc-fresh-green-600 {
+    background-color: var(--fresh-green-600);
+}
+
+.bg-color--fresh-green-700,
+.bg-color.fresh-green-700,
+.bg\:color\:\:fresh-green-700,
+.bg\:color.fresh-green\:700,
+.bgc\:fresh-green\:700,
+.bgc-fresh-green-700 {
+    background-color: var(--fresh-green-700);
+}
+
+.bg-color--fresh-green-800,
+.bg-color.fresh-green-800,
+.bg\:color\:\:fresh-green-800,
+.bg\:color.fresh-green\:800,
+.bgc\:fresh-green\:800,
+.bgc-fresh-green-800 {
+    background-color: var(--fresh-green-800);
+}
+
+.bg-color--fresh-green-900,
+.bg-color.fresh-green-900,
+.bg\:color\:\:fresh-green-900,
+.bg\:color.fresh-green\:900,
+.bgc\:fresh-green\:900,
+.bgc-fresh-green-900 {
+    background-color: var(--fresh-green-900);
+}

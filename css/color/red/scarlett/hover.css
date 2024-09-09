@@ -1,0 +1,97 @@
+/* Hover Styles */
+
+.\:hover-scarlett-100:hover, .\:hover.scarlett-100:hover {
+    border-color: var(--scarlett-100);
+    background-color: var(--scarlett-100);
+}
+
+.\:hover-scarlett-200:hover, .\:hover.scarlett-200:hover {
+    border-color: var(--scarlett-200);
+    background-color: var(--scarlett-200);
+}
+
+.\:hover-scarlett-300:hover, .\:hover.scarlett-300:hover {
+    border-color: var(--scarlett-300);
+    background-color: var(--scarlett-300);
+}
+
+.\:hover-scarlett-400:hover, .\:hover.scarlett-400:hover {
+    border-color: var(--scarlett-400);
+    background-color: var(--scarlett-400);
+}
+
+.\:hover-scarlett-500:hover, .\:hover.scarlett-500:hover {
+    border-color: var(--scarlett-500);
+    background-color: var(--scarlett-500);
+}
+
+.\:hover-scarlett-600:hover, .\:hover.scarlett-600:hover {
+    border-color: var(--scarlett-600);
+    background-color: var(--scarlett-600);
+}
+
+.\:hover-scarlett-700:hover, .\:hover.scarlett-700:hover {
+    border-color: var(--scarlett-700);
+    background-color: var(--scarlett-700);
+}
+
+.\:hover-scarlett-800:hover, .\:hover.scarlett-800:hover {
+    border-color: var(--scarlett-800);
+    background-color: var(--scarlett-800);
+}
+
+.\:hover-scarlett-900:hover, .\:hover.scarlett-900:hover {
+    border-color: var(--scarlett-900);
+    background-color: var(--scarlett-900);
+}
+
+.\:hover-scarlett-900\[white\]:hover{
+    border-color: var(--scarlett-900);
+    background-color: var(--scarlett-900);
+    color:var(--white-100);
+}
+
+.\:hover-scarlett-100\[outline\]:hover, .\:hover.scarlett-100\[outline\]:hover {
+    color: var(--scarlett-100);
+    border-color: var(--scarlett-100);
+}
+
+.\:hover-scarlett-200\[outline\]:hover, .\:hover.scarlett-200\[outline\]:hover {
+    color: var(--scarlett-200);
+    border-color: var(--scarlett-200);
+}
+
+.\:hover-scarlett-300\[outline\]:hover, .\:hover.scarlett-300\[outline\]:hover {
+    color: var(--scarlett-300);
+    border-color: var(--scarlett-300);
+}
+
+.\:hover-scarlett-400\[outline\]:hover, .\:hover.scarlett-400\[outline\]:hover {
+    color: var(--scarlett-400);
+    border-color: var(--scarlett-400);
+}
+
+.\:hover-scarlett-500\[outline\]:hover, .\:hover.scarlett-500\[outline\]:hover {
+    color: var(--scarlett-500);
+    border-color: var(--scarlett-500);
+}
+
+.\:hover-scarlett-600\[outline\]:hover, .\:hover.scarlett-600\[outline\]:hover {
+    color: var(--scarlett-600);
+    border-color: var(--scarlett-600);
+}
+
+.\:hover-scarlett-700\[outline\]:hover, .\:hover.scarlett-700\[outline\]:hover {
+    color: var(--scarlett-700);
+    border-color: var(--scarlett-700);
+}
+
+.\:hover-scarlett-800\[outline\]:hover, .\:hover.scarlett-800\[outline\]:hover {
+    color: var(--scarlett-800);
+    border-color: var(--scarlett-800);
+}
+
+.\:hover-scarlett-900\[outline\]:hover, .\:hover.scarlett-900\[outline\]:hover {
+    color: var(--scarlett-900);
+    border-color: var(--scarlett-900);
+}

@@ -1,0 +1,97 @@
+/* Hover Styles */
+
+.\:hover-dandelion-100:hover, .\:hover.dandelion-100:hover {
+    border-color: var(--dandelion-100);
+    background-color: var(--dandelion-100);
+}
+
+.\:hover-dandelion-200:hover, .\:hover.dandelion-200:hover {
+    border-color: var(--dandelion-200);
+    background-color: var(--dandelion-200);
+}
+
+.\:hover-dandelion-300:hover, .\:hover.dandelion-300:hover {
+    border-color: var(--dandelion-300);
+    background-color: var(--dandelion-300);
+}
+
+.\:hover-dandelion-400:hover, .\:hover.dandelion-400:hover {
+    border-color: var(--dandelion-400);
+    background-color: var(--dandelion-400);
+}
+
+.\:hover-dandelion-500:hover, .\:hover.dandelion-500:hover {
+    border-color: var(--dandelion-500);
+    background-color: var(--dandelion-500);
+}
+
+.\:hover-dandelion-600:hover, .\:hover.dandelion-600:hover {
+    border-color: var(--dandelion-600);
+    background-color: var(--dandelion-600);
+}
+
+.\:hover-dandelion-700:hover, .\:hover.dandelion-700:hover {
+    border-color: var(--dandelion-700);
+    background-color: var(--dandelion-700);
+}
+
+.\:hover-dandelion-800:hover, .\:hover.dandelion-800:hover {
+    border-color: var(--dandelion-800);
+    background-color: var(--dandelion-800);
+}
+
+.\:hover-dandelion-900:hover, .\:hover.dandelion-900:hover {
+    border-color: var(--dandelion-900);
+    background-color: var(--dandelion-900);
+}
+
+.\:hover-dandelion-900\[dandelion\]:hover{
+    border-color: var(--dandelion-900);
+    background-color: var(--dandelion-900);
+    color:var(--dandelion-100);
+}
+
+.\:hover-dandelion-100\[outline\]:hover, .\:hover.dandelion-100\[outline\]:hover {
+    color: var(--dandelion-100);
+    border-color: var(--dandelion-100);
+}
+
+.\:hover-dandelion-200\[outline\]:hover, .\:hover.dandelion-200\[outline\]:hover {
+    color: var(--dandelion-200);
+    border-color: var(--dandelion-200);
+}
+
+.\:hover-dandelion-300\[outline\]:hover, .\:hover.dandelion-300\[outline\]:hover {
+    color: var(--dandelion-300);
+    border-color: var(--dandelion-300);
+}
+
+.\:hover-dandelion-400\[outline\]:hover, .\:hover.dandelion-400\[outline\]:hover {
+    color: var(--dandelion-400);
+    border-color: var(--dandelion-400);
+}
+
+.\:hover-dandelion-500\[outline\]:hover, .\:hover.dandelion-500\[outline\]:hover {
+    color: var(--dandelion-500);
+    border-color: var(--dandelion-500);
+}
+
+.\:hover-dandelion-600\[outline\]:hover, .\:hover.dandelion-600\[outline\]:hover {
+    color: var(--dandelion-600);
+    border-color: var(--dandelion-600);
+}
+
+.\:hover-dandelion-700\[outline\]:hover, .\:hover.dandelion-700\[outline\]:hover {
+    color: var(--dandelion-700);
+    border-color: var(--dandelion-700);
+}
+
+.\:hover-dandelion-800\[outline\]:hover, .\:hover.dandelion-800\[outline\]:hover {
+    color: var(--dandelion-800);
+    border-color: var(--dandelion-800);
+}
+
+.\:hover-dandelion-900\[outline\]:hover, .\:hover.dandelion-900\[outline\]:hover {
+    color: var(--dandelion-900);
+    border-color: var(--dandelion-900);
+}

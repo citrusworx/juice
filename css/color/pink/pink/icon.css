@@ -1,0 +1,63 @@
+/* Icon */
+.icon\:pink-100, .icon.pink-100 {
+    display: inline-block;
+    background: var(--pink-100);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:pink-200, .icon.pink-200 {
+    display: inline-block;
+    background: var(--pink-200);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:pink-300, .icon.pink-300 {
+    display: inline-block;
+    background: var(--pink-300);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:pink-400, .icon.pink-400 {
+    display: inline-block;
+    background: var(--pink-400);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:pink-500, .icon.pink-500 {
+    display: inline-block;
+    background: var(--pink-500);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:pink-600, .icon.pink-600 {
+    display: inline-block;
+    background: var(--pink-600);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:pink-700, .icon.pink-700 {
+    display: inline-block;
+    background: var(--pink-700);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:pink-800, .icon.pink-800 {
+    display: inline-block;
+    background: var(--pink-800);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:pink-900, .icon.pink-900 {
+    display: inline-block;
+    background: var(--pink-900);
+    background-size: cover;
+    background-repeat: no-repeat;
+}

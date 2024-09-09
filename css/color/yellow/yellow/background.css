@@ -1,0 +1,82 @@
+/* yellow */
+.bg-color--yellow-100,
+.bg-color.yellow-100,
+.bg\:color\:\:yellow-100,
+.bg\:color.yellow\:100,
+.bgc\:yellow\:100,
+.bgc-yellow-100
+{
+    background-color: var(--yellow-100);
+}
+
+.bg-color--yellow-200,
+.bg-color.yellow-200,
+.bg\:color\:\:yellow-200,
+.bg\:color.yellow\:200,
+.bgc\:yellow\:200,
+.bgc-yellow-200 {
+    background-color: var(--yellow-200);
+}
+
+.bg-color--yellow-300,
+.bg-color.yellow-300,
+.bg\:color\:\:yellow-300,
+.bg\:color.yellow\:300,
+.bgc\:yellow\:300,
+.bgc-yellow-300 {
+    background-color: var(--yellow-300);
+}
+
+.bg-color--yellow-400,
+.bg-color.yellow-400,
+.bg\:color\:\:yellow-400,
+.bg\:color.yellow\:400,
+.bgc\:yellow\:400,
+.bgc-yellow-400 {
+    background-color: var(--yellow-400);
+}
+
+.bg-color--yellow-500,
+.bg-color.yellow-500,
+.bg\:color\:\:yellow-500,
+.bg\:color.yellow\:500,
+.bgc\:yellow\:500,
+.bgc-yellow-500 {
+    background-color: var(--yellow-500);
+}
+
+.bg-color--yellow-600,
+.bg-color.yellow-600,
+.bg\:color\:\:yellow-600,
+.bg\:color.yellow\:600,
+.bgc\:yellow\:600,
+.bgc-yellow-600 {
+    background-color: var(--yellow-600);
+}
+
+.bg-color--yellow-700,
+.bg-color.yellow-700,
+.bg\:color\:\:yellow-700,
+.bg\:color.yellow\:700,
+.bgc\:yellow\:700,
+.bgc-yellow-700 {
+    background-color: var(--yellow-700);
+}
+
+.bg-color--yellow-800,
+.bg-color.yellow-800,
+.bg\:color\:\:yellow-800,
+.bg\:color.yellow\:800,
+.bgc\:yellow\:800,
+.bgc-yellow-800 {
+    background-color: var(--yellow-800);
+}
+
+.bg-color--yellow-900,
+.bg-color.yellow-900,
+.bg\:color\:\:yellow-900,
+.bg\:color.yellow\:900,
+.bgc\:yellow\:900,
+.bgc-yellow-900 {
+    background-color: var(--yellow-900);
+}

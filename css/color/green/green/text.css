@@ -1,0 +1,83 @@
+/* Text */
+
+.text\:color\:\:green\:100,
+.text-color--green-100,
+.text-color.green-100,
+.text\:color.green\:100,
+.tc\:green\:100,
+.tc-green-100
+{
+    color: var(--green-100);
+}
+
+.text\:color\:\:green\:200,
+.text-color--green-200,
+.text-color.green-200,
+.text\:color.green\:200,
+.tc\:green\:200,
+.tc-green-200 {
+    color: var(--green-200);
+}
+
+.text\:color\:\:green\:300,
+.text-color--green-300,
+.text-color.green-300,
+.text\:color.green\:300,
+.tc\:green\:300,
+.tc-green-300 {
+    color: var(--green-300);
+}
+
+.text\:color\:\:green\:400,
+.text-color--green-400,
+.text-color.green-400,
+.text\:color.green\:400,
+.tc\:green\:400,
+.tc-green-400 {
+    color: var(--green-400);
+}
+
+.text\:color\:\:green\:500,
+.text-color--green-500,
+.text-color.green-500,
+.text\:color.green\:500,
+.tc\:green\:500,
+.tc-green-500 {
+    color: var(--green-500);
+}
+
+.text\:color\:\:green\:600,
+.text-color--green-600,
+.text-color.green-600,
+.text\:color.green\:600,
+.tc\:green\:600,
+.tc-green-600 {
+    color: var(--green-600);
+}
+
+.text\:color\:\:green\:700,
+.text-color--green-700,
+.text-color.green-700,
+.text\:color.green\:700,
+.tc\:green\:700,
+.tc-green-700 {
+    color: var(--green-700);
+}
+
+.text\:color\:\:green\:800,
+.text-color--green-800,
+.text-color.green-800,
+.text\:color.green\:800,
+.tc\:green\:800,
+.tc-green-800 {
+    color: var(--green-800);
+}
+
+.text\:color\:\:green\:900,
+.text-color--green-900,
+.text-color.green-900,
+.text\:color.green\:900,
+.tc\:green\:900,
+.tc-green-900 {
+    color: var(--green-900);
+}

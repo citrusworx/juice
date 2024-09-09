@@ -1,0 +1,82 @@
+/* wintergreen */
+.bg-color--wintergreen-100,
+.bg-color.wintergreen-100,
+.bg\:color\:\:wintergreen-100,
+.bg\:color.wintergreen\:100,
+.bgc\:wintergreen\:100,
+.bgc-wintergreen-100
+{
+    background-color: var(--wintergreen-100);
+}
+
+.bg-color--wintergreen-200,
+.bg-color.wintergreen-200,
+.bg\:color\:\:wintergreen-200,
+.bg\:color.wintergreen\:200,
+.bgc\:wintergreen\:200,
+.bgc-wintergreen-200 {
+    background-color: var(--wintergreen-200);
+}
+
+.bg-color--wintergreen-300,
+.bg-color.wintergreen-300,
+.bg\:color\:\:wintergreen-300,
+.bg\:color.wintergreen\:300,
+.bgc\:wintergreen\:300,
+.bgc-wintergreen-300 {
+    background-color: var(--wintergreen-300);
+}
+
+.bg-color--wintergreen-400,
+.bg-color.wintergreen-400,
+.bg\:color\:\:wintergreen-400,
+.bg\:color.wintergreen\:400,
+.bgc\:wintergreen\:400,
+.bgc-wintergreen-400 {
+    background-color: var(--wintergreen-400);
+}
+
+.bg-color--wintergreen-500,
+.bg-color.wintergreen-500,
+.bg\:color\:\:wintergreen-500,
+.bg\:color.wintergreen\:500,
+.bgc\:wintergreen\:500,
+.bgc-wintergreen-500 {
+    background-color: var(--wintergreen-500);
+}
+
+.bg-color--wintergreen-600,
+.bg-color.wintergreen-600,
+.bg\:color\:\:wintergreen-600,
+.bg\:color.wintergreen\:600,
+.bgc\:wintergreen\:600,
+.bgc-wintergreen-600 {
+    background-color: var(--wintergreen-600);
+}
+
+.bg-color--wintergreen-700,
+.bg-color.wintergreen-700,
+.bg\:color\:\:wintergreen-700,
+.bg\:color.wintergreen\:700,
+.bgc\:wintergreen\:700,
+.bgc-wintergreen-700 {
+    background-color: var(--wintergreen-700);
+}
+
+.bg-color--wintergreen-800,
+.bg-color.wintergreen-800,
+.bg\:color\:\:wintergreen-800,
+.bg\:color.wintergreen\:800,
+.bgc\:wintergreen\:800,
+.bgc-wintergreen-800 {
+    background-color: var(--wintergreen-800);
+}
+
+.bg-color--wintergreen-900,
+.bg-color.wintergreen-900,
+.bg\:color\:\:wintergreen-900,
+.bg\:color.wintergreen\:900,
+.bgc\:wintergreen\:900,
+.bgc-wintergreen-900 {
+    background-color: var(--wintergreen-900);
+}

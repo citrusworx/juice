@@ -1,0 +1,82 @@
+/* white */
+.bg-color--white-100,
+.bg-color.white-100,
+.bg\:color\:\:white-100,
+.bg\:color.white\:100,
+.bgc\:white\:100,
+.bgc-white-100
+{
+    background-color: var(--white-100);
+}
+
+.bg-color--white-200,
+.bg-color.white-200,
+.bg\:color\:\:white-200,
+.bg\:color.white\:200,
+.bgc\:white\:200,
+.bgc-white-200 {
+    background-color: var(--white-200);
+}
+
+.bg-color--white-300,
+.bg-color.white-300,
+.bg\:color\:\:white-300,
+.bg\:color.white\:300,
+.bgc\:white\:300,
+.bgc-white-300 {
+    background-color: var(--white-300);
+}
+
+.bg-color--white-400,
+.bg-color.white-400,
+.bg\:color\:\:white-400,
+.bg\:color.white\:400,
+.bgc\:white\:400,
+.bgc-white-400 {
+    background-color: var(--white-400);
+}
+
+.bg-color--white-500,
+.bg-color.white-500,
+.bg\:color\:\:white-500,
+.bg\:color.white\:500,
+.bgc\:white\:500,
+.bgc-white-500 {
+    background-color: var(--white-500);
+}
+
+.bg-color--white-600,
+.bg-color.white-600,
+.bg\:color\:\:white-600,
+.bg\:color.white\:600,
+.bgc\:white\:600,
+.bgc-white-600 {
+    background-color: var(--white-600);
+}
+
+.bg-color--white-700,
+.bg-color.white-700,
+.bg\:color\:\:white-700,
+.bg\:color.white\:700,
+.bgc\:white\:700,
+.bgc-white-700 {
+    background-color: var(--white-700);
+}
+
+.bg-color--white-800,
+.bg-color.white-800,
+.bg\:color\:\:white-800,
+.bg\:color.white\:800,
+.bgc\:white\:800,
+.bgc-white-800 {
+    background-color: var(--white-800);
+}
+
+.bg-color--white-900,
+.bg-color.white-900,
+.bg\:color\:\:white-900,
+.bg\:color.white\:900,
+.bgc\:white\:900,
+.bgc-white-900 {
+    background-color: var(--white-900);
+}

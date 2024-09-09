@@ -1,0 +1,82 @@
+/* scarlett */
+.bg-color--scarlett-100,
+.bg-color.scarlett-100,
+.bg\:color\:\:scarlett-100,
+.bg\:color.scarlett\:100,
+.bgc\:scarlett\:100,
+.bgc-scarlett-100
+{
+    background-color: var(--scarlett-100);
+}
+
+.bg-color--scarlett-200,
+.bg-color.scarlett-200,
+.bg\:color\:\:scarlett-200,
+.bg\:color.scarlett\:200,
+.bgc\:scarlett\:200,
+.bgc-scarlett-200 {
+    background-color: var(--scarlett-200);
+}
+
+.bg-color--scarlett-300,
+.bg-color.scarlett-300,
+.bg\:color\:\:scarlett-300,
+.bg\:color.scarlett\:300,
+.bgc\:scarlett\:300,
+.bgc-scarlett-300 {
+    background-color: var(--scarlett-300);
+}
+
+.bg-color--scarlett-400,
+.bg-color.scarlett-400,
+.bg\:color\:\:scarlett-400,
+.bg\:color.scarlett\:400,
+.bgc\:scarlett\:400,
+.bgc-scarlett-400 {
+    background-color: var(--scarlett-400);
+}
+
+.bg-color--scarlett-500,
+.bg-color.scarlett-500,
+.bg\:color\:\:scarlett-500,
+.bg\:color.scarlett\:500,
+.bgc\:scarlett\:500,
+.bgc-scarlett-500 {
+    background-color: var(--scarlett-500);
+}
+
+.bg-color--scarlett-600,
+.bg-color.scarlett-600,
+.bg\:color\:\:scarlett-600,
+.bg\:color.scarlett\:600,
+.bgc\:scarlett\:600,
+.bgc-scarlett-600 {
+    background-color: var(--scarlett-600);
+}
+
+.bg-color--scarlett-700,
+.bg-color.scarlett-700,
+.bg\:color\:\:scarlett-700,
+.bg\:color.scarlett\:700,
+.bgc\:scarlett\:700,
+.bgc-scarlett-700 {
+    background-color: var(--scarlett-700);
+}
+
+.bg-color--scarlett-800,
+.bg-color.scarlett-800,
+.bg\:color\:\:scarlett-800,
+.bg\:color.scarlett\:800,
+.bgc\:scarlett\:800,
+.bgc-scarlett-800 {
+    background-color: var(--scarlett-800);
+}
+
+.bg-color--scarlett-900,
+.bg-color.scarlett-900,
+.bg\:color\:\:scarlett-900,
+.bg\:color.scarlett\:900,
+.bgc\:scarlett\:900,
+.bgc-scarlett-900 {
+    background-color: var(--scarlett-900);
+}

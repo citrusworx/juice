@@ -1,0 +1,83 @@
+/* Text */
+
+.text\:color\:\:purple\:100,
+.text-color--purple-100,
+.text-color.purple-100,
+.text\:color.purple\:100,
+.tc\:purple\:100,
+.tc-purple-100
+{
+    color: var(--purple-100);
+}
+
+.text\:color\:\:purple\:200,
+.text-color--purple-200,
+.text-color.purple-200,
+.text\:color.purple\:200,
+.tc\:purple\:200,
+.tc-purple-200 {
+    color: var(--purple-200);
+}
+
+.text\:color\:\:purple\:300,
+.text-color--purple-300,
+.text-color.purple-300,
+.text\:color.purple\:300,
+.tc\:purple\:300,
+.tc-purple-300 {
+    color: var(--purple-300);
+}
+
+.text\:color\:\:purple\:400,
+.text-color--purple-400,
+.text-color.purple-400,
+.text\:color.purple\:400,
+.tc\:purple\:400,
+.tc-purple-400 {
+    color: var(--purple-400);
+}
+
+.text\:color\:\:purple\:500,
+.text-color--purple-500,
+.text-color.purple-500,
+.text\:color.purple\:500,
+.tc\:purple\:500,
+.tc-purple-500 {
+    color: var(--purple-500);
+}
+
+.text\:color\:\:purple\:600,
+.text-color--purple-600,
+.text-color.purple-600,
+.text\:color.purple\:600,
+.tc\:purple\:600,
+.tc-purple-600 {
+    color: var(--purple-600);
+}
+
+.text\:color\:\:purple\:700,
+.text-color--purple-700,
+.text-color.purple-700,
+.text\:color.purple\:700,
+.tc\:purple\:700,
+.tc-purple-700 {
+    color: var(--purple-700);
+}
+
+.text\:color\:\:purple\:800,
+.text-color--purple-800,
+.text-color.purple-800,
+.text\:color.purple\:800,
+.tc\:purple\:800,
+.tc-purple-800 {
+    color: var(--purple-800);
+}
+
+.text\:color\:\:purple\:900,
+.text-color--purple-900,
+.text-color.purple-900,
+.text\:color.purple\:900,
+.tc\:purple\:900,
+.tc-purple-900 {
+    color: var(--purple-900);
+}

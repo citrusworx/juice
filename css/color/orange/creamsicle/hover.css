@@ -1,0 +1,97 @@
+/* Hover Styles */
+
+.\:hover-creamsicle-100:hover, .\:hover.creamsicle-100:hover {
+    border-color: var(--creamsicle-100);
+    background-color: var(--creamsicle-100);
+}
+
+.\:hover-creamsicle-200:hover, .\:hover.creamsicle-200:hover {
+    border-color: var(--creamsicle-200);
+    background-color: var(--creamsicle-200);
+}
+
+.\:hover-creamsicle-300:hover, .\:hover.creamsicle-300:hover {
+    border-color: var(--creamsicle-300);
+    background-color: var(--creamsicle-300);
+}
+
+.\:hover-creamsicle-400:hover, .\:hover.creamsicle-400:hover {
+    border-color: var(--creamsicle-400);
+    background-color: var(--creamsicle-400);
+}
+
+.\:hover-creamsicle-500:hover, .\:hover.creamsicle-500:hover {
+    border-color: var(--creamsicle-500);
+    background-color: var(--creamsicle-500);
+}
+
+.\:hover-creamsicle-600:hover, .\:hover.creamsicle-600:hover {
+    border-color: var(--creamsicle-600);
+    background-color: var(--creamsicle-600);
+}
+
+.\:hover-creamsicle-700:hover, .\:hover.creamsicle-700:hover {
+    border-color: var(--creamsicle-700);
+    background-color: var(--creamsicle-700);
+}
+
+.\:hover-creamsicle-800:hover, .\:hover.creamsicle-800:hover {
+    border-color: var(--creamsicle-800);
+    background-color: var(--creamsicle-800);
+}
+
+.\:hover-creamsicle-900:hover, .\:hover.creamsicle-900:hover {
+    border-color: var(--creamsicle-900);
+    background-color: var(--creamsicle-900);
+}
+
+.\:hover-creamsicle-900\[white\]:hover{
+    border-color: var(--creamsicle-900);
+    background-color: var(--creamsicle-900);
+    color:var(--white-100);
+}
+
+.\:hover-creamsicle-100\[outline\]:hover, .\:hover.creamsicle-100\[outline\]:hover {
+    color: var(--creamsicle-100);
+    border-color: var(--creamsicle-100);
+}
+
+.\:hover-creamsicle-200\[outline\]:hover, .\:hover.creamsicle-200\[outline\]:hover {
+    color: var(--creamsicle-200);
+    border-color: var(--creamsicle-200);
+}
+
+.\:hover-creamsicle-300\[outline\]:hover, .\:hover.creamsicle-300\[outline\]:hover {
+    color: var(--creamsicle-300);
+    border-color: var(--creamsicle-300);
+}
+
+.\:hover-creamsicle-400\[outline\]:hover, .\:hover.creamsicle-400\[outline\]:hover {
+    color: var(--creamsicle-400);
+    border-color: var(--creamsicle-400);
+}
+
+.\:hover-creamsicle-500\[outline\]:hover, .\:hover.creamsicle-500\[outline\]:hover {
+    color: var(--creamsicle-500);
+    border-color: var(--creamsicle-500);
+}
+
+.\:hover-creamsicle-600\[outline\]:hover, .\:hover.creamsicle-600\[outline\]:hover {
+    color: var(--creamsicle-600);
+    border-color: var(--creamsicle-600);
+}
+
+.\:hover-creamsicle-700\[outline\]:hover, .\:hover.creamsicle-700\[outline\]:hover {
+    color: var(--creamsicle-700);
+    border-color: var(--creamsicle-700);
+}
+
+.\:hover-creamsicle-800\[outline\]:hover, .\:hover.creamsicle-800\[outline\]:hover {
+    color: var(--creamsicle-800);
+    border-color: var(--creamsicle-800);
+}
+
+.\:hover-creamsicle-900\[outline\]:hover, .\:hover.creamsicle-900\[outline\]:hover {
+    color: var(--creamsicle-900);
+    border-color: var(--creamsicle-900);
+}

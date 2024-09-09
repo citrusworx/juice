@@ -1,0 +1,97 @@
+/* Hover Styles */
+
+.\:hover-green-100:hover, .\:hover.green-100:hover {
+    border-color: var(--green-100);
+    background-color: var(--green-100);
+}
+
+.\:hover-green-200:hover, .\:hover.green-200:hover {
+    border-color: var(--green-200);
+    background-color: var(--green-200);
+}
+
+.\:hover-green-300:hover, .\:hover.green-300:hover {
+    border-color: var(--green-300);
+    background-color: var(--green-300);
+}
+
+.\:hover-green-400:hover, .\:hover.green-400:hover {
+    border-color: var(--green-400);
+    background-color: var(--green-400);
+}
+
+.\:hover-green-500:hover, .\:hover.green-500:hover {
+    border-color: var(--green-500);
+    background-color: var(--green-500);
+}
+
+.\:hover-green-600:hover, .\:hover.green-600:hover {
+    border-color: var(--green-600);
+    background-color: var(--green-600);
+}
+
+.\:hover-green-700:hover, .\:hover.green-700:hover {
+    border-color: var(--green-700);
+    background-color: var(--green-700);
+}
+
+.\:hover-green-800:hover, .\:hover.green-800:hover {
+    border-color: var(--green-800);
+    background-color: var(--green-800);
+}
+
+.\:hover-green-900:hover, .\:hover.green-900:hover {
+    border-color: var(--green-900);
+    background-color: var(--green-900);
+}
+
+.\:hover-green-900\[white\]:hover{
+    border-color: var(--green-900);
+    background-color: var(--green-900);
+    color:var(--white-100);
+}
+
+.\:hover-green-100\[outline\]:hover, .\:hover.green-100\[outline\]:hover {
+    color: var(--green-100);
+    border-color: var(--green-100);
+}
+
+.\:hover-green-200\[outline\]:hover, .\:hover.green-200\[outline\]:hover {
+    color: var(--green-200);
+    border-color: var(--green-200);
+}
+
+.\:hover-green-300\[outline\]:hover, .\:hover.green-300\[outline\]:hover {
+    color: var(--green-300);
+    border-color: var(--green-300);
+}
+
+.\:hover-green-400\[outline\]:hover, .\:hover.green-400\[outline\]:hover {
+    color: var(--green-400);
+    border-color: var(--green-400);
+}
+
+.\:hover-green-500\[outline\]:hover, .\:hover.green-500\[outline\]:hover {
+    color: var(--green-500);
+    border-color: var(--green-500);
+}
+
+.\:hover-green-600\[outline\]:hover, .\:hover.green-600\[outline\]:hover {
+    color: var(--green-600);
+    border-color: var(--green-600);
+}
+
+.\:hover-green-700\[outline\]:hover, .\:hover.green-700\[outline\]:hover {
+    color: var(--green-700);
+    border-color: var(--green-700);
+}
+
+.\:hover-green-800\[outline\]:hover, .\:hover.green-800\[outline\]:hover {
+    color: var(--green-800);
+    border-color: var(--green-800);
+}
+
+.\:hover-green-900\[outline\]:hover, .\:hover.green-900\[outline\]:hover {
+    color: var(--green-900);
+    border-color: var(--green-900);
+}

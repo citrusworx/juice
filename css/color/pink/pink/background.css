@@ -1,0 +1,82 @@
+/* pink */
+.bg-color--pink-100,
+.bg-color.pink-100,
+.bg\:color\:\:pink-100,
+.bg\:color.pink\:100,
+.bgc\:pink\:100,
+.bgc-pink-100
+{
+    background-color: var(--pink-100);
+}
+
+.bg-color--pink-200,
+.bg-color.pink-200,
+.bg\:color\:\:pink-200,
+.bg\:color.pink\:200,
+.bgc\:pink\:200,
+.bgc-pink-200 {
+    background-color: var(--pink-200);
+}
+
+.bg-color--pink-300,
+.bg-color.pink-300,
+.bg\:color\:\:pink-300,
+.bg\:color.pink\:300,
+.bgc\:pink\:300,
+.bgc-pink-300 {
+    background-color: var(--pink-300);
+}
+
+.bg-color--pink-400,
+.bg-color.pink-400,
+.bg\:color\:\:pink-400,
+.bg\:color.pink\:400,
+.bgc\:pink\:400,
+.bgc-pink-400 {
+    background-color: var(--pink-400);
+}
+
+.bg-color--pink-500,
+.bg-color.pink-500,
+.bg\:color\:\:pink-500,
+.bg\:color.pink\:500,
+.bgc\:pink\:500,
+.bgc-pink-500 {
+    background-color: var(--pink-500);
+}
+
+.bg-color--pink-600,
+.bg-color.pink-600,
+.bg\:color\:\:pink-600,
+.bg\:color.pink\:600,
+.bgc\:pink\:600,
+.bgc-pink-600 {
+    background-color: var(--pink-600);
+}
+
+.bg-color--pink-700,
+.bg-color.pink-700,
+.bg\:color\:\:pink-700,
+.bg\:color.pink\:700,
+.bgc\:pink\:700,
+.bgc-pink-700 {
+    background-color: var(--pink-700);
+}
+
+.bg-color--pink-800,
+.bg-color.pink-800,
+.bg\:color\:\:pink-800,
+.bg\:color.pink\:800,
+.bgc\:pink\:800,
+.bgc-pink-800 {
+    background-color: var(--pink-800);
+}
+
+.bg-color--pink-900,
+.bg-color.pink-900,
+.bg\:color\:\:pink-900,
+.bg\:color.pink\:900,
+.bgc\:pink\:900,
+.bgc-pink-900 {
+    background-color: var(--pink-900);
+}

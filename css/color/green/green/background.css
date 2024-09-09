@@ -1,0 +1,82 @@
+/* green */
+.bg-color--green-100,
+.bg-color.green-100,
+.bg\:color\:\:green-100,
+.bg\:color.green\:100,
+.bgc\:green\:100,
+.bgc-green-100
+{
+    background-color: var(--green-100);
+}
+
+.bg-color--green-200,
+.bg-color.green-200,
+.bg\:color\:\:green-200,
+.bg\:color.green\:200,
+.bgc\:green\:200,
+.bgc-green-200 {
+    background-color: var(--green-200);
+}
+
+.bg-color--green-300,
+.bg-color.green-300,
+.bg\:color\:\:green-300,
+.bg\:color.green\:300,
+.bgc\:green\:300,
+.bgc-green-300 {
+    background-color: var(--green-300);
+}
+
+.bg-color--green-400,
+.bg-color.green-400,
+.bg\:color\:\:green-400,
+.bg\:color.green\:400,
+.bgc\:green\:400,
+.bgc-green-400 {
+    background-color: var(--green-400);
+}
+
+.bg-color--green-500,
+.bg-color.green-500,
+.bg\:color\:\:green-500,
+.bg\:color.green\:500,
+.bgc\:green\:500,
+.bgc-green-500 {
+    background-color: var(--green-500);
+}
+
+.bg-color--green-600,
+.bg-color.green-600,
+.bg\:color\:\:green-600,
+.bg\:color.green\:600,
+.bgc\:green\:600,
+.bgc-green-600 {
+    background-color: var(--green-600);
+}
+
+.bg-color--green-700,
+.bg-color.green-700,
+.bg\:color\:\:green-700,
+.bg\:color.green\:700,
+.bgc\:green\:700,
+.bgc-green-700 {
+    background-color: var(--green-700);
+}
+
+.bg-color--green-800,
+.bg-color.green-800,
+.bg\:color\:\:green-800,
+.bg\:color.green\:800,
+.bgc\:green\:800,
+.bgc-green-800 {
+    background-color: var(--green-800);
+}
+
+.bg-color--green-900,
+.bg-color.green-900,
+.bg\:color\:\:green-900,
+.bg\:color.green\:900,
+.bgc\:green\:900,
+.bgc-green-900 {
+    background-color: var(--green-900);
+}

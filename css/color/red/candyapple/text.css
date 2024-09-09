@@ -1,0 +1,83 @@
+/* Text */
+
+.text\:color\:\:candy-apple-red\:100,
+.text-color--candy-apple-red-100,
+.text-color.candy-apple-red-100,
+.text\:color.candy-apple-red\:100,
+.tc\:candy-apple-red\:100,
+.tc-candy-apple-red-100
+{
+    color: var(--candy-apple-red-100);
+}
+
+.text\:color\:\:candy-apple-red\:200,
+.text-color--candy-apple-red-200,
+.text-color.candy-apple-red-200,
+.text\:color.candy-apple-red\:200,
+.tc\:candy-apple-red\:200,
+.tc-candy-apple-red-200 {
+    color: var(--candy-apple-red-200);
+}
+
+.text\:color\:\:candy-apple-red\:300,
+.text-color--candy-apple-red-300,
+.text-color.candy-apple-red-300,
+.text\:color.candy-apple-red\:300,
+.tc\:candy-apple-red\:300,
+.tc-candy-apple-red-300 {
+    color: var(--candy-apple-red-300);
+}
+
+.text\:color\:\:candy-apple-red\:400,
+.text-color--candy-apple-red-400,
+.text-color.candy-apple-red-400,
+.text\:color.candy-apple-red\:400,
+.tc\:candy-apple-red\:400,
+.tc-candy-apple-red-400 {
+    color: var(--candy-apple-red-400);
+}
+
+.text\:color\:\:candy-apple-red\:500,
+.text-color--candy-apple-red-500,
+.text-color.candy-apple-red-500,
+.text\:color.candy-apple-red\:500,
+.tc\:candy-apple-red\:500,
+.tc-candy-apple-red-500 {
+    color: var(--candy-apple-red-500);
+}
+
+.text\:color\:\:candy-apple-red\:600,
+.text-color--candy-apple-red-600,
+.text-color.candy-apple-red-600,
+.text\:color.candy-apple-red\:600,
+.tc\:candy-apple-red\:600,
+.tc-candy-apple-red-600 {
+    color: var(--candy-apple-red-600);
+}
+
+.text\:color\:\:candy-apple-red\:700,
+.text-color--candy-apple-red-700,
+.text-color.candy-apple-red-700,
+.text\:color.candy-apple-red\:700,
+.tc\:candy-apple-red\:700,
+.tc-candy-apple-red-700 {
+    color: var(--candy-apple-red-700);
+}
+
+.text\:color\:\:candy-apple-red\:800,
+.text-color--candy-apple-red-800,
+.text-color.candy-apple-red-800,
+.text\:color.candy-apple-red\:800,
+.tc\:candy-apple-red\:800,
+.tc-candy-apple-red-800 {
+    color: var(--candy-apple-red-800);
+}
+
+.text\:color\:\:candy-apple-red\:900,
+.text-color--candy-apple-red-900,
+.text-color.candy-apple-red-900,
+.text\:color.candy-apple-red\:900,
+.tc\:candy-apple-red\:900,
+.tc-candy-apple-red-900 {
+    color: var(--candy-apple-red-900);
+}

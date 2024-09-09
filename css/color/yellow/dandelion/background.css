@@ -1,0 +1,82 @@
+/* dandelion */
+.bg-color--dandelion-100,
+.bg-color.dandelion-100,
+.bg\:color\:\:dandelion-100,
+.bg\:color.dandelion\:100,
+.bgc\:dandelion\:100,
+.bgc-dandelion-100
+{
+    background-color: var(--dandelion-100);
+}
+
+.bg-color--dandelion-200,
+.bg-color.dandelion-200,
+.bg\:color\:\:dandelion-200,
+.bg\:color.dandelion\:200,
+.bgc\:dandelion\:200,
+.bgc-dandelion-200 {
+    background-color: var(--dandelion-200);
+}
+
+.bg-color--dandelion-300,
+.bg-color.dandelion-300,
+.bg\:color\:\:dandelion-300,
+.bg\:color.dandelion\:300,
+.bgc\:dandelion\:300,
+.bgc-dandelion-300 {
+    background-color: var(--dandelion-300);
+}
+
+.bg-color--dandelion-400,
+.bg-color.dandelion-400,
+.bg\:color\:\:dandelion-400,
+.bg\:color.dandelion\:400,
+.bgc\:dandelion\:400,
+.bgc-dandelion-400 {
+    background-color: var(--dandelion-400);
+}
+
+.bg-color--dandelion-500,
+.bg-color.dandelion-500,
+.bg\:color\:\:dandelion-500,
+.bg\:color.dandelion\:500,
+.bgc\:dandelion\:500,
+.bgc-dandelion-500 {
+    background-color: var(--dandelion-500);
+}
+
+.bg-color--dandelion-600,
+.bg-color.dandelion-600,
+.bg\:color\:\:dandelion-600,
+.bg\:color.dandelion\:600,
+.bgc\:dandelion\:600,
+.bgc-dandelion-600 {
+    background-color: var(--dandelion-600);
+}
+
+.bg-color--dandelion-700,
+.bg-color.dandelion-700,
+.bg\:color\:\:dandelion-700,
+.bg\:color.dandelion\:700,
+.bgc\:dandelion\:700,
+.bgc-dandelion-700 {
+    background-color: var(--dandelion-700);
+}
+
+.bg-color--dandelion-800,
+.bg-color.dandelion-800,
+.bg\:color\:\:dandelion-800,
+.bg\:color.dandelion\:800,
+.bgc\:dandelion\:800,
+.bgc-dandelion-800 {
+    background-color: var(--dandelion-800);
+}
+
+.bg-color--dandelion-900,
+.bg-color.dandelion-900,
+.bg\:color\:\:dandelion-900,
+.bg\:color.dandelion\:900,
+.bgc\:dandelion\:900,
+.bgc-dandelion-900 {
+    background-color: var(--dandelion-900);
+}

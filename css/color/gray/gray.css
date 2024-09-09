@@ -1,4 +1,12 @@
 @import url('concrete.css');
+
+/* Element Styles */
+@import url('gray/background.css');
+@import url('gray/border.css');
+@import url('gray/hover.css');
+@import url('gray/icon.css');
+@import url('gray/shadow.css');
+@import url('gray/text.css');
 :root {
 /* Grays */
     --gray-100: hsl(0, 0%, 95%);

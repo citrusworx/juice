@@ -1,0 +1,83 @@
+/* Text */
+
+.text\:color\:\:creamsicle\:100,
+.text-color--creamsicle-100,
+.text-color.creamsicle-100,
+.text\:color.creamsicle\:100,
+.tc\:creamsicle\:100,
+.tc-creamsicle-100
+{
+    color: var(--creamsicle-100);
+}
+
+.text\:color\:\:creamsicle\:200,
+.text-color--creamsicle-200,
+.text-color.creamsicle-200,
+.text\:color.creamsicle\:200,
+.tc\:creamsicle\:200,
+.tc-creamsicle-200 {
+    color: var(--creamsicle-200);
+}
+
+.text\:color\:\:creamsicle\:300,
+.text-color--creamsicle-300,
+.text-color.creamsicle-300,
+.text\:color.creamsicle\:300,
+.tc\:creamsicle\:300,
+.tc-creamsicle-300 {
+    color: var(--creamsicle-300);
+}
+
+.text\:color\:\:creamsicle\:400,
+.text-color--creamsicle-400,
+.text-color.creamsicle-400,
+.text\:color.creamsicle\:400,
+.tc\:creamsicle\:400,
+.tc-creamsicle-400 {
+    color: var(--creamsicle-400);
+}
+
+.text\:color\:\:creamsicle\:500,
+.text-color--creamsicle-500,
+.text-color.creamsicle-500,
+.text\:color.creamsicle\:500,
+.tc\:creamsicle\:500,
+.tc-creamsicle-500 {
+    color: var(--creamsicle-500);
+}
+
+.text\:color\:\:creamsicle\:600,
+.text-color--creamsicle-600,
+.text-color.creamsicle-600,
+.text\:color.creamsicle\:600,
+.tc\:creamsicle\:600,
+.tc-creamsicle-600 {
+    color: var(--creamsicle-600);
+}
+
+.text\:color\:\:creamsicle\:700,
+.text-color--creamsicle-700,
+.text-color.creamsicle-700,
+.text\:color.creamsicle\:700,
+.tc\:creamsicle\:700,
+.tc-creamsicle-700 {
+    color: var(--creamsicle-700);
+}
+
+.text\:color\:\:creamsicle\:800,
+.text-color--creamsicle-800,
+.text-color.creamsicle-800,
+.text\:color.creamsicle\:800,
+.tc\:creamsicle\:800,
+.tc-creamsicle-800 {
+    color: var(--creamsicle-800);
+}
+
+.text\:color\:\:creamsicle\:900,
+.text-color--creamsicle-900,
+.text-color.creamsicle-900,
+.text\:color.creamsicle\:900,
+.tc\:creamsicle\:900,
+.tc-creamsicle-900 {
+    color: var(--creamsicle-900);
+}

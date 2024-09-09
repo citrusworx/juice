@@ -1,0 +1,82 @@
+/* red */
+.bg-color--red-100,
+.bg-color.red-100,
+.bg\:color\:\:red-100,
+.bg\:color.red\:100,
+.bgc\:red\:100,
+.bgc-red-100
+{
+    background-color: var(--red-100);
+}
+
+.bg-color--red-200,
+.bg-color.red-200,
+.bg\:color\:\:red-200,
+.bg\:color.red\:200,
+.bgc\:red\:200,
+.bgc-red-200 {
+    background-color: var(--red-200);
+}
+
+.bg-color--red-300,
+.bg-color.red-300,
+.bg\:color\:\:red-300,
+.bg\:color.red\:300,
+.bgc\:red\:300,
+.bgc-red-300 {
+    background-color: var(--red-300);
+}
+
+.bg-color--red-400,
+.bg-color.red-400,
+.bg\:color\:\:red-400,
+.bg\:color.red\:400,
+.bgc\:red\:400,
+.bgc-red-400 {
+    background-color: var(--red-400);
+}
+
+.bg-color--red-500,
+.bg-color.red-500,
+.bg\:color\:\:red-500,
+.bg\:color.red\:500,
+.bgc\:red\:500,
+.bgc-red-500 {
+    background-color: var(--red-500);
+}
+
+.bg-color--red-600,
+.bg-color.red-600,
+.bg\:color\:\:red-600,
+.bg\:color.red\:600,
+.bgc\:red\:600,
+.bgc-red-600 {
+    background-color: var(--red-600);
+}
+
+.bg-color--red-700,
+.bg-color.red-700,
+.bg\:color\:\:red-700,
+.bg\:color.red\:700,
+.bgc\:red\:700,
+.bgc-red-700 {
+    background-color: var(--red-700);
+}
+
+.bg-color--red-800,
+.bg-color.red-800,
+.bg\:color\:\:red-800,
+.bg\:color.red\:800,
+.bgc\:red\:800,
+.bgc-red-800 {
+    background-color: var(--red-800);
+}
+
+.bg-color--red-900,
+.bg-color.red-900,
+.bg\:color\:\:red-900,
+.bg\:color.red\:900,
+.bgc\:red\:900,
+.bgc-red-900 {
+    background-color: var(--red-900);
+}

@@ -1,0 +1,83 @@
+/* Text */
+
+.text\:color\:\:maroon\:100,
+.text-color--maroon-100,
+.text-color.maroon-100,
+.text\:color.maroon\:100,
+.tc\:maroon\:100,
+.tc-maroon-100
+{
+    color: var(--maroon-100);
+}
+
+.text\:color\:\:maroon\:200,
+.text-color--maroon-200,
+.text-color.maroon-200,
+.text\:color.maroon\:200,
+.tc\:maroon\:200,
+.tc-maroon-200 {
+    color: var(--maroon-200);
+}
+
+.text\:color\:\:maroon\:300,
+.text-color--maroon-300,
+.text-color.maroon-300,
+.text\:color.maroon\:300,
+.tc\:maroon\:300,
+.tc-maroon-300 {
+    color: var(--maroon-300);
+}
+
+.text\:color\:\:maroon\:400,
+.text-color--maroon-400,
+.text-color.maroon-400,
+.text\:color.maroon\:400,
+.tc\:maroon\:400,
+.tc-maroon-400 {
+    color: var(--maroon-400);
+}
+
+.text\:color\:\:maroon\:500,
+.text-color--maroon-500,
+.text-color.maroon-500,
+.text\:color.maroon\:500,
+.tc\:maroon\:500,
+.tc-maroon-500 {
+    color: var(--maroon-500);
+}
+
+.text\:color\:\:maroon\:600,
+.text-color--maroon-600,
+.text-color.maroon-600,
+.text\:color.maroon\:600,
+.tc\:maroon\:600,
+.tc-maroon-600 {
+    color: var(--maroon-600);
+}
+
+.text\:color\:\:maroon\:700,
+.text-color--maroon-700,
+.text-color.maroon-700,
+.text\:color.maroon\:700,
+.tc\:maroon\:700,
+.tc-maroon-700 {
+    color: var(--maroon-700);
+}
+
+.text\:color\:\:maroon\:800,
+.text-color--maroon-800,
+.text-color.maroon-800,
+.text\:color.maroon\:800,
+.tc\:maroon\:800,
+.tc-maroon-800 {
+    color: var(--maroon-800);
+}
+
+.text\:color\:\:maroon\:900,
+.text-color--maroon-900,
+.text-color.maroon-900,
+.text\:color.maroon\:900,
+.tc\:maroon\:900,
+.tc-maroon-900 {
+    color: var(--maroon-900);
+}

@@ -1,0 +1,82 @@
+/* crimson */
+.bg-color--crimson-100,
+.bg-color.crimson-100,
+.bg\:color\:\:crimson-100,
+.bg\:color.crimson\:100,
+.bgc\:crimson\:100,
+.bgc-crimson-100
+{
+    background-color: var(--crimson-100);
+}
+
+.bg-color--crimson-200,
+.bg-color.crimson-200,
+.bg\:color\:\:crimson-200,
+.bg\:color.crimson\:200,
+.bgc\:crimson\:200,
+.bgc-crimson-200 {
+    background-color: var(--crimson-200);
+}
+
+.bg-color--crimson-300,
+.bg-color.crimson-300,
+.bg\:color\:\:crimson-300,
+.bg\:color.crimson\:300,
+.bgc\:crimson\:300,
+.bgc-crimson-300 {
+    background-color: var(--crimson-300);
+}
+
+.bg-color--crimson-400,
+.bg-color.crimson-400,
+.bg\:color\:\:crimson-400,
+.bg\:color.crimson\:400,
+.bgc\:crimson\:400,
+.bgc-crimson-400 {
+    background-color: var(--crimson-400);
+}
+
+.bg-color--crimson-500,
+.bg-color.crimson-500,
+.bg\:color\:\:crimson-500,
+.bg\:color.crimson\:500,
+.bgc\:crimson\:500,
+.bgc-crimson-500 {
+    background-color: var(--crimson-500);
+}
+
+.bg-color--crimson-600,
+.bg-color.crimson-600,
+.bg\:color\:\:crimson-600,
+.bg\:color.crimson\:600,
+.bgc\:crimson\:600,
+.bgc-crimson-600 {
+    background-color: var(--crimson-600);
+}
+
+.bg-color--crimson-700,
+.bg-color.crimson-700,
+.bg\:color\:\:crimson-700,
+.bg\:color.crimson\:700,
+.bgc\:crimson\:700,
+.bgc-crimson-700 {
+    background-color: var(--crimson-700);
+}
+
+.bg-color--crimson-800,
+.bg-color.crimson-800,
+.bg\:color\:\:crimson-800,
+.bg\:color.crimson\:800,
+.bgc\:crimson\:800,
+.bgc-crimson-800 {
+    background-color: var(--crimson-800);
+}
+
+.bg-color--crimson-900,
+.bg-color.crimson-900,
+.bg\:color\:\:crimson-900,
+.bg\:color.crimson\:900,
+.bgc\:crimson\:900,
+.bgc-crimson-900 {
+    background-color: var(--crimson-900);
+}

@@ -1,0 +1,63 @@
+/* Icon */
+.icon\:crimson-100, .icon.crimson-100 {
+    display: inline-block;
+    background: var(--crimson-100);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:crimson-200, .icon.crimson-200 {
+    display: inline-block;
+    background: var(--crimson-200);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:crimson-300, .icon.crimson-300 {
+    display: inline-block;
+    background: var(--crimson-300);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:crimson-400, .icon.crimson-400 {
+    display: inline-block;
+    background: var(--crimson-400);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:crimson-500, .icon.crimson-500 {
+    display: inline-block;
+    background: var(--crimson-500);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:crimson-600, .icon.crimson-600 {
+    display: inline-block;
+    background: var(--crimson-600);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:crimson-700, .icon.crimson-700 {
+    display: inline-block;
+    background: var(--crimson-700);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:crimson-800, .icon.crimson-800 {
+    display: inline-block;
+    background: var(--crimson-800);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:crimson-900, .icon.crimson-900 {
+    display: inline-block;
+    background: var(--crimson-900);
+    background-size: cover;
+    background-repeat: no-repeat;
+}

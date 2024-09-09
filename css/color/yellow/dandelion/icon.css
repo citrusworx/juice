@@ -1,0 +1,63 @@
+/* Icon */
+.icon\:dandelion-100, .icon.dandelion-100 {
+    display: inline-block;
+    background: var(--dandelion-100);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:dandelion-200, .icon.dandelion-200 {
+    display: inline-block;
+    background: var(--dandelion-200);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:dandelion-300, .icon.dandelion-300 {
+    display: inline-block;
+    background: var(--dandelion-300);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:dandelion-400, .icon.dandelion-400 {
+    display: inline-block;
+    background: var(--dandelion-400);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:dandelion-500, .icon.dandelion-500 {
+    display: inline-block;
+    background: var(--dandelion-500);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:dandelion-600, .icon.dandelion-600 {
+    display: inline-block;
+    background: var(--dandelion-600);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:dandelion-700, .icon.dandelion-700 {
+    display: inline-block;
+    background: var(--dandelion-700);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:dandelion-800, .icon.dandelion-800 {
+    display: inline-block;
+    background: var(--dandelion-800);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icon\:dandelion-900, .icon.dandelion-900 {
+    display: inline-block;
+    background: var(--dandelion-900);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
