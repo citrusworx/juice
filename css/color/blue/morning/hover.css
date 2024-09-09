@@ -1,45 +1,97 @@
 /* Hover Styles */
-.\:hover\:\:morning-blue-100:hover {
+
+.\:hover-morning-blue-100:hover, .\:hover.morning-blue-100:hover {
+    border-color: var(--morning-blue-100);
     background-color: var(--morning-blue-100);
-    width: 100%;
 }
 
-.\:hover\:\:morning-blue-200:hover {
+.\:hover-morning-blue-200:hover, .\:hover.morning-blue-200:hover {
+    border-color: var(--morning-blue-200);
     background-color: var(--morning-blue-200);
-    width: 100%;
 }
 
-.\:hover\:\:morning-blue-300:hover {
+.\:hover-morning-blue-300:hover, .\:hover.morning-blue-300:hover {
+    border-color: var(--morning-blue-300);
     background-color: var(--morning-blue-300);
-    width: 100%;
 }
 
-.\:hover\:\:morning-blue-400:hover {
+.\:hover-morning-blue-400:hover, .\:hover.morning-blue-400:hover {
+    border-color: var(--morning-blue-400);
     background-color: var(--morning-blue-400);
-    width: 100%;
 }
 
-.\:hover\:\:morning-blue-500:hover {
+.\:hover-morning-blue-500:hover, .\:hover.morning-blue-500:hover {
+    border-color: var(--morning-blue-500);
     background-color: var(--morning-blue-500);
-    width: 100%;
 }
 
-.\:hover\:\:morning-blue-600:hover {
+.\:hover-morning-blue-600:hover, .\:hover.morning-blue-600:hover {
+    border-color: var(--morning-blue-600);
     background-color: var(--morning-blue-600);
-    width: 100%;
 }
 
-.\:hover\:\:morning-blue-700:hover {
+.\:hover-morning-blue-700:hover, .\:hover.morning-blue-700:hover {
+    border-color: var(--morning-blue-700);
     background-color: var(--morning-blue-700);
-    width: 100%;
 }
 
-.\:hover\:\:morning-blue-800:hover {
+.\:hover-morning-blue-800:hover, .\:hover.morning-blue-800:hover {
+    border-color: var(--morning-blue-800);
     background-color: var(--morning-blue-800);
-    width: 100%;
 }
 
-.\:hover\:\:morning-blue-900:hover {
+.\:hover-morning-blue-900:hover, .\:hover.morning-blue-900:hover {
+    border-color: var(--morning-blue-900);
     background-color: var(--morning-blue-900);
-    width: 100%;
+}
+
+.\:hover-morning-blue-900\[white\]:hover{
+    border-color: var(--morning-blue-900);
+    background-color: var(--morning-blue-900);
+    color:var(--white-100);
+}
+
+.\:hover-morning-blue-100\[outline\]:hover, .\:hover.morning-blue-100\[outline\]:hover {
+    color: var(--morning-blue-100);
+    border-color: var(--morning-blue-100);
+}
+
+.\:hover-morning-blue-200\[outline\]:hover, .\:hover.morning-blue-200\[outline\]:hover {
+    color: var(--morning-blue-200);
+    border-color: var(--morning-blue-200);
+}
+
+.\:hover-morning-blue-300\[outline\]:hover, .\:hover.morning-blue-300\[outline\]:hover {
+    color: var(--morning-blue-300);
+    border-color: var(--morning-blue-300);
+}
+
+.\:hover-morning-blue-400\[outline\]:hover, .\:hover.morning-blue-400\[outline\]:hover {
+    color: var(--morning-blue-400);
+    border-color: var(--morning-blue-400);
+}
+
+.\:hover-morning-blue-500\[outline\]:hover, .\:hover.morning-blue-500\[outline\]:hover {
+    color: var(--morning-blue-500);
+    border-color: var(--morning-blue-500);
+}
+
+.\:hover-morning-blue-600\[outline\]:hover, .\:hover.morning-blue-600\[outline\]:hover {
+    color: var(--morning-blue-600);
+    border-color: var(--morning-blue-600);
+}
+
+.\:hover-morning-blue-700\[outline\]:hover, .\:hover.morning-blue-700\[outline\]:hover {
+    color: var(--morning-blue-700);
+    border-color: var(--morning-blue-700);
+}
+
+.\:hover-morning-blue-800\[outline\]:hover, .\:hover.morning-blue-800\[outline\]:hover {
+    color: var(--morning-blue-800);
+    border-color: var(--morning-blue-800);
+}
+
+.\:hover-morning-blue-900\[outline\]:hover, .\:hover.morning-blue-900\[outline\]:hover {
+    color: var(--morning-blue-900);
+    border-color: var(--morning-blue-900);
 }

@@ -1,45 +1,97 @@
 /* Hover Styles */
-.\:hover\:\:cornflower-100:hover {
+
+.\:hover-cornflower-100:hover, .\:hover.cornflower-100:hover {
+    border-color: var(--cornflower-100);
     background-color: var(--cornflower-100);
-    width: 100%;
 }
 
-.\:hover\:\:cornflower-200:hover {
+.\:hover-cornflower-200:hover, .\:hover.cornflower-200:hover {
+    border-color: var(--cornflower-200);
     background-color: var(--cornflower-200);
-    width: 100%;
 }
 
-.\:hover\:\:cornflower-300:hover {
+.\:hover-cornflower-300:hover, .\:hover.cornflower-300:hover {
+    border-color: var(--cornflower-300);
     background-color: var(--cornflower-300);
-    width: 100%;
 }
 
-.\:hover\:\:cornflower-400:hover {
+.\:hover-cornflower-400:hover, .\:hover.cornflower-400:hover {
+    border-color: var(--cornflower-400);
     background-color: var(--cornflower-400);
-    width: 100%;
 }
 
-.\:hover\:\:cornflower-500:hover {
+.\:hover-cornflower-500:hover, .\:hover.cornflower-500:hover {
+    border-color: var(--cornflower-500);
     background-color: var(--cornflower-500);
-    width: 100%;
 }
 
-.\:hover\:\:cornflower-600:hover {
+.\:hover-cornflower-600:hover, .\:hover.cornflower-600:hover {
+    border-color: var(--cornflower-600);
     background-color: var(--cornflower-600);
-    width: 100%;
 }
 
-.\:hover\:\:cornflower-700:hover {
+.\:hover-cornflower-700:hover, .\:hover.cornflower-700:hover {
+    border-color: var(--cornflower-700);
     background-color: var(--cornflower-700);
-    width: 100%;
 }
 
-.\:hover\:\:cornflower-800:hover {
+.\:hover-cornflower-800:hover, .\:hover.cornflower-800:hover {
+    border-color: var(--cornflower-800);
     background-color: var(--cornflower-800);
-    width: 100%;
 }
 
-.\:hover\:\:cornflower-900:hover {
+.\:hover-cornflower-900:hover, .\:hover.cornflower-900:hover {
+    border-color: var(--cornflower-900);
     background-color: var(--cornflower-900);
-    width: 100%;
+}
+
+.\:hover-cornflower-900\[white\]:hover{
+    border-color: var(--cornflower-900);
+    background-color: var(--cornflower-900);
+    color:var(--white-100);
+}
+
+.\:hover-cornflower-100\[outline\]:hover, .\:hover.cornflower-100\[outline\]:hover {
+    color: var(--cornflower-100);
+    border-color: var(--cornflower-100);
+}
+
+.\:hover-cornflower-200\[outline\]:hover, .\:hover.cornflower-200\[outline\]:hover {
+    color: var(--cornflower-200);
+    border-color: var(--cornflower-200);
+}
+
+.\:hover-cornflower-300\[outline\]:hover, .\:hover.cornflower-300\[outline\]:hover {
+    color: var(--cornflower-300);
+    border-color: var(--cornflower-300);
+}
+
+.\:hover-cornflower-400\[outline\]:hover, .\:hover.cornflower-400\[outline\]:hover {
+    color: var(--cornflower-400);
+    border-color: var(--cornflower-400);
+}
+
+.\:hover-cornflower-500\[outline\]:hover, .\:hover.cornflower-500\[outline\]:hover {
+    color: var(--cornflower-500);
+    border-color: var(--cornflower-500);
+}
+
+.\:hover-cornflower-600\[outline\]:hover, .\:hover.cornflower-600\[outline\]:hover {
+    color: var(--cornflower-600);
+    border-color: var(--cornflower-600);
+}
+
+.\:hover-cornflower-700\[outline\]:hover, .\:hover.cornflower-700\[outline\]:hover {
+    color: var(--cornflower-700);
+    border-color: var(--cornflower-700);
+}
+
+.\:hover-cornflower-800\[outline\]:hover, .\:hover.cornflower-800\[outline\]:hover {
+    color: var(--cornflower-800);
+    border-color: var(--cornflower-800);
+}
+
+.\:hover-cornflower-900\[outline\]:hover, .\:hover.cornflower-900\[outline\]:hover {
+    color: var(--cornflower-900);
+    border-color: var(--cornflower-900);
 }

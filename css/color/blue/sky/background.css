@@ -1,77 +1,82 @@
-/* sky-blues */
-
-.bg.sky-blue\:100,
-.bg.sky-blue-100,
-.bg-sky-blue-100,
-.bg\:sky-blue\:100,
-.bg\:color\:\:sky-blue-100,
+/* sky-blue */
 .bg-color--sky-blue-100,
+.bg-color.sky-blue-100,
+.bg\:color\:\:sky-blue-100,
+.bg\:color.sky-blue\:100,
 .bgc\:sky-blue\:100,
 .bgc-sky-blue-100
 {
     background-color: var(--sky-blue-100);
 }
 
-.bg\:sky-blue-200,
-.bg.sky-blue-200,
-.bg-sky-blue-200,
-.bg\:sky-blue\:200
-{
+.bg-color--sky-blue-200,
+.bg-color.sky-blue-200,
+.bg\:color\:\:sky-blue-200,
+.bg\:color.sky-blue\:200,
+.bgc\:sky-blue\:200,
+.bgc-sky-blue-200 {
     background-color: var(--sky-blue-200);
 }
 
-.bg\:sky-blue-300,
-.bg.sky-blue-300,
-.bg-sky-blue-300,
-.bg\:sky-blue\:300
-{
+.bg-color--sky-blue-300,
+.bg-color.sky-blue-300,
+.bg\:color\:\:sky-blue-300,
+.bg\:color.sky-blue\:300,
+.bgc\:sky-blue\:300,
+.bgc-sky-blue-300 {
     background-color: var(--sky-blue-300);
 }
 
-.bg\:sky-blue-400,
-.bg.sky-blue-400,
-.bg-sky-blue-400,
-.bg\:sky-blue\:400
-{
+.bg-color--sky-blue-400,
+.bg-color.sky-blue-400,
+.bg\:color\:\:sky-blue-400,
+.bg\:color.sky-blue\:400,
+.bgc\:sky-blue\:400,
+.bgc-sky-blue-400 {
     background-color: var(--sky-blue-400);
 }
 
-.bg\:sky-blue-500,
-.bg.sky-blue-500,
-.bg-sky-blue-500,
-.bg\:sky-blue\:500
-{
+.bg-color--sky-blue-500,
+.bg-color.sky-blue-500,
+.bg\:color\:\:sky-blue-500,
+.bg\:color.sky-blue\:500,
+.bgc\:sky-blue\:500,
+.bgc-sky-blue-500 {
     background-color: var(--sky-blue-500);
 }
 
-.bg\:sky-blue-600,
-.bg.sky-blue-600,
-.bg-sky-blue-600,
-.bg\:sky-blue\:600
-{
+.bg-color--sky-blue-600,
+.bg-color.sky-blue-600,
+.bg\:color\:\:sky-blue-600,
+.bg\:color.sky-blue\:600,
+.bgc\:sky-blue\:600,
+.bgc-sky-blue-600 {
     background-color: var(--sky-blue-600);
 }
 
-.bg\:sky-blue-700,
-.bg.sky-blue-700,
-.bg-sky-blue-700,
-.bg\:sky-blue\:700
-{
+.bg-color--sky-blue-700,
+.bg-color.sky-blue-700,
+.bg\:color\:\:sky-blue-700,
+.bg\:color.sky-blue\:700,
+.bgc\:sky-blue\:700,
+.bgc-sky-blue-700 {
     background-color: var(--sky-blue-700);
 }
 
-.bg\:sky-blue-800,
-.bg.sky-blue-800,
-.bg-sky-blue-800,
-.bg\:sky-blue\:800
-{
+.bg-color--sky-blue-800,
+.bg-color.sky-blue-800,
+.bg\:color\:\:sky-blue-800,
+.bg\:color.sky-blue\:800,
+.bgc\:sky-blue\:800,
+.bgc-sky-blue-800 {
     background-color: var(--sky-blue-800);
 }
 
-.bg\:sky-blue-900,
-.bg.sky-blue-900,
-.bg-sky-blue-900,
-.bg\:sky-blue\:900
-{
+.bg-color--sky-blue-900,
+.bg-color.sky-blue-900,
+.bg\:color\:\:sky-blue-900,
+.bg\:color.sky-blue\:900,
+.bgc\:sky-blue\:900,
+.bgc-sky-blue-900 {
     background-color: var(--sky-blue-900);
 }

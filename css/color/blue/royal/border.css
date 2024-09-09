@@ -1,50 +1,82 @@
-
-
-/* Border
-
-Naming Convention
-border | - or : | color | - or : | value
-
-*/
-
-.border\:color\:\:royal-100,
+/* Border */
+.border\:color\:\:royal\:100,
 .border-color--royal-100,
-.border\:color.bg-royal-100,
-.border-color.bg-royal-100,
-.bc-royal-100 ,
-.bc\:royal-100
+.border\:color.royal\:100,
+.border-color.royal-100,
+.bc\:royal\:100,
+.bc-royal-100
 {
     border-color: var(--royal-100);
 }
 
-.border\:color\:royal-200, .border-color-royal-200, .border\:color.bg-royal-200, .border-color.bg-royal-200, .bc-royal-200 , .bc\:royal-200{
+.border\:color\:\:royal\:200,
+.border-color--royal-200,
+.border\:color.royal\:200,
+.border-color.royal-200,
+.bc\:royal\:200,
+.bc-royal-200 {
     border-color: var(--royal-200);
 }
 
-.border\:color\:royal-300, .border-color-royal-300, .border\:color.bg-royal-300, .border-color.bg-royal-300, .bc-royal-300 , .bc\:royal-300{
+.border\:color\:\:royal\:300,
+.border-color--royal-300,
+.border\:color.royal\:300,
+.border-color.royal-300,
+.bc\:royal\:300,
+.bc-royal-300 {
     border-color: var(--royal-300);
 }
 
-.border\:color\:royal-400, .border-color-royal-400, .border\:color.bg-royal-400, .border-color.bg-royal-400, .bc-royal-400 , .bc\:royal-400{
+.border\:color\:\:royal\:400,
+.border-color--royal-400,
+.border\:color.royal\:400,
+.border-color.royal-400,
+.bc\:royal\:400,
+.bc-royal-400 {
     border-color: var(--royal-400);
 }
 
-.border\:color\:royal-500, .border-color-royal-500, .border\:color.bg-royal-500, .border-color.bg-royal-500, .bc-royal-500 , .bc\:royal-500{
+.border\:color\:\:royal\:500,
+.border-color--royal-500,
+.border\:color.royal\:500,
+.border-color.royal-500,
+.bc\:royal\:500,
+.bc-royal-500 {
     border-color: var(--royal-500);
 }
 
-.border\:color\:royal-600, .border-color-royal-600, .border\:color.bg-royal-600, .border-color.bg-royal-600, .bc-royal-600 , .bc\:royal-600{
+.border\:color\:\:royal\:600,
+.border-color--royal-600,
+.border\:color.royal\:600,
+.border-color.royal-600,
+.bc\:royal\:600,
+.bc-royal-600 {
     border-color: var(--royal-600);
 }
 
-.border\:color\:royal-700, .border-color-royal-700, .border\:color.bg-royal-700, .border-color.bg-royal-700, .bc-royal-700 , .bc\:royal-700{
+.border\:color\:\:royal\:700,
+.border-color--royal-700,
+.border\:color.royal\:700,
+.border-color.royal-700,
+.bc\:royal\:700,
+.bc-royal-700 {
     border-color: var(--royal-700);
 }
 
-.border\:color\:royal-800, .border-color-royal-800, .border\:color.bg-royal-800, .border-color.bg-royal-800, .bc-royal-800 , .bc\:royal-800{
+.border\:color\:\:royal\:800,
+.border-color--royal-800,
+.border\:color.royal\:800,
+.border-color.royal-800,
+.bc\:royal\:800,
+.bc-royal-800 {
     border-color: var(--royal-800);
 }
 
-.border\:color\:royal-900, .border-color-royal-900, .border\:color.bg-royal-900, .border-color.bg-royal-900, .bc-royal-900 , .bc\:royal-900{
+.border\:color\:\:royal\:900,
+.border-color--royal-900,
+.border\:color.royal\:900,
+.border-color.royal-900,
+.bc\:royal\:900,
+.bc-royal-900 {
     border-color: var(--royal-900);
 }

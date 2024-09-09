@@ -1,50 +1,82 @@
-
-
-/* Border
-
-Naming Convention
-border | - or : | color | - or : | value
-
-*/
-
-.border\:color\:\:sky-blue-100,
+/* Border */
+.border\:color\:\:sky-blue\:100,
 .border-color--sky-blue-100,
-.border\:color.bg-sky-blue-100,
-.border-color.bg-sky-blue-100,
-.bc-sky-blue-100 ,
-.bc\:sky-blue-100
+.border\:color.sky-blue\:100,
+.border-color.sky-blue-100,
+.bc\:sky-blue\:100,
+.bc-sky-blue-100
 {
     border-color: var(--sky-blue-100);
 }
 
-.border\:color\:sky-blue-200, .border-color-sky-blue-200, .border\:color.bg-sky-blue-200, .border-color.bg-sky-blue-200, .bc-sky-blue-200 , .bc\:sky-blue-200{
+.border\:color\:\:sky-blue\:200,
+.border-color--sky-blue-200,
+.border\:color.sky-blue\:200,
+.border-color.sky-blue-200,
+.bc\:sky-blue\:200,
+.bc-sky-blue-200 {
     border-color: var(--sky-blue-200);
 }
 
-.border\:color\:sky-blue-300, .border-color-sky-blue-300, .border\:color.bg-sky-blue-300, .border-color.bg-sky-blue-300, .bc-sky-blue-300 , .bc\:sky-blue-300{
+.border\:color\:\:sky-blue\:300,
+.border-color--sky-blue-300,
+.border\:color.sky-blue\:300,
+.border-color.sky-blue-300,
+.bc\:sky-blue\:300,
+.bc-sky-blue-300 {
     border-color: var(--sky-blue-300);
 }
 
-.border\:color\:sky-blue-400, .border-color-sky-blue-400, .border\:color.bg-sky-blue-400, .border-color.bg-sky-blue-400, .bc-sky-blue-400 , .bc\:sky-blue-400{
+.border\:color\:\:sky-blue\:400,
+.border-color--sky-blue-400,
+.border\:color.sky-blue\:400,
+.border-color.sky-blue-400,
+.bc\:sky-blue\:400,
+.bc-sky-blue-400 {
     border-color: var(--sky-blue-400);
 }
 
-.border\:color\:sky-blue-500, .border-color-sky-blue-500, .border\:color.bg-sky-blue-500, .border-color.bg-sky-blue-500, .bc-sky-blue-500 , .bc\:sky-blue-500{
+.border\:color\:\:sky-blue\:500,
+.border-color--sky-blue-500,
+.border\:color.sky-blue\:500,
+.border-color.sky-blue-500,
+.bc\:sky-blue\:500,
+.bc-sky-blue-500 {
     border-color: var(--sky-blue-500);
 }
 
-.border\:color\:sky-blue-600, .border-color-sky-blue-600, .border\:color.bg-sky-blue-600, .border-color.bg-sky-blue-600, .bc-sky-blue-600 , .bc\:sky-blue-600{
+.border\:color\:\:sky-blue\:600,
+.border-color--sky-blue-600,
+.border\:color.sky-blue\:600,
+.border-color.sky-blue-600,
+.bc\:sky-blue\:600,
+.bc-sky-blue-600 {
     border-color: var(--sky-blue-600);
 }
 
-.border\:color\:sky-blue-700, .border-color-sky-blue-700, .border\:color.bg-sky-blue-700, .border-color.bg-sky-blue-700, .bc-sky-blue-700 , .bc\:sky-blue-700{
+.border\:color\:\:sky-blue\:700,
+.border-color--sky-blue-700,
+.border\:color.sky-blue\:700,
+.border-color.sky-blue-700,
+.bc\:sky-blue\:700,
+.bc-sky-blue-700 {
     border-color: var(--sky-blue-700);
 }
 
-.border\:color\:sky-blue-800, .border-color-sky-blue-800, .border\:color.bg-sky-blue-800, .border-color.bg-sky-blue-800, .bc-sky-blue-800 , .bc\:sky-blue-800{
+.border\:color\:\:sky-blue\:800,
+.border-color--sky-blue-800,
+.border\:color.sky-blue\:800,
+.border-color.sky-blue-800,
+.bc\:sky-blue\:800,
+.bc-sky-blue-800 {
     border-color: var(--sky-blue-800);
 }
 
-.border\:color\:sky-blue-900, .border-color-sky-blue-900, .border\:color.bg-sky-blue-900, .border-color.bg-sky-blue-900, .bc-sky-blue-900 , .bc\:sky-blue-900{
+.border\:color\:\:sky-blue\:900,
+.border-color--sky-blue-900,
+.border\:color.sky-blue\:900,
+.border-color.sky-blue-900,
+.bc\:sky-blue\:900,
+.bc-sky-blue-900 {
     border-color: var(--sky-blue-900);
 }

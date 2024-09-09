@@ -1,48 +1,83 @@
+/* Text */
 
-
-
-/* Text
-
-Naming Convention
-.text | - or : |  color | - or : | VALUE
-.text:color:value or .text-color-value {i.e. - text:color:blue-400, text-color-blue-400}
-
-Shorthand: tc-value or tc:value
-
-*/
-
-.text\:color\:royal-100, .text-color-royal-100, .text\:color.bg-royal-100, .text-color.bg-royal-100, .tc-royal-100 , .tc\:royal-100{
+.text\:color\:\:royal\:100,
+.text-color--royal-100,
+.text-color.royal-100,
+.text\:color.royal\:100,
+.tc\:royal\:100,
+.tc-royal-100
+{
     color: var(--royal-100);
 }
 
-.text\:color\:royal-200, .text-color-royal-200, .text\:color.bg-royal-200, .text-color.bg-royal-200, .tc-royal-200 , .tc\:royal-200{
+.text\:color\:\:royal\:200,
+.text-color--royal-200,
+.text-color.royal-200,
+.text\:color.royal\:200,
+.tc\:royal\:200,
+.tc-royal-200 {
     color: var(--royal-200);
 }
 
-.text\:color\:royal-300, .text-color-royal-300, .text\:color.bg-royal-300, .text-color.bg-royal-300, .tc-royal-300 , .tc\:royal-300{
+.text\:color\:\:royal\:300,
+.text-color--royal-300,
+.text-color.royal-300,
+.text\:color.royal\:300,
+.tc\:royal\:300,
+.tc-royal-300 {
     color: var(--royal-300);
 }
 
-.text\:color\:royal-400, .text-color-royal-400, .text\:color.bg-royal-400, .text-color.bg-royal-400, .tc-royal-400 , .tc\:royal-400{
+.text\:color\:\:royal\:400,
+.text-color--royal-400,
+.text-color.royal-400,
+.text\:color.royal\:400,
+.tc\:royal\:400,
+.tc-royal-400 {
     color: var(--royal-400);
 }
 
-.text\:color\:royal-500, .text-color-royal-500, .text\:color.bg-royal-500, .text-color.bg-royal-500, .tc-royal-500 , .tc\:royal-500{
+.text\:color\:\:royal\:500,
+.text-color--royal-500,
+.text-color.royal-500,
+.text\:color.royal\:500,
+.tc\:royal\:500,
+.tc-royal-500 {
     color: var(--royal-500);
 }
 
-.text\:color\:royal-600, .text-color-royal-600, .text\:color.bg-royal-600, .text-color.bg-royal-600, .tc-royal-600 , .tc\:royal-600{
+.text\:color\:\:royal\:600,
+.text-color--royal-600,
+.text-color.royal-600,
+.text\:color.royal\:600,
+.tc\:royal\:600,
+.tc-royal-600 {
     color: var(--royal-600);
 }
 
-.text\:color\:royal-700, .text-color-royal-700, .text\:color.bg-royal-700, .text-color.bg-royal-700, .tc-royal-700 , .tc\:royal-700{
+.text\:color\:\:royal\:700,
+.text-color--royal-700,
+.text-color.royal-700,
+.text\:color.royal\:700,
+.tc\:royal\:700,
+.tc-royal-700 {
     color: var(--royal-700);
 }
 
-.text\:color\:royal-800, .text-color-royal-800, .text\:color.bg-royal-800, .text-color.bg-royal-800, .tc-royal-800 , .tc\:royal-800{
+.text\:color\:\:royal\:800,
+.text-color--royal-800,
+.text-color.royal-800,
+.text\:color.royal\:800,
+.tc\:royal\:800,
+.tc-royal-800 {
     color: var(--royal-800);
 }
 
-.text\:color\:royal-900, .text-color-royal-900, .text\:color.bg-royal-900, .text-color.bg-royal-900, .tc-royal-900 , .tc\:royal-900{
+.text\:color\:\:royal\:900,
+.text-color--royal-900,
+.text-color.royal-900,
+.text\:color.royal\:900,
+.tc\:royal\:900,
+.tc-royal-900 {
     color: var(--royal-900);
 }

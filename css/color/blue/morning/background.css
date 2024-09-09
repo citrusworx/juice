@@ -1,77 +1,82 @@
-/* morning-blues */
-
-.bg.morning-blue\:100,
-.bg.morning-blue-100,
-.bg-morning-blue-100,
-.bg\:morning-blue\:100,
-.bg\:color\:\:morning-blue-100,
+/* morning-blue */
 .bg-color--morning-blue-100,
+.bg-color.morning-blue-100,
+.bg\:color\:\:morning-blue-100,
+.bg\:color.morning-blue\:100,
 .bgc\:morning-blue\:100,
 .bgc-morning-blue-100
 {
     background-color: var(--morning-blue-100);
 }
 
-.bg\:morning-blue-200,
-.bg.morning-blue-200,
-.bg-morning-blue-200,
-.bg\:morning-blue\:200
-{
+.bg-color--morning-blue-200,
+.bg-color.morning-blue-200,
+.bg\:color\:\:morning-blue-200,
+.bg\:color.morning-blue\:200,
+.bgc\:morning-blue\:200,
+.bgc-morning-blue-200 {
     background-color: var(--morning-blue-200);
 }
 
-.bg\:morning-blue-300,
-.bg.morning-blue-300,
-.bg-morning-blue-300,
-.bg\:morning-blue\:300
-{
+.bg-color--morning-blue-300,
+.bg-color.morning-blue-300,
+.bg\:color\:\:morning-blue-300,
+.bg\:color.morning-blue\:300,
+.bgc\:morning-blue\:300,
+.bgc-morning-blue-300 {
     background-color: var(--morning-blue-300);
 }
 
-.bg\:morning-blue-400,
-.bg.morning-blue-400,
-.bg-morning-blue-400,
-.bg\:morning-blue\:400
-{
+.bg-color--morning-blue-400,
+.bg-color.morning-blue-400,
+.bg\:color\:\:morning-blue-400,
+.bg\:color.morning-blue\:400,
+.bgc\:morning-blue\:400,
+.bgc-morning-blue-400 {
     background-color: var(--morning-blue-400);
 }
 
-.bg\:morning-blue-500,
-.bg.morning-blue-500,
-.bg-morning-blue-500,
-.bg\:morning-blue\:500
-{
+.bg-color--morning-blue-500,
+.bg-color.morning-blue-500,
+.bg\:color\:\:morning-blue-500,
+.bg\:color.morning-blue\:500,
+.bgc\:morning-blue\:500,
+.bgc-morning-blue-500 {
     background-color: var(--morning-blue-500);
 }
 
-.bg\:morning-blue-600,
-.bg.morning-blue-600,
-.bg-morning-blue-600,
-.bg\:morning-blue\:600
-{
+.bg-color--morning-blue-600,
+.bg-color.morning-blue-600,
+.bg\:color\:\:morning-blue-600,
+.bg\:color.morning-blue\:600,
+.bgc\:morning-blue\:600,
+.bgc-morning-blue-600 {
     background-color: var(--morning-blue-600);
 }
 
-.bg\:morning-blue-700,
-.bg.morning-blue-700,
-.bg-morning-blue-700,
-.bg\:morning-blue\:700
-{
+.bg-color--morning-blue-700,
+.bg-color.morning-blue-700,
+.bg\:color\:\:morning-blue-700,
+.bg\:color.morning-blue\:700,
+.bgc\:morning-blue\:700,
+.bgc-morning-blue-700 {
     background-color: var(--morning-blue-700);
 }
 
-.bg\:morning-blue-800,
-.bg.morning-blue-800,
-.bg-morning-blue-800,
-.bg\:morning-blue\:800
-{
+.bg-color--morning-blue-800,
+.bg-color.morning-blue-800,
+.bg\:color\:\:morning-blue-800,
+.bg\:color.morning-blue\:800,
+.bgc\:morning-blue\:800,
+.bgc-morning-blue-800 {
     background-color: var(--morning-blue-800);
 }
 
-.bg\:morning-blue-900,
-.bg.morning-blue-900,
-.bg-morning-blue-900,
-.bg\:morning-blue\:900
-{
+.bg-color--morning-blue-900,
+.bg-color.morning-blue-900,
+.bg\:color\:\:morning-blue-900,
+.bg\:color.morning-blue\:900,
+.bgc\:morning-blue\:900,
+.bgc-morning-blue-900 {
     background-color: var(--morning-blue-900);
 }

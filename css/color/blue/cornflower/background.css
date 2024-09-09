@@ -1,77 +1,82 @@
-/* cornflowers */
-
-.bg.cornflower\:100,
-.bg.cornflower-100,
-.bg-cornflower-100,
-.bg\:cornflower\:100,
-.bg\:color\:\:cornflower-100,
+/* cornflower */
 .bg-color--cornflower-100,
+.bg-color.cornflower-100,
+.bg\:color\:\:cornflower-100,
+.bg\:color.cornflower\:100,
 .bgc\:cornflower\:100,
 .bgc-cornflower-100
 {
     background-color: var(--cornflower-100);
 }
 
-.bg\:cornflower-200,
-.bg.cornflower-200,
-.bg-cornflower-200,
-.bg\:cornflower\:200
-{
+.bg-color--cornflower-200,
+.bg-color.cornflower-200,
+.bg\:color\:\:cornflower-200,
+.bg\:color.cornflower\:200,
+.bgc\:cornflower\:200,
+.bgc-cornflower-200 {
     background-color: var(--cornflower-200);
 }
 
-.bg\:cornflower-300,
-.bg.cornflower-300,
-.bg-cornflower-300,
-.bg\:cornflower\:300
-{
+.bg-color--cornflower-300,
+.bg-color.cornflower-300,
+.bg\:color\:\:cornflower-300,
+.bg\:color.cornflower\:300,
+.bgc\:cornflower\:300,
+.bgc-cornflower-300 {
     background-color: var(--cornflower-300);
 }
 
-.bg\:cornflower-400,
-.bg.cornflower-400,
-.bg-cornflower-400,
-.bg\:cornflower\:400
-{
+.bg-color--cornflower-400,
+.bg-color.cornflower-400,
+.bg\:color\:\:cornflower-400,
+.bg\:color.cornflower\:400,
+.bgc\:cornflower\:400,
+.bgc-cornflower-400 {
     background-color: var(--cornflower-400);
 }
 
-.bg\:cornflower-500,
-.bg.cornflower-500,
-.bg-cornflower-500,
-.bg\:cornflower\:500
-{
+.bg-color--cornflower-500,
+.bg-color.cornflower-500,
+.bg\:color\:\:cornflower-500,
+.bg\:color.cornflower\:500,
+.bgc\:cornflower\:500,
+.bgc-cornflower-500 {
     background-color: var(--cornflower-500);
 }
 
-.bg\:cornflower-600,
-.bg.cornflower-600,
-.bg-cornflower-600,
-.bg\:cornflower\:600
-{
+.bg-color--cornflower-600,
+.bg-color.cornflower-600,
+.bg\:color\:\:cornflower-600,
+.bg\:color.cornflower\:600,
+.bgc\:cornflower\:600,
+.bgc-cornflower-600 {
     background-color: var(--cornflower-600);
 }
 
-.bg\:cornflower-700,
-.bg.cornflower-700,
-.bg-cornflower-700,
-.bg\:cornflower\:700
-{
+.bg-color--cornflower-700,
+.bg-color.cornflower-700,
+.bg\:color\:\:cornflower-700,
+.bg\:color.cornflower\:700,
+.bgc\:cornflower\:700,
+.bgc-cornflower-700 {
     background-color: var(--cornflower-700);
 }
 
-.bg\:cornflower-800,
-.bg.cornflower-800,
-.bg-cornflower-800,
-.bg\:cornflower\:800
-{
+.bg-color--cornflower-800,
+.bg-color.cornflower-800,
+.bg\:color\:\:cornflower-800,
+.bg\:color.cornflower\:800,
+.bgc\:cornflower\:800,
+.bgc-cornflower-800 {
     background-color: var(--cornflower-800);
 }
 
-.bg\:cornflower-900,
-.bg.cornflower-900,
-.bg-cornflower-900,
-.bg\:cornflower\:900
-{
+.bg-color--cornflower-900,
+.bg-color.cornflower-900,
+.bg\:color\:\:cornflower-900,
+.bg\:color.cornflower\:900,
+.bgc\:cornflower\:900,
+.bgc-cornflower-900 {
     background-color: var(--cornflower-900);
 }

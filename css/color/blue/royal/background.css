@@ -1,77 +1,82 @@
-/* royals */
-
-.bg.royal\:100,
-.bg.royal-100,
-.bg-royal-100,
-.bg\:royal\:100,
-.bg\:color\:\:royal-100,
+/* royal */
 .bg-color--royal-100,
+.bg-color.royal-100,
+.bg\:color\:\:royal-100,
+.bg\:color.royal\:100,
 .bgc\:royal\:100,
 .bgc-royal-100
 {
     background-color: var(--royal-100);
 }
 
-.bg\:royal-200,
-.bg.royal-200,
-.bg-royal-200,
-.bg\:royal\:200
-{
+.bg-color--royal-200,
+.bg-color.royal-200,
+.bg\:color\:\:royal-200,
+.bg\:color.royal\:200,
+.bgc\:royal\:200,
+.bgc-royal-200 {
     background-color: var(--royal-200);
 }
 
-.bg\:royal-300,
-.bg.royal-300,
-.bg-royal-300,
-.bg\:royal\:300
-{
+.bg-color--royal-300,
+.bg-color.royal-300,
+.bg\:color\:\:royal-300,
+.bg\:color.royal\:300,
+.bgc\:royal\:300,
+.bgc-royal-300 {
     background-color: var(--royal-300);
 }
 
-.bg\:royal-400,
-.bg.royal-400,
-.bg-royal-400,
-.bg\:royal\:400
-{
+.bg-color--royal-400,
+.bg-color.royal-400,
+.bg\:color\:\:royal-400,
+.bg\:color.royal\:400,
+.bgc\:royal\:400,
+.bgc-royal-400 {
     background-color: var(--royal-400);
 }
 
-.bg\:royal-500,
-.bg.royal-500,
-.bg-royal-500,
-.bg\:royal\:500
-{
+.bg-color--royal-500,
+.bg-color.royal-500,
+.bg\:color\:\:royal-500,
+.bg\:color.royal\:500,
+.bgc\:royal\:500,
+.bgc-royal-500 {
     background-color: var(--royal-500);
 }
 
-.bg\:royal-600,
-.bg.royal-600,
-.bg-royal-600,
-.bg\:royal\:600
-{
+.bg-color--royal-600,
+.bg-color.royal-600,
+.bg\:color\:\:royal-600,
+.bg\:color.royal\:600,
+.bgc\:royal\:600,
+.bgc-royal-600 {
     background-color: var(--royal-600);
 }
 
-.bg\:royal-700,
-.bg.royal-700,
-.bg-royal-700,
-.bg\:royal\:700
-{
+.bg-color--royal-700,
+.bg-color.royal-700,
+.bg\:color\:\:royal-700,
+.bg\:color.royal\:700,
+.bgc\:royal\:700,
+.bgc-royal-700 {
     background-color: var(--royal-700);
 }
 
-.bg\:royal-800,
-.bg.royal-800,
-.bg-royal-800,
-.bg\:royal\:800
-{
+.bg-color--royal-800,
+.bg-color.royal-800,
+.bg\:color\:\:royal-800,
+.bg\:color.royal\:800,
+.bgc\:royal\:800,
+.bgc-royal-800 {
     background-color: var(--royal-800);
 }
 
-.bg\:royal-900,
-.bg.royal-900,
-.bg-royal-900,
-.bg\:royal\:900
-{
+.bg-color--royal-900,
+.bg-color.royal-900,
+.bg\:color\:\:royal-900,
+.bg\:color.royal\:900,
+.bgc\:royal\:900,
+.bgc-royal-900 {
     background-color: var(--royal-900);
 }

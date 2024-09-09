@@ -1,45 +1,97 @@
 /* Hover Styles */
-.\:hover\:\:sky-blue-100:hover {
+
+.\:hover-sky-blue-100:hover, .\:hover.sky-blue-100:hover {
+    border-color: var(--sky-blue-100);
     background-color: var(--sky-blue-100);
-    width: 100%;
 }
 
-.\:hover\:\:sky-blue-200:hover {
+.\:hover-sky-blue-200:hover, .\:hover.sky-blue-200:hover {
+    border-color: var(--sky-blue-200);
     background-color: var(--sky-blue-200);
-    width: 100%;
 }
 
-.\:hover\:\:sky-blue-300:hover {
+.\:hover-sky-blue-300:hover, .\:hover.sky-blue-300:hover {
+    border-color: var(--sky-blue-300);
     background-color: var(--sky-blue-300);
-    width: 100%;
 }
 
-.\:hover\:\:sky-blue-400:hover {
+.\:hover-sky-blue-400:hover, .\:hover.sky-blue-400:hover {
+    border-color: var(--sky-blue-400);
     background-color: var(--sky-blue-400);
-    width: 100%;
 }
 
-.\:hover\:\:sky-blue-500:hover {
+.\:hover-sky-blue-500:hover, .\:hover.sky-blue-500:hover {
+    border-color: var(--sky-blue-500);
     background-color: var(--sky-blue-500);
-    width: 100%;
 }
 
-.\:hover\:\:sky-blue-600:hover {
+.\:hover-sky-blue-600:hover, .\:hover.sky-blue-600:hover {
+    border-color: var(--sky-blue-600);
     background-color: var(--sky-blue-600);
-    width: 100%;
 }
 
-.\:hover\:\:sky-blue-700:hover {
+.\:hover-sky-blue-700:hover, .\:hover.sky-blue-700:hover {
+    border-color: var(--sky-blue-700);
     background-color: var(--sky-blue-700);
-    width: 100%;
 }
 
-.\:hover\:\:sky-blue-800:hover {
+.\:hover-sky-blue-800:hover, .\:hover.sky-blue-800:hover {
+    border-color: var(--sky-blue-800);
     background-color: var(--sky-blue-800);
-    width: 100%;
 }
 
-.\:hover\:\:sky-blue-900:hover {
+.\:hover-sky-blue-900:hover, .\:hover.sky-blue-900:hover {
+    border-color: var(--sky-blue-900);
     background-color: var(--sky-blue-900);
-    width: 100%;
+}
+
+.\:hover-sky-blue-900\[white\]:hover{
+    border-color: var(--sky-blue-900);
+    background-color: var(--sky-blue-900);
+    color:var(--white-100);
+}
+
+.\:hover-sky-blue-100\[outline\]:hover, .\:hover.sky-blue-100\[outline\]:hover {
+    color: var(--sky-blue-100);
+    border-color: var(--sky-blue-100);
+}
+
+.\:hover-sky-blue-200\[outline\]:hover, .\:hover.sky-blue-200\[outline\]:hover {
+    color: var(--sky-blue-200);
+    border-color: var(--sky-blue-200);
+}
+
+.\:hover-sky-blue-300\[outline\]:hover, .\:hover.sky-blue-300\[outline\]:hover {
+    color: var(--sky-blue-300);
+    border-color: var(--sky-blue-300);
+}
+
+.\:hover-sky-blue-400\[outline\]:hover, .\:hover.sky-blue-400\[outline\]:hover {
+    color: var(--sky-blue-400);
+    border-color: var(--sky-blue-400);
+}
+
+.\:hover-sky-blue-500\[outline\]:hover, .\:hover.sky-blue-500\[outline\]:hover {
+    color: var(--sky-blue-500);
+    border-color: var(--sky-blue-500);
+}
+
+.\:hover-sky-blue-600\[outline\]:hover, .\:hover.sky-blue-600\[outline\]:hover {
+    color: var(--sky-blue-600);
+    border-color: var(--sky-blue-600);
+}
+
+.\:hover-sky-blue-700\[outline\]:hover, .\:hover.sky-blue-700\[outline\]:hover {
+    color: var(--sky-blue-700);
+    border-color: var(--sky-blue-700);
+}
+
+.\:hover-sky-blue-800\[outline\]:hover, .\:hover.sky-blue-800\[outline\]:hover {
+    color: var(--sky-blue-800);
+    border-color: var(--sky-blue-800);
+}
+
+.\:hover-sky-blue-900\[outline\]:hover, .\:hover.sky-blue-900\[outline\]:hover {
+    color: var(--sky-blue-900);
+    border-color: var(--sky-blue-900);
 }
