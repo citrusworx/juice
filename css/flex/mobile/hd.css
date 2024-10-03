@@ -1,0 +1,4 @@
+/* High-Density Screens */
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) { 
+    /* Styles for retina and high DPI devices */
+}

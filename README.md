@@ -19,7 +19,7 @@ There's pros and cons to all naming conventions used in CSS. We believe there is
 
 ```html
 <section class="card:md">
-    <h2 class="text:xlg text:color::red-100">Heading</h2>
+    <h2 class="text:xlg text:color::red:100">Heading</h2>
     <p class="text:md caveat">
         This is some paragraph text.
     </p>
