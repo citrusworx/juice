@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>CSS Maker</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://use.typekit.net/rkc1dxu.css" async>
+    <link rel="stylesheet" async href="../../../css/juice.css" async>   
+</head>
+<body>
+    <main>
+        <section class="m:auto w:half">
+        <form
+            action=""
+            method="post"
+            class="flex col items:center justify:center gap:1 bgr:green sad-watermelon h:half ds:md"
+            id="form"
+            >
+            <h3 class="text:lg">Register With Kiwi Engine</h3>
+            <div
+                class="flex col"
+                id="name-container"
+            >
+                <label for="name">Name</label>
+                <input 
+                    type="text" 
+                    name="name" 
+                    id="name"
+                    class="w:min:15 lato"
+                >
+                <small hidden id="name-error">Error</small>
+            </div>
+            <div
+                class="flex col"
+                id="pass-container"
+            >
+                <label for="password">Password</label>
+                <input 
+                    type="password" 
+                    name="password" 
+                    id="password"
+                    class="w:min:15 lato"
+                >
+                <small hidden id="pass-error">Error</small>
+            </div>
+            <div
+                class="flex col"
+                id="confirm-pass-container"
+            >
+                <label for="confirm-password">Confirm Password</label>
+                <input 
+                    type="password" 
+                    name="confirm-password" 
+                    id="confirm-password"
+                    class="w:min:15 lato"
+                >
+                <small hidden id="confirm-pass-error">Error</small>
+            </div>
+            <div
+                class="flex col items:center w:60%"
+                id="btn-container"
+            >
+                <label for="sign-up-btn" hidden>Sign up</label>
+                <input 
+                    type="submit" 
+                    name="Sign up"
+                    title="Sign up" 
+                    id="sign-up-btn"
+                    value="Sign up"
+                    class="w:min:10 poppins"    
+                >
+                <small hidden id="success-msg" class="mt:5 korolev">Success</small>
+            </div>
+        </form>
+    </section>
+    </main>
+    <script src="./form.js"></script>
+</body>
+</html>
