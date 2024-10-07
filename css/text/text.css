@@ -1,0 +1,231 @@
+h1, h2, h3, h4, h5, h6, th {
+    font-family: "korolev-rounded", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  p, a, li[class], label, span, code, blockquote, button, td {
+    font-family: "korolev", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+
+  /* Sizing */
+.text\:xs{
+    font-size: 0.75rem;
+}
+
+.text\:sm{
+    font-size: 1rem;
+}
+
+.text\:md{
+    font-size: 1.5rem;
+}
+
+.text\:lg{
+    font-size: 2rem;
+}
+
+.text\:xlg, .text\:xlarge{
+    font-size: 2.5rem;
+}
+
+.text\:xxlg, .text\:xxlarge{
+    font-size: 3rem;
+}
+
+.text\:xxxlg, .text\:xxxlarge{
+    font-size: 5rem;
+}
+
+.text\:huge {
+    font-size: 7rem;
+}
+
+/* Rotate Text Upwards */
+.r90, .rotate\:90, .rotate-90 {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    backface-visibility: visible;
+ }
+
+ /* Base Text Styles */
+.list-none {
+    list-style: none;
+    text-decoration: none;
+}
+
+.dec\:none {
+    text-decoration: none;
+}
+
+.text-center, .text\:center {
+    text-align: center;
+}
+
+.text-left, 
+.text\:left
+{
+    text-align: left;
+}
+
+.text-right,
+.text\:right
+{
+    text-align: right;
+}
+
+.text-justify, 
+.text\:justify
+{
+    text-align: justify;
+}
+
+.text\:color\:primary {
+    color: var(--primary);
+}
+
+.text\:color\:secondary {
+    color: var(--secondary);
+}
+
+.text-light,
+.text\:light
+{
+    font-family: var(--light-font);
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.strike {
+    text-decoration: line-through;
+}
+
+.cap {
+    text-transform: capitalize;
+}
+
+.allcap {
+    text-transform: uppercase;
+}
+
+.lowercase {
+    text-transform: lowercase;
+}
+
+.text-primary,
+.text\:primary
+{
+    font-family: var(--primary-font);
+}
+
+/* 
+
+    KERNING STILES
+
+*/
+.kern\:\.1 {
+    letter-spacing: .1rem;
+}
+
+.kern\:\.2 {
+    letter-spacing: .2rem;
+}
+
+.kern\:\.3 {
+    letter-spacing: .3rem;
+}
+
+.kern\:\.4 {
+    letter-spacing: .4rem;
+}
+
+.kern\:\.5 {
+    letter-spacing: .5rem;
+}
+
+.kern\:\.6 {
+    letter-spacing: .6rem;
+}
+
+.kern\:\.7 {
+    letter-spacing: .7rem;
+}
+
+.kern\:\.8 {
+    letter-spacing: .8rem;
+}
+
+.kern\:\.9 {
+    letter-spacing: .9rem;
+}
+
+.kern\:1 {
+    letter-spacing: 1rem;
+}
+
+.kern\:2 {
+    letter-spacing: 2rem;
+}
+
+
+
+/* 
+
+    Link STYLES
+
+*/
+
+.link\:primary {
+    color: var(--orange-300);
+    text-decoration: none;
+}
+
+.link\:primary:active {
+    color: var(--orange-500);
+    text-decoration: none;
+}
+
+.link\:primary:hover {
+    color: var(--orange-700);
+    text-decoration: none;
+}
+
+.link\:primary:visited {
+    color: var(--creamsicle-200);
+    text-decoration: none;
+}
+
+.link\:light {
+    color: var(--white-200);
+    text-decoration: none;
+}
+
+.link\:light:hover {
+    color: var(--white-400);
+    text-decoration: none;
+}
+
+
+
+/* Shadow Stiles */
+
+.text\:shadow.md.light-blur {
+    text-shadow: 5px 3px 3px var(--black-200);
+}
+
+.text\:shadow.md.med-blur {
+    text-shadow: 3px 3px 2px var(--black-400);
+}

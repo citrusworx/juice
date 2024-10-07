@@ -94,21 +94,3 @@ select {
     scroll-behavior: auto !important;
   }
 }
-
-
-h1, h2, h3, h4, h5, h6, th {
-  font-family: "korolev-rounded", sans-serif;
-  font-weight: 500;
-  font-style: normal;
-}
-
-p, a, li[class], label, span, code, blockquote, button, td {
-  font-family: "korolev", sans-serif;
-  font-weight: 300;
-  font-style: normal;
-}
-
-
-
-
-

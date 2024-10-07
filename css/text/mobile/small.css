@@ -1,0 +1,39 @@
+@media screen and (max-width: 768px) {
+    .nav\:mobile {
+        font-size: .5rem;
+    }
+
+
+
+    p {
+        margin-left: 10px;
+        margin-right: 25px;
+    }
+
+    .text\:sm{
+        font-size: 0.25rem;
+    }
+    
+    .text\:md{
+        font-size: 0.5rem;
+    }
+    
+    .text\:lg{
+        font-size: 1rem;
+    }
+    
+    .text\:xlg{
+        font-size: 1.25rem;
+    }
+    
+    .text\:xxlg{
+        font-size: 1.5rem;
+    }
+
+    .text\:huge {
+        font-size: 4rem;
+    }
+
+    
+    
+    }

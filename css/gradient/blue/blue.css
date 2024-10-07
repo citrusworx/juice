@@ -9,6 +9,9 @@
     );
 }
 
-.bg\:grad\:90.slate-blue\:500 {
+.bgr\:90.slate-blue-500,
+.bgr\:90.slate\:blue\:500
+
+{
     background: var(--slate-blue-500);
 }

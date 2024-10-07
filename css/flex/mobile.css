@@ -1,13 +1,5 @@
-/* Mobile Flex */
-
-@media screen and (max-width: 1024px){
-    .tab\:fw-wrap { 
-        flex-wrap: wrap;        
-    }
-}
-
-@media(max-width: 1440px){
-    .desk\:fw-wrap { 
-        flex-wrap: wrap;        
-    }
-}
+/* Import sizes here */
+@import url('mobile/large.css');
+@import url('mobile/medium.css');
+@import url('mobile/small.css');
+@import url('mobile/smedium.css');

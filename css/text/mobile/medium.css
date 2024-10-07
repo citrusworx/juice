@@ -1,0 +1,46 @@
+@media screen and (min-width: 768px) {
+    .nav\:mobile {
+        font-size: .5rem;
+    }
+
+
+
+    p, p[class] {
+        margin-left: 20px;
+        margin-right: 25px;
+    }
+
+    .text\:sm{
+        font-size: .75rem;
+    }
+    
+    .text\:md{
+        font-size: 1rem;
+    }
+    
+    .text\:lg{
+        font-size: 2rem;
+    }
+    
+    .text\:xlg{
+        font-size: 2.5rem;
+    }
+    
+    .text\:xxlg{
+        font-size: 3rem;
+    }
+
+    .text\:xxxlg{
+        font-size: 3.5rem;
+    }
+    
+    .text\:huge {
+        font-size: 6rem;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        text-align: start;
+    }
+    
+    
+    }
