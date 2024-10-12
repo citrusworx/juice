@@ -23,6 +23,8 @@ package.json
 yarn.lock
 FUNDING.yml
 
+cli/.env
+
 # UI Related Files
 ui/php/vendor
 
