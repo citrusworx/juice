@@ -24,7 +24,7 @@ program
     .option('-f', '--fonts <file>', 'Select a font sheet for your project');
     
 const options = program.opts();
-
+AWS.config.update({logger: console});
 
 
 // This is the store of CSS files that the user will add into their project
@@ -38,11 +38,13 @@ if(options.normalize){
     // Pull the normalize.css file and put it into the /css directory of the project
     s3.getObject({
         Bucket: process.env.AWS_BUCKET,
-        Key: 'css/normalize.css',
+        Region: process.env.AWS_REGION,
+        Key: 'berillium/css/normalize.css',
     })
     .promise()
     .then(data => {
         fs.writeFileSync(path.join(__dirname, 'css', 'normalize.css'), data.Body);
+        console.log('Normalize.css has been added to your project');
     })
     .catch(err => {
         console.log(err);
@@ -54,7 +56,7 @@ if(options.css){
     //  ONLY ALLOW CSS FILES TO BE ADDED HERE
     s3.getObject({
         Bucket: process.env.AWS_BUCKET,
-        Key: `css/${options.css}`,
+        Key: `berilliumcss/css/${options.css}`,
     })
     .promise()
     .then(data => {

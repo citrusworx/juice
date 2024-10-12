@@ -1,0 +1,31 @@
+:root {
+    --ballinger: "ballinger";
+}
+
+.ballinger
+{
+    font-family: var(--ballinger);
+    font-weight: 400;
+    font-style: normal;
+}
+
+.ballinger\:italic
+{
+    font-family: var(--ballinger);
+    font-weight: 400;
+    font-style: italic;
+}
+
+.ballinger\:bold
+{
+    font-family: var(--ballinger);
+    font-weight: 700;
+    font-style: normal;
+}
+
+.ballinger\:bold-italic
+{
+    font-family: var(--ballinger);
+    font-weight: 700;
+    font-style: italic;
+}

@@ -1,3 +1,8 @@
+@import url('adobe/grange.css');
+@import url('adobe/poppins.css');
+@import url('adobe/ballinger.css');
+@import url('adobe/map-roman.css');
+
 :root {
 
     /* Fonts */
@@ -13,4 +18,10 @@
 
 .korolev-rounded, .korolev.rounded {
     font-family: var(--primary-font);
+}
+
+.korolev\:light,
+.korolev-light
+{
+    font-family: var(--light-font);
 }

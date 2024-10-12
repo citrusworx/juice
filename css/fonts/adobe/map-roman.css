@@ -1,0 +1,33 @@
+:root {
+    --map-roman: "map-roman-normal";
+    --map-roman-comp: "map-roman-compressed";
+    --map-roman-con: "map-roman-condensed";
+    --map-roman-nar: "map-roman-narrow":
+}
+
+.map-roman
+{
+    font-family: var(--map-roman);
+    font-weight: 400;
+    font-style: normal;   
+}
+
+.map-roman-comp
+{
+    font-family: var(--map-roman-comp);
+    font-weight: 400;
+    font-style: normal;
+}
+
+.map-roman-con
+{
+    font-family: var(--roman-map-con);
+    font-weight: 400;
+    font-style: normal;
+}
+
+.map-roman-nar {
+    font-family: var(--map-roman-nar);
+    font-weight: 400;
+    font-style: normal;
+}

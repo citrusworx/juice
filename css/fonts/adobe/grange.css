@@ -1,0 +1,96 @@
+:root {
+        /* Grange */
+        --grange-cond: 'grange-condensed';
+        --grange-ext: 'grange-extended';
+        --grange:     'grange';
+}
+
+/* 
+    GRANGE AND STILES
+*/
+/* Light */
+.grange-light
+{
+    font-family: var(--grange);
+    font-weight: 400;
+    font-style: normal;
+}
+
+.grange-light\:italic
+{
+    font-family: var(--grange);
+    font-weight: 400;
+    font-style: italic;
+}
+
+.grange-light\:bold
+{
+    font-family: var(--grange);
+    font-weight: 700;
+    font-style: normal;
+}
+
+.grange-light\:bold-italic
+{
+    font-family: var(--grange);
+    font-weight: 700;
+    font-style: italic;
+}
+
+/* Extended */
+.grange-extended\:light
+{
+    font-family: var(--grange-ext);
+    font-weight: 400;
+    font-style: normal;
+}
+
+.grange-extended\:light-italic
+{
+    font-family: var(--grange-ext);
+    font-weight: 400;
+    font-style: italic;
+}
+
+.grange-extended\:bold
+{
+    font-family: var(--grange-ext);
+    font-weight: 700;
+    font-style: normal;
+}
+
+.grange-extended\:bold-italic
+{
+    font-family: var(--grange-ext);
+    font-weight: 700;
+    font-style: italic;
+}
+
+/* Condensed */
+.grange-condensed
+{
+    font-family: var(--grange-cond);
+    font-weight: 400;
+    font-style: normal;
+}
+
+.grange-condensed\:italic
+{
+    font-family: var(--grange-cond);
+    font-weight: 400;
+    font-style: italic;
+}
+
+.grange-condensed\:bold
+{
+    font-family: var(--grange-cond);
+    font-weight: 700;
+    font-style: normal;
+}
+
+.grange-condensed\:bold-italic
+{
+    font-family: var(--grange-cond);
+    font-weight: 700;
+    font-style: italic;
+}
