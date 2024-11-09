@@ -1,0 +1,82 @@
+/* blue */
+.bg-color--blue-100,
+.bg-color.blue-100,
+.bg\:color\:\:blue-100,
+.bg\:color.blue\:100,
+.bgc\:blue\:100,
+.bgc-blue-100
+{
+    background-color: var(--blue-100);
+}
+
+.bg-color--blue-200,
+.bg-color.blue-200,
+.bg\:color\:\:blue-200,
+.bg\:color.blue\:200,
+.bgc\:blue\:200,
+.bgc-blue-200 {
+    background-color: var(--blue-200);
+}
+
+.bg-color--blue-300,
+.bg-color.blue-300,
+.bg\:color\:\:blue-300,
+.bg\:color.blue\:300,
+.bgc\:blue\:300,
+.bgc-blue-300 {
+    background-color: var(--blue-300);
+}
+
+.bg-color--blue-400,
+.bg-color.blue-400,
+.bg\:color\:\:blue-400,
+.bg\:color.blue\:400,
+.bgc\:blue\:400,
+.bgc-blue-400 {
+    background-color: var(--blue-400);
+}
+
+.bg-color--blue-500,
+.bg-color.blue-500,
+.bg\:color\:\:blue-500,
+.bg\:color.blue\:500,
+.bgc\:blue\:500,
+.bgc-blue-500 {
+    background-color: var(--blue-500);
+}
+
+.bg-color--blue-600,
+.bg-color.blue-600,
+.bg\:color\:\:blue-600,
+.bg\:color.blue\:600,
+.bgc\:blue\:600,
+.bgc-blue-600 {
+    background-color: var(--blue-600);
+}
+
+.bg-color--blue-700,
+.bg-color.blue-700,
+.bg\:color\:\:blue-700,
+.bg\:color.blue\:700,
+.bgc\:blue\:700,
+.bgc-blue-700 {
+    background-color: var(--blue-700);
+}
+
+.bg-color--blue-800,
+.bg-color.blue-800,
+.bg\:color\:\:blue-800,
+.bg\:color.blue\:800,
+.bgc\:blue\:800,
+.bgc-blue-800 {
+    background-color: var(--blue-800);
+}
+
+.bg-color--blue-900,
+.bg-color.blue-900,
+.bg\:color\:\:blue-900,
+.bg\:color.blue\:900,
+.bgc\:blue\:900,
+.bgc-blue-900 {
+    background-color: var(--blue-900);
+}

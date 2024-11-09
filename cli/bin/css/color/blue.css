@@ -1,0 +1,25 @@
+/* Blue Modules */
+@import url('blue/background.css');
+@import url('blue/border.css');
+@import url('blue/hover.css');
+@import url('blue/icon.css');
+@import url('blue/shadow.css');
+/* Other Shades */
+@import url('skyblue.css');
+@import url('morningblue.css');
+@import url('royalblue.css');
+@import url('cornflowerblue.css');
+    
+:root {
+    /* Blues */
+    --blue-100: hsl(210, 80%, 95%);
+    --blue-200: hsl(210, 80%, 80%);
+    --blue-300: hsl(210, 80%, 75%);
+    --blue-400: hsl(210, 80%, 60%);
+    --blue-500: hsl(210, 80%, 55%);
+    --blue-600: hsl(210, 80%, 40%);
+    --blue-700: hsl(210, 80%, 35%);
+    --blue-800: hsl(210, 80%, 25%);
+    --blue-900: hsl(210, 80%, 20%);
+
+}

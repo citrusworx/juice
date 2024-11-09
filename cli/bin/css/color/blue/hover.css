@@ -1,0 +1,97 @@
+/* Hover Styles */
+
+.\:hover-blue-100:hover, .\:hover.blue-100:hover {
+    border-color: var(--blue-100);
+    background-color: var(--blue-100);
+}
+
+.\:hover-blue-200:hover, .\:hover.blue-200:hover {
+    border-color: var(--blue-200);
+    background-color: var(--blue-200);
+}
+
+.\:hover-blue-300:hover, .\:hover.blue-300:hover {
+    border-color: var(--blue-300);
+    background-color: var(--blue-300);
+}
+
+.\:hover-blue-400:hover, .\:hover.blue-400:hover {
+    border-color: var(--blue-400);
+    background-color: var(--blue-400);
+}
+
+.\:hover-blue-500:hover, .\:hover.blue-500:hover {
+    border-color: var(--blue-500);
+    background-color: var(--blue-500);
+}
+
+.\:hover-blue-600:hover, .\:hover.blue-600:hover {
+    border-color: var(--blue-600);
+    background-color: var(--blue-600);
+}
+
+.\:hover-blue-700:hover, .\:hover.blue-700:hover {
+    border-color: var(--blue-700);
+    background-color: var(--blue-700);
+}
+
+.\:hover-blue-800:hover, .\:hover.blue-800:hover {
+    border-color: var(--blue-800);
+    background-color: var(--blue-800);
+}
+
+.\:hover-blue-900:hover, .\:hover.blue-900:hover {
+    border-color: var(--blue-900);
+    background-color: var(--blue-900);
+}
+
+.\:hover-blue-900\[white\]:hover{
+    border-color: var(--blue-900);
+    background-color: var(--blue-900);
+    color:var(--white-100);
+}
+
+.\:hover-blue-100\[outline\]:hover, .\:hover.blue-100\[outline\]:hover {
+    color: var(--blue-100);
+    border-color: var(--blue-100);
+}
+
+.\:hover-blue-200\[outline\]:hover, .\:hover.blue-200\[outline\]:hover {
+    color: var(--blue-200);
+    border-color: var(--blue-200);
+}
+
+.\:hover-blue-300\[outline\]:hover, .\:hover.blue-300\[outline\]:hover {
+    color: var(--blue-300);
+    border-color: var(--blue-300);
+}
+
+.\:hover-blue-400\[outline\]:hover, .\:hover.blue-400\[outline\]:hover {
+    color: var(--blue-400);
+    border-color: var(--blue-400);
+}
+
+.\:hover-blue-500\[outline\]:hover, .\:hover.blue-500\[outline\]:hover {
+    color: var(--blue-500);
+    border-color: var(--blue-500);
+}
+
+.\:hover-blue-600\[outline\]:hover, .\:hover.blue-600\[outline\]:hover {
+    color: var(--blue-600);
+    border-color: var(--blue-600);
+}
+
+.\:hover-blue-700\[outline\]:hover, .\:hover.blue-700\[outline\]:hover {
+    color: var(--blue-700);
+    border-color: var(--blue-700);
+}
+
+.\:hover-blue-800\[outline\]:hover, .\:hover.blue-800\[outline\]:hover {
+    color: var(--blue-800);
+    border-color: var(--blue-800);
+}
+
+.\:hover-blue-900\[outline\]:hover, .\:hover.blue-900\[outline\]:hover {
+    color: var(--blue-900);
+    border-color: var(--blue-900);
+}

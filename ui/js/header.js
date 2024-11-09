@@ -30,7 +30,11 @@ render(){
     const headerWidth = this.getAttribute('width') || '';
     const headerColor = this.getAttribute('color') || '';
 
-    this.innerHTML = `<header class="${headerDesk} mob:${headerMob} ${headerWidth} ${headerHeight} ${headerColor}"></header>`;
+    this.innerHTML = `
+    <header class="${headerDesk} mob:${headerMob} ${headerWidth} ${headerHeight} ${headerColor}">
+            <slot></slot>
+            <slot></slot>
+    </header>`;
 }
 }
 
