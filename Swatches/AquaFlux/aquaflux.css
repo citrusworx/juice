@@ -1,0 +1,24 @@
+:root {
+    --aqfx-primary: #23a3fb;
+
+    /* Analogous */
+    --aqfx-light: #23E8FA;
+    --aqfx-azure: #2360FA;
+    --aqfx-seafoam: #23FAC4;
+    --aqfx-deep: #2A23FA;
+    --aqfx-seaweed: #23FA7B;
+
+    /* Monochromatic */
+    --aqfx-slate: #4E697A;
+    --aqfx-shade: #404A50;
+    --aqfx-dark: #4096CF;
+    --aqfx-slate-light: #4E82A5;
+    --aqfx-black: #2A2F33;
+
+    /* Triad */
+    --aqfx-triad-red: #FA2523;
+    --aqfx-triad-yel: #FAFA23;
+    --aqfx-triad-gol: #A5A54E;
+    --aqfx-triad-mah: #7A4F4E;
+    --aqfx-triad-slate: #4E687A;
+}

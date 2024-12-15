@@ -3,19 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../../berillium.css">
+    <link rel="stylesheet" href="../../juice.css">
     <title>Accordion</title>
 </head>
 <body>
   
   <!-- Create the accordion here. Freehand -->
   
-  <div class="accordion:container">
+  <div class="accordion-container" id="accordion-container">
     <div>
-        <button class="accordion-button" data-target="#accordion-content-1" data-toggle="open">Question 1</button>
+        <button class="accordion-button" data-target="#accordion-content-1" data-toggle="open" id="btn">Question 1</button>
     </div>
-    <div class="accordion-item closed" id="accordion-content-1">
-        <div class="accordion-item closed">
+    <div class="accordion-item" id="accordion-content-1">
+        <div class="accordion-item closed" id="accordion-item">
             <h2>Answer</h2>
             <p>Answer to Question 1.</p>
         </div>
@@ -26,6 +26,6 @@
 
 
   <!-- Scripts go here -->
-  <script src="../../../js/berilliumCSS/accordion.js"></script>
+  <script src="../../../js/juice/accordion.js"></script>
 </body>
 </html>

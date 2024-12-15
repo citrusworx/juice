@@ -53,6 +53,7 @@ window.customElements.define('header-container', HeaderContainer);
 
 
 ```
+
 **I do see where I missed the code for a proper `slot` for nested elements within**
 
 The custom components would be used as such.

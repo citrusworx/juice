@@ -64,5 +64,5 @@ Then input the proper CSS class for each attribute.
 </fas-icon>
 
 ```
-This cuts down the long class names of regular HTML elements 
-and puts them in a more logical manner.
+
+This cuts down the long class names of regular HTML elements and puts them in a more logical manner.

@@ -2,7 +2,7 @@
 
 ## Importing External Files Following Categories
 
-The imported CSS files in BerilliumCSS are organized into three distinct categories, each serving a specific purpose. These categories are reflected in the order of imports as follows:
+The imported CSS files in Juice are organized into three distinct categories, each serving a specific purpose. These categories are reflected in the order of imports as follows:
 
 ### 1. Root Files
 
@@ -70,7 +70,7 @@ Minification offers several benefits:
 
 - **Enhanced User Experience**: Faster-loading pages provide a smoother and more enjoyable experience for your website visitors.
 
-By prepping the styles in `config.css` for minification, BerilliumCSS helps you achieve optimal performance, ensuring that your web projects are both visually appealing and fast-loading.
+By prepping the styles in `config.css` for minification, Juice helps you achieve optimal performance, ensuring that your web projects are both visually appealing and fast-loading.
 
 ---
 

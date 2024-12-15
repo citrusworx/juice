@@ -3,21 +3,18 @@
     width: 90%;
 }
 
-.accordion\:item.open {
+.accordion-item.open {
     visibility: visible;
     display: block;
-    transition: max-heoght 2s ease-in;
 
 }
 
-.accordion\:item.closed {
+.accordion-item.closed {
     visibility: hidden;
-    transition: min-height 2s ease-out;
 }
 
 
-.accordion\:container {
+.accordion-container {
     height: 50vh;
     width: 80vw;
-    border: 1px solid red;
 }

@@ -1,0 +1,97 @@
+/* Hover Styles */
+
+.\:hover-brown-100:hover, .\:hover.brown-100:hover {
+    border-color: var(--brown-100);
+    background-color: var(--brown-100);
+}
+
+.\:hover-brown-200:hover, .\:hover.brown-200:hover {
+    border-color: var(--brown-200);
+    background-color: var(--brown-200);
+}
+
+.\:hover-brown-300:hover, .\:hover.brown-300:hover {
+    border-color: var(--brown-300);
+    background-color: var(--brown-300);
+}
+
+.\:hover-brown-400:hover, .\:hover.brown-400:hover {
+    border-color: var(--brown-400);
+    background-color: var(--brown-400);
+}
+
+.\:hover-brown-500:hover, .\:hover.brown-500:hover {
+    border-color: var(--brown-500);
+    background-color: var(--brown-500);
+}
+
+.\:hover-brown-600:hover, .\:hover.brown-600:hover {
+    border-color: var(--brown-600);
+    background-color: var(--brown-600);
+}
+
+.\:hover-brown-700:hover, .\:hover.brown-700:hover {
+    border-color: var(--brown-700);
+    background-color: var(--brown-700);
+}
+
+.\:hover-brown-800:hover, .\:hover.brown-800:hover {
+    border-color: var(--brown-800);
+    background-color: var(--brown-800);
+}
+
+.\:hover-brown-900:hover, .\:hover.brown-900:hover {
+    border-color: var(--brown-900);
+    background-color: var(--brown-900);
+}
+
+.\:hover-brown-900\[white\]:hover{
+    border-color: var(--brown-900);
+    background-color: var(--brown-900);
+    color:var(--white-100);
+}
+
+.\:hover-brown-100\[outline\]:hover, .\:hover.brown-100\[outline\]:hover {
+    color: var(--brown-100);
+    border-color: var(--brown-100);
+}
+
+.\:hover-brown-200\[outline\]:hover, .\:hover.brown-200\[outline\]:hover {
+    color: var(--brown-200);
+    border-color: var(--brown-200);
+}
+
+.\:hover-brown-300\[outline\]:hover, .\:hover.brown-300\[outline\]:hover {
+    color: var(--brown-300);
+    border-color: var(--brown-300);
+}
+
+.\:hover-brown-400\[outline\]:hover, .\:hover.brown-400\[outline\]:hover {
+    color: var(--brown-400);
+    border-color: var(--brown-400);
+}
+
+.\:hover-brown-500\[outline\]:hover, .\:hover.brown-500\[outline\]:hover {
+    color: var(--brown-500);
+    border-color: var(--brown-500);
+}
+
+.\:hover-brown-600\[outline\]:hover, .\:hover.brown-600\[outline\]:hover {
+    color: var(--brown-600);
+    border-color: var(--brown-600);
+}
+
+.\:hover-brown-700\[outline\]:hover, .\:hover.brown-700\[outline\]:hover {
+    color: var(--brown-700);
+    border-color: var(--brown-700);
+}
+
+.\:hover-brown-800\[outline\]:hover, .\:hover.brown-800\[outline\]:hover {
+    color: var(--brown-800);
+    border-color: var(--brown-800);
+}
+
+.\:hover-brown-900\[outline\]:hover, .\:hover.brown-900\[outline\]:hover {
+    color: var(--brown-900);
+    border-color: var(--brown-900);
+}

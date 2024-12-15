@@ -79,3 +79,19 @@ TODO: Float
 TODO: Earthquake
 TODO: 3D Rotate
 */
+
+/* Transition Utilities */
+.t-all { transition: all 0.3s ease; }
+.t-width { transition: width 0.3s ease; }
+.t-height { transition: height 0.3s ease; }
+.t-flex { transition: flex 0.3s ease; }
+.t-bg { transition: background-color 0.3s ease; }
+
+.sm-to-md {
+    width: 15vw;
+    transition: width 1s ease;
+}
+
+.sm-to-md.expand {
+    width: 30vw
+}
